@@ -22,6 +22,8 @@ The words were imported from Eana Eltu (the existing main word database) on 2018
 
 ### Word types
 
+| Type | Description |
+|:----:|-------------|
 | `n` | noun |
 | `n:si` | *si*-verb (more precisely, noun that can be combined with `si` to make a *si*-verb) |
 | `n:pr` | proper noun |
@@ -32,7 +34,7 @@ The words were imported from Eana Eltu (the existing main word database) on 2018
 | `num` | numeral |
 | `intj` | interjection |
 | `conj` | conjunction |
-| `v:in | verb, intransitive |
+| `v:in` | verb, intransitive |
 | `v:tr` | verb, transitive |
 | `v:m` | verb, modal |
 | `v:?` | verb, unknown transitivity |
