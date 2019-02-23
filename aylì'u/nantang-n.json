@@ -1,0 +1,20 @@
+{
+    "na'vi": "nantang",
+    "translations": [
+        {
+            "de": "Natterwolf (Viperwolf, Caniferratus costatus)",
+            "en": "viperwolf Caniferratus costatus, striped armored wolf",
+            "et": "soomushunt (viperwolf)",
+            "hu": "viperafarkas Caniferratus costatus, síkos páncélos farkas (pandorai állatfaj)",
+            "nl": "slangewolf Caniferratus costatus, gestreepte gepantserde wolf",
+            "pl": "wężowilk Caniferratus costatus, prążkowany, opancerzony wilk ",
+            "ru": "змееволк Caniferratus costatus, бронированный волк",
+            "sv": "Viperwolf"
+        }
+    ],
+    "pronunciation": [
+        "nan-tang",
+        1
+    ],
+    "type": "n"
+}

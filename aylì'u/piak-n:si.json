@@ -1,0 +1,20 @@
+{
+    "na'vi": "piak",
+    "translations": [
+        {
+            "de": "öffnen, aufmachen",
+            "en": "open",
+            "et": "avama",
+            "hu": "kinyit",
+            "nl": "openen",
+            "pl": "otwierać",
+            "ru": "открывать",
+            "sv": "öppna"
+        }
+    ],
+    "pronunciation": [
+        "pi-ak",
+        2
+    ],
+    "type": "n:si"
+}

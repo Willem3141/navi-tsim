@@ -1,0 +1,21 @@
+{
+    "na'vi": "'i'a",
+    "translations": [
+        {
+            "de": "enden, beenden, abschließen",
+            "en": "end, conclude",
+            "et": "lõpetama, lõppema",
+            "hu": "befejez, lezár (a cselekvés eredményes)",
+            "nl": "beëindigen",
+            "pl": "kończyć, doprowadzać do końca",
+            "ru": "заканчивать, завершать",
+            "sv": "sluta, upphöra"
+        }
+    ],
+    "pronunciation": [
+        "'i'-a",
+        1
+    ],
+    "infixes": "'.i'.a",
+    "type": "v:in"
+}

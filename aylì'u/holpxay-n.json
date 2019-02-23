@@ -1,0 +1,20 @@
+{
+    "na'vi": "holpxay",
+    "translations": [
+        {
+            "de": "Zahl, Nummer",
+            "en": "number",
+            "et": "number",
+            "hu": "szám",
+            "nl": "hoeveelheid",
+            "pl": "liczba",
+            "ru": "число",
+            "sv": "nummer"
+        }
+    ],
+    "pronunciation": [
+        "hol-pxay",
+        2
+    ],
+    "type": "n"
+}

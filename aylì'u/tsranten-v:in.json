@@ -1,0 +1,21 @@
+{
+    "na'vi": "tsranten",
+    "translations": [
+        {
+            "de": "bedeuten, von Bedeutung sein, ausmachen",
+            "en": "matter, be of importance",
+            "et": "tähtis olema, lugema",
+            "hu": "számít, fontos",
+            "nl": "van belang zijn",
+            "pl": "liczyć się, być istotnym",
+            "ru": "иметь значение, значить, быть значимым",
+            "sv": "spela roll, vara av värde"
+        }
+    ],
+    "pronunciation": [
+        "tsran-ten",
+        1
+    ],
+    "infixes": "tsr.ant.en",
+    "type": "v:in"
+}

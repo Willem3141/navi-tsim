@@ -1,0 +1,20 @@
+{
+    "na'vi": "kem",
+    "translations": [
+        {
+            "de": "Ding (Aktion), Tat, Handlung",
+            "en": "thing (action), deed",
+            "et": "tegevus, tegu",
+            "hu": "cselekedet, tett",
+            "nl": "actie, daad",
+            "pl": "czynność, dokonanie",
+            "ru": "действие, поступок",
+            "sv": "sak, handling, dåd"
+        }
+    ],
+    "pronunciation": [
+        "kem",
+        1
+    ],
+    "type": "n"
+}

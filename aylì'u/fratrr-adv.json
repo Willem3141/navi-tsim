@@ -1,0 +1,20 @@
+{
+    "na'vi": "fratrr",
+    "translations": [
+        {
+            "de": "täglich, jeden Tag",
+            "en": "daily, every day",
+            "et": "päeviti, iga päev",
+            "hu": "naponta, minden nap",
+            "nl": "dagelijks, elke dag",
+            "pl": "codziennie, każdego dnia",
+            "ru": "ежедневно",
+            "sv": "dagligen, varje dag"
+        }
+    ],
+    "pronunciation": [
+        "fra-trr",
+        2
+    ],
+    "type": "adv"
+}

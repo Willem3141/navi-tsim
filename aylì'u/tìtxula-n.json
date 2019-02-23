@@ -1,0 +1,20 @@
+{
+    "na'vi": "tìtxula",
+    "translations": [
+        {
+            "de": "Konstuktion, Konstrukt",
+            "en": "construction, constructed thing",
+            "et": "konstrueerimine, ehitis",
+            "hu": "építmény",
+            "nl": "constructie, gebouwd ding",
+            "pl": "konstrukcja, budowla",
+            "ru": "строительство, сооружение",
+            "sv": "byggnad, konstruerad sak"
+        }
+    ],
+    "pronunciation": [
+        "tì-txu-la",
+        2
+    ],
+    "type": "n"
+}

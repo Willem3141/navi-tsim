@@ -1,0 +1,19 @@
+{
+    "na'vi": "snomo",
+    "translations": [
+        {
+            "de": "Raum (als Rückzugsmöglichkeit)",
+            "en": "private space that one can retreat to",
+            "et": "personaalne ruum",
+            "hu": "magán terület, ahova vissza lehet vonulni",
+            "nl": "persoonlijke ruimte om zich in terug te trekken",
+            "pl": "przestrzeń własna, schronienie",
+            "ru": "личное пространство"
+        }
+    ],
+    "pronunciation": [
+        "sno-mo",
+        1
+    ],
+    "type": "n"
+}

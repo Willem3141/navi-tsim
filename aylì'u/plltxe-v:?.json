@@ -1,0 +1,21 @@
+{
+    "na'vi": "plltxe",
+    "translations": [
+        {
+            "de": "sprechen, reden",
+            "en": "speak",
+            "et": "rääkima",
+            "hu": "beszél",
+            "nl": "spreken",
+            "pl": "mówić, rozmawiać",
+            "ru": "говорить, изъясняться",
+            "sv": "prata, tala"
+        }
+    ],
+    "pronunciation": [
+        "pll-txe",
+        2
+    ],
+    "infixes": "p.lltx.e",
+    "type": "v:?"
+}

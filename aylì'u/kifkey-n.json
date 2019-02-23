@@ -1,0 +1,20 @@
+{
+    "na'vi": "kifkey",
+    "translations": [
+        {
+            "de": "Welt (physisch)",
+            "en": "world (physical, solid)",
+            "et": "maailm (füüsiline, tahke)",
+            "hu": "világ (fizikai, kézzelfogható)",
+            "nl": "wereld (fysiek, solide)",
+            "pl": "świat (fizyczny)",
+            "ru": "материальный мир",
+            "sv": "värld (fysisk, solid)"
+        }
+    ],
+    "pronunciation": [
+        "ki-fkey",
+        2
+    ],
+    "type": "n"
+}

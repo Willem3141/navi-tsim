@@ -1,0 +1,21 @@
+{
+    "na'vi": "newomum",
+    "translations": [
+        {
+            "de": "neugierig sein, wissen wollen",
+            "en": "be curious, want to know",
+            "et": "huvi tundma, teada tahtma",
+            "hu": "kíváncsi(nak lenni), tudni akar",
+            "nl": "nieuwsgierig zijn, willen weten",
+            "pl": "być ciekawskim",
+            "ru": "любопытствовать, желать понять",
+            "sv": "vara nyfiken, vilja veta"
+        }
+    ],
+    "pronunciation": [
+        "new-o-mum",
+        2
+    ],
+    "infixes": "n..ewomum",
+    "type": "v:in"
+}

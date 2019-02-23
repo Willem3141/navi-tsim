@@ -1,0 +1,20 @@
+{
+    "na'vi": "lì'fyavi",
+    "translations": [
+        {
+            "de": "Ausdruck, Sprachteil",
+            "en": "expression, bit of language",
+            "et": "väljend, keele osa",
+            "hu": "kifejezés, nyelvi elem",
+            "nl": "uitdrukking, stuk taal",
+            "pl": "wyrażenie",
+            "ru": "выражение, элемент языка",
+            "sv": "uttryck, bit av språk"
+        }
+    ],
+    "pronunciation": [
+        "lì'-fya-vi",
+        1
+    ],
+    "type": "n"
+}

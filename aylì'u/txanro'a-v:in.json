@@ -1,0 +1,20 @@
+{
+    "na'vi": "txanro'a",
+    "translations": [
+        {
+            "de": "berühmt sein",
+            "en": "be famous",
+            "et": "kuulus olema",
+            "hu": "híresnek lenni",
+            "nl": "beroemd zijn",
+            "pl": "słynąć, być znanym",
+            "ru": "быть известным"
+        }
+    ],
+    "pronunciation": [
+        "txan-ro-'a",
+        2
+    ],
+    "infixes": "txanr.o'.a",
+    "type": "v:in"
+}

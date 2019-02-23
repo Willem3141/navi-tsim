@@ -1,0 +1,20 @@
+{
+    "na'vi": "sopyu",
+    "translations": [
+        {
+            "de": "Reisender",
+            "en": "traveller",
+            "et": "rändaja, reisija",
+            "hu": "utazó",
+            "nl": "reiziger",
+            "pl": "podróżnik",
+            "ru": "путешественник",
+            "sv": "resande, resenär"
+        }
+    ],
+    "pronunciation": [
+        "sop-yu",
+        1
+    ],
+    "type": "n"
+}

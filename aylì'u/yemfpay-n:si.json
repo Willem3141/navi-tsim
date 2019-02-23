@@ -1,0 +1,20 @@
+{
+    "na'vi": "yemfpay",
+    "translations": [
+        {
+            "de": "eintauchen, eintunken",
+            "en": "dip into liquid",
+            "et": "vedelikku kastma",
+            "hu": "merít (folyadékba)",
+            "nl": "onderdompelen",
+            "pl": "nużać w cieczy",
+            "ru": "окунать, погружать в жидкость",
+            "sv": "doppa i vätska"
+        }
+    ],
+    "pronunciation": [
+        "yem-fpay",
+        2
+    ],
+    "type": "n:si"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "kemlì'uvi",
+    "translations": [
+        {
+            "de": "Infix",
+            "en": "infix",
+            "et": "siseliide",
+            "hu": "infixum",
+            "nl": "tussenvoegsel",
+            "pl": "wrostek",
+            "ru": "инфикс",
+            "sv": "infix"
+        }
+    ],
+    "pronunciation": [
+        "kem-lì-'u-vi",
+        1
+    ],
+    "type": "n"
+}

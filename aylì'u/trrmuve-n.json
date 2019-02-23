@@ -1,0 +1,20 @@
+{
+    "na'vi": "trrmuve",
+    "translations": [
+        {
+            "de": "Montag",
+            "en": "Monday",
+            "et": "esmaspäev",
+            "hu": "hétfő",
+            "nl": "maandag",
+            "pl": "poniedziałek",
+            "ru": "понедельник",
+            "sv": "Måndag"
+        }
+    ],
+    "pronunciation": [
+        "trr-mu-ve",
+        2
+    ],
+    "type": "n"
+}

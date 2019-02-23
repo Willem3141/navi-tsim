@@ -1,0 +1,20 @@
+{
+    "na'vi": "tukru",
+    "translations": [
+        {
+            "de": "Speer, Spieß",
+            "en": "spear",
+            "et": "oda",
+            "hu": "lándzsa",
+            "nl": "speer",
+            "pl": "włócznia",
+            "ru": "копьё",
+            "sv": "spjut"
+        }
+    ],
+    "pronunciation": [
+        "tuk-ru",
+        2
+    ],
+    "type": "n"
+}

@@ -1,0 +1,21 @@
+{
+    "na'vi": "pängkxo",
+    "translations": [
+        {
+            "de": "(sich) unterhalten (mit), sprechen, plaudern, eine Unterhaltung haben",
+            "en": "chat, converse, have a conversation",
+            "et": "suhtlema, vestlema, juttu ajama",
+            "hu": "beszélget, társalog ",
+            "nl": "praten, een gesprek voeren",
+            "pl": "rozmawiać, gadać, gawędzić, mówić",
+            "ru": "вести беседу, разговаривать (ни с кем конкретно)",
+            "sv": "prata, konversera, ha en konversation"
+        }
+    ],
+    "pronunciation": [
+        "päng-kxo",
+        2
+    ],
+    "infixes": "p.ängkx.o",
+    "type": "v:in"
+}

@@ -1,0 +1,18 @@
+{
+    "na'vi": "zun",
+    "translations": [
+        {
+            "de": "wenn (für irreale Bedingungssätze)",
+            "en": "if (counterfactual use)",
+            "et": "kui (vastupidise olukorra puhul, võrdle txo, Näide Zun zivup tompa, zel ke tsivun oe kivä.  Kui vihma sajaks, siis ma ei saaks minna)",
+            "hu": "ha",
+            "nl": "als (contrafeitelijk gebruik)",
+            "ru": "если (в зависимости от фактов)"
+        }
+    ],
+    "pronunciation": [
+        "zun",
+        1
+    ],
+    "type": "conj"
+}

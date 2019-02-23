@@ -1,0 +1,20 @@
+{
+    "na'vi": "tsal",
+    "translations": [
+        {
+            "de": "das, es (transitives Subjekt)",
+            "en": "that, it (transitive subject)",
+            "et": "see (alus)",
+            "hu": "az (tárgyas esetben alanyként)",
+            "nl": "dat, het (overgankelijk onderwerp)",
+            "pl": "tamta (rzecz) (ergatyw)",
+            "ru": "это (агенс)",
+            "sv": "det, den (transitivt subjekt)"
+        }
+    ],
+    "pronunciation": [
+        "tsal",
+        1
+    ],
+    "type": "pn"
+}

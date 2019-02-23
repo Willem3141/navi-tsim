@@ -1,0 +1,20 @@
+{
+    "na'vi": "sevin",
+    "translations": [
+        {
+            "de": "schön, hübsch (vorrangig für weibliche Personen)",
+            "en": "pretty",
+            "et": "ilus (naiste kohta)",
+            "hu": "csinos",
+            "nl": "mooi",
+            "pl": "śliczny, ładny ",
+            "ru": "красивый, милый",
+            "sv": "vacker (främst om kvinnor, endast om folk)"
+        }
+    ],
+    "pronunciation": [
+        "se-vin",
+        2
+    ],
+    "type": "adj"
+}

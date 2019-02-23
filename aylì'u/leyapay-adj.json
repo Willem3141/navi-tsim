@@ -1,0 +1,20 @@
+{
+    "na'vi": "leyapay",
+    "translations": [
+        {
+            "de": "neblig, diesig",
+            "en": "foggy, misty",
+            "et": "udune",
+            "hu": "ködös, homályos",
+            "nl": "nevelig, mistig",
+            "pl": "mglisty",
+            "ru": "туманный",
+            "sv": "dimmigt, disig"
+        }
+    ],
+    "pronunciation": [
+        "le-ya-pay",
+        2
+    ],
+    "type": "adj"
+}

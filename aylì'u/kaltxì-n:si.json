@@ -1,0 +1,20 @@
+{
+    "na'vi": "kaltxì",
+    "translations": [
+        {
+            "de": "grüßen, Hallo sagen",
+            "en": "say hello, greet",
+            "et": "tervitama, tere ütlema",
+            "hu": "köszön(t), üdvözöl",
+            "nl": "groeten, hallo zeggen",
+            "pl": "pozdrowić, witać",
+            "ru": "поприветствовать",
+            "sv": "häsla, säga hej"
+        }
+    ],
+    "pronunciation": [
+        "kal-txì",
+        2
+    ],
+    "type": "n:si"
+}

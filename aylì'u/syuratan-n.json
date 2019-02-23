@@ -1,0 +1,19 @@
+{
+    "na'vi": "syuratan",
+    "translations": [
+        {
+            "de": "Biolumineszenz",
+            "en": "bioluminescence",
+            "et": "bioluminestsents",
+            "hu": "biolumineszcencia, fénykibocsátás",
+            "nl": "bioluminescentie",
+            "pl": "bioluminescencja",
+            "ru": "биолюминесценция"
+        }
+    ],
+    "pronunciation": [
+        "syu-ra-tan",
+        2
+    ],
+    "type": "n"
+}

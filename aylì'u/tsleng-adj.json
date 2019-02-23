@@ -1,0 +1,20 @@
+{
+    "na'vi": "tsleng",
+    "translations": [
+        {
+            "de": "falsch, fehlerhaft",
+            "en": "false",
+            "et": "vale",
+            "hu": "hibás, valótlan",
+            "nl": "vals, onwaar",
+            "pl": "fałszywy",
+            "ru": "поддельный, неверный, неправильный, ошибочный",
+            "sv": "falsk"
+        }
+    ],
+    "pronunciation": [
+        "tsleng",
+        1
+    ],
+    "type": "adj"
+}

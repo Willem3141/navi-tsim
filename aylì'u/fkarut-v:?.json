@@ -1,0 +1,21 @@
+{
+    "na'vi": "fkarut",
+    "translations": [
+        {
+            "de": "schälen, häuten",
+            "en": "peel",
+            "et": "koorima",
+            "hu": "hámoz",
+            "nl": "pellen",
+            "pl": "obierać",
+            "ru": "сдирать, соскабливать, чистить",
+            "sv": "skala"
+        }
+    ],
+    "pronunciation": [
+        "fka-rut",
+        1
+    ],
+    "infixes": "fk.ar.ut",
+    "type": "v:?"
+}

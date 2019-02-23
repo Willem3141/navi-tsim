@@ -1,0 +1,21 @@
+{
+    "na'vi": "tätxaw",
+    "translations": [
+        {
+            "de": "zurückkommen, zurückkehren, wiederkommen (intransitiv)",
+            "en": "return",
+            "et": "naasma, tagasi tulema",
+            "hu": "visszatér",
+            "nl": "terugkeren",
+            "pl": "wracać",
+            "ru": "возвращаться",
+            "sv": "återvända"
+        }
+    ],
+    "pronunciation": [
+        "tä-txaw",
+        2
+    ],
+    "infixes": "t.ätx.aw",
+    "type": "v:in"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "zam",
+    "translations": [
+        {
+            "de": "vierundsechzig",
+            "en": "sixty four",
+            "et": "kuuskümmend neli",
+            "hu": "hatvannégy, 64",
+            "nl": "vierenzestig",
+            "pl": "sześćdziesiąt cztery",
+            "ru": "шестьдесят четыре",
+            "sv": "sextiofyra"
+        }
+    ],
+    "pronunciation": [
+        "zam",
+        1
+    ],
+    "type": "num"
+}

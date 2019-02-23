@@ -1,0 +1,20 @@
+{
+    "na'vi": "säpom",
+    "translations": [
+        {
+            "de": "Kuss",
+            "en": "kiss",
+            "et": "suudlus, musi",
+            "hu": "csók",
+            "nl": "kus",
+            "pl": "pocałunek",
+            "ru": "поцелуй",
+            "sv": "kyss, puss"
+        }
+    ],
+    "pronunciation": [
+        "sä-pom",
+        2
+    ],
+    "type": "n"
+}

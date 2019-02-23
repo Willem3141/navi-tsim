@@ -1,0 +1,18 @@
+{
+    "na'vi": "tiam",
+    "translations": [
+        {
+            "de": "zählen",
+            "en": "count",
+            "et": "loendama",
+            "hu": "számol",
+            "nl": "tellen"
+        }
+    ],
+    "pronunciation": [
+        "ti-am",
+        1
+    ],
+    "infixes": "t.i.am",
+    "type": "v:tr"
+}

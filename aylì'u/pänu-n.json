@@ -1,0 +1,20 @@
+{
+    "na'vi": "pänu",
+    "translations": [
+        {
+            "de": "Versprechen",
+            "en": "promise",
+            "et": "lubadus",
+            "hu": "ígéret",
+            "nl": "belofte",
+            "pl": "obietnica",
+            "ru": "обещание",
+            "sv": "löfte"
+        }
+    ],
+    "pronunciation": [
+        "pä-nu",
+        1
+    ],
+    "type": "n"
+}

@@ -1,0 +1,18 @@
+{
+    "na'vi": "ronguway",
+    "translations": [
+        {
+            "de": "heulen",
+            "en": "howl",
+            "et": "ulguma",
+            "hu": "üvölt, vonyít",
+            "nl": "huilen"
+        }
+    ],
+    "pronunciation": [
+        "ro-ngu-way",
+        2
+    ],
+    "infixes": "r..onguway",
+    "type": "v:in"
+}

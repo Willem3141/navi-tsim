@@ -1,0 +1,21 @@
+{
+    "na'vi": "zong",
+    "translations": [
+        {
+            "de": "retten, verteidigen, sichern",
+            "en": "save, defend",
+            "et": "päästma, kaitsma",
+            "hu": "(meg)ment, véd",
+            "nl": "redden, verdedigen",
+            "pl": "bronić, ratować",
+            "ru": "сберегать, экономить",
+            "sv": "skydda, rädda"
+        }
+    ],
+    "pronunciation": [
+        "zong",
+        1
+    ],
+    "infixes": "z..ong",
+    "type": "v:tr"
+}

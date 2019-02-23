@@ -1,0 +1,20 @@
+{
+    "na'vi": "yune",
+    "translations": [
+        {
+            "de": "zuhören, hinhören, anhören",
+            "en": "listen to (intentionally)",
+            "et": "kuulama (sihilikult)",
+            "hu": "hallgat (figyel valamilyen hangra)",
+            "nl": "luisteren naar (doelbewust)",
+            "pl": "słuchać, nasłuchiwać",
+            "ru": "слушать (намеренно)"
+        }
+    ],
+    "pronunciation": [
+        "yu-ne",
+        1
+    ],
+    "infixes": "y.un.e",
+    "type": "v:tr"
+}

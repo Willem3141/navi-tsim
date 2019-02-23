@@ -1,0 +1,20 @@
+{
+    "na'vi": "tstu",
+    "translations": [
+        {
+            "de": "zu, geschlossen; wolkenverhangen, bedeckt",
+            "en": "closed, shut, overcast (for cloudy skies)",
+            "et": "kinnine, suletud; pilves (ilm)",
+            "hu": "zárt, borús (pl.: felhős ég)",
+            "nl": "gesloten, dicht  (voor bewolkte hemel)",
+            "pl": "zamknięty, osłonięty",
+            "ru": "закрытый",
+            "sv": "stängd, molnigt"
+        }
+    ],
+    "pronunciation": [
+        "tstu",
+        1
+    ],
+    "type": "adj"
+}

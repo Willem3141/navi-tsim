@@ -1,0 +1,17 @@
+{
+    "na'vi": "syokup",
+    "translations": [
+        {
+            "de": "Gewicht (physisch)",
+            "en": "weight (physical) ",
+            "et": "kaal (füüsikaline)",
+            "hu": "súly (fizikai)",
+            "nl": "gewicht (fysiek)"
+        }
+    ],
+    "pronunciation": [
+        "syo-kup",
+        2
+    ],
+    "type": "n"
+}

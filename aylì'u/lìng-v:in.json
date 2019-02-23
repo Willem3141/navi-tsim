@@ -1,0 +1,21 @@
+{
+    "na'vi": "lìng",
+    "translations": [
+        {
+            "de": "in der Luft schweben",
+            "en": "float in the air, hover",
+            "et": "(õhus) hõljuma",
+            "hu": "levegőben úszik, lebeg",
+            "nl": "zweven in de lucht",
+            "pl": "unosić się w powietrzu, dryfować",
+            "ru": "парить (в воздухе)",
+            "sv": "hänga i luften, sväva"
+        }
+    ],
+    "pronunciation": [
+        "lìng",
+        1
+    ],
+    "infixes": "l..ìng",
+    "type": "v:in"
+}

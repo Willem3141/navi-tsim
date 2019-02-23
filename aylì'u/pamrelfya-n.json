@@ -1,0 +1,20 @@
+{
+    "na'vi": "pamrelfya",
+    "translations": [
+        {
+            "de": "Schreibweise",
+            "en": "spelling",
+            "et": "õigekiri (õigesti kirjutamise viis)",
+            "hu": "betűzés (helyesírás)",
+            "nl": "spelling",
+            "pl": "pisownia",
+            "ru": "правописание",
+            "sv": "stavning"
+        }
+    ],
+    "pronunciation": [
+        "pam-rel-fya",
+        2
+    ],
+    "type": "n"
+}

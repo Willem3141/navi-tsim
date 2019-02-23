@@ -1,0 +1,20 @@
+{
+    "na'vi": "vawmpin",
+    "translations": [
+        {
+            "de": "dunkle Farbe",
+            "en": "dark color",
+            "et": "tume värv",
+            "hu": "sötét szín",
+            "nl": "donkere kleur",
+            "pl": "ciemny kolor",
+            "ru": "темный",
+            "sv": "mörk färg"
+        }
+    ],
+    "pronunciation": [
+        "vawm-pin",
+        1
+    ],
+    "type": "n"
+}

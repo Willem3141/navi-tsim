@@ -1,0 +1,20 @@
+{
+    "na'vi": "'eyt",
+    "translations": [
+        {
+            "de": "das Zeichen '8' (nicht der Wert 'acht')",
+            "en": "the symbol 8 (not the value eight)",
+            "et": "sümbol 8 (mitte väärtus)",
+            "hu": "a 8as jele (nem az értéke!) (pl. telefonszámnál használható)",
+            "nl": "het symbool 8 (niet de waarde acht)",
+            "pl": "cyfra 8 (nie wartość)",
+            "ru": "восьмерка, символ 8 (не значение числа 8)",
+            "sv": "symbolen 8 (inte värdet av åtta)"
+        }
+    ],
+    "pronunciation": [
+        "'eyt",
+        1
+    ],
+    "type": "n"
+}

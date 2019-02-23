@@ -1,0 +1,20 @@
+{
+    "na'vi": "hefi",
+    "translations": [
+        {
+            "de": "riechen (ungewollt)",
+            "en": "smell (not intentionally)",
+            "et": "tundma (lõhna, haisu)",
+            "hu": "érez (szagot!)",
+            "nl": "ruiken (niet doelbewust)",
+            "pl": "czuć (zapach)",
+            "ru": "нюхать (не намеренно)"
+        }
+    ],
+    "pronunciation": [
+        "he-fi",
+        1
+    ],
+    "infixes": "h.ef.i",
+    "type": "v:tr"
+}

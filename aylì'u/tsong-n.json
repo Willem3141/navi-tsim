@@ -1,0 +1,19 @@
+{
+    "na'vi": "tsong",
+    "translations": [
+        {
+            "de": "Tal",
+            "en": "valley",
+            "et": "org",
+            "hu": "völgy",
+            "nl": "vallei",
+            "pl": "dolina",
+            "ru": "долина"
+        }
+    ],
+    "pronunciation": [
+        "tsong",
+        1
+    ],
+    "type": "n"
+}

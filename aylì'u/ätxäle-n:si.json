@@ -1,0 +1,20 @@
+{
+    "na'vi": "ätxäle",
+    "translations": [
+        {
+            "de": "anfragen, verlangen, höflich ersuchen (mit tsnì Satz für das Objekt)",
+            "en": "request (with tsnì clause for object)",
+            "et": "nõudma, paluma (koos tsnì osalausega sihitise jaoks)",
+            "hu": "kérés (tsnì majd a tárgyi mellékmondat)",
+            "nl": "verzoeken",
+            "pl": "prosić (zdanie podrzędne przyłączone spójnikiemtsnì)",
+            "ru": "просить, мягко требовать",
+            "sv": "begära (med tsnì som klausul för objektet)"
+        }
+    ],
+    "pronunciation": [
+        "ä-txä-le",
+        2
+    ],
+    "type": "n:si"
+}

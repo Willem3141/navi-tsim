@@ -1,0 +1,20 @@
+{
+    "na'vi": "hifwo",
+    "translations": [
+        {
+            "de": "fliehen, flüchten, Flucht ergreifen, entkommen",
+            "en": "flee, escape",
+            "et": "põgenema, jalga laskma",
+            "hu": "menekül, szökik",
+            "nl": "vluchten, ontsnappen",
+            "pl": "uciec",
+            "ru": "убегать"
+        }
+    ],
+    "pronunciation": [
+        "hi-fwo",
+        1
+    ],
+    "infixes": "h.ifw.o",
+    "type": "v:in"
+}

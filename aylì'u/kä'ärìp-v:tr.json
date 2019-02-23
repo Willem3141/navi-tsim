@@ -1,0 +1,21 @@
+{
+    "na'vi": "kä'ärìp",
+    "translations": [
+        {
+            "de": "drücken, schieben, stoßen",
+            "en": "push",
+            "et": "lükkama",
+            "hu": "tol, lök, taszít",
+            "nl": "duwen",
+            "pl": "pchać",
+            "ru": "толкать",
+            "sv": "trycka"
+        }
+    ],
+    "pronunciation": [
+        "kä-'ä-rìp",
+        2
+    ],
+    "infixes": "kä'.är.ìp",
+    "type": "v:tr"
+}

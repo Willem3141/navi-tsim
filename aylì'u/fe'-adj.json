@@ -1,0 +1,20 @@
+{
+    "na'vi": "fe'",
+    "translations": [
+        {
+            "de": "schlecht",
+            "en": "bad",
+            "et": "halb, paha",
+            "hu": "rossz",
+            "nl": "slecht",
+            "pl": "zły",
+            "ru": "плохой",
+            "sv": "dålig"
+        }
+    ],
+    "pronunciation": [
+        "fe'",
+        1
+    ],
+    "type": "adj"
+}

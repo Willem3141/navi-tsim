@@ -1,0 +1,20 @@
+{
+    "na'vi": "tare",
+    "translations": [
+        {
+            "de": "verbinden, in Beziehung stehen, eine Beziehung haben",
+            "en": "connect, relate to, have a relationship with",
+            "et": "ühilduma, mõistma, seost omama",
+            "hu": "összeköt, összekapcsol, kapcsolatban van",
+            "nl": "verbinden, relateren aan, een relatie hebben met",
+            "pl": "wiązać się z, odpowiadać, odnosić się do",
+            "ru": "связывать с"
+        }
+    ],
+    "pronunciation": [
+        "ta-re",
+        1
+    ],
+    "infixes": "t.ar.e",
+    "type": "v:tr"
+}

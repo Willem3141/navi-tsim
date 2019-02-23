@@ -1,0 +1,20 @@
+{
+    "na'vi": "wok",
+    "translations": [
+        {
+            "de": "laut",
+            "en": "loud",
+            "et": "vali, häälekas",
+            "hu": "hangos",
+            "nl": "luid",
+            "pl": "głośny",
+            "ru": "громкий",
+            "sv": "högljud"
+        }
+    ],
+    "pronunciation": [
+        "wok",
+        1
+    ],
+    "type": "adj"
+}

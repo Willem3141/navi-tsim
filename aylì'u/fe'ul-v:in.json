@@ -1,0 +1,20 @@
+{
+    "na'vi": "fe'ul",
+    "translations": [
+        {
+            "de": "(sich) verschlechtern, schlechter werden",
+            "en": "worsen, get worse",
+            "et": "halvenema",
+            "hu": "rosszabbodik",
+            "nl": "verslechteren, slechter worden",
+            "pl": "pogarszać się",
+            "ru": "ухудшить"
+        }
+    ],
+    "pronunciation": [
+        "fe-'ul",
+        1
+    ],
+    "infixes": "fe'..ul",
+    "type": "v:in"
+}

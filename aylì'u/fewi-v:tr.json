@@ -1,0 +1,21 @@
+{
+    "na'vi": "fewi",
+    "translations": [
+        {
+            "de": "verfolgen, jagen",
+            "en": "chase",
+            "et": "taga ajama",
+            "hu": "üldöz, hajszol",
+            "nl": "(op)jagen",
+            "pl": "gonić",
+            "ru": "преследовать",
+            "sv": "jaga, förfölja"
+        }
+    ],
+    "pronunciation": [
+        "fe-wi",
+        1
+    ],
+    "infixes": "f.ew.i",
+    "type": "v:tr"
+}

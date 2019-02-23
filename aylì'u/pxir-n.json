@@ -1,0 +1,20 @@
+{
+    "na'vi": "pxir",
+    "translations": [
+        {
+            "de": "Bier",
+            "en": "beer",
+            "et": "õlu",
+            "hu": "sör",
+            "nl": "bier",
+            "pl": "piwo",
+            "ru": "пиво",
+            "sv": "öl"
+        }
+    ],
+    "pronunciation": [
+        "pxir",
+        1
+    ],
+    "type": "n"
+}

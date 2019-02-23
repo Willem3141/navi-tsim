@@ -1,0 +1,21 @@
+{
+    "na'vi": "fnan",
+    "translations": [
+        {
+            "de": "gut sein in etwas",
+            "en": "be good at",
+            "et": "hea olema (milleski)",
+            "hu": "jó valamiben",
+            "nl": "goed zijn in",
+            "pl": "być dobrym w czymś",
+            "ru": "пригодность для",
+            "sv": "vara bra på"
+        }
+    ],
+    "pronunciation": [
+        "fnan",
+        1
+    ],
+    "infixes": "fn..an",
+    "type": "v:tr"
+}

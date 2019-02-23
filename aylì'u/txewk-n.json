@@ -1,0 +1,20 @@
+{
+    "na'vi": "txewk",
+    "translations": [
+        {
+            "de": "Schläger, Knüppel, Keule",
+            "en": "club (weapon)",
+            "et": "kaigas",
+            "hu": "bunkósbot (fegyver)",
+            "nl": "knuppel (wapen)",
+            "pl": "pałka, maczuga",
+            "ru": "дубина (оружие)",
+            "sv": "klubba (vapen)"
+        }
+    ],
+    "pronunciation": [
+        "txewk",
+        1
+    ],
+    "type": "n"
+}

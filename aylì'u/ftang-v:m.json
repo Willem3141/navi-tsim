@@ -1,0 +1,21 @@
+{
+    "na'vi": "ftang",
+    "translations": [
+        {
+            "de": "stoppen, anhalten, aufhalten",
+            "en": "stop",
+            "et": "peatuma",
+            "hu": "befejez, abbahagy",
+            "nl": "stoppen",
+            "pl": "zaprzestać",
+            "ru": "прекращать, останавливаться",
+            "sv": "sluta"
+        }
+    ],
+    "pronunciation": [
+        "ftang",
+        1
+    ],
+    "infixes": "ft..ang",
+    "type": "v:m"
+}

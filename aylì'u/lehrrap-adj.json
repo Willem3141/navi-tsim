@@ -1,0 +1,20 @@
+{
+    "na'vi": "lehrrap",
+    "translations": [
+        {
+            "de": "gefährlich",
+            "en": "dangerous",
+            "et": "ohtlik",
+            "hu": "veszélyes",
+            "nl": "gevaarlijk",
+            "pl": "niebezpieczny",
+            "ru": "опасный",
+            "sv": "farlig"
+        }
+    ],
+    "pronunciation": [
+        "le-hrr-ap",
+        2
+    ],
+    "type": "adj"
+}

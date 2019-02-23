@@ -1,0 +1,20 @@
+{
+    "na'vi": "sngum",
+    "translations": [
+        {
+            "de": "Sorge, Besorgnis, Befürchtung",
+            "en": "worry",
+            "et": "mure",
+            "hu": "aggodalom",
+            "nl": "zorg",
+            "pl": "obawa, niepokój",
+            "ru": "беспокойство",
+            "sv": "oro"
+        }
+    ],
+    "pronunciation": [
+        "sngum",
+        1
+    ],
+    "type": "n"
+}

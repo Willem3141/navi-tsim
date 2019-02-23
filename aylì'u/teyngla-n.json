@@ -1,0 +1,20 @@
+{
+    "na'vi": "teyngla",
+    "translations": [
+        {
+            "de": "dass (indirekte FrageKonstruktion im Agens)",
+            "en": "that answer (agentive)",
+            "et": "vastus, mis (aluse kääne)",
+            "hu": "az a válasz (jelölt alany)",
+            "nl": "dat antwoord (agentief)",
+            "pl": "odpowiedź, która (forma ergatywu)",
+            "ru": "этот ответ (эргатив)",
+            "sv": "svar som (subjekt)"
+        }
+    ],
+    "pronunciation": [
+        "teyng-la",
+        1
+    ],
+    "type": "n"
+}

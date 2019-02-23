@@ -1,0 +1,19 @@
+{
+    "na'vi": "flawkx",
+    "translations": [
+        {
+            "de": "Leder",
+            "en": "leather",
+            "et": "nahk (esemetel)",
+            "hu": "bőr (anyag)",
+            "nl": "leer, leder",
+            "pl": "skóra (wyprawiona)",
+            "ru": "кожа"
+        }
+    ],
+    "pronunciation": [
+        "flawkx",
+        1
+    ],
+    "type": "n"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "kxa",
+    "translations": [
+        {
+            "de": "Mund",
+            "en": "mouth",
+            "et": "suu",
+            "hu": "száj",
+            "nl": "mond",
+            "pl": "usta",
+            "ru": "рот",
+            "sv": "mun"
+        }
+    ],
+    "pronunciation": [
+        "kxa",
+        1
+    ],
+    "type": "n"
+}

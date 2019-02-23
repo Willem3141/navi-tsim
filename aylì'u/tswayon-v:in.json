@@ -1,0 +1,21 @@
+{
+    "na'vi": "tswayon",
+    "translations": [
+        {
+            "de": "fliegen",
+            "en": "fly",
+            "et": "lendama",
+            "hu": "repül",
+            "nl": "vliegen",
+            "pl": "lecieć",
+            "ru": "лететь",
+            "sv": "flyga"
+        }
+    ],
+    "pronunciation": [
+        "tsway-on",
+        1
+    ],
+    "infixes": "tsw.ay.on",
+    "type": "v:in"
+}

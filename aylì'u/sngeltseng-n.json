@@ -1,0 +1,20 @@
+{
+    "na'vi": "sngeltseng",
+    "translations": [
+        {
+            "de": "Müllhalde, Abfallplatz",
+            "en": "rubbish place, garbage dump",
+            "et": "prügila",
+            "hu": "szemétdomb",
+            "nl": "vuilnisbelt, afvalhoop",
+            "pl": "śmietnisko, wysypsko smieci",
+            "ru": "свалка для мусора, место для выброса отходов",
+            "sv": "skräpställe, sopptipp"
+        }
+    ],
+    "pronunciation": [
+        "sngel-tseng",
+        1
+    ],
+    "type": "n"
+}

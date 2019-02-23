@@ -1,0 +1,20 @@
+{
+    "na'vi": "lemrey",
+    "translations": [
+        {
+            "de": "überlebend, überlebt",
+            "en": "surviving (e.g. of entities from a group some of whom have died)",
+            "et": "ellujäänud (nt. mingist grupist ellujäänud inimesed)",
+            "hu": "túlélő (pl. olyan csoport tagjai, akik közül meghalt néhány)",
+            "nl": "overlevende (b.v. leden van een groep waarvan enkele zijn gestorven)",
+            "pl": "ocalały (np.: pojedyncze jednostki z grupy, w której kilku zginęło)",
+            "ru": "выживший",
+            "sv": "överlevande"
+        }
+    ],
+    "pronunciation": [
+        "lem-rey",
+        2
+    ],
+    "type": "adj"
+}

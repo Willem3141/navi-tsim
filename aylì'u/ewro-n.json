@@ -1,0 +1,18 @@
+{
+    "na'vi": "ewro",
+    "translations": [
+        {
+            "de": "Euro (Währung)",
+            "en": "euro",
+            "et": "euro",
+            "hu": "Euro",
+            "nl": "euro",
+            "ru": "евро"
+        }
+    ],
+    "pronunciation": [
+        "ew-ro",
+        1
+    ],
+    "type": "n"
+}

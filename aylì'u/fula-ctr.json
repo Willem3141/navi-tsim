@@ -1,0 +1,20 @@
+{
+    "na'vi": "fula",
+    "translations": [
+        {
+            "de": "das, diese Sache, dass (RelativsatzEinleiter)",
+            "en": "that",
+            "et": "see, mis",
+            "hu": "azt, hogy (alárendelt tagmondatot jelez)",
+            "nl": "dat",
+            "pl": "który (forma ergatywu)",
+            "ru": "что",
+            "sv": "den, det, som (klausul bisatsmarkör)"
+        }
+    ],
+    "pronunciation": [
+        "fu-la",
+        1
+    ],
+    "type": "ctr"
+}

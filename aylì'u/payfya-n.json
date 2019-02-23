@@ -1,0 +1,20 @@
+{
+    "na'vi": "payfya",
+    "translations": [
+        {
+            "de": "Strom, Fluss",
+            "en": "stream",
+            "et": "oja",
+            "hu": "folyam, patak, vízfolyás",
+            "nl": "stroom",
+            "pl": "strumień",
+            "ru": "поток",
+            "sv": "ström (i vatten)"
+        }
+    ],
+    "pronunciation": [
+        "pay-fya",
+        1
+    ],
+    "type": "n"
+}

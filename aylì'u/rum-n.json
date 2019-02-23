@@ -1,0 +1,20 @@
+{
+    "na'vi": "rum",
+    "translations": [
+        {
+            "de": "Ball, Kugel",
+            "en": "ball",
+            "et": "pall",
+            "hu": "labda",
+            "nl": "bal",
+            "pl": "piłka",
+            "ru": "шар",
+            "sv": "boll"
+        }
+    ],
+    "pronunciation": [
+        "rum",
+        1
+    ],
+    "type": "n"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "tìwusem",
+    "translations": [
+        {
+            "de": "das Kämpfen",
+            "en": "fighting",
+            "et": "võitlemine",
+            "hu": "küzdelem",
+            "nl": "vechten",
+            "pl": "walka",
+            "ru": "борьба (абстрактно)",
+            "sv": "kamp"
+        }
+    ],
+    "pronunciation": [
+        "tì-wu-sem",
+        3
+    ],
+    "type": "n"
+}

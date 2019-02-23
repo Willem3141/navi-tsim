@@ -1,0 +1,20 @@
+{
+    "na'vi": "tìspxin",
+    "translations": [
+        {
+            "de": "Kranksein, Zustand des Krankseins",
+            "en": "the state of being ill, sickness",
+            "et": "haigus, haigeolek",
+            "hu": "betegségi állapot",
+            "nl": "ziek zijn, een ziekte hebben",
+            "pl": "choroba, bycie chorym",
+            "ru": "болезнь (как состояние)",
+            "sv": "sjukdom, tillståndet att vara sjuk"
+        }
+    ],
+    "pronunciation": [
+        "tì-spxin",
+        2
+    ],
+    "type": "n"
+}

@@ -1,0 +1,19 @@
+{
+    "na'vi": "hangvur",
+    "translations": [
+        {
+            "de": "Witz, lustige Geschichte",
+            "en": "joke, funny story",
+            "et": "nali, naljajutt, andekdoot",
+            "hu": "vicc, mulatságos történet",
+            "nl": "grapje, leuk verhaal",
+            "pl": "żart, dowcip, zabawna historia",
+            "ru": "анекдот"
+        }
+    ],
+    "pronunciation": [
+        "hang-vur",
+        1
+    ],
+    "type": "n"
+}

@@ -1,0 +1,21 @@
+{
+    "na'vi": "tem",
+    "translations": [
+        {
+            "de": "schießen (intransitiv)",
+            "en": "shoot",
+            "et": "laskma",
+            "hu": "lő",
+            "nl": "schieten",
+            "pl": "strzelać",
+            "ru": "стрелять",
+            "sv": "skjuta"
+        }
+    ],
+    "pronunciation": [
+        "tem",
+        1
+    ],
+    "infixes": "t..em",
+    "type": "v:in"
+}

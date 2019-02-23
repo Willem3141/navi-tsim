@@ -1,0 +1,21 @@
+{
+    "na'vi": "'em",
+    "translations": [
+        {
+            "de": "kochen",
+            "en": "cook",
+            "et": "kokkama, küpsetama, süüa valmistama",
+            "hu": "főz",
+            "nl": "koken",
+            "pl": "gotować",
+            "ru": "готовить еду",
+            "sv": "laga (mat)"
+        }
+    ],
+    "pronunciation": [
+        "'em",
+        1
+    ],
+    "infixes": "'..em",
+    "type": "v:tr"
+}

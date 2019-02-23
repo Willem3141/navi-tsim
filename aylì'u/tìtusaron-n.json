@@ -1,0 +1,20 @@
+{
+    "na'vi": "tìtusaron",
+    "translations": [
+        {
+            "de": "das Jagen",
+            "en": "hunting",
+            "et": "jahtimine",
+            "hu": "vadászás",
+            "nl": "jagen",
+            "pl": "myślistwo",
+            "ru": "охота (как процесс)",
+            "sv": "jakt"
+        }
+    ],
+    "pronunciation": [
+        "tì-tu-sa-ron",
+        3
+    ],
+    "type": "n"
+}

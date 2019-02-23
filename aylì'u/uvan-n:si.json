@@ -1,0 +1,20 @@
+{
+    "na'vi": "uvan",
+    "translations": [
+        {
+            "de": "spielen (ein Spiel)",
+            "en": "play (a game)",
+            "et": "mängima (mängu)",
+            "hu": "játszik",
+            "nl": "spelen",
+            "pl": "grać (w grę)",
+            "ru": "играть",
+            "sv": "spela (ett spel)"
+        }
+    ],
+    "pronunciation": [
+        "u-van",
+        2
+    ],
+    "type": "n:si"
+}

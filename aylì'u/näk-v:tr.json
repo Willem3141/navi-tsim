@@ -1,0 +1,21 @@
+{
+    "na'vi": "näk",
+    "translations": [
+        {
+            "de": "trinken",
+            "en": "drink",
+            "et": "jooma",
+            "hu": "iszik",
+            "nl": "drinken",
+            "pl": "pić",
+            "ru": "пить",
+            "sv": "dricka"
+        }
+    ],
+    "pronunciation": [
+        "näk",
+        1
+    ],
+    "infixes": "n..äk",
+    "type": "v:tr"
+}

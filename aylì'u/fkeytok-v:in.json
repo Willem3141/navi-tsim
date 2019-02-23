@@ -1,0 +1,21 @@
+{
+    "na'vi": "fkeytok",
+    "translations": [
+        {
+            "de": "existieren",
+            "en": "exist",
+            "et": "olema, eksisteerima",
+            "hu": "létezik",
+            "nl": "bestaan",
+            "pl": "istnieć",
+            "ru": "существовать",
+            "sv": "existera "
+        }
+    ],
+    "pronunciation": [
+        "fkey-tok",
+        1
+    ],
+    "infixes": "fkeyt..ok",
+    "type": "v:in"
+}

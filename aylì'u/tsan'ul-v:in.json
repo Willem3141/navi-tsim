@@ -1,0 +1,20 @@
+{
+    "na'vi": "tsan'ul",
+    "translations": [
+        {
+            "de": "(sich) verbessern, besser werden",
+            "en": "improve, get better",
+            "et": "paranema",
+            "hu": "javul, jobb lesz",
+            "nl": "verbeteren, beter worden",
+            "pl": "polepszać się",
+            "ru": "улучшить"
+        }
+    ],
+    "pronunciation": [
+        "tsan-'ul",
+        1
+    ],
+    "infixes": "tsan'..ul",
+    "type": "v:in"
+}

@@ -1,0 +1,21 @@
+{
+    "na'vi": "ftxey",
+    "translations": [
+        {
+            "de": "wählen, aussuchen, auswählen",
+            "en": "choose",
+            "et": "valima, valikut tegema",
+            "hu": "választ",
+            "nl": "kiezen",
+            "pl": "wybierać",
+            "ru": "выбирать",
+            "sv": "välja"
+        }
+    ],
+    "pronunciation": [
+        "ftxey",
+        1
+    ],
+    "infixes": "ftx..ey",
+    "type": "v:tr"
+}

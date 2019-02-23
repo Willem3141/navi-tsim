@@ -1,0 +1,21 @@
+{
+    "na'vi": "wo",
+    "translations": [
+        {
+            "de": "greifen nach, erreichen wollen",
+            "en": "reach for",
+            "et": "upitama, ulatuma",
+            "hu": "nyúl (valamiért)",
+            "nl": "reiken naar",
+            "pl": "sięgać (po coś)",
+            "ru": "достигнуть",
+            "sv": "sträcka sig efter"
+        }
+    ],
+    "pronunciation": [
+        "wo",
+        1
+    ],
+    "infixes": "w..o",
+    "type": "v:tr"
+}

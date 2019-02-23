@@ -1,0 +1,20 @@
+{
+    "na'vi": "Toitslan",
+    "translations": [
+        {
+            "de": "Deutschland",
+            "en": "Germany",
+            "et": "Saksamaa",
+            "hu": "Németország",
+            "nl": "Duitsland",
+            "pl": "Niemcy",
+            "ru": "Германия",
+            "sv": "Tyskland"
+        }
+    ],
+    "pronunciation": [
+        "To-i-tslan",
+        1
+    ],
+    "type": "n:pr"
+}

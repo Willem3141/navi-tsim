@@ -1,0 +1,21 @@
+{
+    "na'vi": "niä",
+    "translations": [
+        {
+            "de": "greifen, fassen, packen",
+            "en": "grab",
+            "et": "haarama, krahmama",
+            "hu": "megfog, megragad",
+            "nl": "grijpen",
+            "pl": "chwytać",
+            "ru": "брать, хватать",
+            "sv": "greppa tag, ta tag"
+        }
+    ],
+    "pronunciation": [
+        "ni-ä",
+        2
+    ],
+    "infixes": "n.i.ä",
+    "type": "v:tr"
+}

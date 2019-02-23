@@ -1,0 +1,19 @@
+{
+    "na'vi": "tìfmi",
+    "translations": [
+        {
+            "de": "Versuch",
+            "en": "attempt",
+            "et": "katsetus, proov",
+            "hu": "próba, kíséllet",
+            "nl": "poging",
+            "pl": "próba",
+            "ru": "попытка"
+        }
+    ],
+    "pronunciation": [
+        "tì-fmi",
+        2
+    ],
+    "type": "n"
+}

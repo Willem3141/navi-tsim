@@ -1,0 +1,21 @@
+{
+    "na'vi": "spe'e",
+    "translations": [
+        {
+            "de": "fangen, einfangen",
+            "en": "capture",
+            "et": "vangistama, tabama",
+            "hu": "elfog, foglyul ejt",
+            "nl": "vangen",
+            "pl": "złapać, pojmać",
+            "ru": "захватывать, завладевать",
+            "sv": "fånga"
+        }
+    ],
+    "pronunciation": [
+        "spe-'e",
+        2
+    ],
+    "infixes": "sp.e'.e",
+    "type": "v:tr"
+}

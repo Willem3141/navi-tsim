@@ -1,0 +1,20 @@
+{
+    "na'vi": "tumpin",
+    "translations": [
+        {
+            "de": "Rot, Orange",
+            "en": "red, orange",
+            "et": "punane, oranž",
+            "hu": "piros / narancs szín",
+            "nl": "rood, oranje",
+            "pl": "czerwień, pomarańcz",
+            "ru": "красный, оранжевый",
+            "sv": "röd, orange"
+        }
+    ],
+    "pronunciation": [
+        "tum-pin",
+        1
+    ],
+    "type": "n"
+}

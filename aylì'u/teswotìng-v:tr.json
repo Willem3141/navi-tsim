@@ -1,0 +1,21 @@
+{
+    "na'vi": "teswotìng",
+    "translations": [
+        {
+            "de": "gewähren, zugestehen, gestatten, genehmigen (ii)",
+            "en": "grant (ii)",
+            "et": "rahuldama (soovi), (lahkelt) andma (e)",
+            "hu": "engedélyez",
+            "nl": "gunnen",
+            "pl": "udzielić (ii)",
+            "ru": "дарить, даровать, предоставлять",
+            "sv": "tillåta, bevilja"
+        }
+    ],
+    "pronunciation": [
+        "te-swo-tìng",
+        2
+    ],
+    "infixes": "teswot..ìng",
+    "type": "v:tr"
+}

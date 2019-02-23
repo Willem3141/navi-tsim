@@ -1,0 +1,20 @@
+{
+    "na'vi": "'awm",
+    "translations": [
+        {
+            "de": "Lager",
+            "en": "camp",
+            "et": "laager",
+            "hu": "tábor",
+            "nl": "kamp",
+            "pl": "obóz",
+            "ru": "лагерь",
+            "sv": "läger"
+        }
+    ],
+    "pronunciation": [
+        "'awm",
+        1
+    ],
+    "type": "n"
+}

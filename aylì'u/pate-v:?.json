@@ -1,0 +1,21 @@
+{
+    "na'vi": "pate",
+    "translations": [
+        {
+            "de": "ankommen, zu einem Ort gelangen",
+            "en": "get to a place, arrive",
+            "et": "kohale saabuma",
+            "hu": "megérkezik, eljut/elér valahová",
+            "nl": "aankomen (op een plaats), arriveren",
+            "pl": "przybyć, dotrzeć na miejsce",
+            "ru": "приходить, добираться до места",
+            "sv": "komma till en plats, anlända"
+        }
+    ],
+    "pronunciation": [
+        "pa-te",
+        1
+    ],
+    "infixes": "p.at.e",
+    "type": "v:?"
+}

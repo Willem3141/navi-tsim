@@ -1,0 +1,20 @@
+{
+    "na'vi": "'en",
+    "translations": [
+        {
+            "de": "begründete Vermutung, Intuition",
+            "en": "guess, informed guess, hunch, intuition",
+            "et": "aimdus, tunnetus",
+            "hu": "tipp, találgatás, gyanú, megérzés",
+            "nl": "gok, voorgevoel, intuitie",
+            "pl": "domysł, przypuszczenie, intuicja, wyczucie",
+            "ru": "догадка?, интуиция",
+            "sv": "gissning, intuition, känsla, magkänsla"
+        }
+    ],
+    "pronunciation": [
+        "'en",
+        1
+    ],
+    "type": "n"
+}

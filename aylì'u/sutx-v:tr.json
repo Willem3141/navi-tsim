@@ -1,0 +1,21 @@
+{
+    "na'vi": "sutx",
+    "translations": [
+        {
+            "de": "verfolgen, folgen, im Visier haben",
+            "en": "track, follow",
+            "et": "järgnema",
+            "hu": "nyomon követ",
+            "nl": "opsporen, volgen",
+            "pl": "śledzić, podążać za",
+            "ru": "загнать в западню",
+            "sv": "följa, spåra"
+        }
+    ],
+    "pronunciation": [
+        "sutx",
+        1
+    ],
+    "infixes": "s..utx",
+    "type": "v:tr"
+}

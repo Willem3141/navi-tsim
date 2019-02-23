@@ -1,0 +1,20 @@
+{
+    "na'vi": "kintrray",
+    "translations": [
+        {
+            "de": "nächste Woche",
+            "en": "next week",
+            "et": "järgmine nädal",
+            "hu": "a jövő (következő) hét",
+            "nl": "volgende week",
+            "pl": "następny tydzień",
+            "ru": "следующая неделя",
+            "sv": "nästa vecka"
+        }
+    ],
+    "pronunciation": [
+        "kin-trr-ay",
+        1
+    ],
+    "type": "n"
+}

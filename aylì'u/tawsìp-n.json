@@ -1,0 +1,20 @@
+{
+    "na'vi": "tawsìp",
+    "translations": [
+        {
+            "de": "Himmelsschiff",
+            "en": "skyship",
+            "et": "taevalaev",
+            "hu": "éghajó",
+            "nl": "luchtschip",
+            "pl": "statek powietrzny",
+            "ru": "воздушное судно",
+            "sv": "himmelsskepp"
+        }
+    ],
+    "pronunciation": [
+        "taw-sìp",
+        1
+    ],
+    "type": "n"
+}

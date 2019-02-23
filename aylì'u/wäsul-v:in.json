@@ -1,0 +1,20 @@
+{
+    "na'vi": "wäsul",
+    "translations": [
+        {
+            "de": "konkurrieren, sich messen, wetteifern, wettstreiten",
+            "en": "compete",
+            "et": "võistlema",
+            "hu": "versenyez",
+            "nl": "wedijveren, deelnemen aan wedstrijd",
+            "pl": "rywalzowac, współzawodniczyć",
+            "ru": "состязаться"
+        }
+    ],
+    "pronunciation": [
+        "wä-sul",
+        1
+    ],
+    "infixes": "wäs..ul",
+    "type": "v:in"
+}

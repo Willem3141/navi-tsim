@@ -1,0 +1,20 @@
+{
+    "na'vi": "taronyu",
+    "translations": [
+        {
+            "de": "Jäger",
+            "en": "hunter",
+            "et": "kütt",
+            "hu": "vadász",
+            "nl": "jager",
+            "pl": "łowca",
+            "ru": "охотник",
+            "sv": "jägare"
+        }
+    ],
+    "pronunciation": [
+        "ta-ron-yu",
+        1
+    ],
+    "type": "n"
+}

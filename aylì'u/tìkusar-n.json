@@ -1,0 +1,20 @@
+{
+    "na'vi": "tìkusar",
+    "translations": [
+        {
+            "de": "das Lehren (Vorgang)",
+            "en": "teaching (the act)",
+            "et": "õpetamine",
+            "hu": "tanítás (cselekvés)",
+            "nl": "onderwijzen (het onderwijs)",
+            "pl": "nauczanie, dydaktyka",
+            "ru": "учение (процесс)",
+            "sv": "lärande (handlingen)"
+        }
+    ],
+    "pronunciation": [
+        "tì-ku-sar",
+        3
+    ],
+    "type": "n"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "vul",
+    "translations": [
+        {
+            "de": "Ast, Zweig (eines Baumes)",
+            "en": "branch (of a tree)",
+            "et": "(puu)haru",
+            "hu": "faág",
+            "nl": "tak (van een boom)",
+            "pl": "gałąź (drzewa)",
+            "ru": "ветка, ветвь",
+            "sv": "gren (av ett träd)"
+        }
+    ],
+    "pronunciation": [
+        "vul",
+        1
+    ],
+    "type": "n"
+}

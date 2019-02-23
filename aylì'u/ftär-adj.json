@@ -1,0 +1,20 @@
+{
+    "na'vi": "ftär",
+    "translations": [
+        {
+            "de": "links (nicht rechts)",
+            "en": "left (not right)",
+            "et": "vasak (mitte parem)",
+            "hu": "bal (bal oldali)",
+            "nl": "links (niet rechts)",
+            "pl": "lewy (nie prawy)",
+            "ru": "левый (о стороне, направлении и т.п.)",
+            "sv": "vänster"
+        }
+    ],
+    "pronunciation": [
+        "ftär",
+        1
+    ],
+    "type": "adj"
+}

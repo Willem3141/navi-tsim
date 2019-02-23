@@ -1,0 +1,21 @@
+{
+    "na'vi": "'ìn",
+    "translations": [
+        {
+            "de": "beschäftigt sein",
+            "en": "be busy, be occupied",
+            "et": "hõivatud olema",
+            "hu": "elfoglalt, tevékeny",
+            "nl": "bezig zijn, druk zijn",
+            "pl": "być zajętym",
+            "ru": "иметь занятие",
+            "sv": "vara upptagen, vara sysselsatt"
+        }
+    ],
+    "pronunciation": [
+        "'ìn",
+        1
+    ],
+    "infixes": "'..ìn",
+    "type": "v:in"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "yafkeyk",
+    "translations": [
+        {
+            "de": "Wetter",
+            "en": "weather",
+            "et": "ilm",
+            "hu": "időjárás",
+            "nl": "weer",
+            "pl": "pogoda",
+            "ru": "погода",
+            "sv": "väder"
+        }
+    ],
+    "pronunciation": [
+        "ya-fkeyk",
+        1
+    ],
+    "type": "n"
+}

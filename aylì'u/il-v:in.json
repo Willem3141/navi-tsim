@@ -1,0 +1,20 @@
+{
+    "na'vi": "il",
+    "translations": [
+        {
+            "de": "biegen, beugen, neigen",
+            "en": "bend",
+            "et": "painduma",
+            "hu": "hajlik",
+            "nl": "buigen",
+            "pl": "zginać",
+            "ru": "изгиб"
+        }
+    ],
+    "pronunciation": [
+        "il",
+        1
+    ],
+    "infixes": "i..l",
+    "type": "v:in"
+}

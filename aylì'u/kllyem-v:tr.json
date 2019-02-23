@@ -1,0 +1,20 @@
+{
+    "na'vi": "kllyem",
+    "translations": [
+        {
+            "de": "vergraben, beerdigen",
+            "en": "bury",
+            "et": "matma",
+            "hu": "temet",
+            "nl": "begraven",
+            "pl": "grzebać (kogoś)",
+            "ru": "хоронить, закапывать"
+        }
+    ],
+    "pronunciation": [
+        "kll-yem",
+        2
+    ],
+    "infixes": "klly..em",
+    "type": "v:tr"
+}

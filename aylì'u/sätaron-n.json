@@ -1,0 +1,19 @@
+{
+    "na'vi": "sätaron",
+    "translations": [
+        {
+            "de": "Jagd (konrektes Ereignis)",
+            "en": "hunt",
+            "et": "jaht (nt. sinihirvejaht)",
+            "hu": "vadászat (egy konkrét esemény)",
+            "nl": "jacht",
+            "pl": "polowanie, łowy",
+            "ru": "охота (мероприятие)"
+        }
+    ],
+    "pronunciation": [
+        "sä-ta-ron",
+        2
+    ],
+    "type": "n"
+}

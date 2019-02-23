@@ -1,0 +1,20 @@
+{
+    "na'vi": "kehe",
+    "translations": [
+        {
+            "de": "nein",
+            "en": "no",
+            "et": "ei",
+            "hu": "nem (tagadás)",
+            "nl": "nee",
+            "pl": "nie",
+            "ru": "нет",
+            "sv": "nej"
+        }
+    ],
+    "pronunciation": [
+        "ke-he",
+        1
+    ],
+    "type": "part"
+}

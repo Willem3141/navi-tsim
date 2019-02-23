@@ -1,0 +1,20 @@
+{
+    "na'vi": "a",
+    "translations": [
+        {
+            "de": "das/der/die, welche/r/s (Relativpronomen)",
+            "en": "clause  level attributive marker",
+            "et": "see, kes/mis; osalause m",
+            "hu": "aki, amely(ik) (határozói mellékmondat kötőszava)",
+            "nl": "bepaling attributieve markeerder",
+            "pl": "który, ten",
+            "ru": "который (в аттрибутивной конструкции связывает определяемое с определяемым)",
+            "sv": "som, vilken"
+        }
+    ],
+    "pronunciation": [
+        "a",
+        1
+    ],
+    "type": "part"
+}

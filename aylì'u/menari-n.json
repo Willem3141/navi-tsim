@@ -1,0 +1,20 @@
+{
+    "na'vi": "menari",
+    "translations": [
+        {
+            "de": "Augen (zwei)",
+            "en": "eyes (two)",
+            "et": "silmad (kaks)",
+            "hu": "két szem",
+            "nl": "ogen (twee)",
+            "pl": "oczy (para)",
+            "ru": "глаза",
+            "sv": "ögon (två)"
+        }
+    ],
+    "pronunciation": [
+        "me-na-ri",
+        2
+    ],
+    "type": "n"
+}

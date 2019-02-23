@@ -1,0 +1,21 @@
+{
+    "na'vi": "tìng",
+    "translations": [
+        {
+            "de": "geben",
+            "en": "give",
+            "et": "andma",
+            "hu": "ad",
+            "nl": "geven",
+            "pl": "dać",
+            "ru": "давать",
+            "sv": "ge"
+        }
+    ],
+    "pronunciation": [
+        "tìng",
+        1
+    ],
+    "infixes": "t..ìng",
+    "type": "v:tr"
+}

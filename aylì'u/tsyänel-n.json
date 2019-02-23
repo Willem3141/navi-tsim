@@ -1,0 +1,20 @@
+{
+    "na'vi": "tsyänel",
+    "translations": [
+        {
+            "de": "Fernseh/Radiosender",
+            "en": "TV channel",
+            "et": "telekanal",
+            "hu": "TV csatorna",
+            "nl": "tv kanaal",
+            "pl": "kanał telewizyjny",
+            "ru": "телеканал",
+            "sv": "TVkanal"
+        }
+    ],
+    "pronunciation": [
+        "tsyä-nel",
+        1
+    ],
+    "type": "n"
+}

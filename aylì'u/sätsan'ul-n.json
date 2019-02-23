@@ -1,0 +1,19 @@
+{
+    "na'vi": "sätsan'ul",
+    "translations": [
+        {
+            "de": "Verbesserung (konkreter Fall)",
+            "en": "improvement (specific instance)",
+            "et": "paranemine (kindlal juhtumil)",
+            "hu": "javulás (konkrét esetben)",
+            "nl": "verbetering",
+            "pl": "poprawa (konkretna zmiana stanu)",
+            "ru": "улучшение (конкретное)"
+        }
+    ],
+    "pronunciation": [
+        "sä-tsan-'ul",
+        2
+    ],
+    "type": "n"
+}

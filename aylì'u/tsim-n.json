@@ -1,0 +1,20 @@
+{
+    "na'vi": "tsim",
+    "translations": [
+        {
+            "de": "Quelle",
+            "en": "source",
+            "et": "allikas",
+            "hu": "forrás (átvitt értelemben)",
+            "nl": "bron, oorsprong",
+            "pl": "źródło",
+            "ru": "источник",
+            "sv": "källa"
+        }
+    ],
+    "pronunciation": [
+        "tsim",
+        1
+    ],
+    "type": "n"
+}

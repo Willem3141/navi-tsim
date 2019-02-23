@@ -1,0 +1,20 @@
+{
+    "na'vi": "trrpuve",
+    "translations": [
+        {
+            "de": "Freitag",
+            "en": "Friday",
+            "et": "reede",
+            "hu": "péntek",
+            "nl": "vrijdag",
+            "pl": "piątek",
+            "ru": "пятница",
+            "sv": "Fredag"
+        }
+    ],
+    "pronunciation": [
+        "trr-pu-ve",
+        2
+    ],
+    "type": "n"
+}

@@ -1,0 +1,19 @@
+{
+    "na'vi": "sätswayon",
+    "translations": [
+        {
+            "de": "Flug (Vorgang des Fliegens)",
+            "en": "flight (an instance of flying)",
+            "et": "lend",
+            "hu": "repülés (repülés esete)",
+            "nl": "vlucht (het vliegen)",
+            "pl": "lot (jednorazowy przelot)",
+            "ru": "полет"
+        }
+    ],
+    "pronunciation": [
+        "sä-tsway-on",
+        2
+    ],
+    "type": "n"
+}

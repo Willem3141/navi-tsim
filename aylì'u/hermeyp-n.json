@@ -1,0 +1,20 @@
+{
+    "na'vi": "hermeyp",
+    "translations": [
+        {
+            "de": "Schneegestöber, leichter Schneeschauer",
+            "en": "snow flurry",
+            "et": "lumesadu",
+            "hu": "hózápor",
+            "nl": "sneeuwbui",
+            "pl": "pruszenie śniegu",
+            "ru": "снежный шквал",
+            "sv": "snöyra, lätt snöfall"
+        }
+    ],
+    "pronunciation": [
+        "her-meyp",
+        2
+    ],
+    "type": "n"
+}

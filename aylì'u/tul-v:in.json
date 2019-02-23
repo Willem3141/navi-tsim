@@ -1,0 +1,21 @@
+{
+    "na'vi": "tul",
+    "translations": [
+        {
+            "de": "rennen, laufen",
+            "en": "run",
+            "et": "jooksma",
+            "hu": "fut",
+            "nl": "rennen",
+            "pl": "biec",
+            "ru": "бежать, бегать",
+            "sv": "springa"
+        }
+    ],
+    "pronunciation": [
+        "tul",
+        1
+    ],
+    "infixes": "t..ul",
+    "type": "v:in"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "lätxayn",
+    "translations": [
+        {
+            "de": "(im Kampf) besiegen, überwältigen, erobern, bezwingen",
+            "en": "defeat in battle, conquer",
+            "et": "alistama (lagingus), vallutama",
+            "hu": "csatában legyőz, meghódít",
+            "nl": "verslagen in gevecht, overwinnen",
+            "pl": "pokonać, podbić",
+            "ru": "победить в бою, завоевать"
+        }
+    ],
+    "pronunciation": [
+        "lä-txayn",
+        2
+    ],
+    "infixes": "l.ätx.ayn",
+    "type": "v:tr"
+}

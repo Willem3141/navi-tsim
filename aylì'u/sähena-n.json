@@ -1,0 +1,18 @@
+{
+    "na'vi": "sähena",
+    "translations": [
+        {
+            "de": "Behälter, Gefäß, Behältnis",
+            "en": "container, vessel, carrier",
+            "et": "karp; asi, milles saab asju hoida",
+            "hu": "tároló, konténer, tartály",
+            "nl": "drager (b.v. een pot of mand)",
+            "ru": "сосуд, носитель, емкость"
+        }
+    ],
+    "pronunciation": [
+        "sä-he-na",
+        2
+    ],
+    "type": "n"
+}

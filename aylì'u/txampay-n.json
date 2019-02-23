@@ -1,0 +1,20 @@
+{
+    "na'vi": "txampay",
+    "translations": [
+        {
+            "de": "Ozean, Meer",
+            "en": "sea, ocean",
+            "et": "meri, ookean",
+            "hu": "tenger, óceán",
+            "nl": "zee, oceaan",
+            "pl": "morze, ocean",
+            "ru": "море, океан",
+            "sv": "hav, ocean"
+        }
+    ],
+    "pronunciation": [
+        "txam-pay",
+        2
+    ],
+    "type": "n"
+}

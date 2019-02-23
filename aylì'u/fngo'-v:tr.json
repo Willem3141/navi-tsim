@@ -1,0 +1,20 @@
+{
+    "na'vi": "fngo'",
+    "translations": [
+        {
+            "de": "fordern, erfordern, verlangen",
+            "en": "require, demand",
+            "et": "nõudma, vajama",
+            "hu": "kíván, követel",
+            "nl": "vereisen, nodig hebben",
+            "pl": "wymagać, porzebować, żądać,",
+            "ru": "нуждаться в, требовать"
+        }
+    ],
+    "pronunciation": [
+        "fngo'",
+        1
+    ],
+    "infixes": "fng..o'",
+    "type": "v:tr"
+}

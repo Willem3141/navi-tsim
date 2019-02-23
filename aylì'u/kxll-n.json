@@ -1,0 +1,20 @@
+{
+    "na'vi": "kxll",
+    "translations": [
+        {
+            "de": "Ansturm, Angriff",
+            "en": "charge, running attack",
+            "et": "kallaletung, rünnak",
+            "hu": "lerohanás",
+            "nl": "aanval",
+            "pl": "szarża",
+            "ru": "нападать, бросаться в атаку",
+            "sv": "attack"
+        }
+    ],
+    "pronunciation": [
+        "kxll",
+        1
+    ],
+    "type": "n"
+}

@@ -1,0 +1,21 @@
+{
+    "na'vi": "stawm",
+    "translations": [
+        {
+            "de": "hören",
+            "en": "hear",
+            "et": "kuulma",
+            "hu": "(meg)hall",
+            "nl": "horen",
+            "pl": "słyszeć",
+            "ru": "слышать",
+            "sv": "höra"
+        }
+    ],
+    "pronunciation": [
+        "stawm",
+        1
+    ],
+    "infixes": "st..awm",
+    "type": "v:tr"
+}

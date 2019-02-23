@@ -1,0 +1,19 @@
+{
+    "na'vi": "sänui",
+    "translations": [
+        {
+            "de": "Fehlschlag, Misserfolg, Versagen",
+            "en": "failure (particular instance of failure)",
+            "et": "läbikukkumine, ebaõnnestumine (kindel olukord)",
+            "hu": "bukás, sikertelenség (konkrét esetben)",
+            "nl": "fiasco (specifiek incident)",
+            "pl": "niepowodzenie, porażka",
+            "ru": "неудача (конкретная)"
+        }
+    ],
+    "pronunciation": [
+        "sä-nu-i",
+        2
+    ],
+    "type": "n"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "som",
+    "translations": [
+        {
+            "de": "heiß",
+            "en": "hot",
+            "et": "kuum, palav",
+            "hu": "forró",
+            "nl": "heet",
+            "pl": "gorący",
+            "ru": "горячий",
+            "sv": "varm, het"
+        }
+    ],
+    "pronunciation": [
+        "som",
+        1
+    ],
+    "type": "adj"
+}

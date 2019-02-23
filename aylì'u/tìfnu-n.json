@@ -1,0 +1,20 @@
+{
+    "na'vi": "tìfnu",
+    "translations": [
+        {
+            "de": "Stille, Ruhe",
+            "en": "quiet, silence",
+            "et": "vaikus",
+            "hu": "csend, némaság",
+            "nl": "stilte",
+            "pl": "cisza",
+            "ru": "тишина, молчание",
+            "sv": "tystnad"
+        }
+    ],
+    "pronunciation": [
+        "tì-fnu",
+        2
+    ],
+    "type": "n"
+}

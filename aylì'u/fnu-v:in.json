@@ -1,0 +1,21 @@
+{
+    "na'vi": "fnu",
+    "translations": [
+        {
+            "de": "beruhigen, ruhig sein, leise sein",
+            "en": "quiet, be quiet",
+            "et": "vaikima, vait olema",
+            "hu": "lehalkít, elcsendesül",
+            "nl": "wees stil, stil zijn",
+            "pl": "być cicho",
+            "ru": "молчать, замолкать",
+            "sv": "tyst, vara tyst"
+        }
+    ],
+    "pronunciation": [
+        "fnu",
+        1
+    ],
+    "infixes": "fn..u",
+    "type": "v:in"
+}

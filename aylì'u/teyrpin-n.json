@@ -1,0 +1,20 @@
+{
+    "na'vi": "teyrpin",
+    "translations": [
+        {
+            "de": "Weiß",
+            "en": "white",
+            "et": "valge",
+            "hu": "fehér szín",
+            "nl": "wit",
+            "pl": "biel",
+            "ru": "белый",
+            "sv": "vit"
+        }
+    ],
+    "pronunciation": [
+        "teyr-pin",
+        1
+    ],
+    "type": "n"
+}

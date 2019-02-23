@@ -1,0 +1,21 @@
+{
+    "na'vi": "'ongokx",
+    "translations": [
+        {
+            "de": "geboren werden",
+            "en": "be born",
+            "et": "sündima",
+            "hu": "születik",
+            "nl": "geboren worden",
+            "pl": "rodzić się",
+            "ru": "родиться",
+            "sv": "födas"
+        }
+    ],
+    "pronunciation": [
+        "'o-ngokx",
+        1
+    ],
+    "infixes": "'.ong.okx",
+    "type": "v:in"
+}

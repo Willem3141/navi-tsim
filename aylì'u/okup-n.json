@@ -1,0 +1,18 @@
+{
+    "na'vi": "okup",
+    "translations": [
+        {
+            "de": "Milch",
+            "en": "milk",
+            "et": "piim",
+            "hu": "tej",
+            "nl": "melk",
+            "ru": "молоко"
+        }
+    ],
+    "pronunciation": [
+        "o-kup",
+        1
+    ],
+    "type": "n"
+}

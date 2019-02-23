@@ -1,0 +1,20 @@
+{
+    "na'vi": "txantstew",
+    "translations": [
+        {
+            "de": "Held",
+            "en": "hero",
+            "et": "kangelane",
+            "hu": "hős",
+            "nl": "held",
+            "pl": "bohater",
+            "ru": "герой",
+            "sv": "hjälte"
+        }
+    ],
+    "pronunciation": [
+        "txan-tstew",
+        1
+    ],
+    "type": "n"
+}

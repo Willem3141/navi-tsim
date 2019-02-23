@@ -1,0 +1,20 @@
+{
+    "na'vi": "lie",
+    "translations": [
+        {
+            "de": "Erlebnis",
+            "en": "experience",
+            "et": "kogemus",
+            "hu": "élmény, tapasztalat",
+            "nl": "ervaring",
+            "pl": "doświadczenie, praktyka",
+            "ru": "опыт, умение",
+            "sv": "erfarenhet"
+        }
+    ],
+    "pronunciation": [
+        "li-e",
+        1
+    ],
+    "type": "n"
+}

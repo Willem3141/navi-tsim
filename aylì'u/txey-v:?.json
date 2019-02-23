@@ -1,0 +1,21 @@
+{
+    "na'vi": "txey",
+    "translations": [
+        {
+            "de": "anhalten, stoppen, unterbrechen, rasten",
+            "en": "halt",
+            "et": "peatama, kinni pidama",
+            "hu": "megáll",
+            "nl": "stoppen",
+            "pl": "zatrzymywać",
+            "ru": "останавливаться, прекращать",
+            "sv": "stoppa, stanna"
+        }
+    ],
+    "pronunciation": [
+        "txey",
+        1
+    ],
+    "infixes": "tx..ey",
+    "type": "v:?"
+}

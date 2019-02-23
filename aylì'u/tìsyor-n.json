@@ -1,0 +1,20 @@
+{
+    "na'vi": "tìsyor",
+    "translations": [
+        {
+            "de": "Entspannung",
+            "en": "relaxation",
+            "et": "rahunemine",
+            "hu": "relaxáció",
+            "nl": "ontspanning",
+            "pl": "odpoczynek",
+            "ru": "отдых",
+            "sv": "avslappning"
+        }
+    ],
+    "pronunciation": [
+        "tì-syor",
+        2
+    ],
+    "type": "n"
+}

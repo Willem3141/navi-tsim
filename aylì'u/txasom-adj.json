@@ -1,0 +1,20 @@
+{
+    "na'vi": "txasom",
+    "translations": [
+        {
+            "de": "sehr heiß",
+            "en": "very hot",
+            "et": "väga kuum",
+            "hu": "nagyon forró",
+            "nl": "erg heet",
+            "pl": "bardzo gorący",
+            "ru": "очень горячий",
+            "sv": "väldigt het, väldigt varm"
+        }
+    ],
+    "pronunciation": [
+        "txa-som",
+        1
+    ],
+    "type": "adj"
+}

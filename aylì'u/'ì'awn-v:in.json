@@ -1,0 +1,21 @@
+{
+    "na'vi": "'ì'awn",
+    "translations": [
+        {
+            "de": "bleiben, verbleiben, verweilen",
+            "en": "remain, stay",
+            "et": "jääma, püsima",
+            "hu": "marad",
+            "nl": "blijven",
+            "pl": "zostać, pozostać",
+            "ru": "оставаться, сохранять состояние",
+            "sv": "stanna, bli kvar"
+        }
+    ],
+    "pronunciation": [
+        "'ì-'awn",
+        2
+    ],
+    "infixes": "'.ì'.awn",
+    "type": "v:in"
+}

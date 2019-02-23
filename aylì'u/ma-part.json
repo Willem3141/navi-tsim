@@ -1,0 +1,20 @@
+{
+    "na'vi": "ma",
+    "translations": [
+        {
+            "de": "Oh (Marker für den Vokativ)",
+            "en": "O (vocative marker)",
+            "et": "oo (üte, kellegi poole pöördumisel)",
+            "hu": "megszólító eset jele",
+            "nl": "aansprekende wijs markeerder",
+            "pl": "O! (partykuła wołacza)",
+            "ru": "маркер звательного падежа",
+            "sv": "O (vokativ markör)"
+        }
+    ],
+    "pronunciation": [
+        "ma",
+        1
+    ],
+    "type": "part"
+}

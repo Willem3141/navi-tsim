@@ -1,0 +1,20 @@
+{
+    "na'vi": "nìawnomum",
+    "translations": [
+        {
+            "de": "wie wir wissen, wie bekannt (umgangssprachlich [naw.no.mum])",
+            "en": "as you know, as is known (casual speech [naw.no.mum])",
+            "et": "teadagi, nagu sa tead (tavakõnes)",
+            "hu": "köztudottan, közismerten (köznapi beszédben: [naw.no.mum])",
+            "nl": "zoals je weet, zoals bekend (spreektaal [naw.no.mum])",
+            "pl": "w znany sposób, tak ajk jest znany",
+            "ru": "как известно (прост. [naw.no.mum])",
+            "sv": "som ni vet, som sagt (vardagligt tal [naw.no.mum])"
+        }
+    ],
+    "pronunciation": [
+        "nì-aw-no-mum",
+        3
+    ],
+    "type": "adv"
+}

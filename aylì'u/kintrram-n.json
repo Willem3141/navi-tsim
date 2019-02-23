@@ -1,0 +1,20 @@
+{
+    "na'vi": "kintrram",
+    "translations": [
+        {
+            "de": "letzte Woche",
+            "en": "last week",
+            "et": "eelmine nädal",
+            "hu": "a múlt (előző) hét",
+            "nl": "vorige week",
+            "pl": "poprzedni tydzień",
+            "ru": "последняя неделя",
+            "sv": "förra veckan"
+        }
+    ],
+    "pronunciation": [
+        "kin-trr-am",
+        1
+    ],
+    "type": "n"
+}

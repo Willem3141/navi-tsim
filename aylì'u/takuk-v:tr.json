@@ -1,0 +1,21 @@
+{
+    "na'vi": "takuk",
+    "translations": [
+        {
+            "de": "schlagen, treffen, hauen",
+            "en": "strike, beat, slap",
+            "et": "lööma, äsama, peale tungima",
+            "hu": "lesújt, (meg)üt, eltalál",
+            "nl": "raken, slaan, treffen",
+            "pl": "uderzać",
+            "ru": "ударять, наносить удар",
+            "sv": "slå till, attackera"
+        }
+    ],
+    "pronunciation": [
+        "ta-kuk",
+        1
+    ],
+    "infixes": "t.ak.uk",
+    "type": "v:tr"
+}

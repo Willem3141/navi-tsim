@@ -1,0 +1,21 @@
+{
+    "na'vi": "fpxäkìm",
+    "translations": [
+        {
+            "de": "eintreten, betreten",
+            "en": "enter",
+            "et": "sisenema",
+            "hu": "belép",
+            "nl": "binnenkomen",
+            "pl": "wchodzić",
+            "ru": "входить, проникать, попадать",
+            "sv": "stiga in,"
+        }
+    ],
+    "pronunciation": [
+        "fpxä-kìm",
+        1
+    ],
+    "infixes": "fpx.äk.ìm",
+    "type": "v:in"
+}

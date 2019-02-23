@@ -1,0 +1,21 @@
+{
+    "na'vi": "täftxu",
+    "translations": [
+        {
+            "de": "weben, flechten",
+            "en": "weave",
+            "et": "kuduma",
+            "hu": "sző",
+            "nl": "weven",
+            "pl": "tkać",
+            "ru": "плести, ткать",
+            "sv": "väva"
+        }
+    ],
+    "pronunciation": [
+        "tä-ftxu",
+        2
+    ],
+    "infixes": "t.äftx.u",
+    "type": "v:tr"
+}

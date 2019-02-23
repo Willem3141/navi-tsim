@@ -1,0 +1,20 @@
+{
+    "na'vi": "sngä'ikrr",
+    "translations": [
+        {
+            "de": "Anfang, Beginn, Startzeit",
+            "en": "beginning, starting time",
+            "et": "algus",
+            "hu": "kezdet",
+            "nl": "begin, starttijd (tijd)",
+            "pl": "początek, moment rozpoczęcia",
+            "ru": "время начала",
+            "sv": "början, starttid"
+        }
+    ],
+    "pronunciation": [
+        "sngä-'i-krr",
+        1
+    ],
+    "type": "n"
+}

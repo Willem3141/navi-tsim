@@ -1,0 +1,20 @@
+{
+    "na'vi": "velek",
+    "translations": [
+        {
+            "de": "aufgeben, ergeben, Niederlage eingestehen",
+            "en": "give up, surrender, concede defeat",
+            "et": "alla andma, kaotusega nõustuma",
+            "hu": "felad, megad(ja magát)",
+            "nl": "opgeven, overgeven, verslagen zijn",
+            "pl": "poddać się, uznać się za pokonanego",
+            "ru": "сдаться, потерпеть поражение"
+        }
+    ],
+    "pronunciation": [
+        "ve-lek",
+        1
+    ],
+    "infixes": "v.el.ek",
+    "type": "v:in"
+}

@@ -1,0 +1,17 @@
+{
+    "na'vi": "pamuvan",
+    "translations": [
+        {
+            "de": "Klangspiel, Tonspiel, Lautspiel",
+            "en": "sound play",
+            "et": "sõnamäng",
+            "hu": "hangjáték",
+            "nl": "klankenspel"
+        }
+    ],
+    "pronunciation": [
+        "pam-u-van",
+        1
+    ],
+    "type": "n"
+}

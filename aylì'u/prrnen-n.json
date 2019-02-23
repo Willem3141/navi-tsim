@@ -1,0 +1,20 @@
+{
+    "na'vi": "prrnen",
+    "translations": [
+        {
+            "de": "Säugling, Baby",
+            "en": "infant, baby",
+            "et": "beebi, väike laps",
+            "hu": "csecsemő, baba",
+            "nl": "kind, baby",
+            "pl": "dziecko, niemowlę",
+            "ru": "малыш",
+            "sv": "nyfödd, bebis"
+        }
+    ],
+    "pronunciation": [
+        "prr-nen",
+        1
+    ],
+    "type": "n"
+}

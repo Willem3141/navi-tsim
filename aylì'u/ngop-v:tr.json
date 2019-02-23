@@ -1,0 +1,21 @@
+{
+    "na'vi": "ngop",
+    "translations": [
+        {
+            "de": "erschaffen, erstellen, gestalten, hervorbringen",
+            "en": "create",
+            "et": "looma, tekitama",
+            "hu": "alkot, készít, létrehoz",
+            "nl": "creëeren, maken",
+            "pl": "tworzyć",
+            "ru": "создавать, творить, порождать",
+            "sv": "skapa"
+        }
+    ],
+    "pronunciation": [
+        "ngop",
+        1
+    ],
+    "infixes": "ng..op",
+    "type": "v:tr"
+}

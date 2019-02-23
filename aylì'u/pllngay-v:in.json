@@ -1,0 +1,21 @@
+{
+    "na'vi": "pllngay",
+    "translations": [
+        {
+            "de": "zugeben, eingestehen",
+            "en": "admit",
+            "et": "möönma, tunnistama",
+            "hu": "elismer",
+            "nl": "toegeven",
+            "pl": "przyznawać, dopuszczać, przyjmować",
+            "ru": "признать",
+            "sv": "erkänna"
+        }
+    ],
+    "pronunciation": [
+        "pll-ngay",
+        2
+    ],
+    "infixes": "p..llngay",
+    "type": "v:in"
+}

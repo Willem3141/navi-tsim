@@ -1,0 +1,17 @@
+{
+    "na'vi": "tsawn",
+    "translations": [
+        {
+            "en": "gather growing food from the forest; pick; harvest (in agriculture)",
+            "et": "korjama, lõikama (metsaande, viljasaaki vms)",
+            "hu": "arat, összeszed",
+            "nl": "eten uit het bos verzamelen; plukken; oogsten"
+        }
+    ],
+    "pronunciation": [
+        "tsawn",
+        1
+    ],
+    "infixes": "ts..awn",
+    "type": "v:tr"
+}

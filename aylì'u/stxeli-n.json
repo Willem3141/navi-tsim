@@ -1,0 +1,20 @@
+{
+    "na'vi": "stxeli",
+    "translations": [
+        {
+            "de": "Geschenk",
+            "en": "gift",
+            "et": "kingitus, and",
+            "hu": "ajándék",
+            "nl": "kado",
+            "pl": "prezent, podarunek",
+            "ru": "подарок",
+            "sv": "gåva, present"
+        }
+    ],
+    "pronunciation": [
+        "stxe-li",
+        1
+    ],
+    "type": "n"
+}

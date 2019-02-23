@@ -1,0 +1,20 @@
+{
+    "na'vi": "tinan",
+    "translations": [
+        {
+            "de": "Lesen",
+            "en": "reading",
+            "et": "lugemine",
+            "hu": "olvasás",
+            "nl": "lezen",
+            "pl": "wyczucie",
+            "ru": "чтение",
+            "sv": "läsning"
+        }
+    ],
+    "pronunciation": [
+        "ti-nan",
+        1
+    ],
+    "type": "n"
+}

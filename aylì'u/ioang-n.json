@@ -1,0 +1,20 @@
+{
+    "na'vi": "ioang",
+    "translations": [
+        {
+            "de": "Tier, Bestie, Biest",
+            "en": "animal, beast",
+            "et": "loom, elukas",
+            "hu": "állat, vadállat",
+            "nl": "dier, beest",
+            "pl": "zwierzę",
+            "ru": "зверь, животное",
+            "sv": "djur, best"
+        }
+    ],
+    "pronunciation": [
+        "i-o-ang",
+        2
+    ],
+    "type": "n"
+}

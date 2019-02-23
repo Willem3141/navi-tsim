@@ -1,0 +1,20 @@
+{
+    "na'vi": "swaw",
+    "translations": [
+        {
+            "de": "Moment, Augenblick",
+            "en": "moment",
+            "et": "hetk, moment",
+            "hu": "pillanat",
+            "nl": "moment",
+            "pl": "chwila",
+            "ru": "момент, мгновение",
+            "sv": "ögonblick"
+        }
+    ],
+    "pronunciation": [
+        "swaw",
+        1
+    ],
+    "type": "n"
+}

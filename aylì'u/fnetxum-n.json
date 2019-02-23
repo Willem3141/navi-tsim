@@ -1,0 +1,19 @@
+{
+    "na'vi": "fnetxum",
+    "translations": [
+        {
+            "de": "Allergen",
+            "en": "allergen",
+            "et": "allergeen, allergia tekitaja",
+            "hu": "allergén",
+            "nl": "allergeen",
+            "pl": "uczulony",
+            "ru": "аллерген"
+        }
+    ],
+    "pronunciation": [
+        "fne-txum",
+        2
+    ],
+    "type": "n"
+}

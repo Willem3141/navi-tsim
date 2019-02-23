@@ -1,0 +1,20 @@
+{
+    "na'vi": "säspxin",
+    "translations": [
+        {
+            "de": "Krankheit",
+            "en": "disease, sickness, illness",
+            "et": "haigus",
+            "hu": "betegség, kór",
+            "nl": "ziekte",
+            "pl": "choroba, schorzenie",
+            "ru": "болезнь, слабость",
+            "sv": "sjukdom, smitta"
+        }
+    ],
+    "pronunciation": [
+        "sä-spxin",
+        2
+    ],
+    "type": "n"
+}

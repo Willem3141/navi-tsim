@@ -1,0 +1,20 @@
+{
+    "na'vi": "pan",
+    "translations": [
+        {
+            "de": "Drittel, eindrittel",
+            "en": "third, one third",
+            "et": "kolmandik, üks kolmandik",
+            "hu": "(egy) harmad",
+            "nl": "derde, een derde",
+            "pl": "jedna trzecia",
+            "ru": "треть",
+            "sv": "tredjedel"
+        }
+    ],
+    "pronunciation": [
+        "pan",
+        1
+    ],
+    "type": "n"
+}

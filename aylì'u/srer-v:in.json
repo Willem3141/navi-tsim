@@ -1,0 +1,20 @@
+{
+    "na'vi": "srer",
+    "translations": [
+        {
+            "de": "auftauchen, erscheinen, in Sicht kommen",
+            "en": "appear, materialize, come into view",
+            "et": "ilmuma, tekkima, vaatevälja tulema",
+            "hu": "megjelenik, megvalósul, láthatóvá válik",
+            "nl": "verschijnen, materialiseren, in zicht komen",
+            "pl": "pojawiać się",
+            "ru": "показать (в реальности)"
+        }
+    ],
+    "pronunciation": [
+        "srer",
+        1
+    ],
+    "infixes": "sr..er",
+    "type": "v:in"
+}

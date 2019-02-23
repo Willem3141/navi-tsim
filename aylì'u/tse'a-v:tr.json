@@ -1,0 +1,21 @@
+{
+    "na'vi": "tse'a",
+    "translations": [
+        {
+            "de": "sehen (im physischen Sinne)",
+            "en": "see (physical sense)",
+            "et": "nägema (otseselt)",
+            "hu": "lát (szemével)",
+            "nl": "zien (fysiek)",
+            "pl": "widzieć (fizycznie)",
+            "ru": "видеть, смотреть (зрительное ощущение)",
+            "sv": "se (fysiskt)"
+        }
+    ],
+    "pronunciation": [
+        "tse-'a",
+        2
+    ],
+    "infixes": "ts.e'.a",
+    "type": "v:tr"
+}

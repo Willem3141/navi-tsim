@@ -1,0 +1,20 @@
+{
+    "na'vi": "tìlen",
+    "translations": [
+        {
+            "de": "Ereignis, Geschehen, Veranstaltung",
+            "en": "event, happening",
+            "et": "üritus, juhtum",
+            "hu": "esemény, történés",
+            "nl": "gebeurtenis",
+            "pl": "wydarzenie",
+            "ru": "случай",
+            "sv": "händelse, event"
+        }
+    ],
+    "pronunciation": [
+        "tì-len",
+        2
+    ],
+    "type": "n"
+}

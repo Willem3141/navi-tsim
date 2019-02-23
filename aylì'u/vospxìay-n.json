@@ -1,0 +1,20 @@
+{
+    "na'vi": "vospxìay",
+    "translations": [
+        {
+            "de": "nächster Monat",
+            "en": "next month",
+            "et": "järgmine kuu",
+            "hu": "jövő hónap",
+            "nl": "volgende maand",
+            "pl": "przyszły miesiąc",
+            "ru": "следующий месяц",
+            "sv": "nästa månad"
+        }
+    ],
+    "pronunciation": [
+        "vo-spxì-ay",
+        3
+    ],
+    "type": "n"
+}

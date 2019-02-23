@@ -1,0 +1,20 @@
+{
+    "na'vi": "yì",
+    "translations": [
+        {
+            "de": "Ablage, Felsvorsprung, Sims, Ebene, Stufe, Sprosse",
+            "en": "shelf, ledge, level, step, rung ",
+            "et": "äär, tase, aste, tasand (saab kasutada metafooriliselt mõõdetavate asjade puhul: veetase, temperatuur, oskused, rõõmsameelsus, raskusastmed jne.)",
+            "hu": "szint, fok, perem, széle valaminek",
+            "nl": "plank, trede, rand, niveau",
+            "pl": "pułka, krawędź, poziom, stopień, szczebel",
+            "ru": "полка, выступ, шаг, ступенька",
+            "sv": "hylla, avsats, steg, nivå"
+        }
+    ],
+    "pronunciation": [
+        "yì",
+        1
+    ],
+    "type": "n"
+}

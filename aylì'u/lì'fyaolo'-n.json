@@ -1,0 +1,20 @@
+{
+    "na'vi": "lì'fyaolo'",
+    "translations": [
+        {
+            "de": "Sprachgruppe, Sprachbenutzer, Sprachbund",
+            "en": "language group, language users",
+            "et": "keelegrupp, keele kasutajad",
+            "hu": "nyelvcsoport, nyelvhasználók",
+            "nl": "taalgroep, taalgebruikers",
+            "pl": "grupa językowa, użytkownicy języka",
+            "ru": "языковая группа",
+            "sv": "språkanvändare, språkgrupp"
+        }
+    ],
+    "pronunciation": [
+        "lì'-fya-o-lo'",
+        4
+    ],
+    "type": "n"
+}

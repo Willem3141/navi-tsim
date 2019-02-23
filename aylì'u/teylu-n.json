@@ -1,0 +1,20 @@
+{
+    "na'vi": "teylu",
+    "translations": [
+        {
+            "de": "Käferlarve",
+            "en": "beetle larva",
+            "et": "Teilu (beetle larva)",
+            "hu": "bogár lárva (pandorai állatfaj)",
+            "nl": "keverlarven",
+            "pl": "teylu",
+            "ru": "личинка жука (фауна Пандоры)",
+            "sv": "skalbaggslarv"
+        }
+    ],
+    "pronunciation": [
+        "tey-lu",
+        1
+    ],
+    "type": "n"
+}

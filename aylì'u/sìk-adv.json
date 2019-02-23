@@ -1,0 +1,20 @@
+{
+    "na'vi": "sìk",
+    "translations": [
+        {
+            "de": "Zitat Ende (siehe auch san)",
+            "en": "unquote",
+            "et": "otsekõne lõpp",
+            "hu": "idézet, függő beszéd bezárása idézet vége",
+            "nl": "einde citaat",
+            "pl": "zakończenie cytowania",
+            "ru": "маркер конца цитируемой речи в высказывании",
+            "sv": "sluta citera"
+        }
+    ],
+    "pronunciation": [
+        "sìk",
+        1
+    ],
+    "type": "adv"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "eltu",
+    "translations": [
+        {
+            "de": "Gehirn",
+            "en": "brain",
+            "et": "aju",
+            "hu": "agy",
+            "nl": "brein",
+            "pl": "mózg",
+            "ru": "мозг",
+            "sv": "hjärna"
+        }
+    ],
+    "pronunciation": [
+        "el-tu",
+        1
+    ],
+    "type": "n"
+}

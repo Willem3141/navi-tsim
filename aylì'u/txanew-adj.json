@@ -1,0 +1,20 @@
+{
+    "na'vi": "txanew",
+    "translations": [
+        {
+            "de": "geizig, gierig",
+            "en": "greedy",
+            "et": "ahne",
+            "hu": "falánk, mohó",
+            "nl": "hebberig",
+            "pl": "chciwy",
+            "ru": "жадный",
+            "sv": "girig"
+        }
+    ],
+    "pronunciation": [
+        "txa-new",
+        1
+    ],
+    "type": "adj"
+}

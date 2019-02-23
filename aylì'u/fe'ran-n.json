@@ -1,0 +1,19 @@
+{
+    "na'vi": "fe'ran",
+    "translations": [
+        {
+            "de": "fehlerhafte Charakteristik, etwas schlecht Durchdachtes, etwas grundsätzlich Fehlerhaftes",
+            "en": "flawed nature, something illconceived or inherently defective",
+            "et": "vigane, halb olek",
+            "hu": "rossz természet, valami rosszul kitervelt vagy eredendően  hibás",
+            "nl": "beschadigde natuur/basis, iets dat slecht ontvangen wordt of beschadigd",
+            "pl": "wypaczenie, coś od początku niewłaściwego",
+            "ru": "порочность"
+        }
+    ],
+    "pronunciation": [
+        "fe'-ran",
+        1
+    ],
+    "type": "n"
+}

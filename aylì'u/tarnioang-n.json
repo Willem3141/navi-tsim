@@ -1,0 +1,19 @@
+{
+    "na'vi": "tarnioang",
+    "translations": [
+        {
+            "de": "Raubtier, Jäger",
+            "en": "predator animal",
+            "et": "kiskja",
+            "hu": "ragadozó",
+            "nl": "roofdier",
+            "pl": "drapieżnik",
+            "ru": "хищник"
+        }
+    ],
+    "pronunciation": [
+        "tar-ni-o-ang",
+        1
+    ],
+    "type": "n"
+}

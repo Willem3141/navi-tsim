@@ -1,0 +1,21 @@
+{
+    "na'vi": "sleyku",
+    "translations": [
+        {
+            "de": "produzieren, herstellen, erzeugen",
+            "en": "produce",
+            "et": "looma, tekitama",
+            "hu": "készít, létrehoz",
+            "nl": "produceren, maken",
+            "pl": "produkować, wytwarzać",
+            "ru": "изготавливать, производить, выпускать",
+            "sv": "producera"
+        }
+    ],
+    "pronunciation": [
+        "sley-ku",
+        2
+    ],
+    "infixes": "sleyk..u",
+    "type": "v:tr"
+}

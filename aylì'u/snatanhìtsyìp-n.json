@@ -1,0 +1,19 @@
+{
+    "na'vi": "snatanhìtsyìp",
+    "translations": [
+        {
+            "de": "Sternenhaufen",
+            "en": "star cluster",
+            "et": "tähekogu",
+            "hu": "csillagcsoport",
+            "nl": "sterrencluster",
+            "pl": "gromada gwiazd",
+            "ru": "звездное скопление"
+        }
+    ],
+    "pronunciation": [
+        "sna-tan-hì-tsyìp",
+        3
+    ],
+    "type": "n"
+}

@@ -1,0 +1,19 @@
+{
+    "na'vi": "'ongop",
+    "translations": [
+        {
+            "de": "entwerfen, entwickeln, gestalten (von größeren, groberen Aspekten)",
+            "en": "design",
+            "et": "disain, kujundus",
+            "hu": "tervez",
+            "nl": "ontwerpen",
+            "ru": "проектировать"
+        }
+    ],
+    "pronunciation": [
+        "'o-ngop",
+        1
+    ],
+    "infixes": "'ong..op",
+    "type": "v:tr"
+}

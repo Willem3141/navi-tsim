@@ -1,0 +1,20 @@
+{
+    "na'vi": "swizaw",
+    "translations": [
+        {
+            "de": "Pfeil",
+            "en": "arrow",
+            "et": "nool",
+            "hu": "nyíl(vessző)",
+            "nl": "pijl",
+            "pl": "strzała",
+            "ru": "стрела",
+            "sv": "pil"
+        }
+    ],
+    "pronunciation": [
+        "swi-zaw",
+        2
+    ],
+    "type": "n"
+}

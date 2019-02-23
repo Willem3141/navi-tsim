@@ -1,0 +1,21 @@
+{
+    "na'vi": "sop",
+    "translations": [
+        {
+            "de": "reisen,",
+            "en": "travel",
+            "et": "reisima, rändama",
+            "hu": "utazik",
+            "nl": "reizen",
+            "pl": "podróżować",
+            "ru": "путешествовать",
+            "sv": "resa"
+        }
+    ],
+    "pronunciation": [
+        "sop",
+        1
+    ],
+    "infixes": "s..op",
+    "type": "v:in"
+}

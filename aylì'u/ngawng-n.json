@@ -1,0 +1,20 @@
+{
+    "na'vi": "ngawng",
+    "translations": [
+        {
+            "de": "Wurm",
+            "en": "worm",
+            "et": "uss",
+            "hu": "féreg (pandorai állatfaj)",
+            "nl": "worm",
+            "pl": "robak",
+            "ru": "червь",
+            "sv": "mask"
+        }
+    ],
+    "pronunciation": [
+        "ngawng",
+        1
+    ],
+    "type": "n"
+}

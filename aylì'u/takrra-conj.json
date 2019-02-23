@@ -1,0 +1,20 @@
+{
+    "na'vi": "takrra",
+    "translations": [
+        {
+            "de": "seit (zeitlich)",
+            "en": "since (temporal)",
+            "et": "alates, juba",
+            "hu": "… óta (időben) másik alakja ",
+            "nl": "sinds (tijd)",
+            "pl": "od (chwili, która)",
+            "ru": "с (время)",
+            "sv": "sen, sedan (dess)"
+        }
+    ],
+    "pronunciation": [
+        "ta-krr-a",
+        2
+    ],
+    "type": "conj"
+}

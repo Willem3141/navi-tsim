@@ -1,0 +1,18 @@
+{
+    "na'vi": "slayk",
+    "translations": [
+        {
+            "de": "kämmen, bürsten",
+            "en": "brush, comb",
+            "et": "kamm",
+            "hu": "fésű, kefe",
+            "nl": "borstelen, kammen"
+        }
+    ],
+    "pronunciation": [
+        "slayk",
+        1
+    ],
+    "infixes": "sl..ayk",
+    "type": "v:tr"
+}

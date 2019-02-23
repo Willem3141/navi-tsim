@@ -1,0 +1,21 @@
+{
+    "na'vi": "sweylu",
+    "translations": [
+        {
+            "de": "sollen",
+            "en": "should",
+            "et": "peaks (pidama tingiv kv.)",
+            "hu": "kellene",
+            "nl": "zouden",
+            "pl": "powinno się",
+            "ru": "следует",
+            "sv": "borde, bör, skulle"
+        }
+    ],
+    "pronunciation": [
+        "swey-lu",
+        1
+    ],
+    "infixes": "sweyl..u",
+    "type": "v:?"
+}

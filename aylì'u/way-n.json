@@ -1,0 +1,20 @@
+{
+    "na'vi": "way",
+    "translations": [
+        {
+            "de": "Lied, Gesang (alt, zeremoniell)",
+            "en": "song (ancient, ceremonial)",
+            "et": "laul (vana, tseremoniaalne)",
+            "hu": "dal (ősi, szertartásos)",
+            "nl": "lied (oud, ceremonieel)",
+            "pl": "pieśń (starożytna, ceremonialna)",
+            "ru": "песня (древняя или церемониальная)",
+            "sv": "sång (uråldrig, ceremoniell)"
+        }
+    ],
+    "pronunciation": [
+        "way",
+        1
+    ],
+    "type": "n"
+}

@@ -1,0 +1,19 @@
+{
+    "na'vi": "rurur",
+    "translations": [
+        {
+            "de": "luftdurchsetztes Wasser, das zwischen Steinen eines sehr allmählich abfallenden Stroms fließt (nicht zählbar)",
+            "en": "water that is aeriated while flowing among the rocks of a very gradually sloping stream (countable)",
+            "et": "oja moodi kivide vahel voolav vesi (loendatav)",
+            "hu": "sziklák között, lejtősen folyó patak (megszámlálható)",
+            "nl": "een waterstroom met veel luchtcontact terwijl het over rotsen van een geleidelijk neergaande stroom gaat (telbaar)",
+            "pl": "woda napowietrzona podczas przepływania pomiędzy skałami strumienia stopniowo zmieniającego swoje nachylenie (policzalny)",
+            "ru": "вспененая вода"
+        }
+    ],
+    "pronunciation": [
+        "ru-rur",
+        2
+    ],
+    "type": "n"
+}

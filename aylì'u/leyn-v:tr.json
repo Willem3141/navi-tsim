@@ -1,0 +1,21 @@
+{
+    "na'vi": "leyn",
+    "translations": [
+        {
+            "de": "wiederholen, noch einmal tun",
+            "en": "repeat, do again",
+            "et": "kordama, uuesti tegema",
+            "hu": "ismétel, újra csinál",
+            "nl": "herhalen",
+            "pl": "powtarzać",
+            "ru": "повторять",
+            "sv": "repetera, göra igen"
+        }
+    ],
+    "pronunciation": [
+        "leyn",
+        1
+    ],
+    "infixes": "l..eyn",
+    "type": "v:tr"
+}

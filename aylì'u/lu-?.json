@@ -1,0 +1,20 @@
+{
+    "na'vi": "lu",
+    "translations": [
+        {
+            "de": "sein, bin, bist, ist, sind (Kopula, Verb der Existenz)",
+            "en": "be, am, is, are",
+            "et": "olema (öeldistäide)",
+            "hu": "van, lenni",
+            "nl": "zijn (existentieel)",
+            "pl": "być",
+            "ru": "быть, являться, существовать",
+            "sv": "vara"
+        }
+    ],
+    "pronunciation": [
+        "lu",
+        1
+    ],
+    "infixes": "l..u"
+}

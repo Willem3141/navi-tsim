@@ -1,0 +1,20 @@
+{
+    "na'vi": "sa'nok",
+    "translations": [
+        {
+            "de": "Mutter",
+            "en": "mother",
+            "et": "ema",
+            "hu": "anya",
+            "nl": "moeder",
+            "pl": "matka",
+            "ru": "мать",
+            "sv": "mamma"
+        }
+    ],
+    "pronunciation": [
+        "sa'-nok",
+        1
+    ],
+    "type": "n"
+}

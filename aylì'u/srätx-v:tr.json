@@ -1,0 +1,21 @@
+{
+    "na'vi": "srätx",
+    "translations": [
+        {
+            "de": "nerven, belästigen, stören",
+            "en": "annoy, bother",
+            "et": "tüütama, vaevama",
+            "hu": "bosszant, zavar",
+            "nl": "vervelen, lastig vallen",
+            "pl": "denerwować, przeszkadzać",
+            "ru": "досаждать, беспокоить",
+            "sv": "störa, irritera"
+        }
+    ],
+    "pronunciation": [
+        "srätx",
+        1
+    ],
+    "infixes": "sr..ätx",
+    "type": "v:tr"
+}

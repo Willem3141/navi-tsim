@@ -1,0 +1,20 @@
+{
+    "na'vi": "Europa",
+    "translations": [
+        {
+            "de": "Europa",
+            "en": "Europe",
+            "et": "Euroopa",
+            "hu": "Európa",
+            "nl": "Europa",
+            "pl": "Europa",
+            "ru": "Европа",
+            "sv": "Europa"
+        }
+    ],
+    "pronunciation": [
+        "E-u-ro-pa",
+        3
+    ],
+    "type": "n:pr"
+}

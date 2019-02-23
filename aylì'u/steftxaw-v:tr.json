@@ -1,0 +1,21 @@
+{
+    "na'vi": "steftxaw",
+    "translations": [
+        {
+            "de": "prüfen, kontrollieren, untersuchen",
+            "en": "examine, check",
+            "et": "uurima, vaatama",
+            "hu": "(meg)vizsgál, ellenőriz",
+            "nl": "onderzoeken",
+            "pl": "badać, sprawdzać",
+            "ru": "рассматривать, осматривать, изучать, обследовать",
+            "sv": "undersöka, inspektera"
+        }
+    ],
+    "pronunciation": [
+        "ste-ftxaw",
+        2
+    ],
+    "infixes": "st.eftx.aw",
+    "type": "v:tr"
+}

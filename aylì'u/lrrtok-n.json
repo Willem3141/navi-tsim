@@ -1,0 +1,20 @@
+{
+    "na'vi": "lrrtok",
+    "translations": [
+        {
+            "de": "Lächeln",
+            "en": "smile",
+            "et": "naeratus",
+            "hu": "mosoly",
+            "nl": "glimlach",
+            "pl": "uśmiech",
+            "ru": "улыбка",
+            "sv": "leende"
+        }
+    ],
+    "pronunciation": [
+        "lrr-tok",
+        1
+    ],
+    "type": "n"
+}

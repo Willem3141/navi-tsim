@@ -1,0 +1,21 @@
+{
+    "na'vi": "fmi",
+    "translations": [
+        {
+            "de": "versuchen, probieren",
+            "en": "try, attempt",
+            "et": "püüdma, üritama",
+            "hu": "(meg)próbál, megkísérel",
+            "nl": "proberen",
+            "pl": "próbować",
+            "ru": "пробовать, пытаться",
+            "sv": "försöka"
+        }
+    ],
+    "pronunciation": [
+        "fmi",
+        1
+    ],
+    "infixes": "fm..i",
+    "type": "v:tr"
+}

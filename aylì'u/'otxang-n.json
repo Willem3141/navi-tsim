@@ -1,0 +1,20 @@
+{
+    "na'vi": "'otxang",
+    "translations": [
+        {
+            "de": "Musikinstrument",
+            "en": "musical instrument (generic term)",
+            "et": "muusikariist",
+            "hu": "hangszer (általános)",
+            "nl": "muziekinstrument (algemene term)",
+            "pl": "instrument muzyczny (termin ogólny)",
+            "ru": "музыкальный инструмент",
+            "sv": "musikinstrument (allmänt begrepp)"
+        }
+    ],
+    "pronunciation": [
+        "'o-txang",
+        2
+    ],
+    "type": "n"
+}

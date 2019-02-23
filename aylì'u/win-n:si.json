@@ -1,0 +1,20 @@
+{
+    "na'vi": "win",
+    "translations": [
+        {
+            "de": "hetzen, in Eile tun (etwas), schnell tun (etwas), überstürzen",
+            "en": "rush something, make something fast",
+            "et": "midagi kiirelt tegema, kiirustama",
+            "hu": "gyorsítani, siettetni, sietni",
+            "nl": "iets haasten, iets snel laten gaan",
+            "pl": "przyspieszać, czynić szybszym",
+            "ru": "делать чтолибо быстро, второпях, наспех",
+            "sv": "skynda på något, göra något snabbt"
+        }
+    ],
+    "pronunciation": [
+        "win",
+        1
+    ],
+    "type": "n:si"
+}

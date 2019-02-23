@@ -1,0 +1,20 @@
+{
+    "na'vi": "rengop",
+    "translations": [
+        {
+            "de": "entwerfen, designen, gestalten (im Detail)",
+            "en": "design (finer detail)",
+            "et": "kujundama, disainima",
+            "hu": "tervez",
+            "nl": "ontwerpen",
+            "pl": "projektować",
+            "ru": "проектировать (детально)"
+        }
+    ],
+    "pronunciation": [
+        "re-ngop",
+        1
+    ],
+    "infixes": "reng..op",
+    "type": "v:tr"
+}

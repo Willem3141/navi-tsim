@@ -1,0 +1,21 @@
+{
+    "na'vi": "ralpeng",
+    "translations": [
+        {
+            "de": "interpretieren, übersetzen, deuten (ii)",
+            "en": "interpret (ii)",
+            "et": "tõlgendama, tõlgitsema (e)",
+            "hu": "értelmez, tolmácsol",
+            "nl": "verklaren, interpreteren",
+            "pl": "interpretować (ii)",
+            "ru": "объяснять, толковать, переводить",
+            "sv": "tolka (ii)"
+        }
+    ],
+    "pronunciation": [
+        "ral-peng",
+        2
+    ],
+    "infixes": "ralp..eng",
+    "type": "v:tr"
+}

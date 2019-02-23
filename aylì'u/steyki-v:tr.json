@@ -1,0 +1,21 @@
+{
+    "na'vi": "steyki",
+    "translations": [
+        {
+            "de": "ärgern, erzürnen, verärgern (jemanden), wütend machen (jemanden)",
+            "en": "anger, make someone angry",
+            "et": "(kedagi) vihastama",
+            "hu": "bosszant, dühít",
+            "nl": "(iemand) kwaad maken",
+            "pl": "denerwować (kogoś)",
+            "ru": "злить, раздражать коголибо",
+            "sv": "göra någon arg"
+        }
+    ],
+    "pronunciation": [
+        "stey-ki",
+        2
+    ],
+    "infixes": "steyk..i",
+    "type": "v:tr"
+}

@@ -1,0 +1,21 @@
+{
+    "na'vi": "var",
+    "translations": [
+        {
+            "de": "in einem Zustand bleiben, eine Handlung fortführen, weitermachen",
+            "en": "to persist in a state, to continue to perform an action",
+            "et": "püsima mingis toimingus, jätkama mingit tegevust",
+            "hu": "valamilyen állapotban marad, folytat egy cselekvést",
+            "nl": "in iets volharden, iets constant blijven doen",
+            "pl": "kontynuwać (czynność)",
+            "ru": "продолжать действие",
+            "sv": "att fortsätta utföra en handling, att kvarstå i ett läge"
+        }
+    ],
+    "pronunciation": [
+        "var",
+        1
+    ],
+    "infixes": "v..ar",
+    "type": "v:m"
+}

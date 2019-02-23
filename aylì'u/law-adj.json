@@ -1,0 +1,20 @@
+{
+    "na'vi": "law",
+    "translations": [
+        {
+            "de": "eindeutig, klar, gewiss, sicher",
+            "en": "clear, certain",
+            "et": "kindel, selge",
+            "hu": "tiszta, világos, bizonyos",
+            "nl": "zeker, duidelijk",
+            "pl": "jasny, pewny, oczywisty, wyraźny",
+            "ru": "ясный, четкий, определенный",
+            "sv": "klar, säker"
+        }
+    ],
+    "pronunciation": [
+        "law",
+        1
+    ],
+    "type": "adj"
+}

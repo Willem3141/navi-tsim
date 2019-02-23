@@ -1,0 +1,20 @@
+{
+    "na'vi": "spxam",
+    "translations": [
+        {
+            "de": "Pilz",
+            "en": "mushroom, fungus",
+            "et": "seen",
+            "hu": "gomba",
+            "nl": "paddenstoel, schimmel",
+            "pl": "grzyb",
+            "ru": "гриб",
+            "sv": "svamp"
+        }
+    ],
+    "pronunciation": [
+        "spxam",
+        1
+    ],
+    "type": "n"
+}

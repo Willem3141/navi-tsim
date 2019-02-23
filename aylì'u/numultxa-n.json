@@ -1,0 +1,19 @@
+{
+    "na'vi": "numultxa",
+    "translations": [
+        {
+            "de": "Klasse, Schulklasse, Lerngruppe",
+            "en": "class (for instruction)",
+            "et": "klass (koolis)",
+            "hu": "tanóra",
+            "nl": "les (voor instructie)",
+            "pl": "klasa (grupa ludzi uczących się)",
+            "ru": "класс (группа учащихся)"
+        }
+    ],
+    "pronunciation": [
+        "nu-mul-txa",
+        3
+    ],
+    "type": "n"
+}

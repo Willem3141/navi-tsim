@@ -1,0 +1,20 @@
+{
+    "na'vi": "hìkrr",
+    "translations": [
+        {
+            "de": "Sekunde, sehr kurze Zeit",
+            "en": "second, very short time",
+            "et": "sekund, väga lühike aeg",
+            "hu": "másodperc, nagyon rövid idő",
+            "nl": "seconde, korte tijd",
+            "pl": "chwila, sekunda",
+            "ru": "секунда, очень короткое время",
+            "sv": "sekund, väldigt kort tid"
+        }
+    ],
+    "pronunciation": [
+        "hì-krr",
+        1
+    ],
+    "type": "n"
+}

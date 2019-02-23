@@ -1,0 +1,20 @@
+{
+    "na'vi": "sresrr'ong",
+    "translations": [
+        {
+            "de": "vor Morgengrauen",
+            "en": "before dawn",
+            "et": "aeg enne koitu",
+            "hu": "hajnal előtt",
+            "nl": "voor zonsopgang",
+            "pl": "przed brzaskiem",
+            "ru": "утро перед рассветом",
+            "sv": "före gryning"
+        }
+    ],
+    "pronunciation": [
+        "sre-srr-'ong",
+        3
+    ],
+    "type": "n"
+}

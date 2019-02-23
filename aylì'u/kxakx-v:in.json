@@ -1,0 +1,20 @@
+{
+    "na'vi": "kxakx",
+    "translations": [
+        {
+            "de": "zerbrechen, kaputt gehen",
+            "en": "break, snap in two",
+            "et": "pooleks murduma",
+            "hu": "törik",
+            "nl": "breken, in twee delen breken",
+            "pl": "łamać, przełamać na pół",
+            "ru": "разбить"
+        }
+    ],
+    "pronunciation": [
+        "kxakx",
+        1
+    ],
+    "infixes": "kx..akx",
+    "type": "v:in"
+}

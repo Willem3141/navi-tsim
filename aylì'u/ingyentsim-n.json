@@ -1,0 +1,19 @@
+{
+    "na'vi": "ingyentsim",
+    "translations": [
+        {
+            "de": "Mysterium, Rätsel",
+            "en": "mystery, riddle, enigma, conundrum",
+            "et": "müsteerium, mõistatus, arusaamatus",
+            "hu": "rejtély, talány, rejtvény, titokzatosság",
+            "nl": "mysterie, raadsel",
+            "pl": "tajemnica, zagadka",
+            "ru": "тайна, загадка"
+        }
+    ],
+    "pronunciation": [
+        "ing-yen-tsim",
+        1
+    ],
+    "type": "n"
+}

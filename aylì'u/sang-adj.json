@@ -1,0 +1,20 @@
+{
+    "na'vi": "sang",
+    "translations": [
+        {
+            "de": "warm",
+            "en": "warm",
+            "et": "soe",
+            "hu": "meleg",
+            "nl": "warm",
+            "pl": "ciepły",
+            "ru": "теплый",
+            "sv": "varm"
+        }
+    ],
+    "pronunciation": [
+        "sang",
+        1
+    ],
+    "type": "adj"
+}

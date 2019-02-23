@@ -1,0 +1,21 @@
+{
+    "na'vi": "spä",
+    "translations": [
+        {
+            "de": "springen, hüpfen",
+            "en": "jump",
+            "et": "hüppama",
+            "hu": "ugrik",
+            "nl": "springen",
+            "pl": "skakać",
+            "ru": "прыгать",
+            "sv": "hoppa"
+        }
+    ],
+    "pronunciation": [
+        "spä",
+        1
+    ],
+    "infixes": "sp..ä",
+    "type": "v:?"
+}

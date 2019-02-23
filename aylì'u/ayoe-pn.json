@@ -1,0 +1,20 @@
+{
+    "na'vi": "ayoe",
+    "translations": [
+        {
+            "de": "wir (exklusiv)",
+            "en": "we, us (exclusive)",
+            "et": "meie (välistav)",
+            "hu": "mi (kizáró)",
+            "nl": "wij (exclusief)",
+            "pl": "my, nas (wyłączające)",
+            "ru": "мы (эксклюзив)",
+            "sv": "vi, oss (inte du)"
+        }
+    ],
+    "pronunciation": [
+        "ay-o-e",
+        2
+    ],
+    "type": "pn"
+}

@@ -1,0 +1,19 @@
+{
+    "na'vi": "sna'o",
+    "translations": [
+        {
+            "de": "Satz (von Objekten), Gruppe, Haufen, Klumpen, Bestand (von Bäumen)",
+            "en": "set, group, pile, clump, stand",
+            "et": "grupp, kogumik, hulk, kogum (elutu kohta)",
+            "hu": "készlet, csoport, halom, rakás",
+            "nl": "set, groep, stapel, kluit",
+            "pl": "zbiór, grupa, sterta, przedział",
+            "ru": "группа, множество, комплект"
+        }
+    ],
+    "pronunciation": [
+        "sna-'o",
+        1
+    ],
+    "type": "n"
+}

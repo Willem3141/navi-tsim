@@ -1,0 +1,19 @@
+{
+    "na'vi": "kxìm",
+    "translations": [
+        {
+            "de": "befehlen, anordnen, verlangen, anweisen, auftragen, eine Aufgabe zuweisen",
+            "en": "command, order, assign a task",
+            "et": "käskima, määrama",
+            "hu": "parancsol, utasít",
+            "nl": "commanderen, bevelen, taken uitdelen",
+            "ru": "команда, приказ, назначение задания"
+        }
+    ],
+    "pronunciation": [
+        "kxìm",
+        1
+    ],
+    "infixes": "kx..ìm",
+    "type": "v:tr"
+}

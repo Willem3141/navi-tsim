@@ -1,0 +1,21 @@
+{
+    "na'vi": "kllkulat",
+    "translations": [
+        {
+            "de": "aufgraben, ausgraben",
+            "en": "dig up",
+            "et": "kaevama",
+            "hu": "felás",
+            "nl": "opgraven",
+            "pl": "wykopać",
+            "ru": "прокапывать",
+            "sv": "gräva upp"
+        }
+    ],
+    "pronunciation": [
+        "kll-ku-lat",
+        2
+    ],
+    "infixes": "kllk.ul.at",
+    "type": "v:tr"
+}

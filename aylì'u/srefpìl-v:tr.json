@@ -1,0 +1,19 @@
+{
+    "na'vi": "srefpìl",
+    "translations": [
+        {
+            "de": "annehmen",
+            "en": "assume",
+            "et": "eeldama",
+            "hu": "feltételez",
+            "nl": "aannemen",
+            "ru": "подразумевать"
+        }
+    ],
+    "pronunciation": [
+        "sre-fpìl",
+        2
+    ],
+    "infixes": "srefp..ìl",
+    "type": "v:tr"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "hufwe",
+    "translations": [
+        {
+            "de": "Wind",
+            "en": "wind",
+            "et": "tuul",
+            "hu": "szél (szellő)",
+            "nl": "wind",
+            "pl": "wiatr",
+            "ru": "ветер",
+            "sv": "vind"
+        }
+    ],
+    "pronunciation": [
+        "hu-fwe",
+        2
+    ],
+    "type": "n"
+}

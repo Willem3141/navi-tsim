@@ -1,0 +1,19 @@
+{
+    "na'vi": "pehem",
+    "translations": [
+        {
+            "de": "Was? (welche Aktion?)",
+            "en": "what (action)",
+            "et": "mis (tegevus)",
+            "hu": "mi történik? mit csinál?",
+            "nl": "wat, welke (actie)",
+            "pl": "jaka (czynność)",
+            "ru": "прямой вопрос к какомулибо действию, поступку",
+            "sv": "vad för, vilken (handling)"
+        }
+    ],
+    "pronunciation": [
+        "pe-hem",
+        2
+    ]
+}

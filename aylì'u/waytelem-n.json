@@ -1,0 +1,19 @@
+{
+    "na'vi": "waytelem",
+    "translations": [
+        {
+            "de": "Liedkette, Liedband, Band mit bunten Perlen und Steinen als Erinnerung für die Gesangsgeschichte",
+            "en": "song cord",
+            "et": "akord",
+            "hu": "dallam",
+            "nl": "akkoord (muziek)",
+            "ru": "музыкальный аккорд",
+            "sv": "sångackord"
+        }
+    ],
+    "pronunciation": [
+        "way-te-lem",
+        1
+    ],
+    "type": "n"
+}

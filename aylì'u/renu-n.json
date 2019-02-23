@@ -1,0 +1,20 @@
+{
+    "na'vi": "renu",
+    "translations": [
+        {
+            "de": "Muster, Schema",
+            "en": "pattern",
+            "et": "muster",
+            "hu": "minta",
+            "nl": "patroon",
+            "pl": "wzór, wzorzec",
+            "ru": "узор",
+            "sv": "mönster"
+        }
+    ],
+    "pronunciation": [
+        "re-nu",
+        1
+    ],
+    "type": "n"
+}

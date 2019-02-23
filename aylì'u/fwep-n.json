@@ -1,0 +1,18 @@
+{
+    "na'vi": "fwep",
+    "translations": [
+        {
+            "de": "Staub (auf einer Oberfläche)",
+            "en": "dust (on a surface)",
+            "et": "tolm (mingi pinna peal)",
+            "hu": "por (felületen)",
+            "nl": "stof (op een oppervlak)",
+            "ru": "грязь, пыль (на поеверхности)"
+        }
+    ],
+    "pronunciation": [
+        "fwep",
+        1
+    ],
+    "type": "n"
+}

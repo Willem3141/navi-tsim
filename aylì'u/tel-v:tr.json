@@ -1,0 +1,21 @@
+{
+    "na'vi": "tel",
+    "translations": [
+        {
+            "de": "empfangen, erhalten",
+            "en": "receive",
+            "et": "kätte saama, vastu võtma",
+            "hu": "kap",
+            "nl": "ontvangen",
+            "pl": "otrzymywać, dostawać",
+            "ru": "получать, принимать",
+            "sv": "ta emot, få, mottaga"
+        }
+    ],
+    "pronunciation": [
+        "tel",
+        1
+    ],
+    "infixes": "t..el",
+    "type": "v:tr"
+}

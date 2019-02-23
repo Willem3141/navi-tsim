@@ -1,0 +1,19 @@
+{
+    "na'vi": "zir",
+    "translations": [
+        {
+            "de": "Berührung, Gefühl, Beschaffenheit, Textur",
+            "en": "touch, feel, texture",
+            "et": "puudutus, tunne, tekstuur",
+            "hu": "érintés, érzés, textúra",
+            "nl": "gevoel, tekstuur, aanraking",
+            "pl": "tekstura, dotyk",
+            "ru": "текстура"
+        }
+    ],
+    "pronunciation": [
+        "zir",
+        1
+    ],
+    "type": "n"
+}

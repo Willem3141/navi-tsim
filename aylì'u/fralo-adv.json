@@ -1,0 +1,20 @@
+{
+    "na'vi": "fralo",
+    "translations": [
+        {
+            "de": "jedes Mal",
+            "en": "every time, every instance, each time",
+            "et": "iga kord, igal juhul",
+            "hu": "minden alkalommal, minden esetben, minden időben",
+            "nl": "elke keer, elke tijd",
+            "pl": "zawsze, za kazdym razem",
+            "ru": "каждый раз",
+            "sv": "varje gång, varje ögonblick"
+        }
+    ],
+    "pronunciation": [
+        "fra-lo",
+        1
+    ],
+    "type": "adv"
+}

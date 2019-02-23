@@ -1,0 +1,20 @@
+{
+    "na'vi": "mikyun",
+    "translations": [
+        {
+            "de": "Ohr",
+            "en": "ear",
+            "et": "kõrv",
+            "hu": "fül",
+            "nl": "oor",
+            "pl": "ucho",
+            "ru": "ухо",
+            "sv": "öra"
+        }
+    ],
+    "pronunciation": [
+        "mik-yun",
+        1
+    ],
+    "type": "n"
+}

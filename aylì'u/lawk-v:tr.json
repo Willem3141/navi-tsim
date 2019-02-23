@@ -1,0 +1,21 @@
+{
+    "na'vi": "lawk",
+    "translations": [
+        {
+            "de": "über jemanden reden, über etwas reden",
+            "en": "discourse on, talk about, say something concerning",
+            "et": "vestlema, rääkima (millestki)",
+            "hu": "értekezik, beszél valamiről, oda vonatkozót mond",
+            "nl": "praten over, iets zeggen/uitweiden over",
+            "pl": "rozmawiać, dyskutować, rozprawiać",
+            "ru": "дискутировать, высказаться о..",
+            "sv": "samtala om, prata om, säga något angående"
+        }
+    ],
+    "pronunciation": [
+        "lawk",
+        1
+    ],
+    "infixes": "l..awk",
+    "type": "v:tr"
+}

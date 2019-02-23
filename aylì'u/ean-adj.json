@@ -1,0 +1,20 @@
+{
+    "na'vi": "ean",
+    "translations": [
+        {
+            "de": "blau, grün",
+            "en": "blue, green",
+            "et": "sinine, roheline",
+            "hu": "kék, zöld",
+            "nl": "blauw, groen",
+            "pl": "niebieski, zielony",
+            "ru": "синезеленый",
+            "sv": "blå, grön"
+        }
+    ],
+    "pronunciation": [
+        "e-an",
+        1
+    ],
+    "type": "adj"
+}

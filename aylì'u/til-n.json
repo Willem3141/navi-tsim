@@ -1,0 +1,20 @@
+{
+    "na'vi": "til",
+    "translations": [
+        {
+            "de": "Gelenk, Verbindungsstelle",
+            "en": "joint, hinge",
+            "et": "hing, ühenduskoht",
+            "hu": "ízület, zsanér",
+            "nl": "gewricht, scharnier",
+            "pl": "staw",
+            "ru": "подвижное соединение, дверная петля, сустав",
+            "sv": "fog, skrav"
+        }
+    ],
+    "pronunciation": [
+        "til",
+        1
+    ],
+    "type": "n"
+}

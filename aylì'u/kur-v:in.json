@@ -1,0 +1,20 @@
+{
+    "na'vi": "kur",
+    "translations": [
+        {
+            "de": "hängen, aufhängen, anhängen",
+            "en": "hang",
+            "et": "rippuma",
+            "hu": "lóg",
+            "nl": "hangen",
+            "pl": "wisieć",
+            "ru": "висеть"
+        }
+    ],
+    "pronunciation": [
+        "kur",
+        1
+    ],
+    "infixes": "k..ur",
+    "type": "v:in"
+}

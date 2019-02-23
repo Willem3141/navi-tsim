@@ -1,0 +1,19 @@
+{
+    "na'vi": "postì",
+    "translations": [
+        {
+            "de": "Forum/Blogbeitrag",
+            "en": "(forum/blog) post",
+            "et": "postitus (foorumis, blogis)",
+            "hu": "bejegyzés, post",
+            "nl": "artikel (op een forum/blog)",
+            "pl": "post (na forum/blogu)",
+            "ru": "пост (в блоге, на форуме)"
+        }
+    ],
+    "pronunciation": [
+        "po-stì",
+        1
+    ],
+    "type": "n"
+}

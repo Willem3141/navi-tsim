@@ -1,0 +1,21 @@
+{
+    "na'vi": "stä'nì",
+    "translations": [
+        {
+            "de": "fangen, auffangen, erwischen",
+            "en": "catch",
+            "et": "kinni püüdma",
+            "hu": "elkap",
+            "nl": "vangen",
+            "pl": "łapać",
+            "ru": "ловить",
+            "sv": "fånga"
+        }
+    ],
+    "pronunciation": [
+        "stä'-nì",
+        1
+    ],
+    "infixes": "st.ä'n.ì",
+    "type": "v:tr"
+}

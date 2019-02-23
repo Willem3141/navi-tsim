@@ -1,0 +1,20 @@
+{
+    "na'vi": "rolun",
+    "translations": [
+        {
+            "de": "Heureka! Ich hab's!",
+            "en": "Eureka! I've found it!",
+            "et": "Heureka!, Käes!, Üles leidsin!",
+            "hu": "Heuréka! Rájöttem!",
+            "nl": "Eureka!, ik heb het gevonden!",
+            "pl": "Eureka! Odkryłem! Znalazłem!",
+            "ru": "Эврика!",
+            "sv": "Eureka! Jag hittade det!"
+        }
+    ],
+    "pronunciation": [
+        "ro-lun",
+        2
+    ],
+    "type": "intj"
+}

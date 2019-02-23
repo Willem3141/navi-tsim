@@ -1,0 +1,20 @@
+{
+    "na'vi": "atan",
+    "translations": [
+        {
+            "de": "Licht",
+            "en": "light",
+            "et": "valgus",
+            "hu": "fény",
+            "nl": "licht",
+            "pl": "światło",
+            "ru": "свет",
+            "sv": "ljus"
+        }
+    ],
+    "pronunciation": [
+        "a-tan",
+        2
+    ],
+    "type": "n"
+}

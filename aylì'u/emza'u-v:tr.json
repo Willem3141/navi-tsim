@@ -1,0 +1,21 @@
+{
+    "na'vi": "emza'u",
+    "translations": [
+        {
+            "de": "bestehen (einen Test), bewältigen, überwinden",
+            "en": "pass (a test), overcome",
+            "et": "läbima (testi), üle saama",
+            "hu": "kiáll, sikerrel vesz (próbát)",
+            "nl": "halen (bv. een test)",
+            "pl": "zdać (test, egzamin), pokonać (przeszkodę)",
+            "ru": "сдать (экзамен, тест), пройти испытание",
+            "sv": "klara (ett test), överkomma"
+        }
+    ],
+    "pronunciation": [
+        "em-za-'u",
+        2
+    ],
+    "infixes": "emz.a'.u",
+    "type": "v:tr"
+}

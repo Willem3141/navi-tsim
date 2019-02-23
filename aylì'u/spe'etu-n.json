@@ -1,0 +1,20 @@
+{
+    "na'vi": "spe'etu",
+    "translations": [
+        {
+            "de": "Gefangener",
+            "en": "captive",
+            "et": "vangistatu, kinnipeetu",
+            "hu": "fogoly",
+            "nl": "gevangene",
+            "pl": "więzień",
+            "ru": "пленник, пленный",
+            "sv": "fånge"
+        }
+    ],
+    "pronunciation": [
+        "spe-'e-tu",
+        2
+    ],
+    "type": "n"
+}

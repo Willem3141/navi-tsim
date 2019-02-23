@@ -1,0 +1,20 @@
+{
+    "na'vi": "lertu",
+    "translations": [
+        {
+            "de": "Kollege, Mitarbeiter",
+            "en": "colleague",
+            "et": "töökaaslane",
+            "hu": "kolléga",
+            "nl": "collega",
+            "pl": "kolega, koleżanka",
+            "ru": "коллега",
+            "sv": "kollega"
+        }
+    ],
+    "pronunciation": [
+        "ler-tu",
+        1
+    ],
+    "type": "n"
+}

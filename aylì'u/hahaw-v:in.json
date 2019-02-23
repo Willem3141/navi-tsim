@@ -1,0 +1,21 @@
+{
+    "na'vi": "hahaw",
+    "translations": [
+        {
+            "de": "schlafen",
+            "en": "sleep",
+            "et": "magama",
+            "hu": "alszik",
+            "nl": "slapen",
+            "pl": "spać",
+            "ru": "спать",
+            "sv": "sova"
+        }
+    ],
+    "pronunciation": [
+        "ha-haw",
+        1
+    ],
+    "infixes": "h.ah.aw",
+    "type": "v:in"
+}

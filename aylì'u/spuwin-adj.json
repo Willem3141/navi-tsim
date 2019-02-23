@@ -1,0 +1,20 @@
+{
+    "na'vi": "spuwin",
+    "translations": [
+        {
+            "de": "alt, ehemalig",
+            "en": "old, former",
+            "et": "vana, eelnev (elutu kohta)",
+            "hu": "régi , korábbi",
+            "nl": "oud, van voorheen",
+            "pl": "stary, dawny",
+            "ru": "старый, прежний",
+            "sv": "gammal (inte för folk), tidigare"
+        }
+    ],
+    "pronunciation": [
+        "spu-win",
+        1
+    ],
+    "type": "adj"
+}

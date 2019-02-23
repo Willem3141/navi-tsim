@@ -1,0 +1,20 @@
+{
+    "na'vi": "pukap",
+    "translations": [
+        {
+            "de": "sechs",
+            "en": "six",
+            "et": "kuus",
+            "hu": "hat, 6",
+            "nl": "zes",
+            "pl": "sześć",
+            "ru": "шесть",
+            "sv": "sex"
+        }
+    ],
+    "pronunciation": [
+        "pu-kap",
+        1
+    ],
+    "type": "num"
+}

@@ -1,0 +1,21 @@
+{
+    "na'vi": "zerok",
+    "translations": [
+        {
+            "de": "erinnern",
+            "en": "remember",
+            "et": "mäletama, meeles midama",
+            "hu": "emlékezni",
+            "nl": "herinneren",
+            "pl": "pamiętać",
+            "ru": "помнить",
+            "sv": "komma ihåg"
+        }
+    ],
+    "pronunciation": [
+        "ze-rok",
+        1
+    ],
+    "infixes": "z.er.ok",
+    "type": "v:tr"
+}

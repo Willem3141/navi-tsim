@@ -1,0 +1,18 @@
+{
+    "na'vi": "leym",
+    "translations": [
+        {
+            "de": "ausrufen, herausrufen, aufschreien",
+            "en": "call, cry out, exclaim",
+            "et": "hüüdma, karjuma",
+            "hu": "kiált",
+            "nl": "roepen, (uit)schreeuwen"
+        }
+    ],
+    "pronunciation": [
+        "leym",
+        1
+    ],
+    "infixes": "l..eym",
+    "type": "v:in"
+}

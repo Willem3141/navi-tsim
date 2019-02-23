@@ -1,0 +1,21 @@
+{
+    "na'vi": "mll'an",
+    "translations": [
+        {
+            "de": "akzeptieren, annehmen",
+            "en": "accept",
+            "et": "vastu võtma, aktsepteerima",
+            "hu": "elfogad",
+            "nl": "accepteren",
+            "pl": "akceptować",
+            "ru": "принять",
+            "sv": "acceptera"
+        }
+    ],
+    "pronunciation": [
+        "mll-'an",
+        2
+    ],
+    "infixes": "m.ll'.an",
+    "type": "v:tr"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "ulte",
+    "translations": [
+        {
+            "de": "und (verbindet Sätze)",
+            "en": "and (clausal conjunction)",
+            "et": "ja (erinevate lauseosade vahel)",
+            "hu": "és (két mondatot köt össze)",
+            "nl": "en (verbindt zinsdelen)",
+            "pl": "i, a (łaczenie zdań)",
+            "ru": "и (в сложносочинительных предложениях)",
+            "sv": "och (klausulkonjunktion)"
+        }
+    ],
+    "pronunciation": [
+        "ul-te",
+        1
+    ],
+    "type": "conj"
+}

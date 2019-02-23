@@ -1,0 +1,21 @@
+{
+    "na'vi": "rikx",
+    "translations": [
+        {
+            "de": "bewegen, umziehen, Position ändern",
+            "en": "move, shift position",
+            "et": "liikuma, kohta vahetma",
+            "hu": "mozog",
+            "nl": "verplaatsen",
+            "pl": "poruszać się, zmieniać miejsce",
+            "ru": "двигаться, шевелиться, перемещаться",
+            "sv": "flytta, byta position"
+        }
+    ],
+    "pronunciation": [
+        "rikx",
+        1
+    ],
+    "infixes": "r..ikx",
+    "type": "v:in"
+}

@@ -1,0 +1,18 @@
+{
+    "na'vi": "ue'",
+    "translations": [
+        {
+            "de": "sich übergeben, (etwas) erbrechen",
+            "en": "vomit, vomit up",
+            "et": "oksendama",
+            "hu": "hányni",
+            "nl": "braken"
+        }
+    ],
+    "pronunciation": [
+        "ue'",
+        1
+    ],
+    "infixes": ".u.e'",
+    "type": "v:tr"
+}

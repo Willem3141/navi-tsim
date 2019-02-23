@@ -1,0 +1,15 @@
+{
+    "na'vi": "way a plltxe",
+    "translations": [
+        {
+            "de": "gesprochenes Gedicht (i.S. melodische Rezitation)",
+            "en": "spoken poem (as a melodic recital)",
+            "et": "luuletus e. räägitud laul",
+            "hu": "vers szavalás (melodikus elbeszélés)",
+            "nl": "gesproken gedicht (als melodieuze voordracht)",
+            "pl": "recytowany wiersz (deklamacja do melodii)",
+            "ru": "мелодичный речитатив"
+        }
+    ],
+    "type": "phr"
+}

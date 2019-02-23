@@ -1,0 +1,20 @@
+{
+    "na'vi": "tsam",
+    "translations": [
+        {
+            "de": "Krieg",
+            "en": "war",
+            "et": "sõda",
+            "hu": "háború",
+            "nl": "oorlog",
+            "pl": "wojna",
+            "ru": "война",
+            "sv": "krig"
+        }
+    ],
+    "pronunciation": [
+        "tsam",
+        1
+    ],
+    "type": "n"
+}

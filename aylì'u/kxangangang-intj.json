@@ -1,0 +1,20 @@
+{
+    "na'vi": "kxangangang",
+    "translations": [
+        {
+            "de": "Bumm, Knall (Lautmalerei)",
+            "en": "boom (onomatopoeic)",
+            "et": "pauhh, põmm (kõlamaaling)",
+            "hu": "bumm! (hangutánzószó)",
+            "nl": "boem (onomatopee)",
+            "pl": "bum (onomatopeja)",
+            "ru": "бабах (звукоподражание)",
+            "sv": "boom, pang, crash (onomatopoetikon)"
+        }
+    ],
+    "pronunciation": [
+        "kxang-ang-ang",
+        1
+    ],
+    "type": "intj"
+}

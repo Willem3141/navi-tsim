@@ -1,0 +1,20 @@
+{
+    "na'vi": "tsengo",
+    "translations": [
+        {
+            "de": "irgendwo",
+            "en": "somewhere",
+            "et": "kusagil, kuskil kohas",
+            "hu": "valahol",
+            "nl": "ergens",
+            "pl": "gdzieś",
+            "ru": "гдето",
+            "sv": "någonstans"
+        }
+    ],
+    "pronunciation": [
+        "tse-ngo",
+        1
+    ],
+    "type": "pn"
+}

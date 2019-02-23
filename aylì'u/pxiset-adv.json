@@ -1,0 +1,20 @@
+{
+    "na'vi": "pxiset",
+    "translations": [
+        {
+            "de": "jetzt gerade",
+            "en": "right now",
+            "et": "nüüd kohe",
+            "hu": "éppen most, ebben a pillanatban",
+            "nl": "nu meteen, onmiddellijk",
+            "pl": "dokładnie teraz",
+            "ru": "в настоящий момент, прямо сейчас",
+            "sv": "just nu"
+        }
+    ],
+    "pronunciation": [
+        "pxi-set",
+        2
+    ],
+    "type": "adv"
+}

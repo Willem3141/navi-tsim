@@ -1,0 +1,20 @@
+{
+    "na'vi": "yayo",
+    "translations": [
+        {
+            "de": "Vogel",
+            "en": "bird",
+            "et": "lind",
+            "hu": "madár",
+            "nl": "vogel",
+            "pl": "ptak",
+            "ru": "птица",
+            "sv": "fågel"
+        }
+    ],
+    "pronunciation": [
+        "ya-yo",
+        1
+    ],
+    "type": "n"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "mune",
+    "translations": [
+        {
+            "de": "zwei",
+            "en": "two",
+            "et": "kaks",
+            "hu": "kettő, 2",
+            "nl": "twee",
+            "pl": "dwa",
+            "ru": "два",
+            "sv": "två"
+        }
+    ],
+    "pronunciation": [
+        "mu-ne",
+        1
+    ],
+    "type": "num"
+}

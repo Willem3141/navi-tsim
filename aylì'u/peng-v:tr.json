@@ -1,0 +1,21 @@
+{
+    "na'vi": "peng",
+    "translations": [
+        {
+            "de": "erzählen, berichten, sagen",
+            "en": "tell",
+            "et": "ütlema",
+            "hu": "mond",
+            "nl": "vertellen",
+            "pl": "mówić",
+            "ru": "сообщить, рассказать",
+            "sv": "berätta"
+        }
+    ],
+    "pronunciation": [
+        "peng",
+        1
+    ],
+    "infixes": "p..eng",
+    "type": "v:tr"
+}

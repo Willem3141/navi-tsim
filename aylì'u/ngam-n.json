@@ -1,0 +1,19 @@
+{
+    "na'vi": "ngam",
+    "translations": [
+        {
+            "de": "Echo",
+            "en": "echo",
+            "et": "kaja",
+            "hu": "visszhang",
+            "nl": "echo",
+            "pl": "echo",
+            "ru": "эхо"
+        }
+    ],
+    "pronunciation": [
+        "ngam",
+        1
+    ],
+    "type": "n"
+}

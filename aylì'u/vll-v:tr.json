@@ -1,0 +1,20 @@
+{
+    "na'vi": "vll",
+    "translations": [
+        {
+            "de": "hinweisen, (auf etwas) zeigen, weisen, hindeuten",
+            "en": "indicate, point at",
+            "et": "näitama, osutama",
+            "hu": "jelez, mutat",
+            "nl": "aanwijzen",
+            "pl": "oznaczać, wskazywać na",
+            "ru": "указывать"
+        }
+    ],
+    "pronunciation": [
+        "vll",
+        1
+    ],
+    "infixes": "v..ll",
+    "type": "v:tr"
+}

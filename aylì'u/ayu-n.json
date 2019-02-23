@@ -1,0 +1,20 @@
+{
+    "na'vi": "ayu",
+    "translations": [
+        {
+            "de": "Dinge, Sachen",
+            "en": "things",
+            "et": "asjad",
+            "hu": "dolgok",
+            "nl": "dingen",
+            "pl": "rzeczy",
+            "ru": "вещи",
+            "sv": "saker"
+        }
+    ],
+    "pronunciation": [
+        "a-yu",
+        2
+    ],
+    "type": "n"
+}

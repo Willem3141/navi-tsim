@@ -1,0 +1,20 @@
+{
+    "na'vi": "taw",
+    "translations": [
+        {
+            "de": "Himmel",
+            "en": "sky",
+            "et": "taevas",
+            "hu": "ég(bolt)",
+            "nl": "lucht, hemel",
+            "pl": "niebo",
+            "ru": "небо",
+            "sv": "himmel, sky"
+        }
+    ],
+    "pronunciation": [
+        "taw",
+        1
+    ],
+    "type": "n"
+}

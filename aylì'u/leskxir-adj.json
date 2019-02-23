@@ -1,0 +1,20 @@
+{
+    "na'vi": "leskxir",
+    "translations": [
+        {
+            "de": "verwundet",
+            "en": "wounded",
+            "et": "haavatud, vigastatud",
+            "hu": "sebesült",
+            "nl": "gewond",
+            "pl": "ranny",
+            "ru": "раненый",
+            "sv": "sårad, skadad"
+        }
+    ],
+    "pronunciation": [
+        "le-skxir",
+        2
+    ],
+    "type": "adj"
+}

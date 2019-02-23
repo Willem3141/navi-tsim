@@ -1,0 +1,19 @@
+{
+    "na'vi": "spulmokri",
+    "translations": [
+        {
+            "de": "Telefon",
+            "en": "telephone",
+            "et": "telefon",
+            "hu": "telefon",
+            "nl": "telefoon",
+            "pl": "telefon",
+            "ru": "телефон"
+        }
+    ],
+    "pronunciation": [
+        "spul-mok-ri",
+        2
+    ],
+    "type": "n"
+}

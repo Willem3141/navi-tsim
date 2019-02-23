@@ -1,0 +1,21 @@
+{
+    "na'vi": "vin",
+    "translations": [
+        {
+            "de": "anfragen, erbitten, bitten",
+            "en": "request, ask for",
+            "et": "nõudma, küsima, paluma",
+            "hu": "kér",
+            "nl": "verzoek, vragen om",
+            "pl": "prosić, żądać",
+            "ru": "запросить",
+            "sv": "be om, be"
+        }
+    ],
+    "pronunciation": [
+        "vin",
+        1
+    ],
+    "infixes": "v..in",
+    "type": "v:tr"
+}

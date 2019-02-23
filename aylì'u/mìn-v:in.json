@@ -1,0 +1,21 @@
+{
+    "na'vi": "mìn",
+    "translations": [
+        {
+            "de": "rotieren (um eine Achse), wenden",
+            "en": "turn, rotate on an axis",
+            "et": "pöörlema (ümber telje)  Mìn ne ftärpa Keera vasakule",
+            "hu": "(meg)fordul, tengely körül forog",
+            "nl": "draaien, roteren om een as",
+            "pl": "skręcać, obracać",
+            "ru": "поворот",
+            "sv": "vända"
+        }
+    ],
+    "pronunciation": [
+        "mìn",
+        1
+    ],
+    "infixes": "m..ìn",
+    "type": "v:in"
+}

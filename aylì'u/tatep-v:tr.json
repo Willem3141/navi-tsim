@@ -1,0 +1,21 @@
+{
+    "na'vi": "tatep",
+    "translations": [
+        {
+            "de": "(aus den Augen) verlieren",
+            "en": "lose track, lose awareness of something",
+            "et": "tähelepanu kaotama, mõtet kaotama",
+            "hu": "(el)veszít",
+            "nl": "de draad kwijtraken",
+            "pl": "gubić ślad, tracić świadomośc czegoś",
+            "ru": "терять",
+            "sv": "tappa bort, förlora ur sikte"
+        }
+    ],
+    "pronunciation": [
+        "ta-tep",
+        1
+    ],
+    "infixes": "t.at.ep",
+    "type": "v:tr"
+}

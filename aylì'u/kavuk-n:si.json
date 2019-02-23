@@ -1,0 +1,20 @@
+{
+    "na'vi": "kavuk",
+    "translations": [
+        {
+            "de": "betrügen, verraten",
+            "en": "betray",
+            "et": "reetma",
+            "hu": "elárul, hátba támad",
+            "nl": "verraden",
+            "pl": "zdradzać",
+            "ru": "предавать",
+            "sv": "förråda"
+        }
+    ],
+    "pronunciation": [
+        "ka-vuk",
+        2
+    ],
+    "type": "n:si"
+}

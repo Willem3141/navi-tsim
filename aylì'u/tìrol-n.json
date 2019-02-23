@@ -1,0 +1,20 @@
+{
+    "na'vi": "tìrol",
+    "translations": [
+        {
+            "de": "Lied, Song, Gesang",
+            "en": "song (vocal)",
+            "et": "laul (vokaalne)",
+            "hu": "dal, ének",
+            "nl": "lied (vocaal)",
+            "pl": "pieśń",
+            "ru": "песня",
+            "sv": "sång (vokal)"
+        }
+    ],
+    "pronunciation": [
+        "tì-rol",
+        2
+    ],
+    "type": "n"
+}

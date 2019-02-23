@@ -1,0 +1,21 @@
+{
+    "na'vi": "krrnekx",
+    "translations": [
+        {
+            "de": "dauern, Zeit brauchen (ii)",
+            "en": "take/consume time (ii)",
+            "et": "aega võtma/nõudma (e)",
+            "hu": "időt vesz igénybe (ii)",
+            "nl": "tijd verbruiken",
+            "pl": "zajmować czas (ii)",
+            "ru": "требовать времени",
+            "sv": "ta tid, konsumera tid"
+        }
+    ],
+    "pronunciation": [
+        "krr-nekx",
+        2
+    ],
+    "infixes": "krrn..ekx",
+    "type": "v:in"
+}

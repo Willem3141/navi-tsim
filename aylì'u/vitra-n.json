@@ -1,0 +1,20 @@
+{
+    "na'vi": "vitra",
+    "translations": [
+        {
+            "de": "Seele",
+            "en": "soul",
+            "et": "hing",
+            "hu": "lélek",
+            "nl": "ziel",
+            "pl": "dusza",
+            "ru": "душа",
+            "sv": "själ"
+        }
+    ],
+    "pronunciation": [
+        "vit-ra",
+        2
+    ],
+    "type": "n"
+}

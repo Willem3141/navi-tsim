@@ -1,0 +1,19 @@
+{
+    "na'vi": "ropx",
+    "translations": [
+        {
+            "de": "Loch (durchgängig durch ein Objekt)",
+            "en": "hole (going clear through an object)",
+            "et": "auk (täielikult läbistav)",
+            "hu": "lyuk (átmenő) ",
+            "nl": "gat (gaat dwars door object heen)",
+            "pl": "dziura (na wylot)",
+            "ru": "отверстие"
+        }
+    ],
+    "pronunciation": [
+        "ropx",
+        1
+    ],
+    "type": "n"
+}

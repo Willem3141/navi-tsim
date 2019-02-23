@@ -1,0 +1,21 @@
+{
+    "na'vi": "slu",
+    "translations": [
+        {
+            "de": "werden (Prädikat mit ne in mehrdeutigen Konstruktionen)",
+            "en": "become (noun predicate with ne in ambiguous constructions)",
+            "et": "saama (kellekski, millekski) (kahemõttelistel juhtudel kasutatakse saavaks käändeks abisõna ne",
+            "hu": "válik (valamivé)",
+            "nl": "worden (zn. predicaat met ne in dubbelzinnige constructies)",
+            "pl": "stawać się (w sytuacjach niejednoznacznych rzeczownik poprzedzony partykułą ne) ",
+            "ru": "становиться",
+            "sv": "bli (substantivs predikat med ne i tvetydiga konstruktioner)"
+        }
+    ],
+    "pronunciation": [
+        "slu",
+        1
+    ],
+    "infixes": "sl..u",
+    "type": "v:in"
+}

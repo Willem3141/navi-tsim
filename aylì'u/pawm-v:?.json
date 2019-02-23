@@ -1,0 +1,21 @@
+{
+    "na'vi": "pawm",
+    "translations": [
+        {
+            "de": "fragen",
+            "en": "ask",
+            "et": "küsima",
+            "hu": "kérdez",
+            "nl": "vragen",
+            "pl": "pytać, prosić",
+            "ru": "просить, спрашивать",
+            "sv": "fråga"
+        }
+    ],
+    "pronunciation": [
+        "pawm",
+        1
+    ],
+    "infixes": "p..awm",
+    "type": "v:?"
+}

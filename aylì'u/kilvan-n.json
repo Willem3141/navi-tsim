@@ -1,0 +1,20 @@
+{
+    "na'vi": "kilvan",
+    "translations": [
+        {
+            "de": "Fluss",
+            "en": "river",
+            "et": "jõgi",
+            "hu": "folyó",
+            "nl": "rivier",
+            "pl": "rzeka",
+            "ru": "река",
+            "sv": "flod"
+        }
+    ],
+    "pronunciation": [
+        "kil-van",
+        2
+    ],
+    "type": "n"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "kelsar",
+    "translations": [
+        {
+            "de": "unbrauchbar, nutzlos, vergeblich",
+            "en": "useless,  in vain",
+            "et": "mõttetu, kasutu",
+            "hu": "haszontalan, hiábavaló",
+            "nl": "nutteloos",
+            "pl": "bezużyteczny, nieprzydatny",
+            "ru": "бесполезный",
+            "sv": "onödig, värdelös"
+        }
+    ],
+    "pronunciation": [
+        "kel-sar",
+        2
+    ],
+    "type": "adj"
+}

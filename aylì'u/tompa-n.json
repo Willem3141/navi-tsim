@@ -1,0 +1,20 @@
+{
+    "na'vi": "tompa",
+    "translations": [
+        {
+            "de": "Regen",
+            "en": "rain",
+            "et": "vihm",
+            "hu": "eső",
+            "nl": "regen",
+            "pl": "deszcz",
+            "ru": "дождь",
+            "sv": "regn"
+        }
+    ],
+    "pronunciation": [
+        "tom-pa",
+        1
+    ],
+    "type": "n"
+}

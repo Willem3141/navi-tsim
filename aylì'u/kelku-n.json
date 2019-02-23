@@ -1,0 +1,20 @@
+{
+    "na'vi": "kelku",
+    "translations": [
+        {
+            "de": "Heim, Heimat, Zuhause, Haus",
+            "en": "home, house",
+            "et": "kodu, maja",
+            "hu": "otthon, ház",
+            "nl": "thuis, huis",
+            "pl": "dom",
+            "ru": "дом",
+            "sv": "hus, hem"
+        }
+    ],
+    "pronunciation": [
+        "kel-ku",
+        1
+    ],
+    "type": "n"
+}

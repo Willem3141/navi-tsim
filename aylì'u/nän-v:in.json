@@ -1,0 +1,20 @@
+{
+    "na'vi": "nän",
+    "translations": [
+        {
+            "de": "abnehmen, vermindern, sinken, abfallen",
+            "en": "decrease",
+            "et": "vähendama",
+            "hu": "csökkent",
+            "nl": "verlagen, verminderen",
+            "pl": "zmniejszać",
+            "ru": "уменьшить"
+        }
+    ],
+    "pronunciation": [
+        "nän",
+        1
+    ],
+    "infixes": "n..än",
+    "type": "v:in"
+}

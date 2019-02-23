@@ -1,0 +1,20 @@
+{
+    "na'vi": "tsenge",
+    "translations": [
+        {
+            "de": "Platz, Ort",
+            "en": "place",
+            "et": "koht",
+            "hu": "hely",
+            "nl": "plaats",
+            "pl": "miejsce",
+            "ru": "место",
+            "sv": "plats"
+        }
+    ],
+    "pronunciation": [
+        "tse-nge",
+        1
+    ],
+    "type": "n"
+}

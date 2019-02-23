@@ -1,0 +1,20 @@
+{
+    "na'vi": "'ìp",
+    "translations": [
+        {
+            "de": "verschwinden, aus der Sicht verschwinden",
+            "en": "disappear, vanish, recede from view",
+            "et": "kaduma, haihtuma, vaateväljast lahkuma",
+            "hu": "eltűnik, elvész (szem elől)",
+            "nl": "verdwijnen, uit zicht verdwijnen",
+            "pl": "znikać",
+            "ru": "убрать из виду"
+        }
+    ],
+    "pronunciation": [
+        "'ìp",
+        1
+    ],
+    "infixes": "'..ìp",
+    "type": "v:in"
+}

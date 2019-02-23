@@ -1,0 +1,21 @@
+{
+    "na'vi": "hawl",
+    "translations": [
+        {
+            "de": "vorbereiten",
+            "en": "prepare",
+            "et": "(ette) valmistama",
+            "hu": "készül(ődik)",
+            "nl": "voorbereiden",
+            "pl": "szykować",
+            "ru": "готовить, подготавливать",
+            "sv": "förbereda"
+        }
+    ],
+    "pronunciation": [
+        "hawl",
+        1
+    ],
+    "infixes": "h..awl",
+    "type": "v:tr"
+}

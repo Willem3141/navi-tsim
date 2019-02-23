@@ -1,0 +1,19 @@
+{
+    "na'vi": "slär",
+    "translations": [
+        {
+            "de": "Höhle",
+            "en": "cave",
+            "et": "koobas",
+            "hu": "barlang",
+            "nl": "grot",
+            "pl": "jaskinia",
+            "ru": "пещера"
+        }
+    ],
+    "pronunciation": [
+        "slär",
+        1
+    ],
+    "type": "n"
+}

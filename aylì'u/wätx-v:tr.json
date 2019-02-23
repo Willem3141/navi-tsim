@@ -1,0 +1,21 @@
+{
+    "na'vi": "wätx",
+    "translations": [
+        {
+            "de": "schlecht sein in etwas",
+            "en": "be bad at",
+            "et": "halb olema (milleski)",
+            "hu": "rossz valamiben",
+            "nl": "slecht zijn in",
+            "pl": "być złym w czymś",
+            "ru": "непригодность для",
+            "sv": "vara dålig på"
+        }
+    ],
+    "pronunciation": [
+        "wätx",
+        1
+    ],
+    "infixes": "w..ätx",
+    "type": "v:tr"
+}

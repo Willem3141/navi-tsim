@@ -1,0 +1,21 @@
+{
+    "na'vi": "sulìn",
+    "translations": [
+        {
+            "de": "beschäftigt sein (positiv), in etwas vertieft sein, das man besonders gern macht",
+            "en": "be busy (positive sense), be engrossed in something one finds especially pleasant and energizing",
+            "et": "hõivatud olema (heas mõttes); olema keskendunud millelegi, mis on rahustav ja huvi pakkuv",
+            "hu": "elfoglalt(nak lenni) (pozitív értelemben), elmélyed valamiben, amit különösen kellemesnek talál",
+            "nl": "bezig zijn (positief), iets doen wat je leuk en opwekkend vindt",
+            "pl": "być zajętym (w pozytywnym znaczeniu), być pochłoniętym czymś interesującym i pasonującym",
+            "ru": "быть занятым (в позитивном смысле), быть поглощенным чемто увлекательным",
+            "sv": "vara upptagen (på ett positivt sätt): hålla på med något som anses vara särskilt roligt och njutbart"
+        }
+    ],
+    "pronunciation": [
+        "su-lìn",
+        1
+    ],
+    "infixes": "s.ul.ìn",
+    "type": "v:in"
+}

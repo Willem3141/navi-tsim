@@ -1,0 +1,20 @@
+{
+    "na'vi": "vospxì",
+    "translations": [
+        {
+            "de": "Monat",
+            "en": "month",
+            "et": "kuu",
+            "hu": "hónap",
+            "nl": "maand",
+            "pl": "miesiąc",
+            "ru": "месяц",
+            "sv": "månad"
+        }
+    ],
+    "pronunciation": [
+        "vo-spxì",
+        2
+    ],
+    "type": "n"
+}

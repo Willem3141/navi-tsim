@@ -1,0 +1,21 @@
+{
+    "na'vi": "'ampi",
+    "translations": [
+        {
+            "de": "berühren",
+            "en": "touch",
+            "et": "katsuma, puutuma",
+            "hu": "(meg)érint",
+            "nl": "aanraken",
+            "pl": "dotykać",
+            "ru": "трогать",
+            "sv": "beröra"
+        }
+    ],
+    "pronunciation": [
+        "'am-pi",
+        1
+    ],
+    "infixes": "'.amp.i",
+    "type": "v:tr"
+}

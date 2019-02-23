@@ -1,0 +1,20 @@
+{
+    "na'vi": "eampin",
+    "translations": [
+        {
+            "de": "Blau, Grün",
+            "en": "blue, green",
+            "et": "sinine, roheline",
+            "hu": "kék/zöld szín",
+            "nl": "blauw, groen",
+            "pl": "niebieski, zielony",
+            "ru": "голубой, зеленый",
+            "sv": "blå, grön"
+        }
+    ],
+    "pronunciation": [
+        "e-am-pin",
+        1
+    ],
+    "type": "n"
+}

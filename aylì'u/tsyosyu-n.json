@@ -1,0 +1,20 @@
+{
+    "na'vi": "tsyosyu",
+    "translations": [
+        {
+            "de": "Essen, Nahrung (aus Mehl)",
+            "en": "food made from flour",
+            "et": "jahust tehtud toit",
+            "hu": "lisztből készült étel",
+            "nl": "eten gemaakt van meel",
+            "pl": "produkty mączne, żywność produkowana z mąki",
+            "ru": "приготовленная из муки еда",
+            "sv": "mat gjord av mjöl"
+        }
+    ],
+    "pronunciation": [
+        "tsyo-syu",
+        1
+    ],
+    "type": "n"
+}

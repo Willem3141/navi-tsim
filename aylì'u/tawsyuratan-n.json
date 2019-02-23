@@ -1,0 +1,19 @@
+{
+    "na'vi": "tawsyuratan",
+    "translations": [
+        {
+            "de": "Aurora, Polarlicht",
+            "en": "aurora",
+            "et": "virmalised",
+            "hu": "sarkifény",
+            "nl": "aurora, noorderlicht",
+            "pl": "jutrzenka",
+            "ru": "заря"
+        }
+    ],
+    "pronunciation": [
+        "taw-syu-ra-tan",
+        3
+    ],
+    "type": "n"
+}

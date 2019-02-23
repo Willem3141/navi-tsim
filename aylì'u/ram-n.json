@@ -1,0 +1,20 @@
+{
+    "na'vi": "ram",
+    "translations": [
+        {
+            "de": "Berg, Gebirge",
+            "en": "mountain",
+            "et": "mägi",
+            "hu": "hegy",
+            "nl": "berg",
+            "pl": "góra, wzgórze",
+            "ru": "гора",
+            "sv": "berg"
+        }
+    ],
+    "pronunciation": [
+        "ram",
+        1
+    ],
+    "type": "n"
+}

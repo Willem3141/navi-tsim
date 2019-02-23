@@ -1,0 +1,21 @@
+{
+    "na'vi": "terkup",
+    "translations": [
+        {
+            "de": "sterben, umkommen",
+            "en": "die",
+            "et": "surema",
+            "hu": "meghal",
+            "nl": "doodgaan",
+            "pl": "umrzeć",
+            "ru": "умирать",
+            "sv": "dö"
+        }
+    ],
+    "pronunciation": [
+        "ter-kup",
+        1
+    ],
+    "infixes": "t.erk.up",
+    "type": "v:in"
+}

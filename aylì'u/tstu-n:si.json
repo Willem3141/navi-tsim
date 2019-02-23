@@ -1,0 +1,20 @@
+{
+    "na'vi": "tstu",
+    "translations": [
+        {
+            "de": "schließen, zumachen, enden, sperren",
+            "en": "close",
+            "et": "sulgema",
+            "hu": "bezárni",
+            "nl": "sluiten",
+            "pl": "zamykać się",
+            "ru": "закрывать",
+            "sv": "stänga"
+        }
+    ],
+    "pronunciation": [
+        "tstu",
+        1
+    ],
+    "type": "n:si"
+}

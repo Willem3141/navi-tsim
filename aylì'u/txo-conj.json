@@ -1,0 +1,20 @@
+{
+    "na'vi": "txo",
+    "translations": [
+        {
+            "de": "wenn, falls",
+            "en": "if",
+            "et": "kui, juhul kui, kas",
+            "hu": "ha",
+            "nl": "als, wanneer",
+            "pl": "jeżeli, jeśli",
+            "ru": "если",
+            "sv": "om"
+        }
+    ],
+    "pronunciation": [
+        "txo",
+        1
+    ],
+    "type": "conj"
+}

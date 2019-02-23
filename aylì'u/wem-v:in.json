@@ -1,0 +1,21 @@
+{
+    "na'vi": "wem",
+    "translations": [
+        {
+            "de": "kämpfen, sich streiten",
+            "en": "fight",
+            "et": "võitlema, kaklema",
+            "hu": "harcolni, küzdeni",
+            "nl": "vechten",
+            "pl": "walczyć",
+            "ru": "драться, воевать",
+            "sv": "slåss"
+        }
+    ],
+    "pronunciation": [
+        "wem",
+        1
+    ],
+    "infixes": "w..em",
+    "type": "v:in"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "tewti",
+    "translations": [
+        {
+            "de": "Wow, Hey, Ausruf von Überraschung und Freude",
+            "en": "wow, expression of surprise and pleasure",
+            "et": "Ohsaa! väljendab üllatust või rahulolu",
+            "hu": "gesz. hűha! nahát!",
+            "nl": "wow, uitroep van verrassing en plezier",
+            "pl": "ojej, wyrażenie pozytywnego zaskoczenia",
+            "ru": "ого!, ух ты!, выражение приятного удивления",
+            "sv": "wow!, uttryck av överraskning och nöje"
+        }
+    ],
+    "pronunciation": [
+        "tew-ti",
+        1
+    ],
+    "type": "intj"
+}

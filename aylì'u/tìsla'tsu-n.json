@@ -1,0 +1,20 @@
+{
+    "na'vi": "tìsla'tsu",
+    "translations": [
+        {
+            "de": "Beschreibung",
+            "en": "description",
+            "et": "kirjeldus",
+            "hu": "leírás",
+            "nl": "omschrijving",
+            "pl": "opis",
+            "ru": "описание",
+            "sv": "beskrivning"
+        }
+    ],
+    "pronunciation": [
+        "tì-sla'-tsu",
+        2
+    ],
+    "type": "n"
+}

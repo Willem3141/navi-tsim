@@ -1,0 +1,15 @@
+{
+    "na'vi": "way a rol",
+    "translations": [
+        {
+            "de": "gesungenes Gedicht",
+            "en": "sung poem",
+            "et": "lauldud laul",
+            "hu": "vers éneklés",
+            "nl": "gezongen gedicht",
+            "pl": "poezja śpiewana",
+            "ru": "песенная поэма"
+        }
+    ],
+    "type": "phr"
+}

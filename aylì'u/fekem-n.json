@@ -1,0 +1,20 @@
+{
+    "na'vi": "fekem",
+    "translations": [
+        {
+            "de": "Unfall",
+            "en": "accident",
+            "et": "õnnetus",
+            "hu": "baleset",
+            "nl": "ongeluk",
+            "pl": "wypadek",
+            "ru": "катастрофа, несчастье",
+            "sv": "olycka"
+        }
+    ],
+    "pronunciation": [
+        "fe-kem",
+        1
+    ],
+    "type": "n"
+}

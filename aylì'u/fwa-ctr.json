@@ -1,0 +1,20 @@
+{
+    "na'vi": "fwa",
+    "translations": [
+        {
+            "de": "dass (NebensatzMarker)",
+            "en": "that (subordinate clause marker)",
+            "et": "see, mis (kõrvallause märkija)",
+            "hu": "az, hogy (alárendelő mellékmondat kötőszava)",
+            "nl": "dat (gesubordineerd zinsdeel markeerder)",
+            "pl": "który",
+            "ru": "тот (который или что) (маркер относительного выражения)",
+            "sv": "att,  (klausul bisatsmarkör)"
+        }
+    ],
+    "pronunciation": [
+        "fwa",
+        1
+    ],
+    "type": "ctr"
+}

@@ -1,0 +1,21 @@
+{
+    "na'vi": "lonu",
+    "translations": [
+        {
+            "de": "freilassen, befreien, gehen lassen",
+            "en": "release, let go",
+            "et": "vabastama, lahti laskma",
+            "hu": "elereszt",
+            "nl": "loslaten",
+            "pl": "uwolnić, osowobodzić",
+            "ru": "освобождать, отпускать, выпускать",
+            "sv": "släppa, släppa fri, låta gå"
+        }
+    ],
+    "pronunciation": [
+        "lo-nu",
+        2
+    ],
+    "infixes": "l.on.u",
+    "type": "v:tr"
+}

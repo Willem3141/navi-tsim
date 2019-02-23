@@ -1,0 +1,20 @@
+{
+    "na'vi": "tsampongu",
+    "translations": [
+        {
+            "de": "Kriegspartei, Gruppe von Kriegern",
+            "en": "war party",
+            "et": "sõjakamp",
+            "hu": "háborús csapat",
+            "nl": "oorlogsgroep",
+            "pl": "oddział (jednostka wojskowa)",
+            "ru": "отряд воинов",
+            "sv": "krigsparti, grupp av krigare"
+        }
+    ],
+    "pronunciation": [
+        "tsam-po-ngu",
+        1
+    ],
+    "type": "n"
+}

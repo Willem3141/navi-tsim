@@ -1,0 +1,20 @@
+{
+    "na'vi": "kunsìp",
+    "translations": [
+        {
+            "de": "Hubschrauber (Waffenschiff)",
+            "en": "gunship",
+            "et": "lahingulaev",
+            "hu": "harci helikopter",
+            "nl": "gevechtsvliegtuig",
+            "pl": "śmigłowiec szturmowy",
+            "ru": "ударный вертолёт",
+            "sv": "flygvapen"
+        }
+    ],
+    "pronunciation": [
+        "kun-sìp",
+        1
+    ],
+    "type": "n"
+}

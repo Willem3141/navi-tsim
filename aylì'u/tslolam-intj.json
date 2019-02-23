@@ -1,0 +1,20 @@
+{
+    "na'vi": "tslolam",
+    "translations": [
+        {
+            "de": "verstehe, Ich verstehe",
+            "en": "get it, I understand",
+            "et": "sain aru! arusaadav",
+            "hu": "Értem! (indulatszó)",
+            "nl": "begrepen, ik snap het",
+            "pl": "rozumiem, jasne",
+            "ru": "понятно, ясно (в качестве реплики)",
+            "sv": "jag fattar, jag förstår"
+        }
+    ],
+    "pronunciation": [
+        "tslo-lam",
+        2
+    ],
+    "type": "intj"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "'ul",
+    "translations": [
+        {
+            "de": "ansteigen, vermehren, erhöhen, steigern",
+            "en": "increase",
+            "et": "suurendama",
+            "hu": "növel",
+            "nl": "verhogen, vermeerderen",
+            "pl": "zwiększać",
+            "ru": "увеличить"
+        }
+    ],
+    "pronunciation": [
+        "'ul",
+        1
+    ],
+    "infixes": "'..ul",
+    "type": "v:in"
+}

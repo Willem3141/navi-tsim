@@ -1,0 +1,21 @@
+{
+    "na'vi": "zenke",
+    "translations": [
+        {
+            "de": "nicht dürfen (ii)",
+            "en": "must not (ii)",
+            "et": "mitte tohtima (e)",
+            "hu": "tilos, nem szabad",
+            "nl": "niet moeten (ii)",
+            "pl": "nie móc, nie wolno (ii)",
+            "ru": "модальный глагол долженствования с отрицанием (не должен)",
+            "sv": "få inte"
+        }
+    ],
+    "pronunciation": [
+        "zen-ke",
+        1
+    ],
+    "infixes": "z..enke",
+    "type": "v:m"
+}

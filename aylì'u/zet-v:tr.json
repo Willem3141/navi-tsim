@@ -1,0 +1,20 @@
+{
+    "na'vi": "zet",
+    "translations": [
+        {
+            "de": "behandeln als, behandeln wie, eine Einstellung zu etwas zeigen",
+            "en": "treat (emotionally), display an attitude towards",
+            "et": "kohtlema, hoiakut üles näitama",
+            "hu": "tart, kezel (érzelmileg), viselkedik valakivel szemben",
+            "nl": "gedragen (emotioneel), een air hebben jegens",
+            "pl": "okazywać uczucie",
+            "ru": "относиться, показывать отношение к"
+        }
+    ],
+    "pronunciation": [
+        "zet",
+        1
+    ],
+    "infixes": "z..et",
+    "type": "v:tr"
+}

@@ -1,0 +1,21 @@
+{
+    "na'vi": "frrfen",
+    "translations": [
+        {
+            "de": "besuchen",
+            "en": "visit",
+            "et": "külastama",
+            "hu": "(meg)látogat",
+            "nl": "bezoeken",
+            "pl": "odwiedzać",
+            "ru": "навещать, посещать",
+            "sv": "besöka"
+        }
+    ],
+    "pronunciation": [
+        "frr-fen",
+        1
+    ],
+    "infixes": "f.rrf.en",
+    "type": "v:tr"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "fwi",
+    "translations": [
+        {
+            "de": "schlittern, rutschen",
+            "en": "slip, slide",
+            "et": "(käest) libisema",
+            "hu": "csúszik, siklik",
+            "nl": "uitglijden, glijden",
+            "pl": "ślizgać się, sunąć",
+            "ru": "скользить"
+        }
+    ],
+    "pronunciation": [
+        "fwi",
+        1
+    ],
+    "infixes": "fw..i",
+    "type": "v:in"
+}

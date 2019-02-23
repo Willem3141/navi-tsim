@@ -1,0 +1,18 @@
+{
+    "na'vi": "nip",
+    "translations": [
+        {
+            "de": "feststecken, in etwas festhängen",
+            "en": "become stuck, get caught in something",
+            "et": "kinni jääma",
+            "hu": "beszorul, beragad",
+            "nl": "vast komen te zitten, ergens in gevangen raken"
+        }
+    ],
+    "pronunciation": [
+        "nip",
+        1
+    ],
+    "infixes": "n..ip",
+    "type": "v:in"
+}

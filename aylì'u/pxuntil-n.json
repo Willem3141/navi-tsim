@@ -1,0 +1,20 @@
+{
+    "na'vi": "pxuntil",
+    "translations": [
+        {
+            "de": "Ellbogen",
+            "en": "elbow",
+            "et": "küünarnukk",
+            "hu": "könyök",
+            "nl": "elleboog",
+            "pl": "łokieć",
+            "ru": "локоть",
+            "sv": "armbåge"
+        }
+    ],
+    "pronunciation": [
+        "pxun-til",
+        1
+    ],
+    "type": "n"
+}

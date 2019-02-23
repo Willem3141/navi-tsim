@@ -1,0 +1,21 @@
+{
+    "na'vi": "yom",
+    "translations": [
+        {
+            "de": "essen, speisen, fressen",
+            "en": "eat",
+            "et": "sööma",
+            "hu": "eszik",
+            "nl": "eten",
+            "pl": "jeść",
+            "ru": "есть, поглощать, поедать",
+            "sv": "äta"
+        }
+    ],
+    "pronunciation": [
+        "yom",
+        1
+    ],
+    "infixes": "y..om",
+    "type": "v:tr"
+}

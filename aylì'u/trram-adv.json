@@ -1,0 +1,20 @@
+{
+    "na'vi": "trram",
+    "translations": [
+        {
+            "de": "gestern",
+            "en": "yesterday",
+            "et": "eile",
+            "hu": "tegnap",
+            "nl": "gisteren",
+            "pl": "wczoraj",
+            "ru": "вчера",
+            "sv": "igår"
+        }
+    ],
+    "pronunciation": [
+        "trr-am",
+        2
+    ],
+    "type": "adv"
+}

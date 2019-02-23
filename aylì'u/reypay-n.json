@@ -1,0 +1,20 @@
+{
+    "na'vi": "reypay",
+    "translations": [
+        {
+            "de": "Blut",
+            "en": "blood",
+            "et": "veri",
+            "hu": "vér",
+            "nl": "bloed",
+            "pl": "krew",
+            "ru": "кровь",
+            "sv": "blod"
+        }
+    ],
+    "pronunciation": [
+        "rey-pay",
+        1
+    ],
+    "type": "n"
+}

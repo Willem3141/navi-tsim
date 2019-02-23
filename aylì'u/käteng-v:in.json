@@ -1,0 +1,21 @@
+{
+    "na'vi": "käteng",
+    "translations": [
+        {
+            "de": "Zeit verbringen",
+            "en": "spend time with, hang out with",
+            "et": "aega veetma, koos olema",
+            "hu": "időt tölteni, „lógni” valakivel",
+            "nl": "samen zijn met",
+            "pl": "spędzać czas ze sobą, spotykać się",
+            "ru": "тратить время на",
+            "sv": "spendera tid med, hänga med"
+        }
+    ],
+    "pronunciation": [
+        "kä-teng",
+        1
+    ],
+    "infixes": "k..äteng",
+    "type": "v:in"
+}

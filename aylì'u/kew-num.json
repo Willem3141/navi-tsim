@@ -1,0 +1,20 @@
+{
+    "na'vi": "kew",
+    "translations": [
+        {
+            "de": "Null, '0'",
+            "en": "zero",
+            "et": "null, sümbol 0",
+            "hu": "nulla, 0",
+            "nl": "nul",
+            "pl": "zero",
+            "ru": "ноль",
+            "sv": "noll"
+        }
+    ],
+    "pronunciation": [
+        "kew",
+        1
+    ],
+    "type": "num"
+}

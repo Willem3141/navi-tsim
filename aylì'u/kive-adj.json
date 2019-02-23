@@ -1,0 +1,20 @@
+{
+    "na'vi": "kive",
+    "translations": [
+        {
+            "de": "siebente/r/s (Ordnungszahl)",
+            "en": "seventh (ordinal)",
+            "et": "seitsmes",
+            "hu": "hetedik (sorszámnév)",
+            "nl": "zevende (rangtelwoord)",
+            "pl": "siódmy",
+            "ru": "седьмой",
+            "sv": "sjunde (ordningstal)"
+        }
+    ],
+    "pronunciation": [
+        "ki-ve",
+        1
+    ],
+    "type": "adj"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "miktsang",
+    "translations": [
+        {
+            "de": "Ohrring",
+            "en": "earring",
+            "et": "kõrvarõngas",
+            "hu": "fülbevaló",
+            "nl": "oorbel",
+            "pl": "kolczyk (w uchu)",
+            "ru": "серьга",
+            "sv": "örhänge"
+        }
+    ],
+    "pronunciation": [
+        "mik-tsang",
+        1
+    ],
+    "type": "n"
+}

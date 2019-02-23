@@ -1,0 +1,20 @@
+{
+    "na'vi": "sre'",
+    "translations": [
+        {
+            "de": "Zahn",
+            "en": "tooth",
+            "et": "hammas",
+            "hu": "fog (testrész)",
+            "nl": "tand",
+            "pl": "ząb",
+            "ru": "зуб",
+            "sv": "tand"
+        }
+    ],
+    "pronunciation": [
+        "sre'",
+        1
+    ],
+    "type": "n"
+}

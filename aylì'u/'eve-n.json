@@ -1,0 +1,20 @@
+{
+    "na'vi": "'eve",
+    "translations": [
+        {
+            "de": "Mädchen (umgangssprachlich)",
+            "en": "girl (colloquial)",
+            "et": "tüdruk (kõnekeelne)",
+            "hu": "lány (köznapi)",
+            "nl": "meisje (spreektaal)",
+            "pl": "dziewczyna (potocznie)",
+            "ru": "девочка (разг.)",
+            "sv": "flicka (vardagligt)"
+        }
+    ],
+    "pronunciation": [
+        "'e-ve",
+        1
+    ],
+    "type": "n"
+}

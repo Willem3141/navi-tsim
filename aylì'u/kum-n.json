@@ -1,0 +1,19 @@
+{
+    "na'vi": "kum",
+    "translations": [
+        {
+            "de": "Ergebnis, Resultat",
+            "en": "result",
+            "et": "tulemus, järeldus",
+            "hu": "eredmény",
+            "nl": "resultaat",
+            "pl": "wynik, rezultat",
+            "ru": "результат"
+        }
+    ],
+    "pronunciation": [
+        "kum",
+        1
+    ],
+    "type": "n"
+}

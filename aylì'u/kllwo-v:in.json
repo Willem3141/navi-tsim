@@ -1,0 +1,20 @@
+{
+    "na'vi": "kllwo",
+    "translations": [
+        {
+            "de": "landen (Vorgang), niedersinken, herabsinken",
+            "en": "alight, land (process of)",
+            "et": "maanduma (protsess)",
+            "hu": "leszáll, földet ér",
+            "nl": "landen, neerkomen (het proces van)",
+            "pl": "ladować",
+            "ru": "снижение"
+        }
+    ],
+    "pronunciation": [
+        "kll-wo",
+        2
+    ],
+    "infixes": "kllw..o",
+    "type": "v:in"
+}

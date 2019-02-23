@@ -1,0 +1,19 @@
+{
+    "na'vi": "loran",
+    "translations": [
+        {
+            "de": "Eleganz, Grazie, Anmut, Liebreiz",
+            "en": "elegance, grace",
+            "et": "graatsilisus, elegantsus",
+            "hu": "elegancia, kecsesség, báj",
+            "nl": "elegantie, gratie",
+            "pl": "gracja, elegancja",
+            "ru": "изящество"
+        }
+    ],
+    "pronunciation": [
+        "lo-ran",
+        1
+    ],
+    "type": "n"
+}

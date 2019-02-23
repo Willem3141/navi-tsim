@@ -1,0 +1,20 @@
+{
+    "na'vi": "tseo",
+    "translations": [
+        {
+            "de": "Kunst",
+            "en": "art",
+            "et": "kunst",
+            "hu": "művészet",
+            "nl": "kunst",
+            "pl": "sztuka",
+            "ru": "искусство",
+            "sv": "konst"
+        }
+    ],
+    "pronunciation": [
+        "tse-o",
+        1
+    ],
+    "type": "n"
+}

@@ -1,0 +1,21 @@
+{
+    "na'vi": "tsun",
+    "translations": [
+        {
+            "de": "können, in der Lage sein",
+            "en": "can, be able",
+            "et": "võima, suutma",
+            "hu": "tud, képes",
+            "nl": "kunnen",
+            "pl": "móc, być w stanie",
+            "ru": "мочь, быть в состоянии, быть способным",
+            "sv": "kan, kunna"
+        }
+    ],
+    "pronunciation": [
+        "tsun",
+        1
+    ],
+    "infixes": "ts..un",
+    "type": "v:m"
+}

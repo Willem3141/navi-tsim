@@ -1,0 +1,21 @@
+{
+    "na'vi": "'ärìp",
+    "translations": [
+        {
+            "de": "bewegen, verschieben (etwas)",
+            "en": "move",
+            "et": "liigutama (midagi)",
+            "hu": "mozgat, (meg)mozdít",
+            "nl": "(iets) verplaatsen",
+            "pl": "ruszać, przemieszczać",
+            "ru": "двигать чтолибо",
+            "sv": "flytta"
+        }
+    ],
+    "pronunciation": [
+        "'ä-rìp",
+        1
+    ],
+    "infixes": "'.är.ìp",
+    "type": "v:tr"
+}

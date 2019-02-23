@@ -1,0 +1,21 @@
+{
+    "na'vi": "ftem",
+    "translations": [
+        {
+            "de": "vorbeigehen, vorübergehen (an etwas)",
+            "en": "pass by (something)",
+            "et": "mööduma",
+            "hu": "elhalad (vmi. mellett)",
+            "nl": "(iets) passeren",
+            "pl": "mijać (coś)",
+            "ru": "оставлять без внимания, пропускать",
+            "sv": "passera (något)"
+        }
+    ],
+    "pronunciation": [
+        "ftem",
+        1
+    ],
+    "infixes": "ft..em",
+    "type": "v:tr"
+}

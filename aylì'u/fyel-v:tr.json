@@ -1,0 +1,20 @@
+{
+    "na'vi": "fyel",
+    "translations": [
+        {
+            "de": "versiegeln, verschließen, abdichten, undurchlässig machen",
+            "en": "seal, make impervious",
+            "et": "tugevasti sulgema, kinni panema, kinnitama",
+            "hu": "lepecsétel, hozzáférhetetlenné tesz",
+            "nl": "verzegelen, ondoordringbaar maken",
+            "pl": "zapieczętować, zaimpregnować",
+            "ru": "изолировать, сделать непроницаемым"
+        }
+    ],
+    "pronunciation": [
+        "fyel",
+        1
+    ],
+    "infixes": "fy..el",
+    "type": "v:tr"
+}

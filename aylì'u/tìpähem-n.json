@@ -1,0 +1,20 @@
+{
+    "na'vi": "tìpähem",
+    "translations": [
+        {
+            "de": "Ankunft",
+            "en": "arrival",
+            "et": "saabumine",
+            "hu": "érkezés",
+            "nl": "aankomst",
+            "pl": "przybycie",
+            "ru": "прибытие",
+            "sv": "ankomst"
+        }
+    ],
+    "pronunciation": [
+        "tì-pä-hem",
+        2
+    ],
+    "type": "n"
+}

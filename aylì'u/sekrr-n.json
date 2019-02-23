@@ -1,0 +1,20 @@
+{
+    "na'vi": "sekrr",
+    "translations": [
+        {
+            "de": "Gegenwart",
+            "en": "present",
+            "et": "olevik, praegune hetk",
+            "hu": "jelen",
+            "nl": "heden",
+            "pl": "teraźniejszość",
+            "ru": "в данный момент",
+            "sv": "nutid"
+        }
+    ],
+    "pronunciation": [
+        "se-krr",
+        1
+    ],
+    "type": "n"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "kalin",
+    "translations": [
+        {
+            "de": "süß (Geschmack)",
+            "en": "sweet to the taste",
+            "et": "hea maitsega",
+            "hu": "édes (íz)",
+            "nl": "zoet (smaak)",
+            "pl": "słodki w smaku",
+            "ru": "сладкий",
+            "sv": "söt (smak)"
+        }
+    ],
+    "pronunciation": [
+        "ka-lin",
+        2
+    ],
+    "type": "adj"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "trr'awve",
+    "translations": [
+        {
+            "de": "Sonntag",
+            "en": "Sunday",
+            "et": "pühapäev",
+            "hu": "vasárnap",
+            "nl": "zondag",
+            "pl": "niedziela",
+            "ru": "воскресенье",
+            "sv": "Söndag"
+        }
+    ],
+    "pronunciation": [
+        "trr-'aw-ve",
+        2
+    ],
+    "type": "n"
+}

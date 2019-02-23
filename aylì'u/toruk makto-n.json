@@ -1,0 +1,16 @@
+{
+    "na'vi": "toruk makto",
+    "translations": [
+        {
+            "de": "Reiter des Toruk, Reiter des Letzten Schatten",
+            "en": "toruk rider",
+            "et": "Torukiga lendaja",
+            "hu": "toruk lovas",
+            "nl": "toruk berijder",
+            "pl": "jeździec toruka",
+            "ru": "наездник большого леоноптерикса",
+            "sv": "ryttare av sista skuggan"
+        }
+    ],
+    "type": "n"
+}

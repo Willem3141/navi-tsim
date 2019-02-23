@@ -1,0 +1,20 @@
+{
+    "na'vi": "kinamtil",
+    "translations": [
+        {
+            "de": "Knie",
+            "en": "knee",
+            "et": "põlv",
+            "hu": "térd",
+            "nl": "knie",
+            "pl": "kolano",
+            "ru": "колено",
+            "sv": "knä"
+        }
+    ],
+    "pronunciation": [
+        "ki-nam-til",
+        2
+    ],
+    "type": "n"
+}

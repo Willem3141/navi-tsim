@@ -1,0 +1,19 @@
+{
+    "na'vi": "fyinep'ang",
+    "translations": [
+        {
+            "de": "Komplexität, Grad an Komplexität",
+            "en": "degree of complexity",
+            "et": "raskusaste",
+            "hu": "összetettség foka",
+            "nl": "graad van complexiteit",
+            "pl": "złożoność",
+            "ru": "уровень сложность"
+        }
+    ],
+    "pronunciation": [
+        "fyin-ep-'ang",
+        3
+    ],
+    "type": "n"
+}

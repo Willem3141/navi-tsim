@@ -1,0 +1,19 @@
+{
+    "na'vi": "pxesrray",
+    "translations": [
+        {
+            "de": "in drei Tagen",
+            "en": "three days from now",
+            "et": "kolme päeva pärast",
+            "hu": "3 nap múlva",
+            "nl": "over drie dagen",
+            "pl": "za trzy dni",
+            "ru": "через три дня"
+        }
+    ],
+    "pronunciation": [
+        "pxe-srr-ay",
+        3
+    ],
+    "type": "n"
+}

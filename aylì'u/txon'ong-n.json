@@ -1,0 +1,20 @@
+{
+    "na'vi": "txon'ong",
+    "translations": [
+        {
+            "de": "Dämmerung, Sonnenuntergang",
+            "en": "nightfall, sunset, dusk, gloaming",
+            "et": "videvik, päikeseloojang, koidukuma",
+            "hu": "naplemente, napszállta",
+            "nl": "zonsondergang",
+            "pl": "zmierzch, zmrok",
+            "ru": "закат, наступление ночи",
+            "sv": "skymning, solnedgång"
+        }
+    ],
+    "pronunciation": [
+        "txon-'ong",
+        2
+    ],
+    "type": "n"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "tsalsungay",
+    "translations": [
+        {
+            "de": "dennoch, trotzdem, allerdings",
+            "en": "nevertheless, even so",
+            "et": "siiski, sellest hoolimata",
+            "hu": "mindazonáltal",
+            "nl": "ondanks dat",
+            "pl": "jednak, pomimo to",
+            "ru": "все же, несмотря на, хотя",
+            "sv": "dock, ändå"
+        }
+    ],
+    "pronunciation": [
+        "tsal-su-ngay",
+        3
+    ],
+    "type": "adv"
+}

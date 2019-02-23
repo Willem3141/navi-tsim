@@ -1,0 +1,17 @@
+{
+    "na'vi": "tìlang",
+    "translations": [
+        {
+            "de": "Erforschung, Entdeckungsfahrt",
+            "en": "exploration",
+            "et": "uurimine",
+            "hu": "felfedezés",
+            "nl": "onderzoek"
+        }
+    ],
+    "pronunciation": [
+        "tì-lang",
+        2
+    ],
+    "type": "n"
+}

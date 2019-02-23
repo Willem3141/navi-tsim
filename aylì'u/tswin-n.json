@@ -1,0 +1,20 @@
+{
+    "na'vi": "tswin",
+    "translations": [
+        {
+            "de": "Queue, geflochtener Zopf (für tsaheylu)",
+            "en": "queue, braid",
+            "et": "juuksepats, Na'videl olev närvipats (sideme loomiseks)",
+            "hu": "copf, idegköteg",
+            "nl": "vlecht, staart",
+            "pl": "warkocz",
+            "ru": "коса",
+            "sv": "extern nervanslutning, fläta"
+        }
+    ],
+    "pronunciation": [
+        "tswin",
+        1
+    ],
+    "type": "n"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "pamtseo",
+    "translations": [
+        {
+            "de": "Musik spielen (mit fa für Instrumente)",
+            "en": "play music (with fa for instrument played)",
+            "et": "muusikat tegema (fa (muusikariista) mängima)",
+            "hu": "zenél (fa a hangszer neve előtt)",
+            "nl": "muziek maken (met fa voor het bespeelde instrument)",
+            "pl": "grać (na instrumencie fa)",
+            "ru": "играть музыку (с fa для указания инструмента)",
+            "sv": "spela musik (med fa för instrumentet som spelas)"
+        }
+    ],
+    "pronunciation": [
+        "pam-tse-o",
+        1
+    ],
+    "type": "n:si"
+}

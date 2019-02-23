@@ -1,0 +1,20 @@
+{
+    "na'vi": "ngim",
+    "translations": [
+        {
+            "de": "lang (physikalisch)",
+            "en": "long (physical length)",
+            "et": "pikk (füüsikaline suurus)",
+            "hu": "hosszú",
+            "nl": "lang (fysieke lengte)",
+            "pl": "długi (fizyczna długość)",
+            "ru": "длинный",
+            "sv": "lång (fysisk längd)"
+        }
+    ],
+    "pronunciation": [
+        "ngim",
+        1
+    ],
+    "type": "adj"
+}

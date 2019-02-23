@@ -1,0 +1,20 @@
+{
+    "na'vi": "trrkive",
+    "translations": [
+        {
+            "de": "Samstag, Sonnabend",
+            "en": "Saturday",
+            "et": "laupäev",
+            "hu": "szombat",
+            "nl": "zaterdag",
+            "pl": "sobota",
+            "ru": "суббота",
+            "sv": "Lördag"
+        }
+    ],
+    "pronunciation": [
+        "trr-ki-ve",
+        2
+    ],
+    "type": "n"
+}

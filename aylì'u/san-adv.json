@@ -1,0 +1,20 @@
+{
+    "na'vi": "san",
+    "translations": [
+        {
+            "de": "Zitat (siehe auch sìk)",
+            "en": "saying, quote",
+            "et": "otsekõne algus",
+            "hu": "idézet, függő beszéd kezdete",
+            "nl": "gezegde, citaat",
+            "pl": "rozpoczęcie cytowania",
+            "ru": "маркер начала цитирования речи",
+            "sv": "säga, citera"
+        }
+    ],
+    "pronunciation": [
+        "san",
+        1
+    ],
+    "type": "adv"
+}

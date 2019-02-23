@@ -1,0 +1,20 @@
+{
+    "na'vi": "mìso",
+    "translations": [
+        {
+            "de": "weg (Position)",
+            "en": "away (position)",
+            "et": "eemal (asukoht)",
+            "hu": "távol(ban)",
+            "nl": "weg (positie)",
+            "pl": "daleko",
+            "ru": "далеко, вдали (позиция)",
+            "sv": "borta (position)"
+        }
+    ],
+    "pronunciation": [
+        "mì-so",
+        2
+    ],
+    "type": "adv"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "kxeltek",
+    "translations": [
+        {
+            "de": "aufheben, hochheben, anheben",
+            "en": "pick up, lift",
+            "et": "kätte võtma, tõstma",
+            "hu": "felvesz, emel",
+            "nl": "oppakken, optillen",
+            "pl": "podnieść",
+            "ru": "подцепить, поднять"
+        }
+    ],
+    "pronunciation": [
+        "kxel-tek",
+        1
+    ],
+    "infixes": "kx.elt.ek",
+    "type": "v:tr"
+}

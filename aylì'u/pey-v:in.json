@@ -1,0 +1,21 @@
+{
+    "na'vi": "pey",
+    "translations": [
+        {
+            "de": "warten, abwarten",
+            "en": "wait, wait for",
+            "et": "ootama",
+            "hu": "várni, vár valamire",
+            "nl": "wachten",
+            "pl": "czekać",
+            "ru": "ждать, ожидать",
+            "sv": "vänta, vänta på"
+        }
+    ],
+    "pronunciation": [
+        "pey",
+        1
+    ],
+    "infixes": "p..ey",
+    "type": "v:in"
+}

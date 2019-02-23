@@ -1,0 +1,20 @@
+{
+    "na'vi": "keyawr",
+    "translations": [
+        {
+            "de": "inkorrekt, nicht richtig, falsch",
+            "en": "incorrect, wrong, not right",
+            "et": "vale, mitte õige",
+            "hu": "helytelen, téves, nem helyes",
+            "nl": "verkeerd, fout, niet goed",
+            "pl": "niepoprawny, zły, błędny",
+            "ru": "неправильное",
+            "sv": "fel, inte rätt"
+        }
+    ],
+    "pronunciation": [
+        "ke-yawr",
+        2
+    ],
+    "type": "adj"
+}

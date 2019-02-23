@@ -1,0 +1,21 @@
+{
+    "na'vi": "'awstengyem",
+    "translations": [
+        {
+            "de": "verbinden, vereinen (zwei oder mehr Dinge) (ii)",
+            "en": "bind / bring two or more things together (ii)",
+            "et": "liitma (kaks asja kokku) (e)",
+            "hu": "összekapcsol, összeilleszt kettő vagy több dolgot (ii)",
+            "nl": "twee dingen samenvoegen (ii)",
+            "pl": "łączyć / dwie lub więcej rzeczy razem (ii)",
+            "ru": "соединять чтолибо с чемлибо",
+            "sv": "koppla ihop två saker (ii)"
+        }
+    ],
+    "pronunciation": [
+        "'aw-steng-yem",
+        3
+    ],
+    "infixes": "'awstengy..em",
+    "type": "v:tr"
+}

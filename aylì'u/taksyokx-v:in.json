@@ -1,0 +1,18 @@
+{
+    "na'vi": "taksyokx",
+    "translations": [
+        {
+            "de": "klatschen, applaudieren",
+            "en": "clap hands",
+            "et": "plaksutama",
+            "hu": "tapsol",
+            "nl": "handen klappen"
+        }
+    ],
+    "pronunciation": [
+        "tak-syokx",
+        2
+    ],
+    "infixes": "t..aksyokx",
+    "type": "v:in"
+}

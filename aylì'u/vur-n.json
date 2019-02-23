@@ -1,0 +1,20 @@
+{
+    "na'vi": "vur",
+    "translations": [
+        {
+            "de": "Geschichte, Erzählung",
+            "en": "story",
+            "et": "jutt, lugu",
+            "hu": "történet",
+            "nl": "verhaal",
+            "pl": "opowieść, historia",
+            "ru": "рассказ, история",
+            "sv": "berättelse"
+        }
+    ],
+    "pronunciation": [
+        "vur",
+        1
+    ],
+    "type": "n"
+}

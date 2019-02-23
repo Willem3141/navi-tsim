@@ -1,0 +1,19 @@
+{
+    "na'vi": "yrrap",
+    "translations": [
+        {
+            "de": "Sturm, Unwetter, Gewitter",
+            "en": "storm",
+            "et": "torm",
+            "hu": "vihar",
+            "nl": "storm",
+            "pl": "burza",
+            "ru": "шторм"
+        }
+    ],
+    "pronunciation": [
+        "yrr-ap",
+        1
+    ],
+    "type": "n"
+}

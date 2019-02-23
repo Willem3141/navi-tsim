@@ -1,0 +1,21 @@
+{
+    "na'vi": "tspang",
+    "translations": [
+        {
+            "de": "töten, umbringen",
+            "en": "kill",
+            "et": "tapma",
+            "hu": "öl, gyilkol",
+            "nl": "doden",
+            "pl": "zabijać",
+            "ru": "убивать, лишать жизни",
+            "sv": "döda"
+        }
+    ],
+    "pronunciation": [
+        "tspang",
+        1
+    ],
+    "infixes": "tsp..ang",
+    "type": "v:tr"
+}

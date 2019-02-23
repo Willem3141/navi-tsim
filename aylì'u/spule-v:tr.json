@@ -1,0 +1,21 @@
+{
+    "na'vi": "spule",
+    "translations": [
+        {
+            "de": "antreiben, treiben, vorwärtstreiben",
+            "en": "propel",
+            "et": "edasi ajama, lükkama",
+            "hu": "(meg)hajt, mozgásba hoz",
+            "nl": "voortstuwen",
+            "pl": "napędzać, popychać",
+            "ru": "толкать вперёд, двигать, приводить в движение",
+            "sv": "framdriva"
+        }
+    ],
+    "pronunciation": [
+        "spu-le",
+        1
+    ],
+    "infixes": "sp.ul.e",
+    "type": "v:tr"
+}

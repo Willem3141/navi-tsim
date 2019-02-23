@@ -1,0 +1,19 @@
+{
+    "na'vi": "epxang",
+    "translations": [
+        {
+            "de": "Steinkrug, Steingefäß, um giftige Spinnentiere aufzubewahren",
+            "en": "stone jar used to hold small toxic arachnid",
+            "et": "kivist purk mürgise ämbliku jaoks",
+            "hu": "kőedény, mérges rovar tárolására",
+            "nl": "stenen pot die een kleine giftige spinachtige bevat",
+            "pl": "kamienny dzban do trzymania jadowitych pajęczaków",
+            "ru": "каменная банка для маленьких ядовитых паукообразных"
+        }
+    ],
+    "pronunciation": [
+        "e-pxang",
+        2
+    ],
+    "type": "n"
+}

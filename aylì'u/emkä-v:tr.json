@@ -1,0 +1,18 @@
+{
+    "na'vi": "emkä",
+    "translations": [
+        {
+            "de": "überqueren, überschreiten",
+            "en": "cross",
+            "et": "ületama",
+            "hu": "átmegy",
+            "nl": "oversteken, kruisen"
+        }
+    ],
+    "pronunciation": [
+        "em-kä",
+        2
+    ],
+    "infixes": "emk..ä",
+    "type": "v:tr"
+}

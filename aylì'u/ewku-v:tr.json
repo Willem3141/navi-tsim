@@ -1,0 +1,20 @@
+{
+    "na'vi": "ewku",
+    "translations": [
+        {
+            "de": "schmecken (ungewollt)",
+            "en": "taste (not intentionally)",
+            "et": "maitset tundma",
+            "hu": "i.(t)",
+            "nl": "proeven (niet doelbewust)",
+            "pl": "odczuwać smak (czegoś)",
+            "ru": "пробовать на вкус (не намеренно)"
+        }
+    ],
+    "pronunciation": [
+        "ew-ku",
+        1
+    ],
+    "infixes": ".ewk.u",
+    "type": "v:tr"
+}

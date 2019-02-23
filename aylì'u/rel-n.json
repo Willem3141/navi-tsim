@@ -1,0 +1,20 @@
+{
+    "na'vi": "rel",
+    "translations": [
+        {
+            "de": "Bild, Darstellung, Abbild",
+            "en": "image, picture",
+            "et": "pilt",
+            "hu": "kép",
+            "nl": "beeld",
+            "pl": "obraz",
+            "ru": "картинка, изображение",
+            "sv": "bild"
+        }
+    ],
+    "pronunciation": [
+        "rel",
+        1
+    ],
+    "type": "n"
+}

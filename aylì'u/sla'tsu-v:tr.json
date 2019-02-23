@@ -1,0 +1,21 @@
+{
+    "na'vi": "sla'tsu",
+    "translations": [
+        {
+            "de": "beschreiben",
+            "en": "describe",
+            "et": "kirjeldama",
+            "hu": "leír (jellemez)",
+            "nl": "beschrijven",
+            "pl": "opisywać",
+            "ru": "описывать",
+            "sv": "beskriva"
+        }
+    ],
+    "pronunciation": [
+        "sla'-tsu",
+        1
+    ],
+    "infixes": "sl.a'ts.u",
+    "type": "v:tr"
+}

@@ -1,0 +1,21 @@
+{
+    "na'vi": "wan",
+    "translations": [
+        {
+            "de": "verstecken",
+            "en": "hide",
+            "et": "peitma",
+            "hu": "elrejt",
+            "nl": "verbergen",
+            "pl": "chować",
+            "ru": "скрыть",
+            "sv": "gömma, dölja"
+        }
+    ],
+    "pronunciation": [
+        "wan",
+        1
+    ],
+    "infixes": "w..an",
+    "type": "v:tr"
+}

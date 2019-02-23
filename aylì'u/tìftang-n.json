@@ -1,0 +1,20 @@
+{
+    "na'vi": "tìftang",
+    "translations": [
+        {
+            "de": "Stoppen, Aufhören; Glottisstop, plötzlicher Bruch in der Aussprache",
+            "en": "stopping, the glottal stop",
+            "et": "peatumine, kõrisulghäälik",
+            "hu": "megállás, félbe/megszakítás, hangszalagzárhang",
+            "nl": "stoppen, de glottale stop",
+            "pl": "przerwa, zwarcie krtaniowe",
+            "ru": "остановка, прекращение",
+            "sv": "stoppet, den glottala klusilen"
+        }
+    ],
+    "pronunciation": [
+        "tì-ftang",
+        2
+    ],
+    "type": "n"
+}

@@ -1,0 +1,18 @@
+{
+    "na'vi": "tìreyn",
+    "translations": [
+        {
+            "de": "Zug, Eisenbahn, Bahn",
+            "en": "train",
+            "et": "rong",
+            "hu": "vonat",
+            "nl": "trein",
+            "ru": "поезд, тамвай"
+        }
+    ],
+    "pronunciation": [
+        "tì-reyn",
+        2
+    ],
+    "type": "n"
+}

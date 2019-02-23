@@ -1,0 +1,21 @@
+{
+    "na'vi": "hum",
+    "translations": [
+        {
+            "de": "abreisen, weggehen, verlassen",
+            "en": "leave, depart",
+            "et": "lahkuma, ära minema",
+            "hu": "elmegy, elhagy",
+            "nl": "weggaan",
+            "pl": "odchodzić, opuszczać",
+            "ru": "отправляться, уходить, покидать",
+            "sv": "lämna"
+        }
+    ],
+    "pronunciation": [
+        "hum",
+        1
+    ],
+    "infixes": "h..um",
+    "type": "v:in"
+}

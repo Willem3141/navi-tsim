@@ -1,0 +1,20 @@
+{
+    "na'vi": "lawr",
+    "translations": [
+        {
+            "de": "Melodie",
+            "en": "melody",
+            "et": "meloodia",
+            "hu": "dal, dallam",
+            "nl": "melodie",
+            "pl": "melodia",
+            "ru": "мелодия",
+            "sv": "melodi"
+        }
+    ],
+    "pronunciation": [
+        "lawr",
+        1
+    ],
+    "type": "n"
+}

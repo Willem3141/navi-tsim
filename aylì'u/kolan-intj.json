@@ -1,0 +1,18 @@
+{
+    "na'vi": "kolan",
+    "translations": [
+        {
+            "de": "ich meine, eher (Selbstverbesserung)",
+            "en": "I mean, rather (selfcorrecting)",
+            "et": "tähendab, õigupoolest (eelnevalt öeldu täpsustus/parandamine)",
+            "hu": "vagyis, illetve, akarom mondani",
+            "nl": "ik bedoel, eigenlijk (zichzelf corrigerend)",
+            "ru": "в смысле, то есть"
+        }
+    ],
+    "pronunciation": [
+        "ko-lan",
+        2
+    ],
+    "type": "intj"
+}

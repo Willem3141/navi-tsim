@@ -1,0 +1,20 @@
+{
+    "na'vi": "kxutu",
+    "translations": [
+        {
+            "de": "Feind",
+            "en": "enemy",
+            "et": "vaenlane",
+            "hu": "ellenség",
+            "nl": "vijand",
+            "pl": "wróg",
+            "ru": "враг",
+            "sv": "fiende"
+        }
+    ],
+    "pronunciation": [
+        "kxu-tu",
+        1
+    ],
+    "type": "n"
+}

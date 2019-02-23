@@ -1,0 +1,20 @@
+{
+    "na'vi": "layon",
+    "translations": [
+        {
+            "de": "schwarz",
+            "en": "black",
+            "et": "must (värv)",
+            "hu": "fekete",
+            "nl": "zwart",
+            "pl": "czarny",
+            "ru": "черный",
+            "sv": "svart"
+        }
+    ],
+    "pronunciation": [
+        "la-yon",
+        2
+    ],
+    "type": "adj"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "txon",
+    "translations": [
+        {
+            "de": "Nacht",
+            "en": "night",
+            "et": "öö",
+            "hu": "este, éjszaka",
+            "nl": "nacht",
+            "pl": "noc",
+            "ru": "ночь",
+            "sv": "natt"
+        }
+    ],
+    "pronunciation": [
+        "txon",
+        1
+    ],
+    "type": "n"
+}

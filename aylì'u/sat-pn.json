@@ -1,0 +1,20 @@
+{
+    "na'vi": "sat",
+    "translations": [
+        {
+            "de": "das",
+            "en": "that",
+            "et": "see",
+            "hu": "az",
+            "nl": "dat",
+            "pl": "tamto",
+            "ru": "это",
+            "sv": "det där"
+        }
+    ],
+    "pronunciation": [
+        "sat",
+        1
+    ],
+    "type": "pn"
+}

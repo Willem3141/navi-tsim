@@ -1,0 +1,19 @@
+{
+    "na'vi": "onlor",
+    "translations": [
+        {
+            "de": "gutriechend",
+            "en": "goodsmelling",
+            "et": "lõhnav",
+            "hu": "jószagú",
+            "nl": "goedruikend",
+            "pl": "przyjemnie pachnący",
+            "ru": "ароматный"
+        }
+    ],
+    "pronunciation": [
+        "on-lor",
+        2
+    ],
+    "type": "adj"
+}

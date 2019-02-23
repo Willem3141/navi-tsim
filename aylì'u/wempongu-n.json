@@ -1,0 +1,20 @@
+{
+    "na'vi": "wempongu",
+    "translations": [
+        {
+            "de": "Squad, Kampfeinheit",
+            "en": "squad, military clan, battle party",
+            "et": "sõdurite salk, võitlusrühm",
+            "hu": "szakasz, katonai egység, csapat",
+            "nl": "squadron, militaire clan, oorlogsgroep",
+            "pl": "brygada, klan wojowników, oddział",
+            "ru": "боевой отряд",
+            "sv": "trupp, militärklan"
+        }
+    ],
+    "pronunciation": [
+        "wem-po-ngu",
+        1
+    ],
+    "type": "n"
+}

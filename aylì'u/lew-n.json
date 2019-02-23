@@ -1,0 +1,20 @@
+{
+    "na'vi": "lew",
+    "translations": [
+        {
+            "de": "Abdeckung, Deckel, Topfdeckel",
+            "en": "cover, lid",
+            "et": "kate",
+            "hu": "fedő, valaminek a teteje",
+            "nl": "deksel",
+            "pl": "pokrywa, wieko",
+            "ru": "крышка",
+            "sv": "lock, omslag, skydd"
+        }
+    ],
+    "pronunciation": [
+        "lew",
+        1
+    ],
+    "type": "n"
+}

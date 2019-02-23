@@ -1,0 +1,20 @@
+{
+    "na'vi": "wur",
+    "translations": [
+        {
+            "de": "kühl",
+            "en": "cool, chilly",
+            "et": "jahe",
+            "hu": "hűvös, hideg",
+            "nl": "koel, kil, fris",
+            "pl": "chłodny, zimny",
+            "ru": "холодный",
+            "sv": "sval, kylig"
+        }
+    ],
+    "pronunciation": [
+        "wur",
+        1
+    ],
+    "type": "adj"
+}

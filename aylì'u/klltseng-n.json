@@ -1,0 +1,20 @@
+{
+    "na'vi": "klltseng",
+    "translations": [
+        {
+            "de": "Position",
+            "en": "position",
+            "et": "asukoht",
+            "hu": "helyzet",
+            "nl": "positie",
+            "pl": "pozycja",
+            "ru": "положение, позиция",
+            "sv": "position"
+        }
+    ],
+    "pronunciation": [
+        "kll-tseng",
+        1
+    ],
+    "type": "n"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "ya",
+    "translations": [
+        {
+            "de": "Luft",
+            "en": "air",
+            "et": "õhk",
+            "hu": "levegő",
+            "nl": "lucht",
+            "pl": "powietrze",
+            "ru": "воздух",
+            "sv": "luft"
+        }
+    ],
+    "pronunciation": [
+        "ya",
+        1
+    ],
+    "type": "n"
+}

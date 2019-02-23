@@ -1,0 +1,20 @@
+{
+    "na'vi": "tìmok",
+    "translations": [
+        {
+            "de": "Vorschlag (abstrakt), das Vorschlagen",
+            "en": "abstract idea of a suggestion",
+            "et": "soovitamine",
+            "hu": "javaslat",
+            "nl": "suggestie",
+            "pl": "sugerowanie",
+            "ru": "предложение (абстрактная идея)",
+            "sv": "förslag"
+        }
+    ],
+    "pronunciation": [
+        "tì-mok",
+        2
+    ],
+    "type": "n"
+}

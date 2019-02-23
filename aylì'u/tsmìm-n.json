@@ -1,0 +1,20 @@
+{
+    "na'vi": "tsmìm",
+    "translations": [
+        {
+            "de": "Spur, Fährte (von Tieren oder Menschen)",
+            "en": "track, trace (of animal or person)",
+            "et": "jälg (looma)",
+            "hu": "állatnyom, csapás (állaté vagy személyé)",
+            "nl": "spoor (van een dier of persoon)",
+            "pl": "ślad, trop (zwierzęcia lub człowieka)",
+            "ru": "след (человека или животного)",
+            "sv": "djurspår"
+        }
+    ],
+    "pronunciation": [
+        "tsmìm",
+        1
+    ],
+    "type": "n"
+}

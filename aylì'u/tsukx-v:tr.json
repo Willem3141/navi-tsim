@@ -1,0 +1,18 @@
+{
+    "na'vi": "tsukx",
+    "translations": [
+        {
+            "de": "stechen, erstechen, niederstechen",
+            "en": "stab",
+            "et": "pussitama, noaga/odaga torkama",
+            "hu": "leszúr, ledöf",
+            "nl": "steken"
+        }
+    ],
+    "pronunciation": [
+        "tsukx",
+        1
+    ],
+    "infixes": "ts..ukx",
+    "type": "v:tr"
+}

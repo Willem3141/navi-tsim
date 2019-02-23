@@ -1,0 +1,20 @@
+{
+    "na'vi": "txopu",
+    "translations": [
+        {
+            "de": "Angst, Furcht",
+            "en": "fear",
+            "et": "hirm",
+            "hu": "félelem",
+            "nl": "angst",
+            "pl": "strach",
+            "ru": "страх",
+            "sv": "rädsla"
+        }
+    ],
+    "pronunciation": [
+        "txo-pu",
+        1
+    ],
+    "type": "n"
+}

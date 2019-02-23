@@ -1,0 +1,20 @@
+{
+    "na'vi": "kxitx",
+    "translations": [
+        {
+            "de": "Tod",
+            "en": "death",
+            "et": "surm",
+            "hu": "halál",
+            "nl": "dood",
+            "pl": "śmierć",
+            "ru": "смерть",
+            "sv": "död"
+        }
+    ],
+    "pronunciation": [
+        "kxitx",
+        1
+    ],
+    "type": "n"
+}

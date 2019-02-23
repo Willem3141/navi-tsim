@@ -1,0 +1,19 @@
+{
+    "na'vi": "reykol",
+    "translations": [
+        {
+            "de": "musizieren, veranlassen zu singen (poetisch)",
+            "en": "play music, make to sing (poetic)",
+            "et": "muusikat mängima, laulma",
+            "hu": "zenél, énekeltet (költői)",
+            "nl": "muziek maken, laten zingen (dichterlijk)",
+            "pl": "grać muzyke, sklaniać do śpiewu",
+            "ru": "играть музыку, петь (поэтично)"
+        }
+    ],
+    "pronunciation": [
+        "rey-kol",
+        2
+    ],
+    "type": "v:tr"
+}

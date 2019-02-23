@@ -1,0 +1,20 @@
+{
+    "na'vi": "tìspe'e",
+    "translations": [
+        {
+            "de": "Gefangennahme, Fang",
+            "en": "capture",
+            "et": "vangistamine, tabamine",
+            "hu": "zsákmány",
+            "nl": "vangen",
+            "pl": "schwytanie, pojamnie",
+            "ru": "добыча",
+            "sv": "fånge"
+        }
+    ],
+    "pronunciation": [
+        "tì-spe-'e",
+        3
+    ],
+    "type": "n"
+}

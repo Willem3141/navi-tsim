@@ -1,0 +1,20 @@
+{
+    "na'vi": "naer",
+    "translations": [
+        {
+            "de": "Getränk, etwas Trinkbares",
+            "en": "drink, something able to be drunk",
+            "et": "jook",
+            "hu": "ital, innivaló",
+            "nl": "drankje, iets dat gedronken kan worden",
+            "pl": "napój, coś dającego się wypić",
+            "ru": "питье",
+            "sv": "dricka, något som man kan dricka"
+        }
+    ],
+    "pronunciation": [
+        "na-er",
+        2
+    ],
+    "type": "n"
+}

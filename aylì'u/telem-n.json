@@ -1,0 +1,20 @@
+{
+    "na'vi": "telem",
+    "translations": [
+        {
+            "de": "Schnur, Seil, Leine, Strick",
+            "en": "cord",
+            "et": "nöör, pael",
+            "hu": "zsinór",
+            "nl": "koord",
+            "pl": "sznur",
+            "ru": "верёвка, шнур",
+            "sv": "träns"
+        }
+    ],
+    "pronunciation": [
+        "te-lem",
+        2
+    ],
+    "type": "n"
+}

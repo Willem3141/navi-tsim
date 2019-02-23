@@ -1,0 +1,20 @@
+{
+    "na'vi": "frato",
+    "translations": [
+        {
+            "de": "Superlativ Marker als alles",
+            "en": "superlative marker than all",
+            "et": "ülivõrre, kui kõik",
+            "hu": ", leg mindennél olyanabb (toldalékként viselkedik)",
+            "nl": "overtreffende trap markeerder dan alles",
+            "pl": "znacznik stopnia najwyższego niz wszystko (zachowuje się jak przyim.)",
+            "ru": "служебное слово для образования превосходной степени прилагательного (чем все)",
+            "sv": "superlativsmarkör än alla (beter sig som en adp.)"
+        }
+    ],
+    "pronunciation": [
+        "fra-to",
+        1
+    ],
+    "type": "part"
+}

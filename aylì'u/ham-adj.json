@@ -1,0 +1,20 @@
+{
+    "na'vi": "ham",
+    "translations": [
+        {
+            "de": "letzte/r/s, vorige/r/s",
+            "en": "previous",
+            "et": "eelmine",
+            "hu": "előző (korábbi)",
+            "nl": "vorig(e)",
+            "pl": "poprzedni",
+            "ru": "предыдущий",
+            "sv": "föregående"
+        }
+    ],
+    "pronunciation": [
+        "ham",
+        1
+    ],
+    "type": "adj"
+}

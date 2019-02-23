@@ -1,0 +1,20 @@
+{
+    "na'vi": "reltseotu",
+    "translations": [
+        {
+            "de": "Künstler (visuell)",
+            "en": "artist (visual) ",
+            "et": "kunstnik",
+            "hu": "művész (vizuális)",
+            "nl": "kunstenaar (visueel)",
+            "pl": "malarz",
+            "ru": "художник",
+            "sv": "konstnär"
+        }
+    ],
+    "pronunciation": [
+        "rel-tse-o-tu",
+        1
+    ],
+    "type": "n"
+}

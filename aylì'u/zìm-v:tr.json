@@ -1,0 +1,20 @@
+{
+    "na'vi": "zìm",
+    "translations": [
+        {
+            "de": "fühlen (ungewollt)",
+            "en": "feel (not intentionally)",
+            "et": "tundma, tunnetama (mitte sihilikult)",
+            "hu": "érez (érintéssel!)",
+            "nl": "voelen (niet doelbewust)",
+            "pl": "czuć (w sposób niezamierzony)",
+            "ru": "осязать (на намеренно)"
+        }
+    ],
+    "pronunciation": [
+        "zìm",
+        1
+    ],
+    "infixes": "z..ìm",
+    "type": "v:tr"
+}

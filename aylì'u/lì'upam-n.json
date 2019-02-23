@@ -1,0 +1,20 @@
+{
+    "na'vi": "lì'upam",
+    "translations": [
+        {
+            "de": "Aussprache",
+            "en": "accent, pronunciation",
+            "et": "aksent, hääldus",
+            "hu": "hangsúly, kiejtés",
+            "nl": "accent",
+            "pl": "akcent, wymowa",
+            "ru": "акцент, произношение",
+            "sv": "uttal"
+        }
+    ],
+    "pronunciation": [
+        "lì-'u-pam",
+        1
+    ],
+    "type": "n"
+}

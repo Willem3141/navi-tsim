@@ -1,0 +1,20 @@
+{
+    "na'vi": "stum",
+    "translations": [
+        {
+            "de": "beinahe, fast",
+            "en": "almost",
+            "et": "peaaegu",
+            "hu": "majdnem",
+            "nl": "bijna",
+            "pl": "prawie, niemal",
+            "ru": "почти",
+            "sv": "nästan"
+        }
+    ],
+    "pronunciation": [
+        "stum",
+        1
+    ],
+    "type": "adv"
+}

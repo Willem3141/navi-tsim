@@ -1,0 +1,20 @@
+{
+    "na'vi": "txay",
+    "translations": [
+        {
+            "de": "horizontal sein, waagerecht sein",
+            "en": "be horizontal, lie flat",
+            "et": "horisontaalne olema",
+            "hu": "vízszintesnek lenni",
+            "nl": "horizontaal zijn, plat liggen",
+            "pl": "być poziomo, leżec płasko",
+            "ru": "лежать горизонтально"
+        }
+    ],
+    "pronunciation": [
+        "txay",
+        1
+    ],
+    "infixes": "tx..ay",
+    "type": "v:in"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "sempul",
+    "translations": [
+        {
+            "de": "Vater",
+            "en": "father",
+            "et": "isa",
+            "hu": "apa",
+            "nl": "vader",
+            "pl": "ojciec",
+            "ru": "отец",
+            "sv": "pappa"
+        }
+    ],
+    "pronunciation": [
+        "sem-pul",
+        1
+    ],
+    "type": "n"
+}

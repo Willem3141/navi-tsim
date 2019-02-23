@@ -1,0 +1,19 @@
+{
+    "na'vi": "syeha",
+    "translations": [
+        {
+            "de": "atmen",
+            "en": "breathe",
+            "et": "hingama",
+            "hu": "lélegzik",
+            "nl": "ademen",
+            "pl": "oddychać",
+            "ru": "дышать"
+        }
+    ],
+    "pronunciation": [
+        "sye-ha",
+        1
+    ],
+    "type": "n:si"
+}

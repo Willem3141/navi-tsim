@@ -1,0 +1,20 @@
+{
+    "na'vi": "rutxe",
+    "translations": [
+        {
+            "de": "(ich) bitte (dich darum)",
+            "en": "please",
+            "et": "palun",
+            "hu": "légy szíves! kérlek!",
+            "nl": "alstublieft (beleefd vragen)",
+            "pl": "proszę",
+            "ru": "пожалуйста",
+            "sv": "snälla"
+        }
+    ],
+    "pronunciation": [
+        "ru-txe",
+        2
+    ],
+    "type": "intj"
+}

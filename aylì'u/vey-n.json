@@ -1,0 +1,20 @@
+{
+    "na'vi": "vey",
+    "translations": [
+        {
+            "de": "Essen, Nahrung (von tierischem Ursprung), Fleisch",
+            "en": "food made from animal origin, flesh",
+            "et": "liha, loomalihast toit",
+            "hu": "állati eredetű táplálék (étel), hús",
+            "nl": "dierlijk voedsel, vlees",
+            "pl": "mięso, produkty mięsne",
+            "ru": "приготовленная из животного материала еда, мясо",
+            "sv": "mat ifrån djuriskt ursprung, kött"
+        }
+    ],
+    "pronunciation": [
+        "vey",
+        1
+    ],
+    "type": "n"
+}

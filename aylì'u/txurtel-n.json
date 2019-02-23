@@ -1,0 +1,19 @@
+{
+    "na'vi": "txurtel",
+    "translations": [
+        {
+            "de": "Seil",
+            "en": "rope",
+            "et": "köis",
+            "hu": "kötél",
+            "nl": "touw",
+            "pl": "lina",
+            "ru": "канат"
+        }
+    ],
+    "pronunciation": [
+        "txur-tel",
+        1
+    ],
+    "type": "n"
+}

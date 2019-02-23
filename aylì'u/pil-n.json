@@ -1,0 +1,20 @@
+{
+    "na'vi": "pil",
+    "translations": [
+        {
+            "de": "Gesichtsstreifen, natürliche Maserung der Na'vi",
+            "en": "facial stripe",
+            "et": "näojoon, näotriip ",
+            "hu": "arccsík",
+            "nl": "gezichtsstreep",
+            "pl": "prążek na twarzy",
+            "ru": "полоска на коже лица",
+            "sv": "ansiktsrand"
+        }
+    ],
+    "pronunciation": [
+        "pil",
+        1
+    ],
+    "type": "n"
+}

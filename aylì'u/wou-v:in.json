@@ -1,0 +1,21 @@
+{
+    "na'vi": "wou",
+    "translations": [
+        {
+            "de": "aufregend, faszinierend sein (Umgangssprache) (mit DativSubjekt)",
+            "en": "be amazing, fascinating (slang)",
+            "et": "lahe olema, kõva värk olema",
+            "hu": "„állat”, „sirály”, „király”. (slang)",
+            "nl": "verbazing wekken (spreektaal)",
+            "pl": "być wspaniałym, fascynujacym (posp.)",
+            "ru": "быть удивленным, восхищенным (сленг)",
+            "sv": "att vara fascinerande, otrolig (slangord)"
+        }
+    ],
+    "pronunciation": [
+        "wo-u",
+        1
+    ],
+    "infixes": "w.o.u",
+    "type": "v:in"
+}

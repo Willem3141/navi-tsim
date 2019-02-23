@@ -1,0 +1,20 @@
+{
+    "na'vi": "ìlva",
+    "translations": [
+        {
+            "de": "Flocke, Tropfen, Span, Splitter",
+            "en": "flake, drop, chip",
+            "et": "tilk, helves, piisk",
+            "hu": "pehely, csepp, szilánk",
+            "nl": "vlok, druppel",
+            "pl": "płatek, kropla, drobina",
+            "ru": "чешуйка, капля, цепка",
+            "sv": "flinga, droppe, bit"
+        }
+    ],
+    "pronunciation": [
+        "ìl-va",
+        1
+    ],
+    "type": "n"
+}

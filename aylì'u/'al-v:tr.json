@@ -1,0 +1,19 @@
+{
+    "na'vi": "'al",
+    "translations": [
+        {
+            "de": "verschwenden, vergeuden, (unnütz) verbrauchen",
+            "en": "waste",
+            "et": "raiskama, kulutama",
+            "hu": "pazarol",
+            "nl": "verspillen",
+            "ru": "терять, тратить впустую"
+        }
+    ],
+    "pronunciation": [
+        "'al",
+        1
+    ],
+    "infixes": "'..al",
+    "type": "v:tr"
+}

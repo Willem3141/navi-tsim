@@ -1,0 +1,20 @@
+{
+    "na'vi": "te",
+    "translations": [
+        {
+            "de": "verwendet in Eigennamen",
+            "en": "used in full names",
+            "et": "kasutatakse täisnimedes",
+            "hu": "a teljes nevekben szerepel",
+            "nl": "wordt gebruikt in volledige namen",
+            "pl": "używana z imionami",
+            "ru": "используется в именах",
+            "sv": "partikel som används i hela namn"
+        }
+    ],
+    "pronunciation": [
+        "te",
+        1
+    ],
+    "type": "part"
+}

@@ -1,0 +1,21 @@
+{
+    "na'vi": "kin",
+    "translations": [
+        {
+            "de": "brauchen, bedürfen, benötigen",
+            "en": "need",
+            "et": "vajama",
+            "hu": "szüksége van valamire",
+            "nl": "nodig hebben",
+            "pl": "potrzebować",
+            "ru": "нуждаться (в комто или чемто)",
+            "sv": "behöva"
+        }
+    ],
+    "pronunciation": [
+        "kin",
+        1
+    ],
+    "infixes": "k..in",
+    "type": "v:tr"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "tewng",
+    "translations": [
+        {
+            "de": "Lendenschurz",
+            "en": "loincloth",
+            "et": "niudevöö",
+            "hu": "ágyékkötő",
+            "nl": "lendendoek",
+            "pl": "przepaska biodrowa",
+            "ru": "набедренная повязка",
+            "sv": "höftskynke"
+        }
+    ],
+    "pronunciation": [
+        "tewng",
+        1
+    ],
+    "type": "n"
+}

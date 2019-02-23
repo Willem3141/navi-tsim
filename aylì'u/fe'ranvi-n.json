@@ -1,0 +1,19 @@
+{
+    "na'vi": "fe'ranvi",
+    "translations": [
+        {
+            "de": "Schönheitsfehler, Makel, Defekt, Mangel, Unförmigkeit, fehlerhafte Eigenschaft",
+            "en": "blemish, deformity, stain, flawed feature",
+            "et": "rikutud, vigane olek",
+            "hu": "hiba, deformáltság, folt, rossz tulajdonság",
+            "nl": "blaam, misvorming, vlek",
+            "pl": "skaza, wada, deformacja",
+            "ru": "порок"
+        }
+    ],
+    "pronunciation": [
+        "fe'-ran-vi",
+        1
+    ],
+    "type": "n"
+}

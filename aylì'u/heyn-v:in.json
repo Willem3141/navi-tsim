@@ -1,0 +1,21 @@
+{
+    "na'vi": "heyn",
+    "translations": [
+        {
+            "de": "sitzen",
+            "en": "sit",
+            "et": "istuma",
+            "hu": "ül",
+            "nl": "zitten",
+            "pl": "siadać",
+            "ru": "сидеть",
+            "sv": "sitta"
+        }
+    ],
+    "pronunciation": [
+        "heyn",
+        1
+    ],
+    "infixes": "h..eyn",
+    "type": "v:in"
+}

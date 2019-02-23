@@ -1,0 +1,19 @@
+{
+    "na'vi": "sur",
+    "translations": [
+        {
+            "de": "Geschmack, Aroma, Geschmacksrichtung",
+            "en": "taste, flavor",
+            "et": "maitse, maik",
+            "hu": "íz, zamat",
+            "nl": "smaak",
+            "pl": "smak (czegoś)",
+            "ru": "вкус, аромат"
+        }
+    ],
+    "pronunciation": [
+        "sur",
+        1
+    ],
+    "type": "n"
+}

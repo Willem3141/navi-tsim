@@ -1,0 +1,20 @@
+{
+    "na'vi": "teynga",
+    "translations": [
+        {
+            "de": "dass (indirekte FrageKonstruktion)",
+            "en": "that answer",
+            "et": "vastus, mis ",
+            "hu": "az a válasz",
+            "nl": "dat antwoord",
+            "pl": "odpowiedź, która",
+            "ru": "этот ответ",
+            "sv": "svar som"
+        }
+    ],
+    "pronunciation": [
+        "teyng-a",
+        1
+    ],
+    "type": "n"
+}

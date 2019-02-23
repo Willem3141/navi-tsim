@@ -1,0 +1,21 @@
+{
+    "na'vi": "emrey",
+    "translations": [
+        {
+            "de": "überleben",
+            "en": "survive",
+            "et": "ellu jääma, üle elama",
+            "hu": "túlél",
+            "nl": "overleven",
+            "pl": "przetrwać, przeżyć, ocaleć",
+            "ru": "прежить, выжить",
+            "sv": "överleva"
+        }
+    ],
+    "pronunciation": [
+        "em-rey",
+        2
+    ],
+    "infixes": "emr..ey",
+    "type": "v:in"
+}

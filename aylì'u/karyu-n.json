@@ -1,0 +1,20 @@
+{
+    "na'vi": "karyu",
+    "translations": [
+        {
+            "de": "Lehrer",
+            "en": "teacher",
+            "et": "õpetaja",
+            "hu": "tanító",
+            "nl": "leraar",
+            "pl": "nauczyciel",
+            "ru": "учитель",
+            "sv": "lärare"
+        }
+    ],
+    "pronunciation": [
+        "kar-yu",
+        1
+    ],
+    "type": "n"
+}

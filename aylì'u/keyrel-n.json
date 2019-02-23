@@ -1,0 +1,20 @@
+{
+    "na'vi": "keyrel",
+    "translations": [
+        {
+            "de": "Gesichtsausdruck",
+            "en": "facial expression",
+            "et": "näoilme",
+            "hu": "arckifejezés",
+            "nl": "gezichtsuitdrukking",
+            "pl": "wyraz twarzy",
+            "ru": "выражение лица",
+            "sv": "ansiktsuttryck"
+        }
+    ],
+    "pronunciation": [
+        "key-rel",
+        1
+    ],
+    "type": "n"
+}

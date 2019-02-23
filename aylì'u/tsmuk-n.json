@@ -1,0 +1,20 @@
+{
+    "na'vi": "tsmuk",
+    "translations": [
+        {
+            "de": "Geschwister (Singular)",
+            "en": "sibling",
+            "et": "veresugulane, vend või õde",
+            "hu": "testvér",
+            "nl": "broer/zus (unisex aanduiding)",
+            "pl": "rodzeństwo",
+            "ru": "брат или сестра",
+            "sv": "syskon"
+        }
+    ],
+    "pronunciation": [
+        "tsmuk",
+        1
+    ],
+    "type": "n"
+}

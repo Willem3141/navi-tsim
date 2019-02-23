@@ -1,0 +1,20 @@
+{
+    "na'vi": "spxin",
+    "translations": [
+        {
+            "de": "krank, übel",
+            "en": "sick",
+            "et": "haige",
+            "hu": "beteg",
+            "nl": "ziek",
+            "pl": "chory",
+            "ru": "больной",
+            "sv": "sjuk"
+        }
+    ],
+    "pronunciation": [
+        "spxin",
+        1
+    ],
+    "type": "adj"
+}

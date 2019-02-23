@@ -1,0 +1,20 @@
+{
+    "na'vi": "uvan",
+    "translations": [
+        {
+            "de": "Spiel",
+            "en": "game",
+            "et": "mäng",
+            "hu": "játék",
+            "nl": "spel",
+            "pl": "gra",
+            "ru": "игра",
+            "sv": "spel, lek, uvan letokx sport"
+        }
+    ],
+    "pronunciation": [
+        "u-van",
+        2
+    ],
+    "type": "n"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "keltsun",
+    "translations": [
+        {
+            "de": "unmöglich",
+            "en": "impossible",
+            "et": "võimatu",
+            "hu": "lehetetlen",
+            "nl": "onmogelijk",
+            "pl": "niemożliwy",
+            "ru": "невозможный",
+            "sv": "omöjlig"
+        }
+    ],
+    "pronunciation": [
+        "kel-tsun",
+        2
+    ],
+    "type": "adj"
+}

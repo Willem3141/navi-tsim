@@ -1,0 +1,20 @@
+{
+    "na'vi": "melo",
+    "translations": [
+        {
+            "de": "zweimal",
+            "en": "twice",
+            "et": "kaks korda",
+            "hu": "kétszer",
+            "nl": "tweemaal",
+            "pl": "dwukrotnie",
+            "ru": "дважды, два раза",
+            "sv": "två gånger"
+        }
+    ],
+    "pronunciation": [
+        "me-lo",
+        1
+    ],
+    "type": "adv"
+}

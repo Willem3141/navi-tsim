@@ -1,0 +1,18 @@
+{
+    "na'vi": "zel",
+    "translations": [
+        {
+            "de": "dann (für irreale Folgesätze)",
+            "en": "then (counterfactual use)",
+            "et": "siis (vastupidise olukorra puhul, võrdle tsakrr, Näide Zun zivup tompa, zel ke tsivun oe kivä.  Kui vihma sajaks, siis ma ei saaks minna)",
+            "hu": "akkor",
+            "nl": "dan (contrafeitelijk gebruik)",
+            "ru": "то (в зависимости от фактов)"
+        }
+    ],
+    "pronunciation": [
+        "zel",
+        1
+    ],
+    "type": "adv"
+}

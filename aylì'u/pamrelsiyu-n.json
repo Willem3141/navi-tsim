@@ -1,0 +1,18 @@
+{
+    "na'vi": "pamrelsiyu",
+    "translations": [
+        {
+            "de": "Schreiber, Autor",
+            "en": "writer",
+            "et": "kirjanik",
+            "hu": "író",
+            "nl": "schrijver",
+            "ru": "писатель"
+        }
+    ],
+    "pronunciation": [
+        "pam-rel-si-yu",
+        2
+    ],
+    "type": "n"
+}

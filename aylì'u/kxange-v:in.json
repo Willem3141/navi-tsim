@@ -1,0 +1,17 @@
+{
+    "na'vi": "kxange",
+    "translations": [
+        {
+            "en": "yawn",
+            "et": "haigutama",
+            "hu": "ásít",
+            "nl": "gapen"
+        }
+    ],
+    "pronunciation": [
+        "kxa-nge",
+        1
+    ],
+    "infixes": "kx.ang.e",
+    "type": "v:in"
+}

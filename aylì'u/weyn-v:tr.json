@@ -1,0 +1,21 @@
+{
+    "na'vi": "weyn",
+    "translations": [
+        {
+            "de": "zeichnen, darstellen (bildlich)",
+            "en": "draw, illustrate",
+            "et": "joonistama",
+            "hu": "rajzol, illusztrál",
+            "nl": "tekenen, illustreren",
+            "pl": "rysować, ilustrować",
+            "ru": "рисовать, делать иллюстрации",
+            "sv": "måla, illustrera"
+        }
+    ],
+    "pronunciation": [
+        "weyn",
+        1
+    ],
+    "infixes": "w..eyn",
+    "type": "v:tr"
+}

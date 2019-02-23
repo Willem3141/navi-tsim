@@ -1,0 +1,20 @@
+{
+    "na'vi": "nang",
+    "translations": [
+        {
+            "de": "Ausruf, Überraschung, Zuspruch (mirativ, unerwartete oder neue Information)",
+            "en": "surprise, exclamation, encouragement (mirative)",
+            "et": "üllatus, vaimustus, ergutushüüd",
+            "hu": "hű! azta! hajrá! (meglepetést, biztatást jelölő szó, felkiáltás)",
+            "nl": "verrassing, uitroep, aanmoediging (voor onverwachte momenten of nieuwe informatie  miratief)",
+            "pl": "zaskoczenie, wykrzyknik, zachęta (tryb wyrażający zaskoczenie)",
+            "ru": "восклицание удивления, восхищения ",
+            "sv": "överraskning, utrop, uppmuntran (admirativ)"
+        }
+    ],
+    "pronunciation": [
+        "nang",
+        1
+    ],
+    "type": "part"
+}

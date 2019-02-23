@@ -1,0 +1,20 @@
+{
+    "na'vi": "taluna",
+    "translations": [
+        {
+            "de": "weil, denn, vom Beweggrund ausgehend",
+            "en": "because, from the reason",
+            "et": "sellepärast (põhjus)",
+            "hu": "mert",
+            "nl": "omdat",
+            "pl": "ponieważ, z powodu",
+            "ru": "поэтому, по этой причине",
+            "sv": "därför, ifrån anledningen"
+        }
+    ],
+    "pronunciation": [
+        "ta-lun-a",
+        2
+    ],
+    "type": "conj"
+}

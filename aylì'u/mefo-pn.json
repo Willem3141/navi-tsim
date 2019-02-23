@@ -1,0 +1,20 @@
+{
+    "na'vi": "mefo",
+    "translations": [
+        {
+            "de": "die, diese beiden",
+            "en": "they, those two",
+            "et": "nemad, need kaks",
+            "hu": "ők ketten",
+            "nl": "zij, die twee",
+            "pl": "ta dwójka, tych dwoje",
+            "ru": "они (указание на пару коголибо или чеголибо)",
+            "sv": "de, de två"
+        }
+    ],
+    "pronunciation": [
+        "me-fo",
+        1
+    ],
+    "type": "pn"
+}

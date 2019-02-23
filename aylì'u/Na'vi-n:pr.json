@@ -1,0 +1,20 @@
+{
+    "na'vi": "Na'vi",
+    "translations": [
+        {
+            "de": "Volk (der Na'vi), eingeborenes Volk Pandoras",
+            "en": "the People, indigenous Pandoran sentient race",
+            "et": "Rahvas, Pandora põlisasukad",
+            "hu": "a Nép, bennszülött pandorai faj",
+            "nl": "het Volk, inheemse bewoners van Pandora",
+            "pl": "Lud, rdzenni mieszkańcy Pandory",
+            "ru": "на'ви (Народ, разумные аборигены Пандоры)",
+            "sv": "Folket, rasen som lever på Pandora"
+        }
+    ],
+    "pronunciation": [
+        "Na'-vi",
+        1
+    ],
+    "type": "n:pr"
+}

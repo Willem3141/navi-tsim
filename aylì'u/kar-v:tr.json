@@ -1,0 +1,21 @@
+{
+    "na'vi": "kar",
+    "translations": [
+        {
+            "de": "lehren, unterrichten",
+            "en": "teach",
+            "et": "õpetama",
+            "hu": "tanít",
+            "nl": "leren, doceren",
+            "pl": "uczyć (kogoś)",
+            "ru": "учить",
+            "sv": "lära ut"
+        }
+    ],
+    "pronunciation": [
+        "kar",
+        1
+    ],
+    "infixes": "k..ar",
+    "type": "v:tr"
+}

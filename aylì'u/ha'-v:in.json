@@ -1,0 +1,20 @@
+{
+    "na'vi": "ha'",
+    "translations": [
+        {
+            "de": "(zusammen) passen, übereinstimmen, ergänzen, grundsätzlich verbessern",
+            "en": "fit, suit, complement, inherently enhance",
+            "et": "sobituma, sobima kokku",
+            "hu": "illik, megfelel, kiegészít, illeszkedik, természeténél fogva erősít",
+            "nl": "passen, aanvullen, verbeteren",
+            "pl": "pasować, uzupełniać, dopełniać",
+            "ru": "подходить, соответствовать, дополнять"
+        }
+    ],
+    "pronunciation": [
+        "ha'",
+        1
+    ],
+    "infixes": "h..a'",
+    "type": "v:in"
+}

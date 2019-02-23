@@ -1,0 +1,20 @@
+{
+    "na'vi": "päsketpol",
+    "translations": [
+        {
+            "de": "Basketball",
+            "en": "basketball",
+            "et": "korvpall",
+            "hu": "basketball",
+            "nl": "basketbal",
+            "pl": "koszykówka",
+            "ru": "баскетбол",
+            "sv": "basket"
+        }
+    ],
+    "pronunciation": [
+        "pä-sket-pol",
+        1
+    ],
+    "type": "n"
+}

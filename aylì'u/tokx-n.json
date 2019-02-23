@@ -1,0 +1,20 @@
+{
+    "na'vi": "tokx",
+    "translations": [
+        {
+            "de": "Körper, Leib",
+            "en": "body",
+            "et": "keha",
+            "hu": "test",
+            "nl": "lichaam",
+            "pl": "ciało",
+            "ru": "тело",
+            "sv": "kropp"
+        }
+    ],
+    "pronunciation": [
+        "tokx",
+        1
+    ],
+    "type": "n"
+}

@@ -1,0 +1,19 @@
+{
+    "na'vi": "fko",
+    "translations": [
+        {
+            "de": "eine/r, man (nichtspezifizierter Handelnder)",
+            "en": "one, they (singular usage) (unspecified agent)",
+            "et": "üks, nemad, see, umbisikuline tegija",
+            "hu": "valaki, ő(k) (határozatlan alany, egyesszámban értendő)",
+            "nl": "een, men (ongespecificeerd onderwerp)",
+            "ru": "обобщенноличное местоимение",
+            "sv": "man, dem (används för singular) (ospecificerade agent)"
+        }
+    ],
+    "pronunciation": [
+        "fko",
+        1
+    ],
+    "type": "pn"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "numtseng",
+    "translations": [
+        {
+            "de": "Schule",
+            "en": "school",
+            "et": "kool",
+            "hu": "iskola",
+            "nl": "school",
+            "pl": "szkoła",
+            "ru": "школа",
+            "sv": "skola"
+        }
+    ],
+    "pronunciation": [
+        "num-tseng",
+        1
+    ],
+    "type": "n"
+}

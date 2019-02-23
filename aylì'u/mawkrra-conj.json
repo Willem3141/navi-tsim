@@ -1,0 +1,20 @@
+{
+    "na'vi": "mawkrra",
+    "translations": [
+        {
+            "de": "nach (zeitlich)",
+            "en": "after (temporal)",
+            "et": "pärast (mingit asja)",
+            "hu": "utána (időben)",
+            "nl": "na (tijd)",
+            "pl": "po (chwili, która)",
+            "ru": "после (время)",
+            "sv": "efter (tid)"
+        }
+    ],
+    "pronunciation": [
+        "maw-krr-a",
+        2
+    ],
+    "type": "conj"
+}

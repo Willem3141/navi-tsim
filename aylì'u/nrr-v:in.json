@@ -1,0 +1,20 @@
+{
+    "na'vi": "nrr",
+    "translations": [
+        {
+            "de": "glühen, leuchten, glimmen",
+            "en": "glow, be luminous",
+            "et": "helendama, kumama",
+            "hu": "ragyog, fénylik",
+            "nl": "gloeien, lichtgevend zijn",
+            "pl": "świecić, lśnić",
+            "ru": "блестеть"
+        }
+    ],
+    "pronunciation": [
+        "nrr",
+        1
+    ],
+    "infixes": "n..rr",
+    "type": "v:in"
+}

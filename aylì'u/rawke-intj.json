@@ -1,0 +1,20 @@
+{
+    "na'vi": "rawke",
+    "translations": [
+        {
+            "de": "Alarmschrei, Verteidigungsruf",
+            "en": "alarm cry, call to defense",
+            "et": "hädakisa, abihüüd",
+            "hu": "vigyázz! menekülj! veszély! (figyelmeztető kiáltás)",
+            "nl": "alarmroep (alarm)",
+            "pl": "alarm, wezwanie do obrony",
+            "ru": "клич тревоги, призыв к защите",
+            "sv": "varningsskall, rop för att varna, \"stridsberedskap!\""
+        }
+    ],
+    "pronunciation": [
+        "raw-ke",
+        1
+    ],
+    "type": "intj"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "kllpä",
+    "translations": [
+        {
+            "de": "landen, aufkommen, aufsetzen",
+            "en": "land, reach the ground",
+            "et": "maanduma, maani jõudma",
+            "hu": "leszáll, földet ér",
+            "nl": "landen, de grond bereiken",
+            "pl": "lądować, spadac na ziemię",
+            "ru": "приземлиться"
+        }
+    ],
+    "pronunciation": [
+        "kll-pä",
+        2
+    ],
+    "infixes": "kllp..ä",
+    "type": "v:in"
+}

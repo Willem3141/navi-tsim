@@ -1,0 +1,18 @@
+{
+    "na'vi": "kakpam",
+    "translations": [
+        {
+            "de": "taub",
+            "en": "deaf",
+            "et": "kurt",
+            "hu": "süket",
+            "nl": "doof",
+            "ru": "глухой"
+        }
+    ],
+    "pronunciation": [
+        "kak-pam",
+        2
+    ],
+    "type": "adj"
+}

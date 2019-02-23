@@ -1,0 +1,20 @@
+{
+    "na'vi": "tìketeng",
+    "translations": [
+        {
+            "de": "Unterschied",
+            "en": "difference",
+            "et": "erinevus, teistsugusus",
+            "hu": "különbség",
+            "nl": "verschil",
+            "pl": "różnica",
+            "ru": "различие, разница",
+            "sv": "skillnad"
+        }
+    ],
+    "pronunciation": [
+        "tì-ke-teng",
+        2
+    ],
+    "type": "n"
+}

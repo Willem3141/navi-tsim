@@ -1,0 +1,21 @@
+{
+    "na'vi": "speng",
+    "translations": [
+        {
+            "de": "wiederherstellen, zurückversetzen, erneuern",
+            "en": "restore",
+            "et": "taastama",
+            "hu": "helyreállít, rendbe hoz",
+            "nl": "terughalen",
+            "pl": "przywracać, odzyskiwać",
+            "ru": "восстанавливать, реставрировать",
+            "sv": "återställa"
+        }
+    ],
+    "pronunciation": [
+        "speng",
+        1
+    ],
+    "infixes": "sp..eng",
+    "type": "v:tr"
+}

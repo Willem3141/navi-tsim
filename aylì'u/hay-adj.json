@@ -1,0 +1,20 @@
+{
+    "na'vi": "hay",
+    "translations": [
+        {
+            "de": "nächste/r/s, folgende/r/s",
+            "en": "next",
+            "et": "järgmine",
+            "hu": "következő",
+            "nl": "volgend(e)",
+            "pl": "następny",
+            "ru": "следующий",
+            "sv": "nästa"
+        }
+    ],
+    "pronunciation": [
+        "hay",
+        1
+    ],
+    "type": "adj"
+}

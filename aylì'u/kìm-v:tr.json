@@ -1,0 +1,21 @@
+{
+    "na'vi": "kìm",
+    "translations": [
+        {
+            "de": "drehen, wirbeln",
+            "en": "spin, to spin (something)",
+            "et": "keerlema, keerutama (midagi); Pol rumit kolìm  ta keerutas palli",
+            "hu": "forgat, pörget",
+            "nl": "(iets) draaien, laten tollen",
+            "pl": "wirować, obracać (czymś)",
+            "ru": "вращать (чтолибо)",
+            "sv": "snurra"
+        }
+    ],
+    "pronunciation": [
+        "kìm",
+        1
+    ],
+    "infixes": "k..ìm",
+    "type": "v:tr"
+}

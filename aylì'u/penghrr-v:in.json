@@ -1,0 +1,18 @@
+{
+    "na'vi": "penghrr",
+    "translations": [
+        {
+            "de": "warnen",
+            "en": "warn",
+            "et": "hoiatama",
+            "hu": "figyelmeztet",
+            "nl": "waarschuwen"
+        }
+    ],
+    "pronunciation": [
+        "peng-hrr",
+        2
+    ],
+    "infixes": "p..enghrr",
+    "type": "v:in"
+}

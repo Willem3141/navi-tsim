@@ -1,0 +1,21 @@
+{
+    "na'vi": "'anla",
+    "translations": [
+        {
+            "de": "sehnen nach, verzehren nach, schmachten",
+            "en": "yearn for",
+            "et": "igatsema",
+            "hu": "sóvárog (valami után)",
+            "nl": "verlangen naar",
+            "pl": "tęsknić",
+            "ru": "тосковать по",
+            "sv": "längta efter"
+        }
+    ],
+    "pronunciation": [
+        "'an-la",
+        1
+    ],
+    "infixes": "'.anl.a",
+    "type": "v:tr"
+}

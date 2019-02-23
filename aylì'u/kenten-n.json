@@ -1,0 +1,20 @@
+{
+    "na'vi": "kenten",
+    "translations": [
+        {
+            "de": "Fächerechse, Fanisaurus pennatus, geflügelte Fächerechse",
+            "en": "fan lizard",
+            "et": "Tiibsisalik (fan lizard)",
+            "hu": "legyezőgyík",
+            "nl": "waaierhagedis",
+            "pl": "jaszczurka wachlarzowa",
+            "ru": "веерная ящерица",
+            "sv": "fan lizard, ödla"
+        }
+    ],
+    "pronunciation": [
+        "ken-ten",
+        1
+    ],
+    "type": "n"
+}

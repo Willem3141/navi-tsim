@@ -1,0 +1,20 @@
+{
+    "na'vi": "srekamtrr",
+    "translations": [
+        {
+            "de": "die Zeitspanne vor Mittag",
+            "en": "the time before noon",
+            "et": "aeg enne lõunat",
+            "hu": "délelőtt",
+            "nl": "de tijd voor middag (12 uur 's middags)",
+            "pl": "czas przed południem",
+            "ru": "перед полуднем",
+            "sv": "tiden på förmiddagen"
+        }
+    ],
+    "pronunciation": [
+        "sre-kam-trr",
+        2
+    ],
+    "type": "n"
+}

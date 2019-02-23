@@ -1,0 +1,21 @@
+{
+    "na'vi": "sloan",
+    "translations": [
+        {
+            "de": "eingießen, einschütten, gießen, schütten",
+            "en": "pour",
+            "et": "valama, kallama",
+            "hu": "önt, folyik",
+            "nl": "gieten (v.e. vloeistof)",
+            "pl": "lać, sypać",
+            "ru": "лить",
+            "sv": "hälla upp"
+        }
+    ],
+    "pronunciation": [
+        "slo-an",
+        2
+    ],
+    "infixes": "sl.o.an",
+    "type": "v:tr"
+}

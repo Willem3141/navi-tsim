@@ -1,0 +1,20 @@
+{
+    "na'vi": "olo'",
+    "translations": [
+        {
+            "de": "Stamm, Clan",
+            "en": "clan",
+            "et": "hõim",
+            "hu": "klán",
+            "nl": "stam, clan",
+            "pl": "klan",
+            "ru": "клан",
+            "sv": "klan"
+        }
+    ],
+    "pronunciation": [
+        "o-lo'",
+        2
+    ],
+    "type": "n"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "alunta",
+    "translations": [
+        {
+            "de": "weil, aus dem Grund, dass…",
+            "en": "because, from the reason",
+            "et": "sellepärast (põhjusest)",
+            "hu": "(azért) mert",
+            "nl": "vanwege, omdat",
+            "pl": "ponieważ, z tego powodu",
+            "ru": "поскольку, по причине",
+            "sv": "därför, av anledningen"
+        }
+    ],
+    "pronunciation": [
+        "a-lun-ta",
+        2
+    ],
+    "type": "conj"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "au",
+    "translations": [
+        {
+            "de": "Ausruf der Betroffenheit",
+            "en": "exclamation of consternation",
+            "et": "jahmatuse märkija",
+            "hu": "felkiáltás",
+            "nl": "uitroep van ontsteltenis",
+            "pl": "okrzyk przerażenia",
+            "ru": "выражение ужаса",
+            "sv": "uttryck av bestörtning"
+        }
+    ],
+    "pronunciation": [
+        "a-u",
+        2
+    ],
+    "type": "intj"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "alo",
+    "translations": [
+        {
+            "de": "Mal (eine Reihe von sich wiederholenden Handlungen); Reihe, am Zug sein",
+            "en": "time, turn, instance, one of a number of repeated or recurring actions",
+            "et": "kord (Näiteks kolm korda)",
+            "hu": "eset, alkalom, ismételten előforduló cselekvések egyike",
+            "nl": "tijd, beurt, een van een herhalende actie",
+            "pl": "raz, jedna z wielu powtarzających się czynności",
+            "ru": "раз, круг (одно из повторений)",
+            "sv": "tid, tur, ögonblick, en av ett antal återupprepande handlingar"
+        }
+    ],
+    "pronunciation": [
+        "a-lo",
+        1
+    ],
+    "type": "n"
+}

@@ -1,0 +1,19 @@
+{
+    "na'vi": "mesrram",
+    "translations": [
+        {
+            "de": "Tag vor zwei Tagen, vorgestern",
+            "en": "the day before yesterday, two days ago",
+            "et": "üleeile",
+            "hu": "tegnapelőtt, két napja",
+            "nl": "eergisteren, twee dagen geleden",
+            "pl": "przedwczoraj",
+            "ru": "позапозавчера"
+        }
+    ],
+    "pronunciation": [
+        "me-srr-am",
+        3
+    ],
+    "type": "n"
+}

@@ -1,0 +1,19 @@
+{
+    "na'vi": "ngampam",
+    "translations": [
+        {
+            "de": "reimen",
+            "en": "rhyme",
+            "et": "riimuma",
+            "hu": "rímel",
+            "nl": "rijmen",
+            "pl": "rymować",
+            "ru": "слагать стихи"
+        }
+    ],
+    "pronunciation": [
+        "ngam-pam",
+        1
+    ],
+    "type": "n:si"
+}

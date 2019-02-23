@@ -1,0 +1,20 @@
+{
+    "na'vi": "neympin",
+    "translations": [
+        {
+            "de": "helle Farbe",
+            "en": "light color",
+            "et": "hele värv",
+            "hu": "világos szín",
+            "nl": "lichte kleur",
+            "pl": "jasny kolor",
+            "ru": "светлый",
+            "sv": "ljus färg"
+        }
+    ],
+    "pronunciation": [
+        "neym-pin",
+        1
+    ],
+    "type": "n"
+}

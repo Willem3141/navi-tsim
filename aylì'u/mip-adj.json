@@ -1,0 +1,20 @@
+{
+    "na'vi": "mip",
+    "translations": [
+        {
+            "de": "neu",
+            "en": "new",
+            "et": "uus",
+            "hu": "új",
+            "nl": "nieuw",
+            "pl": "nowy",
+            "ru": "новый",
+            "sv": "ny"
+        }
+    ],
+    "pronunciation": [
+        "mip",
+        1
+    ],
+    "type": "adj"
+}

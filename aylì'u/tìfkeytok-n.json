@@ -1,0 +1,20 @@
+{
+    "na'vi": "tìfkeytok",
+    "translations": [
+        {
+            "de": "Zustand, Beschaffenheit, Situation",
+            "en": "state, condition, situation",
+            "et": "olek, konditsioon, olukord",
+            "hu": "állapot, körülmény, helyzet",
+            "nl": "situatie, conditie, staat",
+            "pl": "stan, forma, sytuacja",
+            "ru": "состояние, ситуация",
+            "sv": "situation, tillstånd"
+        }
+    ],
+    "pronunciation": [
+        "tì-fkey-tok",
+        2
+    ],
+    "type": "n"
+}

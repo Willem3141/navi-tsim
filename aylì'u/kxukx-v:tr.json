@@ -1,0 +1,21 @@
+{
+    "na'vi": "kxukx",
+    "translations": [
+        {
+            "de": "schlucken, verschlucken",
+            "en": "swallow",
+            "et": "neelama, neelatama",
+            "hu": "lenyel",
+            "nl": "slikken",
+            "pl": "przełknąć",
+            "ru": "глотать",
+            "sv": "svälja"
+        }
+    ],
+    "pronunciation": [
+        "kxukx",
+        1
+    ],
+    "infixes": "kx..ukx",
+    "type": "v:tr"
+}

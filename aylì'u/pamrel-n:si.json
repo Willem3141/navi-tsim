@@ -1,0 +1,20 @@
+{
+    "na'vi": "pamrel",
+    "translations": [
+        {
+            "de": "schreiben",
+            "en": "write",
+            "et": "kirjutama",
+            "hu": "ír",
+            "nl": "schrijven",
+            "pl": "pisać",
+            "ru": "писать",
+            "sv": "skriva"
+        }
+    ],
+    "pronunciation": [
+        "pam-rel",
+        2
+    ],
+    "type": "n:si"
+}

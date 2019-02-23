@@ -1,0 +1,20 @@
+{
+    "na'vi": "tompameyp",
+    "translations": [
+        {
+            "de": "Sprühregen, Nieselregen",
+            "en": "drizzle",
+            "et": "seenekas, hoovihm",
+            "hu": "szitáló eső",
+            "nl": "motregen",
+            "pl": "mżawka",
+            "ru": "мелкий дождь",
+            "sv": "duggregn"
+        }
+    ],
+    "pronunciation": [
+        "tom-pa-meyp",
+        3
+    ],
+    "type": "n"
+}

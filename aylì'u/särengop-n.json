@@ -1,0 +1,19 @@
+{
+    "na'vi": "särengop",
+    "translations": [
+        {
+            "de": "Design, Entwurf",
+            "en": "design (a particular instance of designing)",
+            "et": "kujundus, disain",
+            "hu": "terv, tervezet",
+            "nl": "ontwerp (specifiek geval)",
+            "pl": "projekt (konkretny projekt czegoś)",
+            "ru": "проект"
+        }
+    ],
+    "pronunciation": [
+        "sä-re-ngop",
+        2
+    ],
+    "type": "n"
+}

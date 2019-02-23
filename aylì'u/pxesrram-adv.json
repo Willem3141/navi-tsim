@@ -1,0 +1,19 @@
+{
+    "na'vi": "pxesrram",
+    "translations": [
+        {
+            "de": "vor drei Tagen",
+            "en": "three days ago",
+            "et": "kolm päeva tagasi",
+            "hu": "3 napja",
+            "nl": "drie dagen geleden",
+            "pl": "trzy dni temu",
+            "ru": "три дня назад"
+        }
+    ],
+    "pronunciation": [
+        "pxe-srr-am",
+        3
+    ],
+    "type": "adv"
+}

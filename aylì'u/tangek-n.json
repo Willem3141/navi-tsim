@@ -1,0 +1,20 @@
+{
+    "na'vi": "tangek",
+    "translations": [
+        {
+            "de": "Stamm (eines Baumes)",
+            "en": "trunk (of a tree)",
+            "et": "puutüvi",
+            "hu": "fatörzs",
+            "nl": "boomstam",
+            "pl": "gałąź, konar",
+            "ru": "ствол дерева",
+            "sv": "stam (av ett träd)"
+        }
+    ],
+    "pronunciation": [
+        "ta-ngek",
+        1
+    ],
+    "type": "n"
+}

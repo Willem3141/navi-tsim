@@ -1,0 +1,20 @@
+{
+    "na'vi": "fahew",
+    "translations": [
+        {
+            "de": "Geruch, Gestank",
+            "en": "smell",
+            "et": "lõhn, hais",
+            "hu": "szag",
+            "nl": "geur",
+            "pl": "zapach",
+            "ru": "запах",
+            "sv": "lukt"
+        }
+    ],
+    "pronunciation": [
+        "fa-hew",
+        2
+    ],
+    "type": "n"
+}

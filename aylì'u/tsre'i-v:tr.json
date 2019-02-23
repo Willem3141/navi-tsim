@@ -1,0 +1,21 @@
+{
+    "na'vi": "tsre'i",
+    "translations": [
+        {
+            "de": "werfen, schleudern",
+            "en": "throw",
+            "et": "viskama",
+            "hu": "dobni",
+            "nl": "gooien",
+            "pl": "rzucać",
+            "ru": "бросать, кидать",
+            "sv": "kasta"
+        }
+    ],
+    "pronunciation": [
+        "tsre-'i",
+        1
+    ],
+    "infixes": "tsr.e'.i",
+    "type": "v:tr"
+}

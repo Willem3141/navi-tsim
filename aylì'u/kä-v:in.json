@@ -1,0 +1,21 @@
+{
+    "na'vi": "kä",
+    "translations": [
+        {
+            "de": "gehen",
+            "en": "go",
+            "et": "minema",
+            "hu": "megy",
+            "nl": "gaan",
+            "pl": "iść",
+            "ru": "идти, ехать, двигаться",
+            "sv": "åka, gå, fara"
+        }
+    ],
+    "pronunciation": [
+        "kä",
+        1
+    ],
+    "infixes": "k..ä",
+    "type": "v:in"
+}

@@ -1,0 +1,21 @@
+{
+    "na'vi": "pänutìng",
+    "translations": [
+        {
+            "de": "versprechen (jemandem etwas), zusagen (ii)",
+            "en": "promise (a thing to someone) (ii)",
+            "et": "lubama (midagi kellelegi) (e)",
+            "hu": "ígér",
+            "nl": "beloven",
+            "pl": "obiecać (coś komuś) (ii)",
+            "ru": "обещать (комуто) ",
+            "sv": "lova (en sak till någon)"
+        }
+    ],
+    "pronunciation": [
+        "pä-nu-tìng",
+        1
+    ],
+    "infixes": "pänut..ìng",
+    "type": "v:tr"
+}

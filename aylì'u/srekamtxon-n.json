@@ -1,0 +1,20 @@
+{
+    "na'vi": "srekamtxon",
+    "translations": [
+        {
+            "de": "Zeit vor Mitternacht",
+            "en": "before midnight",
+            "et": "aeg enne keskööd",
+            "hu": "éjfél előtt",
+            "nl": "voor middernacht",
+            "pl": "przed północą",
+            "ru": "до полуночи",
+            "sv": "före midnatt"
+        }
+    ],
+    "pronunciation": [
+        "sre-kam-txon",
+        2
+    ],
+    "type": "n"
+}

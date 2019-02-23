@@ -1,0 +1,18 @@
+{
+    "na'vi": "hiup",
+    "translations": [
+        {
+            "de": "spucken, (etwas) ausspucken",
+            "en": "spit, spit out",
+            "et": "sülitama",
+            "hu": "köp",
+            "nl": "spugen, uitspugen"
+        }
+    ],
+    "pronunciation": [
+        "hiup",
+        1
+    ],
+    "infixes": "hi..up",
+    "type": "v:tr"
+}

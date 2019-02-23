@@ -1,0 +1,20 @@
+{
+    "na'vi": "Yeysu",
+    "translations": [
+        {
+            "de": "Jesus",
+            "en": "Jesus",
+            "et": "Jeesus",
+            "hu": "Jézus",
+            "nl": "Jezus",
+            "pl": "Jezus",
+            "ru": "Исус",
+            "sv": "Jesus"
+        }
+    ],
+    "pronunciation": [
+        "Yey-su",
+        1
+    ],
+    "type": "n:pr"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "puve",
+    "translations": [
+        {
+            "de": "sechste/r/s (Ordnungszahl)",
+            "en": "sixth (ordinal)",
+            "et": "kuues",
+            "hu": "hatodik (sorszámnév)",
+            "nl": "zesde (rangtelwoord)",
+            "pl": "szósty",
+            "ru": "шестой",
+            "sv": "sjätte (ordningstal)"
+        }
+    ],
+    "pronunciation": [
+        "pu-ve",
+        1
+    ],
+    "type": "adj"
+}

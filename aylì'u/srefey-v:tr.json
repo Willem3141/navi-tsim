@@ -1,0 +1,21 @@
+{
+    "na'vi": "srefey",
+    "translations": [
+        {
+            "de": "erwarten, voraussetzen, annehmen",
+            "en": "expect",
+            "et": "ootama, lootma (millegi tulekule)",
+            "hu": "elvár, számít valamire",
+            "nl": "verwachten",
+            "pl": "spodziewac się, oczekiwać",
+            "ru": "ожидать",
+            "sv": "förvänta sig, förvänta, vänta sig"
+        }
+    ],
+    "pronunciation": [
+        "sre-fey",
+        2
+    ],
+    "infixes": "sref..ey",
+    "type": "v:tr"
+}

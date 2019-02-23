@@ -1,0 +1,20 @@
+{
+    "na'vi": "ayoeng",
+    "translations": [
+        {
+            "de": "wir (inklusiv)",
+            "en": "we, us (inclusive)",
+            "et": "meie (kaasav) (ayoeng nimetavas, (meie ja sina))",
+            "hu": "mi (beleértő)",
+            "nl": "wij, ons (inclusief)",
+            "pl": "my, nas (włączające)",
+            "ru": "мы (инклюзив)",
+            "sv": "vi, oss (du med)"
+        }
+    ],
+    "pronunciation": [
+        "ay-oeng",
+        2
+    ],
+    "type": "pn"
+}

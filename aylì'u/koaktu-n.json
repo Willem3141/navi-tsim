@@ -1,0 +1,20 @@
+{
+    "na'vi": "koaktu",
+    "translations": [
+        {
+            "de": "alte Person",
+            "en": "old person",
+            "et": "vana inimene",
+            "hu": "öreg ember/öreg személy",
+            "nl": "oud persoon",
+            "pl": "starzec (osoba stara)",
+            "ru": "старый человек",
+            "sv": "gammal person"
+        }
+    ],
+    "pronunciation": [
+        "ko-ak-tu",
+        1
+    ],
+    "type": "n"
+}

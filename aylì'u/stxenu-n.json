@@ -1,0 +1,20 @@
+{
+    "na'vi": "stxenu",
+    "translations": [
+        {
+            "de": "Angebot",
+            "en": "offer",
+            "et": "and",
+            "hu": "ajánlat",
+            "nl": "aanbod",
+            "pl": "propozycja, oferta",
+            "ru": "предложение",
+            "sv": "erbjudande, offer"
+        }
+    ],
+    "pronunciation": [
+        "stxe-nu",
+        1
+    ],
+    "type": "n"
+}

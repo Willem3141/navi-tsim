@@ -1,0 +1,19 @@
+{
+    "na'vi": "yo",
+    "translations": [
+        {
+            "de": "Oberfläche",
+            "en": "surface",
+            "et": "pind, kate",
+            "hu": "felszín, felület",
+            "nl": "oppervlak",
+            "pl": "powierzchnia",
+            "ru": "поверхность"
+        }
+    ],
+    "pronunciation": [
+        "yo",
+        1
+    ],
+    "type": "n"
+}

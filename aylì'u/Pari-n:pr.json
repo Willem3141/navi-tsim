@@ -1,0 +1,20 @@
+{
+    "na'vi": "Pari",
+    "translations": [
+        {
+            "de": "Paris (Hauptstadt Frankreichs)",
+            "en": "Paris",
+            "et": "Pariis",
+            "hu": "Párizs",
+            "nl": "Parijs",
+            "pl": "Paryż",
+            "ru": "Париж",
+            "sv": "Paris"
+        }
+    ],
+    "pronunciation": [
+        "Pa-ri",
+        1
+    ],
+    "type": "n:pr"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "mong",
+    "translations": [
+        {
+            "de": "verlassen auf, angewiesen sein auf, auf Schutz vertrauen",
+            "en": "depend on, rely on, trust for protection",
+            "et": "sõltuma, toetuma (abile)",
+            "hu": "függ valamitől, számit, bízik",
+            "nl": "vertrouwen op",
+            "pl": "zalezeć od, polegać na, ufać",
+            "ru": "зависеть от "
+        }
+    ],
+    "pronunciation": [
+        "mong",
+        1
+    ],
+    "infixes": "m..ong",
+    "type": "v:tr"
+}

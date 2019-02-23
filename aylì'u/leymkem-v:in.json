@@ -1,0 +1,18 @@
+{
+    "na'vi": "leymkem",
+    "translations": [
+        {
+            "de": "protestieren",
+            "en": "protest",
+            "et": "protesteerima, vastu seisma, meelt avaldama",
+            "hu": "tiltakozik",
+            "nl": "protesteren"
+        }
+    ],
+    "pronunciation": [
+        "leym-kem",
+        2
+    ],
+    "infixes": "l..eymkem",
+    "type": "v:in"
+}

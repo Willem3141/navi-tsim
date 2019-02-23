@@ -1,0 +1,21 @@
+{
+    "na'vi": "'awnìm",
+    "translations": [
+        {
+            "de": "meiden, vermeiden, jdn/et umgehen",
+            "en": "avoid",
+            "et": "vältima",
+            "hu": "elkerül",
+            "nl": "vermijden",
+            "pl": "unikać",
+            "ru": "избежать",
+            "sv": "undvika"
+        }
+    ],
+    "pronunciation": [
+        "'aw-nìm",
+        1
+    ],
+    "infixes": "'..awnìm",
+    "type": "v:tr"
+}

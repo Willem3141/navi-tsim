@@ -1,0 +1,21 @@
+{
+    "na'vi": "lek",
+    "translations": [
+        {
+            "de": "achten, beachten, gehorchen, befolgen",
+            "en": "heed, obey",
+            "et": "kuuletuma, kuulda võtma",
+            "hu": "figyelmez, engedelmeskedik",
+            "nl": "gehoorzamen, luisteren naar",
+            "pl": "brać pod uwagę, przestrzegać",
+            "ru": "принимать чтолибо во внимание, подчиняться чемулибо",
+            "sv": "lyssna, lyda"
+        }
+    ],
+    "pronunciation": [
+        "lek",
+        1
+    ],
+    "infixes": "l..ek",
+    "type": "v:tr"
+}

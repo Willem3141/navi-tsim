@@ -1,0 +1,21 @@
+{
+    "na'vi": "tawng",
+    "translations": [
+        {
+            "de": "untertauchen, sich ducken, tauchen",
+            "en": "duck, dive",
+            "et": "sukelduma",
+            "hu": "lebukik, alámerül, zuhan",
+            "nl": "duiken, bukken",
+            "pl": "kucać",
+            "ru": "наклониться, пригнуться",
+            "sv": "ducka, dyka"
+        }
+    ],
+    "pronunciation": [
+        "tawng",
+        1
+    ],
+    "infixes": "t..awng",
+    "type": "v:in"
+}

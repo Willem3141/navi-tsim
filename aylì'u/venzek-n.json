@@ -1,0 +1,20 @@
+{
+    "na'vi": "venzek",
+    "translations": [
+        {
+            "de": "Zehe",
+            "en": "toe",
+            "et": "varvas",
+            "hu": "lábujj",
+            "nl": "teen",
+            "pl": "palec u stopy",
+            "ru": "палец ноги",
+            "sv": "tå"
+        }
+    ],
+    "pronunciation": [
+        "ven-zek",
+        1
+    ],
+    "type": "n"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "vospxìam",
+    "translations": [
+        {
+            "de": "letzter Monat",
+            "en": "last month",
+            "et": "eelmine kuu",
+            "hu": "múlt hónap",
+            "nl": "vorige maand",
+            "pl": "poprzedni miesiąc",
+            "ru": "последний месяц",
+            "sv": "förra månaden"
+        }
+    ],
+    "pronunciation": [
+        "vo-spxì-am",
+        3
+    ],
+    "type": "n"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "tor",
+    "translations": [
+        {
+            "de": "endgültig, ein Ende bringend",
+            "en": "last, ultimate, terminal",
+            "et": "viimane, viimne, lõpetav",
+            "hu": "utolsó, végső, befejező",
+            "nl": "laatste, uiteindelijke",
+            "pl": "ostatni, ostateczny",
+            "ru": "последний",
+            "sv": "sista, ultimata, slutgiltiga"
+        }
+    ],
+    "pronunciation": [
+        "tor",
+        1
+    ],
+    "type": "adj"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "muve",
+    "translations": [
+        {
+            "de": "zweite/r/s (Ordnungszahl)",
+            "en": "second (ordinal)",
+            "et": "teine",
+            "hu": "második (sorszámnév)",
+            "nl": "tweede (rangtelwoord)",
+            "pl": "drugi",
+            "ru": "второй",
+            "sv": "andra (ordningstal)"
+        }
+    ],
+    "pronunciation": [
+        "mu-ve",
+        1
+    ],
+    "type": "adj"
+}

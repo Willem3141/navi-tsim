@@ -1,0 +1,20 @@
+{
+    "na'vi": "txawew",
+    "translations": [
+        {
+            "de": "sehr kalt",
+            "en": "very cold",
+            "et": "väga külm",
+            "hu": "nagyon hideg",
+            "nl": "erg koud",
+            "pl": "lodowaty",
+            "ru": "очень холодно",
+            "sv": "väldigt kall"
+        }
+    ],
+    "pronunciation": [
+        "txa-wew",
+        1
+    ],
+    "type": "adj"
+}

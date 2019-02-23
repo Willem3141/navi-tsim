@@ -1,0 +1,20 @@
+{
+    "na'vi": "sänume",
+    "translations": [
+        {
+            "de": "Lehre, Unterrichtung, Unterweisung",
+            "en": "teaching, instruction",
+            "et": "õpetus, juhis",
+            "hu": "tanítás",
+            "nl": "les, instructie",
+            "pl": "nauka, instruktarz",
+            "ru": "обучение, преподавание",
+            "sv": "lärande, undervisning"
+        }
+    ],
+    "pronunciation": [
+        "sä-nu-me",
+        2
+    ],
+    "type": "n"
+}

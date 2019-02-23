@@ -1,0 +1,20 @@
+{
+    "na'vi": "kea",
+    "translations": [
+        {
+            "de": "kein, keine/r/s (vor einem Nomen)",
+            "en": "no (before a noun)",
+            "et": "ei (nimisõnade ees)",
+            "hu": "nem (főnév előtt)",
+            "nl": "geen (voor zn.)",
+            "pl": "żaden",
+            "ru": "не (с существительными)",
+            "sv": "inte (före ett substantiv)"
+        }
+    ],
+    "pronunciation": [
+        "ke-a",
+        1
+    ],
+    "type": "adj"
+}

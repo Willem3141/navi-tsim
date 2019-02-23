@@ -1,0 +1,21 @@
+{
+    "na'vi": "fmetok",
+    "translations": [
+        {
+            "de": "testen, prüfen, überprüfen",
+            "en": "test",
+            "et": "katsetama",
+            "hu": "tesztel, próbára tesz",
+            "nl": "testen",
+            "pl": "sprawdzać, badać",
+            "ru": "экзаменовать, подвергать испытанию",
+            "sv": "testa"
+        }
+    ],
+    "pronunciation": [
+        "fme-tok",
+        1
+    ],
+    "infixes": "fm.et.ok",
+    "type": "v:tr"
+}

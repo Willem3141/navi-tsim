@@ -1,0 +1,20 @@
+{
+    "na'vi": "kelku",
+    "translations": [
+        {
+            "de": "leben, wohnen, hausen",
+            "en": "live, dwell",
+            "et": "elama, paiknema",
+            "hu": "lakik",
+            "nl": "wonen",
+            "pl": "mieszkać",
+            "ru": "жить, обитать",
+            "sv": "bo, leva"
+        }
+    ],
+    "pronunciation": [
+        "kel-ku",
+        1
+    ],
+    "type": "n:si"
+}

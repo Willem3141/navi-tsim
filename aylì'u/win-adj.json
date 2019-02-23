@@ -1,0 +1,20 @@
+{
+    "na'vi": "win",
+    "translations": [
+        {
+            "de": "schnell, rasch",
+            "en": "fast",
+            "et": "kiire",
+            "hu": "gyors",
+            "nl": "snel",
+            "pl": "szybki",
+            "ru": "быстрый",
+            "sv": "snabb"
+        }
+    ],
+    "pronunciation": [
+        "win",
+        1
+    ],
+    "type": "adj"
+}

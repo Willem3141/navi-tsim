@@ -1,0 +1,20 @@
+{
+    "na'vi": "uran",
+    "translations": [
+        {
+            "de": "Boot",
+            "en": "boat",
+            "et": "paat",
+            "hu": "hajó",
+            "nl": "boot",
+            "pl": "łódź",
+            "ru": "лодка",
+            "sv": "båt"
+        }
+    ],
+    "pronunciation": [
+        "u-ran",
+        1
+    ],
+    "type": "n"
+}

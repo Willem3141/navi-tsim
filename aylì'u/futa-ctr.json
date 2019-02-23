@@ -1,0 +1,20 @@
+{
+    "na'vi": "futa",
+    "translations": [
+        {
+            "de": "dass (NebensatzMarker)",
+            "en": "that",
+            "et": "seda, mis (kõrvallause märkija)",
+            "hu": "azt, hogy (alárendelő mellékmondat kötőszava)",
+            "nl": "dat",
+            "pl": "którego",
+            "ru": "что, чтобы",
+            "sv": "det"
+        }
+    ],
+    "pronunciation": [
+        "fu-ta",
+        1
+    ],
+    "type": "ctr"
+}

@@ -1,0 +1,19 @@
+{
+    "na'vi": "pamrelvi",
+    "translations": [
+        {
+            "de": "Buchstabe (phonetisches Symbol)",
+            "en": "letter (phonetic symbol)",
+            "et": "kirjatäht",
+            "hu": "betű (fonetikus jel)",
+            "nl": "letter (fonetisch symbool)",
+            "pl": "litera",
+            "ru": "буква (фонетический символ)"
+        }
+    ],
+    "pronunciation": [
+        "pam-rel-vi",
+        2
+    ],
+    "type": "n"
+}

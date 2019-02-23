@@ -1,0 +1,20 @@
+{
+    "na'vi": "letsim",
+    "translations": [
+        {
+            "de": "ursprünglich, einzigartig, nicht von einem anderen Ursprung hergeleitet",
+            "en": "original, unique, not derived from another source",
+            "et": "ainulaadne, originaalne",
+            "hu": "eredeti, egyedi, nem más forrásból származó",
+            "nl": "origineel, uniek, niet van een andere bron genomen",
+            "pl": "wyjątkowy, jedyny, oryginalny, niepowtarzalny",
+            "ru": "исходный",
+            "sv": "originell, unik, härstammar inte ifrån en annan källa"
+        }
+    ],
+    "pronunciation": [
+        "le-tsim",
+        2
+    ],
+    "type": "adj"
+}

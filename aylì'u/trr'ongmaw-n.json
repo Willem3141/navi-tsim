@@ -1,0 +1,20 @@
+{
+    "na'vi": "trr'ongmaw",
+    "translations": [
+        {
+            "de": "nach dem Morgengrauen",
+            "en": "dawn after sunrise",
+            "et": "päiksetõusujärgne koit",
+            "hu": "napkelte után",
+            "nl": "dag na zonsopgang",
+            "pl": "blask po wschodzie słońca",
+            "ru": "рассвет после восхода солнца",
+            "sv": "gryning efter soluppgång"
+        }
+    ],
+    "pronunciation": [
+        "trr-'ong-maw",
+        2
+    ],
+    "type": "n"
+}

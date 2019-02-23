@@ -1,0 +1,20 @@
+{
+    "na'vi": "key",
+    "translations": [
+        {
+            "de": "Gesicht",
+            "en": "face",
+            "et": "nägu",
+            "hu": "arc, orca, ábrázat",
+            "nl": "gezicht",
+            "pl": "twarz",
+            "ru": "лицо",
+            "sv": "ansikte"
+        }
+    ],
+    "pronunciation": [
+        "key",
+        1
+    ],
+    "type": "n"
+}

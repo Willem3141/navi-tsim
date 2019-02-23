@@ -1,0 +1,20 @@
+{
+    "na'vi": "ramunong",
+    "translations": [
+        {
+            "de": "Brunnen",
+            "en": "well",
+            "et": "kaev",
+            "hu": "kút",
+            "nl": "bron",
+            "pl": "studnia",
+            "ru": "колодец",
+            "sv": "brunn"
+        }
+    ],
+    "pronunciation": [
+        "ra-mu-nong",
+        2
+    ],
+    "type": "n"
+}

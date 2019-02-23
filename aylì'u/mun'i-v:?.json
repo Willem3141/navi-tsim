@@ -1,0 +1,21 @@
+{
+    "na'vi": "mun'i",
+    "translations": [
+        {
+            "de": "schneiden",
+            "en": "cut",
+            "et": "lõikama, raiuma",
+            "hu": "vág",
+            "nl": "snijden",
+            "pl": "ciąć",
+            "ru": "резать, разрезать",
+            "sv": "skära"
+        }
+    ],
+    "pronunciation": [
+        "mun-'i",
+        2
+    ],
+    "infixes": "m.un'.i",
+    "type": "v:?"
+}

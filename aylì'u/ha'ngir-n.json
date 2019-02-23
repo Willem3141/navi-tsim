@@ -1,0 +1,20 @@
+{
+    "na'vi": "ha'ngir",
+    "translations": [
+        {
+            "de": "Nachmittag",
+            "en": "afternoon",
+            "et": "pärastlõuna",
+            "hu": "délután",
+            "nl": "middag",
+            "pl": "popołudnie",
+            "ru": "после полудня",
+            "sv": "eftermiddag"
+        }
+    ],
+    "pronunciation": [
+        "ha'-ngir",
+        2
+    ],
+    "type": "n"
+}

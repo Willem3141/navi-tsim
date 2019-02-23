@@ -1,0 +1,20 @@
+{
+    "na'vi": "mawl",
+    "translations": [
+        {
+            "de": "Hälfte, einhalb",
+            "en": "half",
+            "et": "pool (millestki)",
+            "hu": "(egy) fél",
+            "nl": "half",
+            "pl": "połowa",
+            "ru": "половина",
+            "sv": "halva"
+        }
+    ],
+    "pronunciation": [
+        "mawl",
+        1
+    ],
+    "type": "n"
+}

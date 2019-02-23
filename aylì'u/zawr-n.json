@@ -1,0 +1,17 @@
+{
+    "na'vi": "zawr",
+    "translations": [
+        {
+            "de": "Tierruf, ein Tierschrei, der Ruf eines Tieres",
+            "en": "animal call",
+            "et": "loomah äälitus",
+            "hu": "állathang (ordítás, bőgés, stb.)",
+            "nl": "dierlijke roep"
+        }
+    ],
+    "pronunciation": [
+        "zawr",
+        1
+    ],
+    "type": "n"
+}

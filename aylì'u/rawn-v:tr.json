@@ -1,0 +1,20 @@
+{
+    "na'vi": "rawn",
+    "translations": [
+        {
+            "de": "ersetzen, austauschen, wechseln",
+            "en": "replace, substitute",
+            "et": "asendama, vahetama",
+            "hu": "kicserél, helyettesít",
+            "nl": "vervangen, substitueren",
+            "pl": "wymieniać, zastępować",
+            "ru": "заменить"
+        }
+    ],
+    "pronunciation": [
+        "rawn",
+        1
+    ],
+    "infixes": "r..awn",
+    "type": "v:tr"
+}

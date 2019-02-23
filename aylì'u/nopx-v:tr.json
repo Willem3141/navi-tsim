@@ -1,0 +1,18 @@
+{
+    "na'vi": "nopx",
+    "translations": [
+        {
+            "de": "wegtun, wegstecken, bei Seite legen, verstauen, ablegen",
+            "en": "put away, store",
+            "et": "ära panema, hoiule panema",
+            "hu": "eltesz",
+            "nl": "wegstoppen, opbergen"
+        }
+    ],
+    "pronunciation": [
+        "nopx",
+        1
+    ],
+    "infixes": "n..opx",
+    "type": "v:tr"
+}

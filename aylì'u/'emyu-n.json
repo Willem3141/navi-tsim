@@ -1,0 +1,20 @@
+{
+    "na'vi": "'emyu",
+    "translations": [
+        {
+            "de": "Koch",
+            "en": "cook, cooker",
+            "et": "kokk, söögi tegija",
+            "hu": "szakács",
+            "nl": "kok",
+            "pl": "kucharz",
+            "ru": "повар",
+            "sv": "kock"
+        }
+    ],
+    "pronunciation": [
+        "'em-yu",
+        1
+    ],
+    "type": "n"
+}

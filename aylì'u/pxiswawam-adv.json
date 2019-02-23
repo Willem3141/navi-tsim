@@ -1,0 +1,20 @@
+{
+    "na'vi": "pxiswawam",
+    "translations": [
+        {
+            "de": "gerade eben",
+            "en": "just a moment ago",
+            "et": "just hetk tagasi",
+            "hu": "egy pillanattal ezelőtt",
+            "nl": "een moment geleden, nu net",
+            "pl": "przed chwilą",
+            "ru": "только что",
+            "sv": "bara ett ögonblick sedan"
+        }
+    ],
+    "pronunciation": [
+        "pxi-swaw-am",
+        3
+    ],
+    "type": "adv"
+}

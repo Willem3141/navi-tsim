@@ -1,0 +1,20 @@
+{
+    "na'vi": "i'en",
+    "translations": [
+        {
+            "de": "Saiteninstrument",
+            "en": "stringed instrument",
+            "et": "keelpill",
+            "hu": "húros hangszer",
+            "nl": "snaarinstrument",
+            "pl": "instrument strunowy",
+            "ru": "струнный муз. инструмент",
+            "sv": "stränginstrument"
+        }
+    ],
+    "pronunciation": [
+        "i'-en",
+        1
+    ],
+    "type": "n"
+}

@@ -1,0 +1,19 @@
+{
+    "na'vi": "swek",
+    "translations": [
+        {
+            "de": "Stange, Stab, Pfosten, Pfahl",
+            "en": "bar, rod, pole",
+            "et": "pulk, post",
+            "hu": "bot, pálca",
+            "nl": "staaf, paal",
+            "pl": "pręt, laska, tyczka",
+            "ru": "прут, брусок, столб"
+        }
+    ],
+    "pronunciation": [
+        "swek",
+        1
+    ],
+    "type": "n"
+}

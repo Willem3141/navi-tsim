@@ -1,0 +1,20 @@
+{
+    "na'vi": "fyeyntu",
+    "translations": [
+        {
+            "de": "Erwachsener, erwachsene Person",
+            "en": "adult person",
+            "et": "täiskasvanu",
+            "hu": "felnőtt személy",
+            "nl": "volwassen persoon",
+            "pl": "pełnoletni, dorosły (osoba dorosła)",
+            "ru": "взрослый (о человеке)",
+            "sv": "vuxen person"
+        }
+    ],
+    "pronunciation": [
+        "fyeyn-tu",
+        1
+    ],
+    "type": "n"
+}

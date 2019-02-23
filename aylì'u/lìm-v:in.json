@@ -1,0 +1,21 @@
+{
+    "na'vi": "lìm",
+    "translations": [
+        {
+            "de": "weit weg sein, entfernt sein",
+            "en": "be far",
+            "et": "kaugel olema",
+            "hu": "messze van",
+            "nl": "ver weg zijn",
+            "pl": "być daleko",
+            "ru": "отдаляться, быть далеко",
+            "sv": "långt, vara långt"
+        }
+    ],
+    "pronunciation": [
+        "lìm",
+        1
+    ],
+    "infixes": "l..ìm",
+    "type": "v:in"
+}

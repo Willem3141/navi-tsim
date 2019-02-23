@@ -1,0 +1,20 @@
+{
+    "na'vi": "fkxen",
+    "translations": [
+        {
+            "de": "Gemüse (Essen)",
+            "en": "vegetable (food)",
+            "et": "köögivili (toit)",
+            "hu": "zöldség (mint étel)",
+            "nl": "groente (eten)",
+            "pl": "warzywo",
+            "ru": "овощ",
+            "sv": "grönsak (mat)"
+        }
+    ],
+    "pronunciation": [
+        "fkxen",
+        1
+    ],
+    "type": "n"
+}

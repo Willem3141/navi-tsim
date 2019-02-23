@@ -1,0 +1,20 @@
+{
+    "na'vi": "'upxare",
+    "translations": [
+        {
+            "de": "Nachricht, Mitteilung",
+            "en": "message",
+            "et": "sõnum, teade",
+            "hu": "üzenet",
+            "nl": "boodschap, bericht",
+            "pl": "wiadomość",
+            "ru": "сообщение, послание, обращение",
+            "sv": "meddelande"
+        }
+    ],
+    "pronunciation": [
+        "'u-pxa-re",
+        2
+    ],
+    "type": "n"
+}

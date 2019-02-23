@@ -1,0 +1,20 @@
+{
+    "na'vi": "txantompa",
+    "translations": [
+        {
+            "de": "Regenguss, Regenschauer",
+            "en": "rainstorm, heavy rain",
+            "et": "tugev vihm, vihmatorm",
+            "hu": "zivatar, felhőszakadás",
+            "nl": "stortbui, zware regen",
+            "pl": "burza, ulewa",
+            "ru": "ливень",
+            "sv": "regnstorm"
+        }
+    ],
+    "pronunciation": [
+        "txan-tom-pa",
+        2
+    ],
+    "type": "n"
+}

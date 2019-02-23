@@ -1,0 +1,20 @@
+{
+    "na'vi": "tìfmetok",
+    "translations": [
+        {
+            "de": "Test, Prüfung",
+            "en": "test",
+            "et": "kontroll, katse",
+            "hu": "próba(tétel)",
+            "nl": "proef, test",
+            "pl": "próba",
+            "ru": "проверка, испытание, тест",
+            "sv": "test"
+        }
+    ],
+    "pronunciation": [
+        "tì-fme-tok",
+        2
+    ],
+    "type": "n"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "nari",
+    "translations": [
+        {
+            "de": "Auge",
+            "en": "eye",
+            "et": "silm",
+            "hu": "szem",
+            "nl": "oog",
+            "pl": "oko",
+            "ru": "глаз",
+            "sv": "öga"
+        }
+    ],
+    "pronunciation": [
+        "na-ri",
+        1
+    ],
+    "type": "n"
+}

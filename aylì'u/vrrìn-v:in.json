@@ -1,0 +1,21 @@
+{
+    "na'vi": "vrrìn",
+    "translations": [
+        {
+            "de": "beschäftigt sein (negativ): von einer Aktivität überfordert oder ermüdet sein",
+            "en": "be busy (negative sense): be tired out and overwhelmed by an activity that's keeping one busy",
+            "et": "hõivatud olema (halvas mõttes); olema väsinud ja küllastunud mingist hõivavast tegevusest",
+            "hu": "elfoglalt(nak lenni) (negatív értelemben): „nyakig ül a munkában”",
+            "nl": "bezig zijn (negatief), moe/overweldigd zijn door een activiteit",
+            "pl": "być zajętym (w negatywnym znaczeniu), być zmęczonym i zawalonym daną czynnością",
+            "ru": "быть занятым (в отрицательном смысле), быть утомленным и задавленным неким делом",
+            "sv": "vara upptagen (på ett negativt sätt): vara trött på en aktivitet som man är upptagen med"
+        }
+    ],
+    "pronunciation": [
+        "vrr-ìn",
+        1
+    ],
+    "infixes": "v.rr.ìn",
+    "type": "v:in"
+}

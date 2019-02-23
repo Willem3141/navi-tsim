@@ -1,0 +1,21 @@
+{
+    "na'vi": "slele",
+    "translations": [
+        {
+            "de": "schwimmen",
+            "en": "swim",
+            "et": "ujuma",
+            "hu": "úszik",
+            "nl": "zwemmen",
+            "pl": "płynąć",
+            "ru": "плавать",
+            "sv": "simma"
+        }
+    ],
+    "pronunciation": [
+        "sle-le",
+        1
+    ],
+    "infixes": "sl.el.e",
+    "type": "v:in"
+}

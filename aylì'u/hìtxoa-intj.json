@@ -1,0 +1,20 @@
+{
+    "na'vi": "hìtxoa",
+    "translations": [
+        {
+            "de": "Verzeihung, Entschuldigung",
+            "en": "excuse me",
+            "et": "vabandage, vabandust",
+            "hu": "Elnézést!",
+            "nl": "sorry, vergeef me",
+            "pl": "przepraszam",
+            "ru": "извините",
+            "sv": "ursäkta mig,"
+        }
+    ],
+    "pronunciation": [
+        "hì-txo-a",
+        2
+    ],
+    "type": "intj"
+}

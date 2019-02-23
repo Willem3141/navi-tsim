@@ -1,0 +1,20 @@
+{
+    "na'vi": "muntrram",
+    "translations": [
+        {
+            "de": "letztes Wochenende",
+            "en": "last weekend",
+            "et": "eelmine nädalavahetus",
+            "hu": "múlt hétvége",
+            "nl": "vorig weekeinde",
+            "pl": "poprzedni weekend",
+            "ru": "последние выходные",
+            "sv": "förra helgen"
+        }
+    ],
+    "pronunciation": [
+        "mun-trr-am",
+        1
+    ],
+    "type": "n"
+}

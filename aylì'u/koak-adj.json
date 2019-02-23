@@ -1,0 +1,20 @@
+{
+    "na'vi": "koak",
+    "translations": [
+        {
+            "de": "alt, gealtert (für Lebewesen)",
+            "en": "old, aged (for living things)",
+            "et": "vana, eakas (elusolendite kohta)",
+            "hu": "öreg, idős, hajlott korú",
+            "nl": "oud, hoge leeftijd (voor levende dingen)",
+            "pl": "stary (o istotach żywych)",
+            "ru": "старый, пожилой (употр. с одушевленными предметам)",
+            "sv": "gammal, åldrad (om levande saker)"
+        }
+    ],
+    "pronunciation": [
+        "ko-ak",
+        1
+    ],
+    "type": "adj"
+}

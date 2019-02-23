@@ -1,0 +1,20 @@
+{
+    "na'vi": "lì'fya",
+    "translations": [
+        {
+            "de": "Sprache",
+            "en": "language",
+            "et": "keel (suhtlusvahend)",
+            "hu": "nyelv",
+            "nl": "taal",
+            "pl": "język",
+            "ru": "язык (речь)",
+            "sv": "språk"
+        }
+    ],
+    "pronunciation": [
+        "lì'-fya",
+        1
+    ],
+    "type": "n"
+}

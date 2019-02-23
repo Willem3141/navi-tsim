@@ -1,0 +1,19 @@
+{
+    "na'vi": "rawm",
+    "translations": [
+        {
+            "de": "Blitzen (allgemein)",
+            "en": "lightning (general term)",
+            "et": "äike",
+            "hu": "villámlás (általános kifejezés)",
+            "nl": "bliksem (algemene uitdrukking)",
+            "pl": "błyskawica",
+            "ru": "молния"
+        }
+    ],
+    "pronunciation": [
+        "rawm",
+        1
+    ],
+    "type": "n"
+}

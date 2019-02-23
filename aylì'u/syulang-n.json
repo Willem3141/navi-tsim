@@ -1,0 +1,20 @@
+{
+    "na'vi": "syulang",
+    "translations": [
+        {
+            "de": "Blume",
+            "en": "flower",
+            "et": "lill",
+            "hu": "virág",
+            "nl": "bloem",
+            "pl": "kwiat",
+            "ru": "цветок",
+            "sv": "blomma"
+        }
+    ],
+    "pronunciation": [
+        "syu-lang",
+        1
+    ],
+    "type": "n"
+}

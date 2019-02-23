@@ -1,0 +1,21 @@
+{
+    "na'vi": "yemstokx",
+    "translations": [
+        {
+            "de": "anziehen, aufsetzen, anlegen (Kleidung)",
+            "en": "put on (clothing), don",
+            "et": "selga panema (riideid)",
+            "hu": "felvesz (ruhát)",
+            "nl": "aantrekken (kleding)",
+            "pl": "zakładać, ubierać",
+            "ru": "надевать",
+            "sv": "klä på, ta på (kläder)"
+        }
+    ],
+    "pronunciation": [
+        "yem-stokx",
+        1
+    ],
+    "infixes": "y..emstokx",
+    "type": "v:tr"
+}

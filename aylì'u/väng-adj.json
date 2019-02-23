@@ -1,0 +1,20 @@
+{
+    "na'vi": "väng",
+    "translations": [
+        {
+            "de": "durstig",
+            "en": "thirsty",
+            "et": "janune",
+            "hu": "szomjas",
+            "nl": "dorstig",
+            "pl": "spragniony",
+            "ru": "жаждущий",
+            "sv": "törstig"
+        }
+    ],
+    "pronunciation": [
+        "väng",
+        1
+    ],
+    "type": "adj"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "kangay",
+    "translations": [
+        {
+            "de": "gültig, stichhaltig, richtig",
+            "en": "valid",
+            "et": "kehtiv, tõene",
+            "hu": "érvényes",
+            "nl": "geldig",
+            "pl": "obowiązujący, właściwy",
+            "ru": "действенный, эффективный, действующий",
+            "sv": "giltig"
+        }
+    ],
+    "pronunciation": [
+        "ka-ngay",
+        2
+    ],
+    "type": "adj"
+}

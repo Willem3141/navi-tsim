@@ -1,0 +1,19 @@
+{
+    "na'vi": "kempe",
+    "translations": [
+        {
+            "de": "Was? (Welche Aktion)",
+            "en": "what (action)",
+            "et": "mis (tegevus)",
+            "hu": "mi történik? mit csinál?",
+            "nl": "wat, welke (actie)",
+            "pl": "jaka (czynność)",
+            "ru": "что (вопрос к действию)",
+            "sv": "vilken (handling)"
+        }
+    ],
+    "pronunciation": [
+        "kem-pe",
+        1
+    ]
+}

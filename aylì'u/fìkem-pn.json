@@ -1,0 +1,20 @@
+{
+    "na'vi": "fìkem",
+    "translations": [
+        {
+            "de": "dies, dieses (diese Aktion)",
+            "en": "this (action)",
+            "et": "see (tegevus)",
+            "hu": "ez (a tett/cselekvés)",
+            "nl": "dit, deze (actie)",
+            "pl": "ten, ta, to (o czynności)",
+            "ru": "это (действие или поступок)",
+            "sv": "den här (handlingen)"
+        }
+    ],
+    "pronunciation": [
+        "fì-kem",
+        2
+    ],
+    "type": "pn"
+}

@@ -1,0 +1,21 @@
+{
+    "na'vi": "pxor",
+    "translations": [
+        {
+            "de": "explodieren",
+            "en": "explode",
+            "et": "plahvatama, lõhkema",
+            "hu": "szétvet, felrobban",
+            "nl": "ontploffen",
+            "pl": "wybuchać, eksplodować",
+            "ru": "взрываться",
+            "sv": "explodera"
+        }
+    ],
+    "pronunciation": [
+        "pxor",
+        1
+    ],
+    "infixes": "px..or",
+    "type": "v:in"
+}

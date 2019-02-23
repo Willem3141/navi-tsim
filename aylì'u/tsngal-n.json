@@ -1,0 +1,20 @@
+{
+    "na'vi": "tsngal",
+    "translations": [
+        {
+            "de": "Tasse, Becher, Schale, Gefäß",
+            "en": "cup",
+            "et": "tass, kruus",
+            "hu": "csésze",
+            "nl": "beker",
+            "pl": "kielich",
+            "ru": "чаша, бокал, кубок",
+            "sv": "kopp, mugg"
+        }
+    ],
+    "pronunciation": [
+        "tsngal",
+        1
+    ],
+    "type": "n"
+}

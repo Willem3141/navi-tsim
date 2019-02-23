@@ -1,0 +1,20 @@
+{
+    "na'vi": "volve",
+    "translations": [
+        {
+            "de": "achte/r/s (Ordnungszahl)",
+            "en": "eighth (ordinal)",
+            "et": "kaheksas",
+            "hu": "nyolcadik",
+            "nl": "achtste (rangtelwoord)",
+            "pl": "ósmy",
+            "ru": "восьмой",
+            "sv": "åttonde (ordningstal)"
+        }
+    ],
+    "pronunciation": [
+        "vol-ve",
+        1
+    ],
+    "type": "adj"
+}

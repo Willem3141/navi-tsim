@@ -1,0 +1,20 @@
+{
+    "na'vi": "hawntsyokx",
+    "translations": [
+        {
+            "de": "Handschuh",
+            "en": "glove",
+            "et": "kinnas",
+            "hu": "kesztyű",
+            "nl": "handschoen",
+            "pl": "rękawiczka",
+            "ru": "перчатки",
+            "sv": "handske"
+        }
+    ],
+    "pronunciation": [
+        "hawn-tsyokx",
+        2
+    ],
+    "type": "n"
+}

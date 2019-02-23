@@ -1,0 +1,21 @@
+{
+    "na'vi": "meyam",
+    "translations": [
+        {
+            "de": "umarmen, in den Armen halten",
+            "en": "hug, embrace, hold in one's arms",
+            "et": "kallistama, embama, kaistuama",
+            "hu": "ölel, karol, karjaiban tart",
+            "nl": "omhelzen, in de arm houden",
+            "pl": "tulić, obejmować, trzymac kogoś za rękę",
+            "ru": "обнимать",
+            "sv": "krama, omfamna, hålla i sin famn"
+        }
+    ],
+    "pronunciation": [
+        "me-yam",
+        2
+    ],
+    "infixes": "m.ey.am",
+    "type": "v:tr"
+}

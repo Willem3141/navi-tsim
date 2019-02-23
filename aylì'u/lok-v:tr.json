@@ -1,0 +1,21 @@
+{
+    "na'vi": "lok",
+    "translations": [
+        {
+            "de": "nähern, annähern",
+            "en": "approach",
+            "et": "lähenema",
+            "hu": "megközelít",
+            "nl": "naderen, benaderen",
+            "pl": "zbliżać się",
+            "ru": "подходить, приближаться",
+            "sv": "närma sig"
+        }
+    ],
+    "pronunciation": [
+        "lok",
+        1
+    ],
+    "infixes": "l..ok",
+    "type": "v:tr"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "nui",
+    "translations": [
+        {
+            "de": "fehlschlagen, scheitern, Misserfolg haben, fehlgehen, nicht das gewünschte Ergebnis erlangen",
+            "en": "fail, falter, go astray, not obtain expected or desired result",
+            "et": "ebaõnnestuma, läbi kukkuma, feilima, mitte saavutama soovitud tulemust",
+            "hu": "elbukni, hibázni, sikertelennek lenni",
+            "nl": "falen, fout gaan, niet het beoogde doel behalen",
+            "pl": "zawieść, ponieść porażkę, nie osiągnąć zamierzonych lub oczekiwanych rezultatów",
+            "ru": "потерпеть неудачу"
+        }
+    ],
+    "pronunciation": [
+        "nu-i",
+        1
+    ],
+    "infixes": "n.u.i",
+    "type": "v:in"
+}

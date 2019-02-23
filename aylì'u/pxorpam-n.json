@@ -1,0 +1,20 @@
+{
+    "na'vi": "pxorpam",
+    "translations": [
+        {
+            "de": "Ejektiv, ejektiver Konsonant",
+            "en": "ejective consonant",
+            "et": "rõhuga kaashäälik",
+            "hu": "„ejective” mássalhangzó (kx,tx,px)",
+            "nl": "ejectieve medeklinker",
+            "pl": "spółgłoska ejektywna, ejektyw",
+            "ru": "эжективная согласная",
+            "sv": "ejektiv konsonant"
+        }
+    ],
+    "pronunciation": [
+        "pxor-pam",
+        1
+    ],
+    "type": "n"
+}

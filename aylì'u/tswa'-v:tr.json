@@ -1,0 +1,21 @@
+{
+    "na'vi": "tswa'",
+    "translations": [
+        {
+            "de": "vergessen",
+            "en": "forget",
+            "et": "unustama",
+            "hu": "elfelejt",
+            "nl": "vergeten",
+            "pl": "zapomnieć",
+            "ru": "забывать",
+            "sv": "glömma"
+        }
+    ],
+    "pronunciation": [
+        "tswa'",
+        1
+    ],
+    "infixes": "tsw..a'",
+    "type": "v:tr"
+}

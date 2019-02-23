@@ -1,0 +1,20 @@
+{
+    "na'vi": "pam",
+    "translations": [
+        {
+            "de": "Geräusch, Klang, Ton",
+            "en": "sound",
+            "et": "heli",
+            "hu": "hang",
+            "nl": "geluid",
+            "pl": "dźwięk",
+            "ru": "звук",
+            "sv": "ljud"
+        }
+    ],
+    "pronunciation": [
+        "pam",
+        1
+    ],
+    "type": "n"
+}

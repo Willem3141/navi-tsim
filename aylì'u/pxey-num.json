@@ -1,0 +1,20 @@
+{
+    "na'vi": "pxey",
+    "translations": [
+        {
+            "de": "drei",
+            "en": "three",
+            "et": "kolm",
+            "hu": "három, 3",
+            "nl": "drie",
+            "pl": "trzy",
+            "ru": "три",
+            "sv": "tre"
+        }
+    ],
+    "pronunciation": [
+        "pxey",
+        1
+    ],
+    "type": "num"
+}

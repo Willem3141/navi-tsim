@@ -1,0 +1,20 @@
+{
+    "na'vi": "säsyep",
+    "translations": [
+        {
+            "de": "Falle",
+            "en": "trap",
+            "et": "lõks",
+            "hu": "csapda",
+            "nl": "val",
+            "pl": "pułapka",
+            "ru": "ловушка",
+            "sv": "fälla"
+        }
+    ],
+    "pronunciation": [
+        "sä-syep",
+        2
+    ],
+    "type": "n"
+}

@@ -1,0 +1,17 @@
+{
+    "na'vi": "palon",
+    "translations": [
+        {
+            "en": "burn",
+            "et": "põlema",
+            "hu": "ég (a tűz)",
+            "nl": "verbranden"
+        }
+    ],
+    "pronunciation": [
+        "pa-lon",
+        1
+    ],
+    "infixes": "p.al.on",
+    "type": "v:in"
+}

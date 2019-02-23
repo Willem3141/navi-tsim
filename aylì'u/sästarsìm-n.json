@@ -1,0 +1,19 @@
+{
+    "na'vi": "sästarsìm",
+    "translations": [
+        {
+            "de": "Zusammenstellung, Sammlung (gewollt von einer Person)",
+            "en": "collection (put together intentionally by a person)",
+            "et": "kogum, kogumik (teadlikult kokku pandud kellegi poolt)",
+            "hu": "gyűjtemény (személy által szándékosan összerakott)",
+            "nl": "collectie (doelbewust door iemand bij elkaar gebracht)",
+            "pl": "zbiór, kolekcja (zebrane przez kogoś celowo)",
+            "ru": "коллекция (намеренно собранная кемто)"
+        }
+    ],
+    "pronunciation": [
+        "sä-star-sìm",
+        2
+    ],
+    "type": "n"
+}

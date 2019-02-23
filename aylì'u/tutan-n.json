@@ -1,0 +1,20 @@
+{
+    "na'vi": "tutan",
+    "translations": [
+        {
+            "de": "Mann, männliche Person",
+            "en": "male (person)",
+            "et": "mees",
+            "hu": "férfi",
+            "nl": "man (persoon)",
+            "pl": "mężczyzna",
+            "ru": "мужчина",
+            "sv": "manlig person"
+        }
+    ],
+    "pronunciation": [
+        "tu-tan",
+        2
+    ],
+    "type": "n"
+}

@@ -1,0 +1,21 @@
+{
+    "na'vi": "frìp",
+    "translations": [
+        {
+            "de": "beißen, zubeißen",
+            "en": "bite",
+            "et": "hammustama",
+            "hu": "harap",
+            "nl": "bijten",
+            "pl": "gryźć",
+            "ru": "кусать",
+            "sv": "bita"
+        }
+    ],
+    "pronunciation": [
+        "frìp",
+        1
+    ],
+    "infixes": "fr..ìp",
+    "type": "v:tr"
+}

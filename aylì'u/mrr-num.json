@@ -1,0 +1,20 @@
+{
+    "na'vi": "mrr",
+    "translations": [
+        {
+            "de": "fünf",
+            "en": "five",
+            "et": "viis",
+            "hu": "öt, 5",
+            "nl": "vijf",
+            "pl": "pięć",
+            "ru": "пять",
+            "sv": "fem"
+        }
+    ],
+    "pronunciation": [
+        "mrr",
+        1
+    ],
+    "type": "num"
+}

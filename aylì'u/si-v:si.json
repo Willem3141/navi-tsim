@@ -1,0 +1,21 @@
+{
+    "na'vi": "si",
+    "translations": [
+        {
+            "de": "(Hilfsverb, nachgestelltes nichtgebundenes Verb) tun, machen",
+            "en": "auxiliary verb, postpositional nonbound verb do, make",
+            "et": "tegema (midagi) (saab olla vaid koos teise sõnaga)",
+            "hu": "ntesz, csinál, összetett igékben szerepel",
+            "nl": "(postpositioneel ongebonden hulpwerkwoord) doen, maken ",
+            "pl": "czasownik posiłkowy robić, tworzyć",
+            "ru": "вспомогательный глагол, постпозиционный несвязный глагол делать",
+            "sv": "hjälpverb, ickebindande verb göra"
+        }
+    ],
+    "pronunciation": [
+        "si",
+        1
+    ],
+    "infixes": "s..i",
+    "type": "v:si"
+}

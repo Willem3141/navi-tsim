@@ -1,0 +1,21 @@
+{
+    "na'vi": "yora'",
+    "translations": [
+        {
+            "de": "gewinnen",
+            "en": "win",
+            "et": "võitma",
+            "hu": "nyer",
+            "nl": "winnen",
+            "pl": "wygrać",
+            "ru": "победить",
+            "sv": "vinna"
+        }
+    ],
+    "pronunciation": [
+        "yo-ra'",
+        2
+    ],
+    "infixes": "y.or.a'",
+    "type": "v:tr"
+}

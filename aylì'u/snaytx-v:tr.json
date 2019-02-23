@@ -1,0 +1,21 @@
+{
+    "na'vi": "snaytx",
+    "translations": [
+        {
+            "de": "verlieren",
+            "en": "lose",
+            "et": "kaotama",
+            "hu": "veszít",
+            "nl": "verliezen (b.v. wedstrijd. Niet: een ding kwijtraken)",
+            "pl": "gubić, tracić",
+            "ru": "потерять",
+            "sv": "förlora"
+        }
+    ],
+    "pronunciation": [
+        "snaytx",
+        1
+    ],
+    "infixes": "sn..aytx",
+    "type": "v:tr"
+}

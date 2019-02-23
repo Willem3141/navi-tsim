@@ -1,0 +1,18 @@
+{
+    "na'vi": "tseri",
+    "translations": [
+        {
+            "de": "bemerken, auffallen",
+            "en": "note, notice",
+            "et": "märkama, tähele panema",
+            "hu": "észrevesz, megjegyez, tudatában van",
+            "nl": "opmerken"
+        }
+    ],
+    "pronunciation": [
+        "tse-ri",
+        1
+    ],
+    "infixes": "ts.er.i",
+    "type": "v:tr"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "olo'eyktan",
+    "translations": [
+        {
+            "de": "Stammesanführer, Clanführer",
+            "en": "clan leader",
+            "et": "hõimu valitseja",
+            "hu": "törzsfő, klánvezető",
+            "nl": "opperhoofd",
+            "pl": "przywódca klanu",
+            "ru": "вождь клана",
+            "sv": "klan ledare"
+        }
+    ],
+    "pronunciation": [
+        "o-lo-'eyk-tan",
+        3
+    ],
+    "type": "n"
+}

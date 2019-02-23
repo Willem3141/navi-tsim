@@ -1,0 +1,20 @@
+{
+    "na'vi": "fpeio",
+    "translations": [
+        {
+            "de": "Herausforderung (zeremoniell)",
+            "en": "challenge (ceremonial)",
+            "et": "väljakutse, ülesanne (tseremoniaalne)",
+            "hu": "kihívás (ünnepélyes)",
+            "nl": "uitdaging (ceremonieel)",
+            "pl": "wyzwanie (ceremonialne)",
+            "ru": "вызов (церемониальный)",
+            "sv": "utmaning (högtidlig)"
+        }
+    ],
+    "pronunciation": [
+        "fpe-i-o",
+        2
+    ],
+    "type": "n"
+}

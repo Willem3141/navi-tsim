@@ -1,0 +1,20 @@
+{
+    "na'vi": "nekll",
+    "translations": [
+        {
+            "de": "runter, nach unten (Richtung)",
+            "en": "down (direction)",
+            "et": "alla (suund)",
+            "hu": "lefelé",
+            "nl": "omlaag (richting)",
+            "pl": "w dół",
+            "ru": "снизу, внизу, ниже",
+            "sv": "ner (riktning)"
+        }
+    ],
+    "pronunciation": [
+        "ne-kll",
+        2
+    ],
+    "type": "adv"
+}

@@ -1,0 +1,18 @@
+{
+    "na'vi": "tson",
+    "translations": [
+        {
+            "de": "Verpflichtung, Pflicht, auferlegte Anforderung",
+            "en": "obligation, duty, imposed requirement",
+            "et": "kohustus, nõutav tegu",
+            "hu": "kötelesség",
+            "nl": "plicht, verplicting, opgelegd vereiste",
+            "ru": "обязанность, долг, налагаемое требование"
+        }
+    ],
+    "pronunciation": [
+        "tson",
+        1
+    ],
+    "type": "n"
+}

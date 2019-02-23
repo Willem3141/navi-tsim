@@ -1,0 +1,20 @@
+{
+    "na'vi": "ìley",
+    "translations": [
+        {
+            "de": "Kriegsgeschrei",
+            "en": "war cry",
+            "et": "sõjahüüd",
+            "hu": "harci kiáltás",
+            "nl": "oorlogskreet",
+            "pl": "okrzyk bojowy",
+            "ru": "боевой клич",
+            "sv": "krigsrop"
+        }
+    ],
+    "pronunciation": [
+        "ì-ley",
+        2
+    ],
+    "type": "intj"
+}

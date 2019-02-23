@@ -1,0 +1,20 @@
+{
+    "na'vi": "ngimpup",
+    "translations": [
+        {
+            "de": "Länge, Strecke",
+            "en": "length",
+            "et": "pikkus",
+            "hu": "hosszúság",
+            "nl": "lengte",
+            "pl": "długość",
+            "ru": "длинна",
+            "sv": "längd, sträcka"
+        }
+    ],
+    "pronunciation": [
+        "ngim-pup",
+        2
+    ],
+    "type": "n"
+}

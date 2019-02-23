@@ -1,0 +1,20 @@
+{
+    "na'vi": "mrrtrr",
+    "translations": [
+        {
+            "de": "Woche (5TageWoche)",
+            "en": "five day work week",
+            "et": "arginädal, töönädal",
+            "hu": "ötnapos munkahét",
+            "nl": "vijfdaagse werkweek",
+            "pl": "tydzień roboczy (pięciodniowy)",
+            "ru": "рабочая неделя, пятидневка",
+            "sv": "arbetsvecka, femdagarsvecka"
+        }
+    ],
+    "pronunciation": [
+        "mrr-trr",
+        1
+    ],
+    "type": "n"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "alu",
+    "translations": [
+        {
+            "de": "das heißt, soll heißen, mit anderen Worten",
+            "en": "that is, in other words",
+            "et": "mis on, teise sõnaga, teisiti",
+            "hu": "azaz hogy, más szóval",
+            "nl": "dat is, met andere woorden",
+            "pl": "to jest, innymi słowy",
+            "ru": "другими словами",
+            "sv": "som är, med andra ord"
+        }
+    ],
+    "pronunciation": [
+        "a-lu",
+        1
+    ],
+    "type": "conj"
+}

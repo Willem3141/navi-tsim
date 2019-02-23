@@ -1,0 +1,20 @@
+{
+    "na'vi": "tsaheylu",
+    "translations": [
+        {
+            "de": "Band, (neurale) Verbindung",
+            "en": "bond (neural connection)",
+            "et": "side",
+            "hu": "kapcsolat, szinapszis (idegsejtek közt)",
+            "nl": "band (neurale verbinding)",
+            "pl": "więź (połączenie neuralne)",
+            "ru": "нейросвязь (между на'ви и живым миром)",
+            "sv": "band, förbindelse (nervanslutning)"
+        }
+    ],
+    "pronunciation": [
+        "tsa-hey-lu",
+        2
+    ],
+    "type": "n"
+}

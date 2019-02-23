@@ -1,0 +1,20 @@
+{
+    "na'vi": "ftawnemkrr",
+    "translations": [
+        {
+            "de": "Vergangenheit",
+            "en": "past",
+            "et": "minevik",
+            "hu": "múlt",
+            "nl": "verleden",
+            "pl": "przeszłość",
+            "ru": "прошлое",
+            "sv": "förr, förr i tiden"
+        }
+    ],
+    "pronunciation": [
+        "ftaw-nem-krr",
+        2
+    ],
+    "type": "n"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "'eveng",
+    "translations": [
+        {
+            "de": "Kind",
+            "en": "child",
+            "et": "laps",
+            "hu": "gyermek",
+            "nl": "kind",
+            "pl": "dziecko",
+            "ru": "ребёнок",
+            "sv": "barn"
+        }
+    ],
+    "pronunciation": [
+        "'e-veng",
+        1
+    ],
+    "type": "n"
+}

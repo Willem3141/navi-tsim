@@ -1,0 +1,20 @@
+{
+    "na'vi": "pak",
+    "translations": [
+        {
+            "de": "Satzpartikel der Verunglimpfung/Herabsetzung",
+            "en": "disparagement",
+            "et": "laitmiseks",
+            "hu": "fúj! (megvetést, lenézést jelöl)",
+            "nl": "neerbuigend",
+            "pl": "określenie zaskoczenie, niedowierzania",
+            "ru": "всегото! (выражение досады или разочарования)",
+            "sv": "pytsan! (nedvärdering)"
+        }
+    ],
+    "pronunciation": [
+        "pak",
+        1
+    ],
+    "type": "part"
+}

@@ -1,0 +1,21 @@
+{
+    "na'vi": "rangal",
+    "translations": [
+        {
+            "de": "wünschen",
+            "en": "wish",
+            "et": "soovima",
+            "hu": "kíván, óhajt",
+            "nl": "wensen",
+            "pl": "mieć nadzieję",
+            "ru": "желать",
+            "sv": "önska"
+        }
+    ],
+    "pronunciation": [
+        "ra-ngal",
+        1
+    ],
+    "infixes": "r.ang.al",
+    "type": "v:in"
+}

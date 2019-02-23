@@ -1,0 +1,20 @@
+{
+    "na'vi": "fpomtokx",
+    "translations": [
+        {
+            "de": "(physische) Gesundheit",
+            "en": "health (physical)",
+            "et": "tervis (füüsiline)",
+            "hu": "egészség (fizikai)",
+            "nl": "gezondheid (fysiek)",
+            "pl": "zdrowie",
+            "ru": "физическое здоровье",
+            "sv": "hälsa (fysisk)"
+        }
+    ],
+    "pronunciation": [
+        "fpom-tokx",
+        2
+    ],
+    "type": "n"
+}

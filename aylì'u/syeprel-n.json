@@ -1,0 +1,19 @@
+{
+    "na'vi": "syeprel",
+    "translations": [
+        {
+            "de": "Kamera",
+            "en": "camera",
+            "et": "kaamera",
+            "hu": "fényképezőgép, kamera",
+            "nl": "camera",
+            "pl": "kamera",
+            "ru": "фотокамера"
+        }
+    ],
+    "pronunciation": [
+        "syep-rel",
+        2
+    ],
+    "type": "n"
+}

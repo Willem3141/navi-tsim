@@ -1,0 +1,20 @@
+{
+    "na'vi": "lomtu",
+    "translations": [
+        {
+            "de": "vermisste/fehlende Person",
+            "en": "missed person",
+            "et": "igatsetud inimene",
+            "hu": "hiányzó/hiányolt személy",
+            "nl": "persoon die gemist wordt",
+            "pl": "osoba utęskniona",
+            "ru": "отсутствующий",
+            "sv": "saknad person"
+        }
+    ],
+    "pronunciation": [
+        "lom-tu",
+        1
+    ],
+    "type": "n"
+}

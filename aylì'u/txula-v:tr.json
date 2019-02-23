@@ -1,0 +1,21 @@
+{
+    "na'vi": "txula",
+    "translations": [
+        {
+            "de": "bauen, erbauen, errichten, konstruieren",
+            "en": "build, construct",
+            "et": "ehitama, rajama",
+            "hu": "épít",
+            "nl": "bouwen",
+            "pl": "budować",
+            "ru": "строить, сооружать",
+            "sv": "bygga, konstruera"
+        }
+    ],
+    "pronunciation": [
+        "txu-la",
+        1
+    ],
+    "infixes": "tx.ul.a",
+    "type": "v:tr"
+}

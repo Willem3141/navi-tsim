@@ -1,0 +1,19 @@
+{
+    "na'vi": "numultxatu",
+    "translations": [
+        {
+            "de": "Klassenkamerad, Teilnehmer einer Klasse/Lerngruppe",
+            "en": "classmate, member of a class",
+            "et": "klassikaaslane",
+            "hu": "osztálytárs, egy osztály tagja",
+            "nl": "klasgenoot",
+            "pl": "kolega z klasy, członek klasy",
+            "ru": "член класса"
+        }
+    ],
+    "pronunciation": [
+        "nu-mul-txa-tu",
+        3
+    ],
+    "type": "n"
+}

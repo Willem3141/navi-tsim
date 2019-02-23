@@ -1,0 +1,20 @@
+{
+    "na'vi": "srung",
+    "translations": [
+        {
+            "de": "helfen, unterstützen",
+            "en": "help",
+            "et": "aitama, toetama",
+            "hu": "segít(séget nyújt)",
+            "nl": "helpen",
+            "pl": "pomagać",
+            "ru": "помогать",
+            "sv": "hjälpa"
+        }
+    ],
+    "pronunciation": [
+        "srung",
+        1
+    ],
+    "type": "n:si"
+}

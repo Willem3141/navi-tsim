@@ -1,0 +1,20 @@
+{
+    "na'vi": "frrtu",
+    "translations": [
+        {
+            "de": "Gast, Besucher",
+            "en": "guest, visitor",
+            "et": "külaline, külastaja",
+            "hu": "vendég",
+            "nl": "gast, bezoeker",
+            "pl": "gość, odwiedzający",
+            "ru": "гость",
+            "sv": "gäst, besökare"
+        }
+    ],
+    "pronunciation": [
+        "frr-tu",
+        1
+    ],
+    "type": "n"
+}

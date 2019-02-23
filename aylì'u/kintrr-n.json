@@ -1,0 +1,20 @@
+{
+    "na'vi": "kintrr",
+    "translations": [
+        {
+            "de": "Woche (7TageWoche)",
+            "en": "week",
+            "et": "nädal",
+            "hu": "egy hét",
+            "nl": "week",
+            "pl": "tydzień",
+            "ru": "неделя",
+            "sv": "vecka"
+        }
+    ],
+    "pronunciation": [
+        "kin-trr",
+        1
+    ],
+    "type": "n"
+}

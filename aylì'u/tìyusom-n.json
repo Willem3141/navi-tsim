@@ -1,0 +1,20 @@
+{
+    "na'vi": "tìyusom",
+    "translations": [
+        {
+            "de": "das Essen (Vorgang)",
+            "en": "eating (the act)",
+            "et": "söömine",
+            "hu": "evés (cselekvés)",
+            "nl": "eten (het doen)",
+            "pl": "jedzenie (czynność jedzenia)",
+            "ru": "поедание",
+            "sv": "ätande (handlingen)"
+        }
+    ],
+    "pronunciation": [
+        "tì-yu-som",
+        3
+    ],
+    "type": "n"
+}

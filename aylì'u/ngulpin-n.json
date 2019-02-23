@@ -1,0 +1,20 @@
+{
+    "na'vi": "ngulpin",
+    "translations": [
+        {
+            "de": "Grau",
+            "en": "grey",
+            "et": "hall",
+            "hu": "szürke szín",
+            "nl": "grijs",
+            "pl": "szarość",
+            "ru": "серый",
+            "sv": "grå"
+        }
+    ],
+    "pronunciation": [
+        "ngul-pin",
+        1
+    ],
+    "type": "n"
+}

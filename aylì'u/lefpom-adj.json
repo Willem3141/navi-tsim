@@ -1,0 +1,20 @@
+{
+    "na'vi": "lefpom",
+    "translations": [
+        {
+            "de": "fröhlich, friedlich, erfreulich (nicht für Personen), angenehm",
+            "en": "happy, peaceful, joyous, pleasant",
+            "et": "õnnelik, tore, rahulik, hea (elutu kohta)",
+            "hu": "nyugodalmas, derűs, kellemes",
+            "nl": "blij, vredig, plezierig, aangenaam",
+            "pl": "szczęśliwy, spokojny, radosny, przyjemny",
+            "ru": "мирный, добрый, умиротворенный, веселый",
+            "sv": "lycklig, fridfull, glad (inte för folk), trevlig"
+        }
+    ],
+    "pronunciation": [
+        "le-fpom",
+        2
+    ],
+    "type": "adj"
+}

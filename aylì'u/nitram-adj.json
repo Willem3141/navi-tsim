@@ -1,0 +1,20 @@
+{
+    "na'vi": "nitram",
+    "translations": [
+        {
+            "de": "fröhlich, glücklich (bei Personen)",
+            "en": "happy (of people)",
+            "et": "rõõmus (inimeste kohta)",
+            "hu": "jókedvű, vidám",
+            "nl": "blij (voor mensen)",
+            "pl": "radosny (o ludziach)",
+            "ru": "радостный, счастливый",
+            "sv": "lycklig, glad (om folk)"
+        }
+    ],
+    "pronunciation": [
+        "nit-ram",
+        2
+    ],
+    "type": "adj"
+}

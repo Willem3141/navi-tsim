@@ -1,0 +1,20 @@
+{
+    "na'vi": "tolel",
+    "translations": [
+        {
+            "de": "Heureka! Ich hab's verstanden!",
+            "en": "Eureka! I found it! I understand!",
+            "et": "Heureka!, Ma saan aru!",
+            "hu": "Heureka! Megvan! Értem!",
+            "nl": "Eureka, ik heb het gevonden!, ik begrijp het!",
+            "pl": "Eureka! Mam! Rozumiem!",
+            "ru": "Эврика!",
+            "sv": "Eureka! Jag har det! Jag förstår!"
+        }
+    ],
+    "pronunciation": [
+        "to-lel",
+        2
+    ],
+    "type": "intj"
+}

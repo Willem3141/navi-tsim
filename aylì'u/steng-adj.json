@@ -1,0 +1,20 @@
+{
+    "na'vi": "steng",
+    "translations": [
+        {
+            "de": "ähnlich",
+            "en": "similar",
+            "et": "sarnane, samasugune",
+            "hu": "hasonló",
+            "nl": "gelijk, identiek",
+            "pl": "podobny",
+            "ru": "похожий",
+            "sv": "liknande"
+        }
+    ],
+    "pronunciation": [
+        "steng",
+        1
+    ],
+    "type": "adj"
+}

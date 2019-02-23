@@ -1,0 +1,21 @@
+{
+    "na'vi": "sngap",
+    "translations": [
+        {
+            "de": "stechen",
+            "en": "sting",
+            "et": "nõelama, torkama",
+            "hu": "megszúr, (meg)csíp",
+            "nl": "steken",
+            "pl": "żądlić, kąsać",
+            "ru": "жалить",
+            "sv": "sticka (med tex. gadd)"
+        }
+    ],
+    "pronunciation": [
+        "sngap",
+        1
+    ],
+    "infixes": "sng..ap",
+    "type": "v:tr"
+}

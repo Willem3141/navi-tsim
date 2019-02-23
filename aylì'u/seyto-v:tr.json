@@ -1,0 +1,18 @@
+{
+    "na'vi": "seyto",
+    "translations": [
+        {
+            "de": "schlachten, (ein Tier) ausnehmen",
+            "en": "butcher (in the sense of separating or processing the carcass of a dead animal)",
+            "et": "lihunik",
+            "hu": "feldarabol (elpusztult állatot)",
+            "nl": "slachten (het separeren of verwerken van het karkas van een dood dier)"
+        }
+    ],
+    "pronunciation": [
+        "sey-to",
+        2
+    ],
+    "infixes": "s..eyto",
+    "type": "v:tr"
+}

@@ -1,0 +1,19 @@
+{
+    "na'vi": "fta",
+    "translations": [
+        {
+            "de": "Knoten",
+            "en": "knot",
+            "et": "sõlm",
+            "hu": "csomó",
+            "nl": "knoop",
+            "pl": "węzeł",
+            "ru": "узел"
+        }
+    ],
+    "pronunciation": [
+        "fta",
+        1
+    ],
+    "type": "n"
+}

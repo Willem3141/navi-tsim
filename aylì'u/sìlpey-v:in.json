@@ -1,0 +1,21 @@
+{
+    "na'vi": "sìlpey",
+    "translations": [
+        {
+            "de": "hoffen (mit tsnì für die erhoffte Sache, außer im unabhängigen Satz) (ii)",
+            "en": "hope (with tsnì for thing hoped, unless in independent clause) (ii)",
+            "et": "lootma (koos sõnaga tsnì, märkimaks mida loodetakse, kui ta pole just eraldi osalauses) (e)",
+            "hu": "remél (tsnì majd a remélt dolog, hacsak nem különálló mondat) (ii)",
+            "nl": "hopen",
+            "pl": "mieć nadzieję (zdanie podrzędne przyłączone spójnikiem tsnì)",
+            "ru": "надеяться",
+            "sv": "hoppas (med tsnì för en önskad sak, om inte i självständig klausul) (ii)"
+        }
+    ],
+    "pronunciation": [
+        "sìl-pey",
+        2
+    ],
+    "infixes": "sìlp..ey",
+    "type": "v:in"
+}

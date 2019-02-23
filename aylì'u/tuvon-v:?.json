@@ -1,0 +1,21 @@
+{
+    "na'vi": "tuvon",
+    "translations": [
+        {
+            "de": "lehnen, anlehnen",
+            "en": "lean",
+            "et": "nõjatuma, toetuma",
+            "hu": "hajlik",
+            "nl": "leunen",
+            "pl": "pochylić się",
+            "ru": "облокачиваться, наваливаться, опираться",
+            "sv": "luta"
+        }
+    ],
+    "pronunciation": [
+        "tu-von",
+        1
+    ],
+    "infixes": "t.uv.on",
+    "type": "v:?"
+}

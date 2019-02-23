@@ -1,0 +1,19 @@
+{
+    "na'vi": "tìslan",
+    "translations": [
+        {
+            "de": "Unterstützung (emotional, sozial oder persönlich)",
+            "en": "support (emotional, social or personal support) ",
+            "et": "tugi, abi (emotsionaalne, sotsiaalne) (inimeste kohta)",
+            "hu": "támogatás (érzelmi, szociális vagy személyes)",
+            "nl": "steun (emotioneel, sociaal, persoonlijk)",
+            "pl": "wsparcie (emocjonalne, społeczne lub osobiste)",
+            "ru": "поддержка (эмоциональная, социальная или персональная)"
+        }
+    ],
+    "pronunciation": [
+        "tì-slan",
+        2
+    ],
+    "type": "n"
+}

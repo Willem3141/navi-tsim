@@ -1,0 +1,20 @@
+{
+    "na'vi": "vezo",
+    "translations": [
+        {
+            "de": "ordentlich sein, organisiert sein, aufgeräumt sein",
+            "en": "be in order, be organized",
+            "et": "korras olema, organiseeritud olema",
+            "hu": "rendben van, rendezett",
+            "nl": "op orde zijn, georganiseerd zijn",
+            "pl": "być uporządkowanym, być dobrze zorganizowanym",
+            "ru": "быть в порядке"
+        }
+    ],
+    "pronunciation": [
+        "ve-zo",
+        2
+    ],
+    "infixes": "vez..o",
+    "type": "v:in"
+}

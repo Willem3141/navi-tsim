@@ -1,0 +1,20 @@
+{
+    "na'vi": "tsamsiyu",
+    "translations": [
+        {
+            "de": "Krieger",
+            "en": "warrior",
+            "et": "sõdalane",
+            "hu": "harcos",
+            "nl": "krijger",
+            "pl": "wojownik",
+            "ru": "воин",
+            "sv": "krigare"
+        }
+    ],
+    "pronunciation": [
+        "tsam-si-yu",
+        1
+    ],
+    "type": "n"
+}

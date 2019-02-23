@@ -1,0 +1,19 @@
+{
+    "na'vi": "yayotsrul",
+    "translations": [
+        {
+            "de": "Vogelnest",
+            "en": "bird's nest",
+            "et": "linnupesa",
+            "hu": "madárfészek",
+            "nl": "vogelnest",
+            "pl": "ptasie gniazdo",
+            "ru": "птичье гнездо"
+        }
+    ],
+    "pronunciation": [
+        "ya-yo-tsrul",
+        1
+    ],
+    "type": "n"
+}

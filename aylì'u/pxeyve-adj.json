@@ -1,0 +1,20 @@
+{
+    "na'vi": "pxeyve",
+    "translations": [
+        {
+            "de": "dritte/r/s (Ordnungszahl)",
+            "en": "third (ordinal)",
+            "et": "kolmas",
+            "hu": "harmadik (sorszámnév)",
+            "nl": "derde (rangtelwoord)",
+            "pl": "trzeci",
+            "ru": "третий",
+            "sv": "tredje (ordningstal)"
+        }
+    ],
+    "pronunciation": [
+        "pxey-ve",
+        1
+    ],
+    "type": "adj"
+}

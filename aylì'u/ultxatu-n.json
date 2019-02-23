@@ -1,0 +1,20 @@
+{
+    "na'vi": "ultxatu",
+    "translations": [
+        {
+            "de": "Teilnehmer eines Treffens",
+            "en": "meeting participant",
+            "et": "kohtuja, kohtumises osaleja",
+            "hu": "találkozás résztvevője",
+            "nl": "lid van een bijeenkomst",
+            "pl": "uczestnik spotkania",
+            "ru": "участник встречи",
+            "sv": "mötesdeltagare"
+        }
+    ],
+    "pronunciation": [
+        "ul-txa-tu",
+        2
+    ],
+    "type": "n"
+}

@@ -1,0 +1,21 @@
+{
+    "na'vi": "pähem",
+    "translations": [
+        {
+            "de": "ankommen, eintreffen",
+            "en": "arrive",
+            "et": "saabuma",
+            "hu": "(meg)érkezik, megjön",
+            "nl": "arriveren, aankomen",
+            "pl": "przybyć, dotrzeć",
+            "ru": "прибывать, приезжать, достигать",
+            "sv": "anlända"
+        }
+    ],
+    "pronunciation": [
+        "pä-hem",
+        1
+    ],
+    "infixes": "p.äh.em",
+    "type": "v:in"
+}

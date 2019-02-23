@@ -1,0 +1,19 @@
+{
+    "na'vi": "spono",
+    "translations": [
+        {
+            "de": "Insel",
+            "en": "island",
+            "et": "saar",
+            "hu": "sziget",
+            "nl": "eiland",
+            "pl": "wyspa",
+            "ru": "остров"
+        }
+    ],
+    "pronunciation": [
+        "spo-no",
+        1
+    ],
+    "type": "n"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "hewne",
+    "translations": [
+        {
+            "de": "weich (von einem Objekt)",
+            "en": "soft (of an object)",
+            "et": "pehme (asi)",
+            "hu": "puha (tárgy)",
+            "nl": "zacht (ding)",
+            "pl": "miękki",
+            "ru": "мягкий (с неодуш. предметами)",
+            "sv": "mjuk (om ett föremål)"
+        }
+    ],
+    "pronunciation": [
+        "hew-ne",
+        1
+    ],
+    "type": "adj"
+}

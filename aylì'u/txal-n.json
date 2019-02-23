@@ -1,0 +1,20 @@
+{
+    "na'vi": "txal",
+    "translations": [
+        {
+            "de": "Rücken, Rückseite (des Körpers)",
+            "en": "back (of the body)",
+            "et": "selg",
+            "hu": "hát (testrész)",
+            "nl": "rug (van het lichaam)",
+            "pl": "plecy",
+            "ru": "спина",
+            "sv": "rygg, baksida (av kroppen)"
+        }
+    ],
+    "pronunciation": [
+        "txal",
+        1
+    ],
+    "type": "n"
+}

@@ -1,0 +1,21 @@
+{
+    "na'vi": "toltem",
+    "translations": [
+        {
+            "de": "schießen",
+            "en": "shoot",
+            "et": "(vibu) laskma",
+            "hu": "lő",
+            "nl": "schieten",
+            "pl": "strzelać",
+            "ru": "стрелять (переходная форма)",
+            "sv": "skjuta"
+        }
+    ],
+    "pronunciation": [
+        "tol-tem",
+        2
+    ],
+    "infixes": "t.olt.em",
+    "type": "v:tr"
+}

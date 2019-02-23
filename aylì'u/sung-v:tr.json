@@ -1,0 +1,21 @@
+{
+    "na'vi": "sung",
+    "translations": [
+        {
+            "de": "hinzufügen, ergänzen, beigeben, hinzugeben",
+            "en": "add",
+            "et": "lisama",
+            "hu": "hozzátesz, hozzáad",
+            "nl": "toevoegen",
+            "pl": "dodać",
+            "ru": "добавлять",
+            "sv": "lägga till"
+        }
+    ],
+    "pronunciation": [
+        "sung",
+        1
+    ],
+    "infixes": "s..ung",
+    "type": "v:tr"
+}

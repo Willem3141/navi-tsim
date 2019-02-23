@@ -1,0 +1,21 @@
+{
+    "na'vi": "new",
+    "translations": [
+        {
+            "de": "wollen, möchten",
+            "en": "want",
+            "et": "tahtma",
+            "hu": "akar",
+            "nl": "willen",
+            "pl": "chcieć",
+            "ru": "хотеть, желать",
+            "sv": "vilja ha, vilja"
+        }
+    ],
+    "pronunciation": [
+        "new",
+        1
+    ],
+    "infixes": "n..ew",
+    "type": "v:tr"
+}

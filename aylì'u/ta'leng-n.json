@@ -1,0 +1,20 @@
+{
+    "na'vi": "ta'leng",
+    "translations": [
+        {
+            "de": "Haut",
+            "en": "skin",
+            "et": "nahk",
+            "hu": "bőr",
+            "nl": "huid",
+            "pl": "skóra",
+            "ru": "кожа, шкура",
+            "sv": "skinn, hud"
+        }
+    ],
+    "pronunciation": [
+        "ta'-leng",
+        1
+    ],
+    "type": "n"
+}

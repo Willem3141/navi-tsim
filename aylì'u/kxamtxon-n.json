@@ -1,0 +1,20 @@
+{
+    "na'vi": "kxamtxon",
+    "translations": [
+        {
+            "de": "Mitternacht, Mitte der Nacht",
+            "en": "midnight",
+            "et": "kesköö",
+            "hu": "éjfél",
+            "nl": "middernacht",
+            "pl": "północ",
+            "ru": "полночь",
+            "sv": "midnatt"
+        }
+    ],
+    "pronunciation": [
+        "kxam-txon",
+        1
+    ],
+    "type": "n"
+}

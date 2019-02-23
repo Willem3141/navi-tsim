@@ -1,0 +1,18 @@
+{
+    "na'vi": "yak",
+    "translations": [
+        {
+            "de": "Gabelung, Abzweigung, Verzweigung; Punkt, von dem aus etwas auseinander geht",
+            "en": "fork, branch, point of divergence",
+            "et": "hargnemispunkt, lahknemispunkt",
+            "hu": "elágazás",
+            "nl": "vork, vertakking, punt van afwijking",
+            "ru": "развилка"
+        }
+    ],
+    "pronunciation": [
+        "yak",
+        1
+    ],
+    "type": "n"
+}

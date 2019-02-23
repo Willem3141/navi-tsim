@@ -1,0 +1,20 @@
+{
+    "na'vi": "rim",
+    "translations": [
+        {
+            "de": "gelb",
+            "en": "yellow",
+            "et": "kollane",
+            "hu": "sárga",
+            "nl": "geel",
+            "pl": "żółty",
+            "ru": "жёлтый",
+            "sv": "gul"
+        }
+    ],
+    "pronunciation": [
+        "rim",
+        1
+    ],
+    "type": "adj"
+}

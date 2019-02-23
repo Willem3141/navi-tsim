@@ -1,0 +1,19 @@
+{
+    "na'vi": "rong",
+    "translations": [
+        {
+            "de": "Tunnel",
+            "en": "tunnel",
+            "et": "tunnel",
+            "hu": "alagút",
+            "nl": "tunnel",
+            "pl": "tunel",
+            "ru": "туннель"
+        }
+    ],
+    "pronunciation": [
+        "rong",
+        1
+    ],
+    "type": "n"
+}

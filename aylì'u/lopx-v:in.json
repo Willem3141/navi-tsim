@@ -1,0 +1,20 @@
+{
+    "na'vi": "lopx",
+    "translations": [
+        {
+            "de": "in Panik geraten, in Panik verfallen",
+            "en": "panic",
+            "et": "paanitsema",
+            "hu": "pánikba esik",
+            "nl": "in paniek zijn/raken",
+            "pl": "panikować",
+            "ru": "паниковать"
+        }
+    ],
+    "pronunciation": [
+        "lopx",
+        1
+    ],
+    "infixes": "l..opx",
+    "type": "v:in"
+}

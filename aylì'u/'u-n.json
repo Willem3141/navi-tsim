@@ -1,0 +1,20 @@
+{
+    "na'vi": "'u",
+    "translations": [
+        {
+            "de": "Ding (Sache, Tatsache, Abstraktion)",
+            "en": "thing (object, fact, abstraction)",
+            "et": "asi (ese, fakt, mõte)",
+            "hu": "dolog (valami)",
+            "nl": "ding (object, feit)",
+            "pl": "rzecz (przedmiot, fakt, pojęcie)",
+            "ru": "вещь",
+            "sv": "sak, objekt"
+        }
+    ],
+    "pronunciation": [
+        "'u",
+        1
+    ],
+    "type": "n"
+}

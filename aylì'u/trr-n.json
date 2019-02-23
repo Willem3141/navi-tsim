@@ -1,0 +1,20 @@
+{
+    "na'vi": "trr",
+    "translations": [
+        {
+            "de": "Tag",
+            "en": "day",
+            "et": "päev",
+            "hu": "nap (napszak)",
+            "nl": "dag",
+            "pl": "dzień",
+            "ru": "день",
+            "sv": "dag"
+        }
+    ],
+    "pronunciation": [
+        "trr",
+        1
+    ],
+    "type": "n"
+}

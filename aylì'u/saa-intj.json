@@ -1,0 +1,20 @@
+{
+    "na'vi": "saa",
+    "translations": [
+        {
+            "de": "drohender Schrei",
+            "en": "threatening cry",
+            "et": "ähvardav hõige",
+            "hu": "fenyegető kiáltás",
+            "nl": "bedreigende kreet",
+            "pl": "lament",
+            "ru": "устрашающий выкрик",
+            "sv": "hotande yl"
+        }
+    ],
+    "pronunciation": [
+        "saa",
+        1
+    ],
+    "type": "intj"
+}

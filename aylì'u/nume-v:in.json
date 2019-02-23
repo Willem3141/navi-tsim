@@ -1,0 +1,21 @@
+{
+    "na'vi": "nume",
+    "translations": [
+        {
+            "de": "lernen, Wissen oder Verstehen erlangen",
+            "en": "learn",
+            "et": "õppima, teada saama",
+            "hu": "tanul",
+            "nl": "leren",
+            "pl": "uczyć",
+            "ru": "учиться, изучать",
+            "sv": "lära"
+        }
+    ],
+    "pronunciation": [
+        "nu-me",
+        1
+    ],
+    "infixes": "n.um.e",
+    "type": "v:in"
+}

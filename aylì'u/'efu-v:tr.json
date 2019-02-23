@@ -1,0 +1,21 @@
+{
+    "na'vi": "'efu",
+    "translations": [
+        {
+            "de": "fühlen, spüren, wahrnehmen",
+            "en": "feel, sense, perceive",
+            "et": "tunnetama, tundma, tajuma",
+            "hu": "érez, érzékel",
+            "nl": "voelen",
+            "pl": "czuć, odczuwać, spostrzegać",
+            "ru": "ощущать, чувствовать, воспринимать",
+            "sv": "känna, uppfatta, märka"
+        }
+    ],
+    "pronunciation": [
+        "'e-fu",
+        1
+    ],
+    "infixes": "'.ef.u",
+    "type": "v:tr"
+}

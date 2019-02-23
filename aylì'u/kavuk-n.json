@@ -1,0 +1,20 @@
+{
+    "na'vi": "kavuk",
+    "translations": [
+        {
+            "de": "Verrat",
+            "en": "treachery",
+            "et": "reetmine, äraandlikkus",
+            "hu": "hűtlenség, árulás",
+            "nl": "verraad",
+            "pl": "zdrada",
+            "ru": "предательство",
+            "sv": "förräderi, svek"
+        }
+    ],
+    "pronunciation": [
+        "ka-vuk",
+        2
+    ],
+    "type": "n"
+}

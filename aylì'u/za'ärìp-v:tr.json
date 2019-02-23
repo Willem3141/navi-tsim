@@ -1,0 +1,21 @@
+{
+    "na'vi": "za'ärìp",
+    "translations": [
+        {
+            "de": "ziehen",
+            "en": "pull",
+            "et": "tõmbama",
+            "hu": "húz",
+            "nl": "trekken",
+            "pl": "ciągnąć",
+            "ru": "тянуть",
+            "sv": "dra, rycka"
+        }
+    ],
+    "pronunciation": [
+        "za-'ä-rìp",
+        2
+    ],
+    "infixes": "za'.är.ìp",
+    "type": "v:tr"
+}

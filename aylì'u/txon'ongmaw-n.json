@@ -1,0 +1,20 @@
+{
+    "na'vi": "txon'ongmaw",
+    "translations": [
+        {
+            "de": "Zeit nach der Dämmerung, Nachteinfall",
+            "en": "twilight, the time before dark, after sunset",
+            "et": "aeg pärast videvikku, enne pimedaks minemist",
+            "hu": "alkony, sötétedés előtti időszak, naplemente után",
+            "nl": "schermering, voor donker, na zonsondergang",
+            "pl": "półmrok, czas po zachodzie słońca",
+            "ru": "сумерки после заката до наступления темноты",
+            "sv": "skymning, tiden före mörkret, efter solnedgången"
+        }
+    ],
+    "pronunciation": [
+        "txon-'ong-maw",
+        2
+    ],
+    "type": "n"
+}

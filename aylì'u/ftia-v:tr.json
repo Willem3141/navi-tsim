@@ -1,0 +1,21 @@
+{
+    "na'vi": "ftia",
+    "translations": [
+        {
+            "de": "studieren, erforschen, untersuchen",
+            "en": "study",
+            "et": "õppima",
+            "hu": "megfigyel, szemügyre vesz, tanulmányoz",
+            "nl": "studeren",
+            "pl": "studiować, uczyć się",
+            "ru": "изучать, учить",
+            "sv": "studera"
+        }
+    ],
+    "pronunciation": [
+        "fti-a",
+        2
+    ],
+    "infixes": "ft.i.a",
+    "type": "v:tr"
+}

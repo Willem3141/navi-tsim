@@ -1,0 +1,20 @@
+{
+    "na'vi": "wiya",
+    "translations": [
+        {
+            "de": "Ausruf der Warnung oder Frustration, 'Verdammt!'",
+            "en": "expression of warning or frustration, 'damn!'",
+            "et": "hoiatuse või viha väljendus ('kurat!')",
+            "hu": "figyelmeztető vagy csalódottságot kifejező szó, 'francba!'",
+            "nl": "uitroep van waarschuwing of frustratie, 'verdomme!'",
+            "pl": "ostrzeżenie lub wyrażenie frustracji czy gniewu, cholera!",
+            "ru": "«чёрт побери!», выражающее разочарование или предостережение междометие",
+            "sv": "uttryck av varning eller frustration, 'fan!'"
+        }
+    ],
+    "pronunciation": [
+        "wi-ya",
+        1
+    ],
+    "type": "intj"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "ronsem",
+    "translations": [
+        {
+            "de": "Verstand, Geist",
+            "en": "mind",
+            "et": "mõistus",
+            "hu": "elme",
+            "nl": "verstand, bewustzijn",
+            "pl": "umysł, rozum",
+            "ru": "ум, разум",
+            "sv": "sinne"
+        }
+    ],
+    "pronunciation": [
+        "ron-sem",
+        1
+    ],
+    "type": "n"
+}

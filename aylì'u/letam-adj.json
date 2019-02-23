@@ -1,0 +1,20 @@
+{
+    "na'vi": "letam",
+    "translations": [
+        {
+            "de": "genügend, ausreichend",
+            "en": "sufficient",
+            "et": "piisav",
+            "hu": "megfelelő",
+            "nl": "genoeg",
+            "pl": "wystarczający",
+            "ru": "достаточный",
+            "sv": "tillräcklig"
+        }
+    ],
+    "pronunciation": [
+        "le-tam",
+        2
+    ],
+    "type": "adj"
+}

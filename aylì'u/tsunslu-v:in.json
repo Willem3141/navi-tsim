@@ -1,0 +1,21 @@
+{
+    "na'vi": "tsunslu",
+    "translations": [
+        {
+            "de": "möglich sein",
+            "en": "may, be possible",
+            "et": "võimalik olema",
+            "hu": "lehet, szabad",
+            "nl": "mogelijk zijn",
+            "pl": "mieć możliwość, stawać się możliwym",
+            "ru": "быть возможным",
+            "sv": "kan, vara möjligt"
+        }
+    ],
+    "pronunciation": [
+        "tsun-slu",
+        1
+    ],
+    "infixes": "ts.unsl.u",
+    "type": "v:in"
+}

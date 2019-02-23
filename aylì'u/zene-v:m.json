@@ -1,0 +1,21 @@
+{
+    "na'vi": "zene",
+    "translations": [
+        {
+            "de": "müssen",
+            "en": "must",
+            "et": "pidama (tegema) Näide Oe zene kivä Ma pean minema",
+            "hu": "kell",
+            "nl": "moeten",
+            "pl": "musieć",
+            "ru": "модальный глалог долженствования",
+            "sv": "måste"
+        }
+    ],
+    "pronunciation": [
+        "ze-ne",
+        1
+    ],
+    "infixes": "z.en.e",
+    "type": "v:m"
+}

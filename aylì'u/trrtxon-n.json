@@ -1,0 +1,20 @@
+{
+    "na'vi": "trrtxon",
+    "translations": [
+        {
+            "de": "der TagundNachtZyklus auf Pandora",
+            "en": "the day and night cycle of Pandora",
+            "et": "ööpäev",
+            "hu": "napéj változás Pandorán, egy pandorai nap",
+            "nl": "de dag en nacht cyclus van Pandora",
+            "pl": "doba",
+            "ru": "суточный цикл Пандоры",
+            "sv": "dag och natt cykeln av Pandora"
+        }
+    ],
+    "pronunciation": [
+        "trr-txon",
+        1
+    ],
+    "type": "n"
+}

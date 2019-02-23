@@ -1,0 +1,20 @@
+{
+    "na'vi": "ral",
+    "translations": [
+        {
+            "de": "Bedeutung, Sinn",
+            "en": "meaning",
+            "et": "tähendus",
+            "hu": "jelentés",
+            "nl": "betekenis",
+            "pl": "znaczenie",
+            "ru": "значение, смысл",
+            "sv": "mening, betydelse"
+        }
+    ],
+    "pronunciation": [
+        "ral",
+        1
+    ],
+    "type": "n"
+}

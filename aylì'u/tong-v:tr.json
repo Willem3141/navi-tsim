@@ -1,0 +1,17 @@
+{
+    "na'vi": "tong",
+    "translations": [
+        {
+            "en": "put out, quench",
+            "et": "kustutama",
+            "hu": "elolt",
+            "nl": "uitmaken, doven"
+        }
+    ],
+    "pronunciation": [
+        "tong",
+        1
+    ],
+    "infixes": "t..ong",
+    "type": "v:tr"
+}

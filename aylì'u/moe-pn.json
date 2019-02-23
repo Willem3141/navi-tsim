@@ -1,0 +1,20 @@
+{
+    "na'vi": "moe",
+    "translations": [
+        {
+            "de": "wir, wir beide (exklusiv)",
+            "en": "we two, us two (exclusive)",
+            "et": "meie kaks (välistav)",
+            "hu": "mi ketten (kizáró)",
+            "nl": "wij, wij twee (exclusief)",
+            "pl": "nas dwoje, nasza dwójka (exclusivus)",
+            "ru": "мы двое (без собеседника)",
+            "sv": "vi två (du är inte inräknad)"
+        }
+    ],
+    "pronunciation": [
+        "mo-e",
+        1
+    ],
+    "type": "pn"
+}

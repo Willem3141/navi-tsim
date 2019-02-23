@@ -1,0 +1,21 @@
+{
+    "na'vi": "yem",
+    "translations": [
+        {
+            "de": "setzen, stellen, legen, platzieren",
+            "en": "put, place",
+            "et": "panema, asetama",
+            "hu": "rak, helyez",
+            "nl": "neerzetten, plaatsen",
+            "pl": "umieszczać, kłaść",
+            "ru": "положить, поставить",
+            "sv": "sätta dit, placera, sätta"
+        }
+    ],
+    "pronunciation": [
+        "yem",
+        1
+    ],
+    "infixes": "y..em",
+    "type": "v:tr"
+}

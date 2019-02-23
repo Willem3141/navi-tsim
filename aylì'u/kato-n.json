@@ -1,0 +1,20 @@
+{
+    "na'vi": "kato",
+    "translations": [
+        {
+            "de": "Rhythmus",
+            "en": "rhythm",
+            "et": "rütm",
+            "hu": "ritmus",
+            "nl": "ritme",
+            "pl": "rytm",
+            "ru": "ритм",
+            "sv": "rytm"
+        }
+    ],
+    "pronunciation": [
+        "ka-to",
+        1
+    ],
+    "type": "n"
+}

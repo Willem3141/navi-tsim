@@ -1,0 +1,18 @@
+{
+    "na'vi": "pllhrr",
+    "translations": [
+        {
+            "de": "warnen",
+            "en": "warn",
+            "et": "hoiatama",
+            "hu": "figyelmeztet",
+            "nl": "waarschuwen"
+        }
+    ],
+    "pronunciation": [
+        "pll-hrr",
+        2
+    ],
+    "infixes": "p..llhrr",
+    "type": "v:in"
+}

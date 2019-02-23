@@ -1,0 +1,19 @@
+{
+    "na'vi": "ko",
+    "translations": [
+        {
+            "de": "Einverständnis einholen (makto ko!  'Lass uns reiten!')",
+            "en": "solicit agreement",
+            "et": "pealesurutud nõustumine (eks)",
+            "hu": "nosza!",
+            "nl": "instemmend",
+            "ru": "призыв к действию, побуждение к согласию",
+            "sv": "hålla med"
+        }
+    ],
+    "pronunciation": [
+        "ko",
+        1
+    ],
+    "type": "part"
+}

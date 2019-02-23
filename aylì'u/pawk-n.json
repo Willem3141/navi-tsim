@@ -1,0 +1,17 @@
+{
+    "na'vi": "pawk",
+    "translations": [
+        {
+            "de": "Horn (Blasinstrument)",
+            "en": "horn, wind instrument",
+            "et": "puhkpill, pasun",
+            "hu": "duda, kürt",
+            "nl": "hoorn, blaasinstrument"
+        }
+    ],
+    "pronunciation": [
+        "pawk",
+        1
+    ],
+    "type": "n"
+}

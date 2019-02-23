@@ -1,0 +1,20 @@
+{
+    "na'vi": "payoang",
+    "translations": [
+        {
+            "de": "Fisch",
+            "en": "fish",
+            "et": "kala",
+            "hu": "hal",
+            "nl": "vis",
+            "pl": "ryba",
+            "ru": "рыба",
+            "sv": "fisk"
+        }
+    ],
+    "pronunciation": [
+        "pay-o-ang",
+        2
+    ],
+    "type": "n"
+}

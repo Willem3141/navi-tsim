@@ -1,0 +1,20 @@
+{
+    "na'vi": "'okvur",
+    "translations": [
+        {
+            "de": "(jüngere) Geschichte, Historie",
+            "en": "history (nonancient)",
+            "et": "ajalugu (hiljutisem)",
+            "hu": "történelem (nem ősi)",
+            "nl": "geschiedenis (niet oud)",
+            "pl": "historia (nowożytna)",
+            "ru": "история (не древняя)",
+            "sv": "historia (inte uråldrig)"
+        }
+    ],
+    "pronunciation": [
+        "'ok-vur",
+        2
+    ],
+    "type": "n"
+}

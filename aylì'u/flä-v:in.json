@@ -1,0 +1,21 @@
+{
+    "na'vi": "flä",
+    "translations": [
+        {
+            "de": "glücken, gelingen, Erfolg haben",
+            "en": "succeed",
+            "et": "õnnestuma, korda minema",
+            "hu": "sikerrel jár, sikerül",
+            "nl": "slagen",
+            "pl": "udać się, powieść się",
+            "ru": "достигать цели, преуспевать, иметь успех",
+            "sv": "lyckas"
+        }
+    ],
+    "pronunciation": [
+        "flä",
+        1
+    ],
+    "infixes": "fl..ä",
+    "type": "v:in"
+}

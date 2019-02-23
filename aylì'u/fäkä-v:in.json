@@ -1,0 +1,20 @@
+{
+    "na'vi": "fäkä",
+    "translations": [
+        {
+            "de": "hinaufgehen, aufsteigen, hochsteigen",
+            "en": "go up, ascend",
+            "et": "tõusma, üles minema",
+            "hu": "felmegy, felszáll",
+            "nl": "omhoog gaan",
+            "pl": "wejść",
+            "ru": "поднимать"
+        }
+    ],
+    "pronunciation": [
+        "fä-kä",
+        2
+    ],
+    "infixes": "fäk..ä",
+    "type": "v:in"
+}

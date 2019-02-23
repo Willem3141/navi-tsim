@@ -1,0 +1,20 @@
+{
+    "na'vi": "zoplo",
+    "translations": [
+        {
+            "de": "Beleidigung, Vergehen",
+            "en": "offence, insult",
+            "et": "solvang",
+            "hu": "támadás",
+            "nl": "belediging",
+            "pl": "obraza, potwarz",
+            "ru": "оскорбление, обида",
+            "sv": "förolämpning"
+        }
+    ],
+    "pronunciation": [
+        "zop-lo",
+        2
+    ],
+    "type": "n"
+}

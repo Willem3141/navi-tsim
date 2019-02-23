@@ -1,0 +1,20 @@
+{
+    "na'vi": "trr'ong",
+    "translations": [
+        {
+            "de": "Morgengrauen",
+            "en": "dawn, sunrise",
+            "et": "koit, päiksetõus",
+            "hu": "hajnal, napkelte",
+            "nl": "vroege ochtend, zonsopgang",
+            "pl": "brzask, jutrzenka",
+            "ru": "восход",
+            "sv": "soluppgång, gryning"
+        }
+    ],
+    "pronunciation": [
+        "trr-'ong",
+        2
+    ],
+    "type": "n"
+}

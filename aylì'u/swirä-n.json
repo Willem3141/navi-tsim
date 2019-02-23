@@ -1,0 +1,20 @@
+{
+    "na'vi": "swirä",
+    "translations": [
+        {
+            "de": "Kreatur, Geschöpf, Wesen",
+            "en": "creature",
+            "et": "elukas, olevus",
+            "hu": "teremtmény",
+            "nl": "wezen, creatuur",
+            "pl": "stworzenie, istota",
+            "ru": "создание, существо",
+            "sv": "varelse"
+        }
+    ],
+    "pronunciation": [
+        "swi-rä",
+        2
+    ],
+    "type": "n"
+}

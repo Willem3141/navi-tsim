@@ -1,0 +1,20 @@
+{
+    "na'vi": "furia",
+    "translations": [
+        {
+            "de": "dass (NebensatzMarker)",
+            "en": "that",
+            "et": "see, mis",
+            "hu": "annak, hogy (alárendelő mellékmondat kötőszava)",
+            "nl": "dat",
+            "pl": "który (jeśli chodzi o tego, którego)",
+            "ru": "что (соединительный союз в сложноподчиненном предложении)",
+            "sv": "att (klausul bisatsmarkör)"
+        }
+    ],
+    "pronunciation": [
+        "fu-ri-a",
+        1
+    ],
+    "type": "ctr"
+}

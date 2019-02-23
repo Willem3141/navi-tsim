@@ -1,0 +1,20 @@
+{
+    "na'vi": "atxkxe",
+    "translations": [
+        {
+            "de": "Land, Boden",
+            "en": "land",
+            "et": "maa",
+            "hu": "föld, terület",
+            "nl": "land",
+            "pl": "ziemia, grunt, stały ląd",
+            "ru": "земля, местность",
+            "sv": "land"
+        }
+    ],
+    "pronunciation": [
+        "atx-kxe",
+        2
+    ],
+    "type": "n"
+}

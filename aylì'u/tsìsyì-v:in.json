@@ -1,0 +1,21 @@
+{
+    "na'vi": "tsìsyì",
+    "translations": [
+        {
+            "de": "flüstern",
+            "en": "whisper",
+            "et": "sosistama",
+            "hu": "suttog",
+            "nl": "fluisteren",
+            "pl": "szeptać",
+            "ru": "шептать",
+            "sv": "viska"
+        }
+    ],
+    "pronunciation": [
+        "tsì-syì",
+        1
+    ],
+    "infixes": "ts.ìsy.ì",
+    "type": "v:in"
+}

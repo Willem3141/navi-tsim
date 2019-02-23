@@ -1,0 +1,20 @@
+{
+    "na'vi": "ultxa",
+    "translations": [
+        {
+            "de": "treffen (mit jmd., absichtlich) (benutze hu mit)",
+            "en": "meet with someone intentionally (use hu with)",
+            "et": "kokku saama sihilikult ( hu)",
+            "hu": "találkozni (szándékosan) ( val, vel használatával)",
+            "nl": "iemand doelbewust ontmoeten (gebruikhu met)",
+            "pl": "spotykać się celowo (używa hu z)",
+            "ru": "встретиться с кемлибо по собственному желанию (используйте hu with)",
+            "sv": "möta någon avsiktligt (använd hu med)"
+        }
+    ],
+    "pronunciation": [
+        "ul-txa",
+        2
+    ],
+    "type": "n:si"
+}

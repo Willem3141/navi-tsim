@@ -1,0 +1,20 @@
+{
+    "na'vi": "pa'li",
+    "translations": [
+        {
+            "de": "Direhorse, Pandorisches Pferd ähnliches Tier",
+            "en": "direhorse",
+            "et": "Suurhobu (direhorse)",
+            "hu": "Páncélos ló (Na'vik földi lószerű hátasa, pandorai állatfaj)",
+            "nl": "grimpaard",
+            "pl": "mroczny koń",
+            "ru": "лошадь (direhorse)",
+            "sv": "direhorse, häst"
+        }
+    ],
+    "pronunciation": [
+        "pa'-li",
+        1
+    ],
+    "type": "n"
+}

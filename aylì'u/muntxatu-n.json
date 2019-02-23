@@ -1,0 +1,20 @@
+{
+    "na'vi": "muntxatu",
+    "translations": [
+        {
+            "de": "Ehepartner",
+            "en": "spouse",
+            "et": "abikaasa",
+            "hu": "hitves, házastárs",
+            "nl": "ega, echtgenoot/echtgenote",
+            "pl": "współmażonek",
+            "ru": "супруг",
+            "sv": "make"
+        }
+    ],
+    "pronunciation": [
+        "mun-txa-tu",
+        2
+    ],
+    "type": "n"
+}

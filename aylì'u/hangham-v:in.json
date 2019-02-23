@@ -1,0 +1,21 @@
+{
+    "na'vi": "hangham",
+    "translations": [
+        {
+            "de": "lachen",
+            "en": "laugh",
+            "et": "naerma",
+            "hu": "nevet, kacag",
+            "nl": "lachen",
+            "pl": "śmiać się",
+            "ru": "смеяться",
+            "sv": "skratta"
+        }
+    ],
+    "pronunciation": [
+        "hang-ham",
+        1
+    ],
+    "infixes": "h.angh.am",
+    "type": "v:in"
+}

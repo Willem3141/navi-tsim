@@ -1,0 +1,21 @@
+{
+    "na'vi": "nekx",
+    "translations": [
+        {
+            "de": "verbrennen, verbrauchen",
+            "en": "burn, consume",
+            "et": "põletama, ära põlema",
+            "hu": "eléget, elfogyaszt",
+            "nl": "consumeren, verbranden",
+            "pl": "palić, pochłaniać",
+            "ru": "потреблять, расходовать",
+            "sv": "bränna upp, konsumera"
+        }
+    ],
+    "pronunciation": [
+        "nekx",
+        1
+    ],
+    "infixes": "n..ekx",
+    "type": "v:tr"
+}

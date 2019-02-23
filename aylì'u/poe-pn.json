@@ -1,0 +1,20 @@
+{
+    "na'vi": "poe",
+    "translations": [
+        {
+            "de": "sie (sg.) (keine Pluralform: verwende (ay)fo)",
+            "en": "she (no plural form: use (ay)fo)",
+            "et": "tema (naissoost) (mitmus puudub: kasutada (ay)fo)",
+            "hu": "ő (nőnem) (nincs többesszáma: helyette az (ay)fo)",
+            "nl": "zij (geen meervoudsvorm: gebruik (ay)fo)",
+            "pl": "ona",
+            "ru": "она",
+            "sv": "hon (det finns ingen pluralform: använd (ay)fo)"
+        }
+    ],
+    "pronunciation": [
+        "po-e",
+        2
+    ],
+    "type": "pn"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "kllte",
+    "translations": [
+        {
+            "de": "Boden, Grund",
+            "en": "ground",
+            "et": "maa, maapind",
+            "hu": "föld, talaj",
+            "nl": "grond",
+            "pl": "ziemia, grunt",
+            "ru": "земля",
+            "sv": "mark"
+        }
+    ],
+    "pronunciation": [
+        "kll-te",
+        1
+    ],
+    "type": "n"
+}

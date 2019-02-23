@@ -1,0 +1,19 @@
+{
+    "na'vi": "ley",
+    "translations": [
+        {
+            "de": "kostbar sein, einen positiven Wert haben, etwas wert sein, wertschätzen",
+            "en": "be of value, have some positive value, be worth something",
+            "et": "väärtust omama, väärt olema",
+            "hu": "értékes, megéri",
+            "nl": "waarde hebben, iets waard zijn",
+            "ru": "быть в цене, стоить, цениться"
+        }
+    ],
+    "pronunciation": [
+        "ley",
+        1
+    ],
+    "infixes": "l..ey",
+    "type": "v:in"
+}

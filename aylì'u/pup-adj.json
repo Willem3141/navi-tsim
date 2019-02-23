@@ -1,0 +1,20 @@
+{
+    "na'vi": "pup",
+    "translations": [
+        {
+            "de": "kurz (physische Länge)",
+            "en": "short (physical length)",
+            "et": "lühike (füüsiline)",
+            "hu": "rövid (fizikai hosszúság)",
+            "nl": "kort (fysieke lengte)",
+            "pl": "krótki (fizycznie)",
+            "ru": "короткий (физическая длинна)",
+            "sv": "kort (fysiskt)"
+        }
+    ],
+    "pronunciation": [
+        "pup",
+        1
+    ],
+    "type": "adj"
+}

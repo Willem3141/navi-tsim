@@ -1,0 +1,19 @@
+{
+    "na'vi": "tsulfätunay",
+    "translations": [
+        {
+            "de": "BeinahMeister, Lehrling (zum Meister)",
+            "en": "nearmaster",
+            "et": "peaaegu meister",
+            "hu": "leendő mester",
+            "nl": "bijnameester",
+            "pl": "czeladnik",
+            "ru": "почти мастер"
+        }
+    ],
+    "pronunciation": [
+        "tsul-fä-tu-nay",
+        4
+    ],
+    "type": "n"
+}

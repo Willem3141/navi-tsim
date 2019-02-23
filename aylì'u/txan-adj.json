@@ -1,0 +1,20 @@
+{
+    "na'vi": "txan",
+    "translations": [
+        {
+            "de": "viel(e), groß (Anzahl)",
+            "en": "much",
+            "et": "palju, suur hulk (koguse kohta)",
+            "hu": "sok",
+            "nl": "veel",
+            "pl": "duży",
+            "ru": "большой, сильный, обильный, многочисленный",
+            "sv": "mycket, många (i kvantitet)"
+        }
+    ],
+    "pronunciation": [
+        "txan",
+        1
+    ],
+    "type": "adj"
+}

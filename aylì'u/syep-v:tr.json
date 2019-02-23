@@ -1,0 +1,21 @@
+{
+    "na'vi": "syep",
+    "translations": [
+        {
+            "de": "fangen, einschließen, in eine Falle locken, mit einer Falle fangen",
+            "en": "trap",
+            "et": "lõksu püüdma, lõksu seadma",
+            "hu": "csapdába ejt",
+            "nl": "vangen (in een val leiden)",
+            "pl": "łapać w pułapkę",
+            "ru": "ловить, заманивать в ловушку,",
+            "sv": "fånga"
+        }
+    ],
+    "pronunciation": [
+        "syep",
+        1
+    ],
+    "infixes": "sy..ep",
+    "type": "v:tr"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "vol",
+    "translations": [
+        {
+            "de": "acht",
+            "en": "eight",
+            "et": "kaheksa",
+            "hu": "nyolc, 8",
+            "nl": "acht",
+            "pl": "osiem",
+            "ru": "восемь",
+            "sv": "åtta"
+        }
+    ],
+    "pronunciation": [
+        "vol",
+        1
+    ],
+    "type": "num"
+}

@@ -1,0 +1,21 @@
+{
+    "na'vi": "omum",
+    "translations": [
+        {
+            "de": "wissen, et. kennen",
+            "en": "know",
+            "et": "teadma",
+            "hu": "tud",
+            "nl": "weten",
+            "pl": "wiedzieć",
+            "ru": "знать, понимать, разбираться",
+            "sv": "veta, känna till"
+        }
+    ],
+    "pronunciation": [
+        "o-mum",
+        2
+    ],
+    "infixes": ".om.um",
+    "type": "v:tr"
+}

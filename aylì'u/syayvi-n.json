@@ -1,0 +1,20 @@
+{
+    "na'vi": "syayvi",
+    "translations": [
+        {
+            "de": "Glück, Zufall",
+            "en": "luck, chance",
+            "et": "õnn, edu, (juhuslik) võimalus",
+            "hu": "szerencse, esély",
+            "nl": "geluk, fortuin",
+            "pl": "szczęście, okazja",
+            "ru": "шанс, удача",
+            "sv": "tur, chans"
+        }
+    ],
+    "pronunciation": [
+        "syay-vi",
+        1
+    ],
+    "type": "n"
+}

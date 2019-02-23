@@ -1,0 +1,21 @@
+{
+    "na'vi": "tungzup",
+    "translations": [
+        {
+            "de": "fallen lassen, herunterlassen, abwerfen",
+            "en": "drop",
+            "et": "pillama, kukutama",
+            "hu": "elejt (ii)",
+            "nl": "laten vallen",
+            "pl": "upuszczać (ii)",
+            "ru": "ронять, бросать",
+            "sv": "tappa (släppa) (ii)"
+        }
+    ],
+    "pronunciation": [
+        "tung-zup",
+        2
+    ],
+    "infixes": "t.ungz.up",
+    "type": "v:tr"
+}

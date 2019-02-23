@@ -1,0 +1,21 @@
+{
+    "na'vi": "mllte",
+    "translations": [
+        {
+            "de": "zustimmen, übereinstimmen",
+            "en": "agree",
+            "et": "nõustuma, leppima",
+            "hu": "egyetért",
+            "nl": "instemmen",
+            "pl": "zgadzać się",
+            "ru": "соглашаться",
+            "sv": "hålla med, samtycka"
+        }
+    ],
+    "pronunciation": [
+        "mll-te",
+        2
+    ],
+    "infixes": "m.llt.e",
+    "type": "v:in"
+}

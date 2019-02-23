@@ -1,0 +1,20 @@
+{
+    "na'vi": "sran",
+    "translations": [
+        {
+            "de": "ja (umgangssprachlich)",
+            "en": "yes (colloquial)",
+            "et": "jah, jaa (kõnekeelne)",
+            "hu": "aha, ja, oké",
+            "nl": "ja (omgangstaal)",
+            "pl": "tak (potocznie)",
+            "ru": "да (разговорная форма)",
+            "sv": "ja (vardagligt)"
+        }
+    ],
+    "pronunciation": [
+        "sran",
+        1
+    ],
+    "type": "part"
+}

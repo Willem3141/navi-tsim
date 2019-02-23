@@ -1,0 +1,21 @@
+{
+    "na'vi": "kllkxem",
+    "translations": [
+        {
+            "de": "stehen",
+            "en": "stand",
+            "et": "seisma",
+            "hu": "áll",
+            "nl": "staan",
+            "pl": "stać",
+            "ru": "стоять",
+            "sv": "stå"
+        }
+    ],
+    "pronunciation": [
+        "kll-kxem",
+        2
+    ],
+    "infixes": "kllkx..em",
+    "type": "v:in"
+}

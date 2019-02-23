@@ -1,0 +1,21 @@
+{
+    "na'vi": "syaw",
+    "translations": [
+        {
+            "de": "rufen",
+            "en": "call",
+            "et": "kutsuma",
+            "hu": "hív, szólít",
+            "nl": "roepen",
+            "pl": "nazywać, wołać",
+            "ru": "звать, окликать, обращаться, называть",
+            "sv": "kalla (någon)"
+        }
+    ],
+    "pronunciation": [
+        "syaw",
+        1
+    ],
+    "infixes": "sy..aw",
+    "type": "v:in"
+}

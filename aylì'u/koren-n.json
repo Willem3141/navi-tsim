@@ -1,0 +1,20 @@
+{
+    "na'vi": "koren",
+    "translations": [
+        {
+            "de": "Regel, Richtlinie",
+            "en": "rule, guideline",
+            "et": "reegel, juhtnöör",
+            "hu": "szabály",
+            "nl": "regel, richtlijn",
+            "pl": "zasada, wytyczna, wskazówka",
+            "ru": "правило",
+            "sv": "regel, riktlinje"
+        }
+    ],
+    "pronunciation": [
+        "ko-ren",
+        2
+    ],
+    "type": "n"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "skien",
+    "translations": [
+        {
+            "de": "rechts (nicht links)",
+            "en": "right (not left)",
+            "et": "parem (mitte vasak)",
+            "hu": "jobb (nem bal)",
+            "nl": "rechts (niet links)",
+            "pl": "prawy (nie lewy)",
+            "ru": "правый (о стороне или направлении)",
+            "sv": "höger"
+        }
+    ],
+    "pronunciation": [
+        "ski-en",
+        1
+    ],
+    "type": "adj"
+}

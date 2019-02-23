@@ -1,0 +1,20 @@
+{
+    "na'vi": "tafral",
+    "translations": [
+        {
+            "de": "daher, deshalb",
+            "en": "therefore, because of that",
+            "et": "seetõttu, selle pärast",
+            "hu": "ettől, ezért, emiatt, ebből eredően",
+            "nl": "daarom, om die reden",
+            "pl": "dlatego, więc, zatem",
+            "ru": "следовательно",
+            "sv": "därför, på grund av det"
+        }
+    ],
+    "pronunciation": [
+        "ta-fral",
+        2
+    ],
+    "type": "adv"
+}

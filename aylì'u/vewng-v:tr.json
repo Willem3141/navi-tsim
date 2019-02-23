@@ -1,0 +1,21 @@
+{
+    "na'vi": "vewng",
+    "translations": [
+        {
+            "de": "kümmern um, sorgen um, verantwortlich sein für",
+            "en": "look after, take care of, be responsible for",
+            "et": "hoolitsema, vastutama (millegi/kellegi eest)",
+            "hu": "vigyáz, gondoskodik, felelős",
+            "nl": "letten op, verantwoordelijk zijn voor",
+            "pl": "opiekować się",
+            "ru": "смотреть на, отвечать за",
+            "sv": "se efter, ta hand om, vara ansvarig för"
+        }
+    ],
+    "pronunciation": [
+        "vewng",
+        1
+    ],
+    "infixes": "v..ewng",
+    "type": "v:tr"
+}

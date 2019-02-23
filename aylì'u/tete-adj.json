@@ -1,0 +1,20 @@
+{
+    "na'vi": "tete",
+    "translations": [
+        {
+            "de": "stumpf (z.B. Klinge)",
+            "en": "dull (as a blade)",
+            "et": "nüri (näiteks noatera)",
+            "hu": "tompa, életlen",
+            "nl": "bot (als bij mes)",
+            "pl": "tępy (o ostrzu)",
+            "ru": "тупой (о лезвии)",
+            "sv": "slö (om egg, knivblad)"
+        }
+    ],
+    "pronunciation": [
+        "te-te",
+        1
+    ],
+    "type": "adj"
+}

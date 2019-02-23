@@ -1,0 +1,20 @@
+{
+    "na'vi": "utral",
+    "translations": [
+        {
+            "de": "Baum",
+            "en": "tree",
+            "et": "puu",
+            "hu": "fa",
+            "nl": "boom",
+            "pl": "drzewo",
+            "ru": "дерево",
+            "sv": "träd"
+        }
+    ],
+    "pronunciation": [
+        "ut-ral",
+        1
+    ],
+    "type": "n"
+}

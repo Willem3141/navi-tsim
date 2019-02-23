@@ -1,0 +1,20 @@
+{
+    "na'vi": "txep",
+    "translations": [
+        {
+            "de": "Feuer, Brand",
+            "en": "fire",
+            "et": "tuli",
+            "hu": "tűz",
+            "nl": "vuur",
+            "pl": "ogień",
+            "ru": "огонь, пламя",
+            "sv": "eld"
+        }
+    ],
+    "pronunciation": [
+        "txep",
+        1
+    ],
+    "type": "n"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "ngay",
+    "translations": [
+        {
+            "de": "wahr, echt, richtig, zutreffend",
+            "en": "true",
+            "et": "tõene",
+            "hu": "igaz",
+            "nl": "waar",
+            "pl": "prawdziwy",
+            "ru": "верный, правильный, правдивый",
+            "sv": "sann"
+        }
+    ],
+    "pronunciation": [
+        "ngay",
+        1
+    ],
+    "type": "adj"
+}

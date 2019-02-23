@@ -1,0 +1,19 @@
+{
+    "na'vi": "unyor",
+    "translations": [
+        {
+            "de": "süßlicharomatisch (blumig oder aromatisch holziger Geruch; kann sich auch auf ein Gewürz in der Na'vi Küche beziehen)",
+            "en": "sweetly aromatic (a flowery or aromatic woody sort of smell; may also refer to some spices used in Na'vi cooking)",
+            "et": "meeldivalt aromaatne (lillelõhn või mõnede vürtside lõhn)",
+            "hu": "édes illatú/aromájú (pl. virág ; utalhat a na’vik által használt fűszerre is)",
+            "nl": "zoet aromatisch (evt. ook Na'vi kruiden voor bij het koken)",
+            "pl": "o słotkim zapachu (rodzaj przyjamnego zapachu kwiatowego lub drewna; może odnosić się do niektórych przypraw używanych przez Na'vi)",
+            "ru": "сладко ароматный (для цветов или ароматного дерева или некоторых кухонных специй)"
+        }
+    ],
+    "pronunciation": [
+        "un-yor",
+        2
+    ],
+    "type": "adj"
+}

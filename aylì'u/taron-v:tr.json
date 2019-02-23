@@ -1,0 +1,21 @@
+{
+    "na'vi": "taron",
+    "translations": [
+        {
+            "de": "jagen",
+            "en": "hunt",
+            "et": "jahtima",
+            "hu": "vadászik",
+            "nl": "jagen",
+            "pl": "polować",
+            "ru": "охотиться",
+            "sv": "jaga"
+        }
+    ],
+    "pronunciation": [
+        "ta-ron",
+        1
+    ],
+    "infixes": "t.ar.on",
+    "type": "v:tr"
+}

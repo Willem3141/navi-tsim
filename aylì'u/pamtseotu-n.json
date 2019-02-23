@@ -1,0 +1,20 @@
+{
+    "na'vi": "pamtseotu",
+    "translations": [
+        {
+            "de": "Musiker",
+            "en": "musician",
+            "et": "muusik",
+            "hu": "zenész",
+            "nl": "muzikant",
+            "pl": "muzyk",
+            "ru": "музыкант",
+            "sv": "musiker"
+        }
+    ],
+    "pronunciation": [
+        "pam-tse-o-tu",
+        1
+    ],
+    "type": "n"
+}

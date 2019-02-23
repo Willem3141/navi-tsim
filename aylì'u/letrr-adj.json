@@ -1,0 +1,20 @@
+{
+    "na'vi": "letrr",
+    "translations": [
+        {
+            "de": "täglich",
+            "en": "daily",
+            "et": "(iga)päevane",
+            "hu": "mindennapi",
+            "nl": "dagelijks",
+            "pl": "dzienny",
+            "ru": "ежедневный, каждодневный",
+            "sv": "daglig"
+        }
+    ],
+    "pronunciation": [
+        "le-trr",
+        2
+    ],
+    "type": "adj"
+}

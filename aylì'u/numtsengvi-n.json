@@ -1,0 +1,20 @@
+{
+    "na'vi": "numtsengvi",
+    "translations": [
+        {
+            "de": "Klassenzimmer, Einteilung einer Schule",
+            "en": "classroom, division of a school",
+            "et": "klassiruum, kooli jaotus",
+            "hu": "osztályterem",
+            "nl": "klaslokaal, deel v.e. school",
+            "pl": "klasa, oddział szkoły",
+            "ru": "класс (часть школы)",
+            "sv": "klassrum, del av skola"
+        }
+    ],
+    "pronunciation": [
+        "num-tseng-vi",
+        1
+    ],
+    "type": "n"
+}

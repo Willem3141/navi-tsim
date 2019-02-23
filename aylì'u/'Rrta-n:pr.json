@@ -1,0 +1,20 @@
+{
+    "na'vi": "'Rrta",
+    "translations": [
+        {
+            "de": "Erde (Planet)",
+            "en": "Earth",
+            "et": "Maa",
+            "hu": "Föld",
+            "nl": "Aarde",
+            "pl": "Ziemia",
+            "ru": "Земля",
+            "sv": "Jorden"
+        }
+    ],
+    "pronunciation": [
+        "'Rr-ta",
+        1
+    ],
+    "type": "n:pr"
+}

@@ -1,0 +1,21 @@
+{
+    "na'vi": "zup",
+    "translations": [
+        {
+            "de": "fallen",
+            "en": "fall",
+            "et": "kukkuma",
+            "hu": "(le)esni",
+            "nl": "vallen",
+            "pl": "spaść",
+            "ru": "падать",
+            "sv": "falla"
+        }
+    ],
+    "pronunciation": [
+        "zup",
+        1
+    ],
+    "infixes": "z..up",
+    "type": "v:in"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "hu",
+    "translations": [
+        {
+            "de": "mit, zusammen mit, in Begleitung von",
+            "en": "with (accompaniment)",
+            "et": "koos (kellegagi)",
+            "hu": "val/vel (társhatározó)",
+            "nl": "met",
+            "pl": "z (o towarzyszeniu)",
+            "ru": "вместе с",
+            "sv": "med (ackompanjemang)"
+        }
+    ],
+    "pronunciation": [
+        "hu",
+        1
+    ],
+    "type": "adp"
+}

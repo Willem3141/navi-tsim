@@ -1,0 +1,20 @@
+{
+    "na'vi": "koaktan",
+    "translations": [
+        {
+            "de": "alter Mann",
+            "en": "old man",
+            "et": "vanamees",
+            "hu": "öregember (férfi)",
+            "nl": "oude man",
+            "pl": "staruszek",
+            "ru": "старик",
+            "sv": "gammal man"
+        }
+    ],
+    "pronunciation": [
+        "ko-ak-tan",
+        1
+    ],
+    "type": "n"
+}

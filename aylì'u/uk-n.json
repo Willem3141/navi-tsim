@@ -1,0 +1,20 @@
+{
+    "na'vi": "uk",
+    "translations": [
+        {
+            "de": "Schatten",
+            "en": "shadow",
+            "et": "vari",
+            "hu": "árny(ék)",
+            "nl": "schaduw",
+            "pl": "cień",
+            "ru": "тень",
+            "sv": "skugga"
+        }
+    ],
+    "pronunciation": [
+        "uk",
+        1
+    ],
+    "type": "n"
+}

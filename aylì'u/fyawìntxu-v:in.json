@@ -1,0 +1,21 @@
+{
+    "na'vi": "fyawìntxu",
+    "translations": [
+        {
+            "de": "anleiten, führen, leiten",
+            "en": "guide (with dative of thing guided)",
+            "et": "juhatama, teed näitama",
+            "hu": "vezet, utat mutat",
+            "nl": "leiden (met het geleidde in datief)",
+            "pl": "prowadzić, przewodzić (obiekt przewodzony, prowadzony w formie celownika)",
+            "ru": "вести, направлять",
+            "sv": "guide (med dativ av den guidade saken)"
+        }
+    ],
+    "pronunciation": [
+        "fya-wìn-txu",
+        3
+    ],
+    "infixes": "fyaw.ìntx.u",
+    "type": "v:in"
+}

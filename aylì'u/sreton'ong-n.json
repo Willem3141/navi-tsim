@@ -1,0 +1,20 @@
+{
+    "na'vi": "sreton'ong",
+    "translations": [
+        {
+            "de": "Zeit vor der Dämmerung",
+            "en": "dusk, evening before sunset",
+            "et": "aeg enne päikseloojangut",
+            "hu": "alkony, este naplemente előtt",
+            "nl": "avond voor zonsondergang",
+            "pl": "okres przed zachodem słońca",
+            "ru": "сумерки, вечер до заката",
+            "sv": "kväll före solnedgång"
+        }
+    ],
+    "pronunciation": [
+        "sre-ton-'ong",
+        3
+    ],
+    "type": "n"
+}

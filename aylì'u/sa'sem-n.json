@@ -1,0 +1,20 @@
+{
+    "na'vi": "sa'sem",
+    "translations": [
+        {
+            "de": "Eltern (Mutter und Vater); Elternteil",
+            "en": "parent or set of parents",
+            "et": "vanem või vanemad",
+            "hu": "szülő vagy szülőpár",
+            "nl": "ouder of ouders",
+            "pl": "rodzice",
+            "ru": "родители",
+            "sv": "förälder eller en upsättning föräldrar"
+        }
+    ],
+    "pronunciation": [
+        "sa'-sem",
+        1
+    ],
+    "type": "n"
+}

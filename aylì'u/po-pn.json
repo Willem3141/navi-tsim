@@ -1,0 +1,20 @@
+{
+    "na'vi": "po",
+    "translations": [
+        {
+            "de": "er, sie",
+            "en": "he, she",
+            "et": "tema",
+            "hu": "ő (hímnem/nőnem)",
+            "nl": "hij, zij",
+            "pl": "on, ona, ono",
+            "ru": "он, она",
+            "sv": "han/hon"
+        }
+    ],
+    "pronunciation": [
+        "po",
+        1
+    ],
+    "type": "pn"
+}

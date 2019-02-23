@@ -1,0 +1,21 @@
+{
+    "na'vi": "len",
+    "translations": [
+        {
+            "de": "passieren, geschehen, stattfinden, vorfallen",
+            "en": "happen, occur",
+            "et": "juhtuma, aset leidma",
+            "hu": "(meg)történik, bekövetkezik",
+            "nl": "gebeuren",
+            "pl": "stać się, zdarzyć się",
+            "ru": "происходить, случаться, иметь место",
+            "sv": "hända"
+        }
+    ],
+    "pronunciation": [
+        "len",
+        1
+    ],
+    "infixes": "l..en",
+    "type": "v:in"
+}

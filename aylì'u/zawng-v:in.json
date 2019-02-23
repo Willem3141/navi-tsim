@@ -1,0 +1,21 @@
+{
+    "na'vi": "zawng",
+    "translations": [
+        {
+            "de": "schreien, kreischen",
+            "en": "scream",
+            "et": "karjuma",
+            "hu": "sikolt",
+            "nl": "gil, schreeuw",
+            "pl": "krzyczeć",
+            "ru": "пронзительно кричать, вскрикивать",
+            "sv": "skrika"
+        }
+    ],
+    "pronunciation": [
+        "zawng",
+        1
+    ],
+    "infixes": "z..awng",
+    "type": "v:in"
+}

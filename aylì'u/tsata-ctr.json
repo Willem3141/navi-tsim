@@ -1,0 +1,20 @@
+{
+    "na'vi": "tsata",
+    "translations": [
+        {
+            "de": "das (Relativpronomen)",
+            "en": "that",
+            "et": "seda, mis",
+            "hu": "hogy (alárendelő tagmondat jelző)",
+            "nl": "dat",
+            "pl": "którego",
+            "ru": "что",
+            "sv": "det, den, som (klausul bisatsmarkör)"
+        }
+    ],
+    "pronunciation": [
+        "tsa-ta",
+        1
+    ],
+    "type": "ctr"
+}

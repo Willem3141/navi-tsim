@@ -1,0 +1,20 @@
+{
+    "na'vi": "tute",
+    "translations": [
+        {
+            "de": "Person, Mensch (Na'vi)",
+            "en": "person",
+            "et": "isik",
+            "hu": "személy",
+            "nl": "persoon",
+            "pl": "osoba",
+            "ru": "персона (на'ви или человек)",
+            "sv": "person"
+        }
+    ],
+    "pronunciation": [
+        "tu-te",
+        1
+    ],
+    "type": "n"
+}

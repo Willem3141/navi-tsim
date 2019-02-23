@@ -1,0 +1,20 @@
+{
+    "na'vi": "tìkangkemvi",
+    "translations": [
+        {
+            "de": "Projekt, Teil einer Arbeit",
+            "en": "project, piece of work",
+            "et": "projekt, töö osa",
+            "hu": "feladat, kijelölt/egységnyi munka",
+            "nl": "project, werkstuk",
+            "pl": "zlecenie, zadanie, projekt",
+            "ru": "проект",
+            "sv": "projekt, en bit av ett arbete"
+        }
+    ],
+    "pronunciation": [
+        "tì-kang-kem-vi",
+        2
+    ],
+    "type": "n"
+}

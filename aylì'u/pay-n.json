@@ -1,0 +1,20 @@
+{
+    "na'vi": "pay",
+    "translations": [
+        {
+            "de": "Wasser, Flüssigkeit",
+            "en": "water, liquid",
+            "et": "vesi, vedelik",
+            "hu": "víz, folyadék",
+            "nl": "water, vloeistof",
+            "pl": "woda, ciecz",
+            "ru": "вода",
+            "sv": "vatten, vätska"
+        }
+    ],
+    "pronunciation": [
+        "pay",
+        1
+    ],
+    "type": "n"
+}

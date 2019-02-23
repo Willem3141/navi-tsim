@@ -1,0 +1,20 @@
+{
+    "na'vi": "txärem",
+    "translations": [
+        {
+            "de": "Knochen",
+            "en": "bone",
+            "et": "luu, kont",
+            "hu": "csont",
+            "nl": "bot (gebeente)",
+            "pl": "kość",
+            "ru": "кость",
+            "sv": "ben (som skelett)"
+        }
+    ],
+    "pronunciation": [
+        "txä-rem",
+        1
+    ],
+    "type": "n"
+}

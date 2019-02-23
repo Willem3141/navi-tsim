@@ -1,0 +1,20 @@
+{
+    "na'vi": "laro",
+    "translations": [
+        {
+            "de": "sauber",
+            "en": "clean",
+            "et": "puhas",
+            "hu": "tiszta",
+            "nl": "schoon",
+            "pl": "czysty",
+            "ru": "чистый",
+            "sv": "ren"
+        }
+    ],
+    "pronunciation": [
+        "la-ro",
+        1
+    ],
+    "type": "adj"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "riti",
+    "translations": [
+        {
+            "de": "Stachelfledermaus, scorpiobattus volansii",
+            "en": "stingbat",
+            "et": "Nõelkull (stingbat)",
+            "hu": "Tüskés/Fullánkos denevér (pandorai állatfaj)",
+            "nl": "steekvleermuis",
+            "pl": "żądłonietoperz",
+            "ru": "стингбат (мелкий летающий хищник с жалом на хвосте)",
+            "sv": "stingbat (fladdermusdjur som lever på Pandora)"
+        }
+    ],
+    "pronunciation": [
+        "ri-ti",
+        1
+    ],
+    "type": "n"
+}

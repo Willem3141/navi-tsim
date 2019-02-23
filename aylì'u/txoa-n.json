@@ -1,0 +1,20 @@
+{
+    "na'vi": "txoa",
+    "translations": [
+        {
+            "de": "Vergebung, Verzeihung",
+            "en": "forgiveness",
+            "et": "andestus",
+            "hu": "megbocsájtás",
+            "nl": "vergiffenis",
+            "pl": "wybaczenie, przebaczenie",
+            "ru": "прощение",
+            "sv": "förlåtelse"
+        }
+    ],
+    "pronunciation": [
+        "txo-a",
+        1
+    ],
+    "type": "n"
+}

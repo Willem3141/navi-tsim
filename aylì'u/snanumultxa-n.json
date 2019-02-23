@@ -1,0 +1,19 @@
+{
+    "na'vi": "snanumultxa",
+    "translations": [
+        {
+            "de": "Kurs, Lehrveranstaltung",
+            "en": "course (as a collection of classes)",
+            "et": "tund (koolis), loeng",
+            "hu": "tanfolyam, kurzus (tanórák sorozata)",
+            "nl": "cursus (serie lessen)",
+            "pl": "kurs (zbiór klas)",
+            "ru": "курс (совокупность классов)"
+        }
+    ],
+    "pronunciation": [
+        "sna-nu-mul-txa",
+        4
+    ],
+    "type": "n"
+}

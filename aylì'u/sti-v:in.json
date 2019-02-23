@@ -1,0 +1,21 @@
+{
+    "na'vi": "sti",
+    "translations": [
+        {
+            "de": "ärgern (sich), verärgert sein, wütend sein",
+            "en": "anger (intransitive), be angry",
+            "et": "vihastuma (sihitu), vihane olema",
+            "hu": "dühöng, bosszankodik",
+            "nl": "ergeren (onovergangelijk), kwaad zijn",
+            "pl": "gniewać się",
+            "ru": "быть рассерженным, сердиться (непереходная форма)",
+            "sv": "arg (intransitivt), vara arg"
+        }
+    ],
+    "pronunciation": [
+        "sti",
+        1
+    ],
+    "infixes": "st..i",
+    "type": "v:in"
+}

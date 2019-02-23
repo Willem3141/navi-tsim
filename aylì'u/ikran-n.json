@@ -1,0 +1,20 @@
+{
+    "na'vi": "ikran",
+    "translations": [
+        {
+            "de": "Banshee",
+            "en": "banshee",
+            "et": "Mardus, Ikran (banshee)",
+            "hu": "ikran/sikoll (na'vik repülő hátasa) (pandorai állatfaj)",
+            "nl": "harpij",
+            "pl": "zmora",
+            "ru": "горный банши",
+            "sv": "vålnad"
+        }
+    ],
+    "pronunciation": [
+        "ik-ran",
+        1
+    ],
+    "type": "n"
+}

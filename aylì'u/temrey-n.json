@@ -1,0 +1,20 @@
+{
+    "na'vi": "temrey",
+    "translations": [
+        {
+            "de": "Überleben",
+            "en": "survival",
+            "et": "ellujäämine",
+            "hu": "túlélés",
+            "nl": "overleven",
+            "pl": "przetrwanie",
+            "ru": "выживание",
+            "sv": "överlevnad"
+        }
+    ],
+    "pronunciation": [
+        "tem-rey",
+        2
+    ],
+    "type": "n"
+}

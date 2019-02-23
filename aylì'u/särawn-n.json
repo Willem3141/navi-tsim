@@ -1,0 +1,19 @@
+{
+    "na'vi": "särawn",
+    "translations": [
+        {
+            "de": "Ersatz, Ausgetauschtes",
+            "en": "replacement, substitute, something that replaces something else",
+            "et": "asi, mis asendati või vahetati",
+            "hu": "csere, helyettes, valami ami helyettesít valami mást",
+            "nl": "vervanging, substituut, iets dat iets anders vervangt",
+            "pl": "część zamienna, substytut",
+            "ru": "замена"
+        }
+    ],
+    "pronunciation": [
+        "sä-rawn",
+        2
+    ],
+    "type": "n"
+}

@@ -1,0 +1,21 @@
+{
+    "na'vi": "nìn",
+    "translations": [
+        {
+            "de": "schauen, hinsehen, anschauen",
+            "en": "look at",
+            "et": "vaatama (kuhugile)",
+            "hu": "ránéz, megpillant",
+            "nl": "kijken, kijken naar",
+            "pl": "patrzeć na, spoglądać",
+            "ru": "взглянуть на чтолибо, посмотреть кудалибо",
+            "sv": "titta på"
+        }
+    ],
+    "pronunciation": [
+        "nìn",
+        1
+    ],
+    "infixes": "n..ìn",
+    "type": "v:tr"
+}

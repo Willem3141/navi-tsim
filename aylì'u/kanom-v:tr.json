@@ -1,0 +1,20 @@
+{
+    "na'vi": "kanom",
+    "translations": [
+        {
+            "de": "erhalten, bekommen",
+            "en": "acquire, get",
+            "et": "saama, omandama",
+            "hu": "megszerez, kap",
+            "nl": "krijgen, verschaffen",
+            "pl": "nabywać, zdobywać, nabierać",
+            "ru": "приобрести"
+        }
+    ],
+    "pronunciation": [
+        "ka-nom",
+        1
+    ],
+    "infixes": "k.an.om",
+    "type": "v:tr"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "hufwa",
+    "translations": [
+        {
+            "de": "obwohl",
+            "en": "although",
+            "et": "kuigi",
+            "hu": "bár, ugyanakkor, ámbátor",
+            "nl": "alhoewel",
+            "pl": "chociaż, aczkolwiek, pomimo",
+            "ru": "хотя, несмотря на то, что",
+            "sv": "fastän, även"
+        }
+    ],
+    "pronunciation": [
+        "hu-fwa",
+        2
+    ],
+    "type": "conj"
+}

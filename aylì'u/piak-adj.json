@@ -1,0 +1,20 @@
+{
+    "na'vi": "piak",
+    "translations": [
+        {
+            "de": "offen, geöffnet; wolkenlos",
+            "en": "open, clear (for cloudless skies)",
+            "et": "lahtine; selge (ilm)",
+            "hu": "nyitott, tiszta (pl.:felhőtlen ég)",
+            "nl": "open, helder (voor wolkenloze hemel)",
+            "pl": "otwarty, bezchmurny (o niebie)",
+            "ru": "открытый",
+            "sv": "öppen, klar (för molnfri himmel)"
+        }
+    ],
+    "pronunciation": [
+        "pi-ak",
+        2
+    ],
+    "type": "adj"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "fìtxon",
+    "translations": [
+        {
+            "de": "heute Nacht",
+            "en": "tonight",
+            "et": "täna õhtul, tänane õhtu",
+            "hu": "ma este",
+            "nl": "vannacht",
+            "pl": "dziś w nocy, dzisiejsza noc",
+            "ru": "сегодня вечером",
+            "sv": "ikväll"
+        }
+    ],
+    "pronunciation": [
+        "fì-txon",
+        2
+    ],
+    "type": "n"
+}

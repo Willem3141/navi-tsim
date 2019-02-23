@@ -1,0 +1,20 @@
+{
+    "na'vi": "ikranay",
+    "translations": [
+        {
+            "de": "Waldbanshee",
+            "en": "forest banshee",
+            "et": "metsmardus (forest banshee)",
+            "hu": "erdei ikran / sikoll",
+            "nl": "bosharpij",
+            "pl": "zmora leśna",
+            "ru": "лесной банши",
+            "sv": "skogsvålnad"
+        }
+    ],
+    "pronunciation": [
+        "ik-ra-nay",
+        3
+    ],
+    "type": "n"
+}

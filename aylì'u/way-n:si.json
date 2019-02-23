@@ -1,0 +1,20 @@
+{
+    "na'vi": "way",
+    "translations": [
+        {
+            "de": "singen",
+            "en": "sing",
+            "et": "laulma",
+            "hu": "dalol",
+            "nl": "zingen",
+            "pl": "śpiewać",
+            "ru": "петь ",
+            "sv": "sjunga"
+        }
+    ],
+    "pronunciation": [
+        "way",
+        1
+    ],
+    "type": "n:si"
+}

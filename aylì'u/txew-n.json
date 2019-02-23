@@ -1,0 +1,19 @@
+{
+    "na'vi": "txew",
+    "translations": [
+        {
+            "de": "Rand, Kante, Grenze, Ende, Limit",
+            "en": "edge, brink, limit, border, end",
+            "et": "äär, piir",
+            "hu": "határ, széle vminek, szegély, vég",
+            "nl": "hoek, rand, limiet, grens, einde",
+            "pl": "krawędź, brzeg, granic, koniec",
+            "ru": "край"
+        }
+    ],
+    "pronunciation": [
+        "txew",
+        1
+    ],
+    "type": "n"
+}

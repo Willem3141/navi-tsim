@@ -1,0 +1,20 @@
+{
+    "na'vi": "tsulfä",
+    "translations": [
+        {
+            "de": "meistern",
+            "en": "master",
+            "et": "omandama (mingit oskust)",
+            "hu": "alaposan elsajátít",
+            "nl": "zich meester maken",
+            "pl": "opanować, wyćwiczyć",
+            "ru": "управлять",
+            "sv": "bemästra"
+        }
+    ],
+    "pronunciation": [
+        "tsul-fä",
+        2
+    ],
+    "type": "n:si"
+}

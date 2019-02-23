@@ -1,0 +1,21 @@
+{
+    "na'vi": "yän",
+    "translations": [
+        {
+            "de": "festmachen, anbringen, festbinden, schnüren",
+            "en": "fasten, tie down",
+            "et": "kinni siduma",
+            "hu": "odaerősít, leköt(öz)",
+            "nl": "vastmaken, vastbinden",
+            "pl": "zamykać, zapinać, przywiązywać",
+            "ru": "привязывать, связывать, спутывать, пристегивать",
+            "sv": "sätta fast, binda"
+        }
+    ],
+    "pronunciation": [
+        "yän",
+        1
+    ],
+    "infixes": "y..än",
+    "type": "v:tr"
+}

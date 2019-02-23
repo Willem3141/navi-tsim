@@ -1,0 +1,20 @@
+{
+    "na'vi": "srake",
+    "translations": [
+        {
+            "de": "kennzeichnet Ja oder Nein Fragen",
+            "en": "inter. marker for yes or no questions",
+            "et": "märgib kas...? küsimusi",
+            "hu": "eldöntendő kérdés jele",
+            "nl": "vvn., markeerder voor ja/nee vragen",
+            "pl": "pytajnik tak/nie",
+            "ru": "маркер вопросов, требующих ответа «да» или «нет»",
+            "sv": "interj. markör för ja och nejfrågor"
+        }
+    ],
+    "pronunciation": [
+        "sra-ke",
+        1
+    ],
+    "type": "part"
+}

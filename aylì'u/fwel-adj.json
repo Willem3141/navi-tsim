@@ -1,0 +1,20 @@
+{
+    "na'vi": "fwel",
+    "translations": [
+        {
+            "de": "kaputt, zerbrochen",
+            "en": "broken",
+            "et": "katkine",
+            "hu": "törött",
+            "nl": "kapot",
+            "pl": "złamany, rozbity",
+            "ru": "сломанный",
+            "sv": "trasig"
+        }
+    ],
+    "pronunciation": [
+        "fwel",
+        1
+    ],
+    "type": "adj"
+}

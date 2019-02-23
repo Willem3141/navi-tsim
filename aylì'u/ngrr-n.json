@@ -1,0 +1,20 @@
+{
+    "na'vi": "ngrr",
+    "translations": [
+        {
+            "de": "Wurzel",
+            "en": "root",
+            "et": "juur",
+            "hu": "gyökér",
+            "nl": "wortel",
+            "pl": "korzeń",
+            "ru": "корень",
+            "sv": "rot"
+        }
+    ],
+    "pronunciation": [
+        "ngrr",
+        1
+    ],
+    "type": "n"
+}

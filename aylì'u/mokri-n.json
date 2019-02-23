@@ -1,0 +1,20 @@
+{
+    "na'vi": "mokri",
+    "translations": [
+        {
+            "de": "Stimme",
+            "en": "voice",
+            "et": "hääl",
+            "hu": "beszédhang, énekhang",
+            "nl": "stem",
+            "pl": "głos",
+            "ru": "голос",
+            "sv": "röst"
+        }
+    ],
+    "pronunciation": [
+        "mok-ri",
+        1
+    ],
+    "type": "n"
+}

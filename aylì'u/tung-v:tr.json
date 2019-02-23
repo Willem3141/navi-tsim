@@ -1,0 +1,21 @@
+{
+    "na'vi": "tung",
+    "translations": [
+        {
+            "de": "erlauben, gestatten",
+            "en": "allow",
+            "et": "lubama, võimaldama",
+            "hu": "enged",
+            "nl": "toestaan",
+            "pl": "pozwalać",
+            "ru": "позволять, разрешать",
+            "sv": "tillåta"
+        }
+    ],
+    "pronunciation": [
+        "tung",
+        1
+    ],
+    "infixes": "t..ung",
+    "type": "v:tr"
+}

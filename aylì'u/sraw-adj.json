@@ -1,0 +1,20 @@
+{
+    "na'vi": "sraw",
+    "translations": [
+        {
+            "de": "schmerzhaft",
+            "en": "painful",
+            "et": "valus",
+            "hu": "fájdalmas",
+            "nl": "pijnlijk",
+            "pl": "bolesny",
+            "ru": "болезненный, причиняющий боль",
+            "sv": "smärtsam"
+        }
+    ],
+    "pronunciation": [
+        "sraw",
+        1
+    ],
+    "type": "adj"
+}

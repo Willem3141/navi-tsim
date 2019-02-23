@@ -1,0 +1,21 @@
+{
+    "na'vi": "wäte",
+    "translations": [
+        {
+            "de": "bestreiten, anfechten, streiten",
+            "en": "argue, dispute",
+            "et": "vaidlema",
+            "hu": "vitatkozik, veszekszik",
+            "nl": "discussieren, redetwisten",
+            "pl": "kłócić się, spierać się, kwestionować",
+            "ru": "спорить",
+            "sv": "gräla, diskutera"
+        }
+    ],
+    "pronunciation": [
+        "wä-te",
+        2
+    ],
+    "infixes": "wät..e",
+    "type": "v:tr"
+}

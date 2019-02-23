@@ -1,0 +1,21 @@
+{
+    "na'vi": "stxenutìng",
+    "translations": [
+        {
+            "de": "anbieten",
+            "en": "offer",
+            "et": "pakkuma",
+            "hu": "ajánl",
+            "nl": "aanbieden",
+            "pl": "proponować, oferować",
+            "ru": "предлагать",
+            "sv": "erbjuda, offra"
+        }
+    ],
+    "pronunciation": [
+        "stxe-nu-tìng",
+        1
+    ],
+    "infixes": "stxenut..ìng",
+    "type": "v:tr"
+}

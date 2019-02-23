@@ -1,0 +1,20 @@
+{
+    "na'vi": "kxamtrr",
+    "translations": [
+        {
+            "de": "Mittag, Mitte des Tages",
+            "en": "midday, noon",
+            "et": "keskpäev, lõuna",
+            "hu": "dél (napszak)",
+            "nl": "middag (12 uur 's middags)",
+            "pl": "południe",
+            "ru": "полдень",
+            "sv": "middagstid, middag, tolvslaget"
+        }
+    ],
+    "pronunciation": [
+        "kxam-trr",
+        1
+    ],
+    "type": "n"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "teyr",
+    "translations": [
+        {
+            "de": "weiß (Farbe)",
+            "en": "white",
+            "et": "valge (värv)",
+            "hu": "fehér",
+            "nl": "wit",
+            "pl": "biały",
+            "ru": "белый",
+            "sv": "vit"
+        }
+    ],
+    "pronunciation": [
+        "teyr",
+        1
+    ],
+    "type": "adj"
+}

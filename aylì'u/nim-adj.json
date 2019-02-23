@@ -1,0 +1,20 @@
+{
+    "na'vi": "nim",
+    "translations": [
+        {
+            "de": "scheu, schüchtern",
+            "en": "timid, shy",
+            "et": "häbelik, arg",
+            "hu": "szégyenlős, félénk",
+            "nl": "timide, schuchter",
+            "pl": "nieśmiały, wstydliwy",
+            "ru": "пугливый",
+            "sv": "blyg"
+        }
+    ],
+    "pronunciation": [
+        "nim",
+        1
+    ],
+    "type": "adj"
+}

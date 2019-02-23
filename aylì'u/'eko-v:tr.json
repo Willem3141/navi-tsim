@@ -1,0 +1,21 @@
+{
+    "na'vi": "'eko",
+    "translations": [
+        {
+            "de": "attackieren, angreifen",
+            "en": "attack",
+            "et": "ründama",
+            "hu": "támad",
+            "nl": "aanvallen",
+            "pl": "atakować",
+            "ru": "нападать, атаковать",
+            "sv": "attackera, anfalla"
+        }
+    ],
+    "pronunciation": [
+        "'e-ko",
+        1
+    ],
+    "infixes": "'.ek.o",
+    "type": "v:tr"
+}

@@ -1,0 +1,21 @@
+{
+    "na'vi": "fpe'",
+    "translations": [
+        {
+            "de": "senden, schicken",
+            "en": "send",
+            "et": "saatma",
+            "hu": "(el)küld",
+            "nl": "zenden, sturen",
+            "pl": "wysłać",
+            "ru": "отправлять, посылать",
+            "sv": "skicka"
+        }
+    ],
+    "pronunciation": [
+        "fpe'",
+        1
+    ],
+    "infixes": "fp..e'",
+    "type": "v:tr"
+}

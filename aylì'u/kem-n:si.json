@@ -1,0 +1,20 @@
+{
+    "na'vi": "kem",
+    "translations": [
+        {
+            "de": "tun, machen",
+            "en": "do",
+            "et": "tegema",
+            "hu": "csinál",
+            "nl": "doen",
+            "pl": "robić",
+            "ru": "делать",
+            "sv": "göra"
+        }
+    ],
+    "pronunciation": [
+        "kem",
+        1
+    ],
+    "type": "n:si"
+}

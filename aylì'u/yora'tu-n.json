@@ -1,0 +1,20 @@
+{
+    "na'vi": "yora'tu",
+    "translations": [
+        {
+            "de": "Gewinner",
+            "en": "winner",
+            "et": "võitja",
+            "hu": "győztes",
+            "nl": "winnaar",
+            "pl": "zwycięzca",
+            "ru": "победитель",
+            "sv": "vinnare"
+        }
+    ],
+    "pronunciation": [
+        "yo-ra'-tu",
+        2
+    ],
+    "type": "n"
+}

@@ -1,0 +1,16 @@
+{
+    "na'vi": "eltu lefngap",
+    "translations": [
+        {
+            "de": "Computer",
+            "en": "computer",
+            "et": "arvuti",
+            "hu": "számítógép ('fém agy')",
+            "nl": "computer",
+            "pl": "komputer",
+            "ru": "компьютер",
+            "sv": "dator"
+        }
+    ],
+    "type": "n"
+}

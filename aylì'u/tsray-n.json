@@ -1,0 +1,20 @@
+{
+    "na'vi": "tsray",
+    "translations": [
+        {
+            "de": "Dorf",
+            "en": "village",
+            "et": "küla",
+            "hu": "falu",
+            "nl": "dorp",
+            "pl": "osada",
+            "ru": "деревня",
+            "sv": "by"
+        }
+    ],
+    "pronunciation": [
+        "tsray",
+        1
+    ],
+    "type": "n"
+}

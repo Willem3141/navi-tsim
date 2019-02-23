@@ -1,0 +1,20 @@
+{
+    "na'vi": "ku'up",
+    "translations": [
+        {
+            "de": "schwer (Gewicht)",
+            "en": "heavy (physical weight)",
+            "et": "raske (füüsiline mass)",
+            "hu": "nehéz, súlyos (fizikai értelemben)",
+            "nl": "zwaar (fysiek gewicht)",
+            "pl": "ciężki (fizycznie)",
+            "ru": "тяжелый (физический вес)",
+            "sv": "tung (fysisk vikt)"
+        }
+    ],
+    "pronunciation": [
+        "ku-'up",
+        1
+    ],
+    "type": "adj"
+}

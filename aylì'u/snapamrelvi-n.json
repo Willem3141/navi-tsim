@@ -1,0 +1,19 @@
+{
+    "na'vi": "snapamrelvi",
+    "translations": [
+        {
+            "de": "Alphabet",
+            "en": "alphabet",
+            "et": "tähestik",
+            "hu": "abc",
+            "nl": "alfabet",
+            "pl": "alfabet",
+            "ru": "алфавит"
+        }
+    ],
+    "pronunciation": [
+        "sna-pam-rel-vi",
+        3
+    ],
+    "type": "n"
+}

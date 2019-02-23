@@ -1,0 +1,17 @@
+{
+    "na'vi": "sum",
+    "translations": [
+        {
+            "de": "Muschel, Meeresmuschel",
+            "en": "shell (from the ocean)",
+            "et": "teokarp",
+            "hu": "csigaház, kagylóhéj (tengeri)",
+            "nl": "schelp"
+        }
+    ],
+    "pronunciation": [
+        "sum",
+        1
+    ],
+    "type": "n"
+}

@@ -1,0 +1,21 @@
+{
+    "na'vi": "starsìm",
+    "translations": [
+        {
+            "de": "einsammeln, sammeln, zusammenklauben",
+            "en": "gather, collect",
+            "et": "korjama, koguma",
+            "hu": "összeszed, gyűjt",
+            "nl": "verzamelen, vergaren",
+            "pl": "zbierać",
+            "ru": "собирать (урожай, дикорастущие растения)",
+            "sv": "samla, samla ihop"
+        }
+    ],
+    "pronunciation": [
+        "star-sìm",
+        1
+    ],
+    "infixes": "st.ars.ìm",
+    "type": "v:tr"
+}

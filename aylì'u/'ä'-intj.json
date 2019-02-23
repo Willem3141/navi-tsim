@@ -1,0 +1,20 @@
+{
+    "na'vi": "'ä'",
+    "translations": [
+        {
+            "de": "huch! hoppla! upps!",
+            "en": "oops!",
+            "et": "Ups!",
+            "hu": "Hoppá!",
+            "nl": "oeps!",
+            "pl": "ojej",
+            "ru": "оп!",
+            "sv": "oj!, ups!"
+        }
+    ],
+    "pronunciation": [
+        "'ä'",
+        1
+    ],
+    "type": "intj"
+}

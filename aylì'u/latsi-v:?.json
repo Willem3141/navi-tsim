@@ -1,0 +1,21 @@
+{
+    "na'vi": "latsi",
+    "translations": [
+        {
+            "de": "mit jemandem mithalten, mit jemandem Schritt halten",
+            "en": "keep up with someone",
+            "et": "sammu pidama (kellegagi)",
+            "hu": "lépést tart",
+            "nl": "(iemand) bijhouden",
+            "pl": "pozostawać w kontakcie",
+            "ru": "идти вместе с кемлибо, не отставать",
+            "sv": "hänga med någon, inte halka efter"
+        }
+    ],
+    "pronunciation": [
+        "la-tsi",
+        2
+    ],
+    "infixes": "l.ats.i",
+    "type": "v:?"
+}

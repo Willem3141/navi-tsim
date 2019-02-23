@@ -1,0 +1,20 @@
+{
+    "na'vi": "kxamtxomaw",
+    "translations": [
+        {
+            "de": "nach Mitternacht",
+            "en": "after midnight",
+            "et": "aeg pärast keskööd",
+            "hu": "éjfél után",
+            "nl": "na middernacht",
+            "pl": "po północy",
+            "ru": "после полуночи",
+            "sv": "efter midnatt"
+        }
+    ],
+    "pronunciation": [
+        "kxam-txo-maw",
+        1
+    ],
+    "type": "n"
+}

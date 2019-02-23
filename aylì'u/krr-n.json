@@ -1,0 +1,20 @@
+{
+    "na'vi": "krr",
+    "translations": [
+        {
+            "de": "Zeit",
+            "en": "time",
+            "et": "aeg",
+            "hu": "idő",
+            "nl": "tijd",
+            "pl": "czas",
+            "ru": "время",
+            "sv": "tid"
+        }
+    ],
+    "pronunciation": [
+        "krr",
+        1
+    ],
+    "type": "n"
+}

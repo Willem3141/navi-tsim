@@ -1,0 +1,20 @@
+{
+    "na'vi": "kxeyey",
+    "translations": [
+        {
+            "de": "Fehler, Irrtum",
+            "en": "error, mistake",
+            "et": "viga, eksitus",
+            "hu": "hiba",
+            "nl": "fout",
+            "pl": "błąd, pomyłka",
+            "ru": "ошибка",
+            "sv": "fel, misstag"
+        }
+    ],
+    "pronunciation": [
+        "kxe-yey",
+        1
+    ],
+    "type": "n"
+}

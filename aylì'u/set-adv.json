@@ -1,0 +1,20 @@
+{
+    "na'vi": "set",
+    "translations": [
+        {
+            "de": "jetzt, nun",
+            "en": "now",
+            "et": "nüüd, kohe",
+            "hu": "most",
+            "nl": "nu",
+            "pl": "teraz",
+            "ru": "сейчас",
+            "sv": "nu"
+        }
+    ],
+    "pronunciation": [
+        "set",
+        1
+    ],
+    "type": "adv"
+}

@@ -1,0 +1,19 @@
+{
+    "na'vi": "sosul",
+    "translations": [
+        {
+            "de": "angenehmer Geruch von nahem Gewässer, Regen, feuchter Vegetation",
+            "en": "pleasant smell of nearby running water, rain, moist vegetation",
+            "et": "voolava vee, vihma, niiskuse lõhn",
+            "hu": "közelben folyó víz, eső vagy nedves növényzet kellemes illatára emlékeztető",
+            "nl": "plezierige geur van nabij stromend water, regen, natte vegetatie",
+            "pl": "aromat wody bieżącej, deszczu, wilkotnej rośliności",
+            "ru": "запах водопада, влажных растений"
+        }
+    ],
+    "pronunciation": [
+        "so-sul",
+        2
+    ],
+    "type": "adj"
+}

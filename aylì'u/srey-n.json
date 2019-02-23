@@ -1,0 +1,18 @@
+{
+    "na'vi": "srey",
+    "translations": [
+        {
+            "de": "Version, Fassung, Variante",
+            "en": "version",
+            "et": "variant, versioon",
+            "hu": "változat",
+            "nl": "versie",
+            "ru": "весия"
+        }
+    ],
+    "pronunciation": [
+        "srey",
+        1
+    ],
+    "type": "n"
+}

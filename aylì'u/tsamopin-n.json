@@ -1,0 +1,20 @@
+{
+    "na'vi": "tsamopin",
+    "translations": [
+        {
+            "de": "Kriegsbemalung",
+            "en": "warpaint",
+            "et": "sõjamaskeering",
+            "hu": "harci festék/festés",
+            "nl": "oorlogsbeschildering",
+            "pl": "barwy wojenne",
+            "ru": "боевая раскраска",
+            "sv": "krigsfärg"
+        }
+    ],
+    "pronunciation": [
+        "tsa-mo-pin",
+        1
+    ],
+    "type": "n"
+}

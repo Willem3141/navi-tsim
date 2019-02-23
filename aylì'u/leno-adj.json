@@ -1,0 +1,20 @@
+{
+    "na'vi": "leno",
+    "translations": [
+        {
+            "de": "genau, detailorientiert, gründlich (für Menschen)",
+            "en": "thorough, detailorientated (of a person)",
+            "et": "täpne, põhjalik (inimeste kohta)",
+            "hu": "alapos, részletességre törekvő (személy)",
+            "nl": "diepgaand, gedetailleerd (van een persoon)",
+            "pl": "skrupulatny, skupiony na szczegółach (o osobie)",
+            "ru": "вдумчивый",
+            "sv": "grundlig, fokuserad på detaljer (om en person)"
+        }
+    ],
+    "pronunciation": [
+        "le-no",
+        2
+    ],
+    "type": "adj"
+}

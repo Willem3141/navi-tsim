@@ -1,0 +1,20 @@
+{
+    "na'vi": "sok",
+    "translations": [
+        {
+            "de": "kürzlich, jüngst, in letzer Zeit",
+            "en": "recent",
+            "et": "hiljutine",
+            "hu": "friss, új keletű",
+            "nl": "recent",
+            "pl": "niedawny, świeży, ostatni",
+            "ru": "недавний",
+            "sv": "nylig, senaste"
+        }
+    ],
+    "pronunciation": [
+        "sok",
+        1
+    ],
+    "type": "adj"
+}

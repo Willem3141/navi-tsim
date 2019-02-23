@@ -1,0 +1,21 @@
+{
+    "na'vi": "eyk",
+    "translations": [
+        {
+            "de": "führen, anführen, leiten",
+            "en": "lead",
+            "et": "juhtima, valitsema",
+            "hu": "vezet ",
+            "nl": "leiden",
+            "pl": "przewodzić, prowadzić",
+            "ru": "вести, быть проводником, руководить",
+            "sv": "leda"
+        }
+    ],
+    "pronunciation": [
+        "eyk",
+        1
+    ],
+    "infixes": "..eyk",
+    "type": "v:tr"
+}

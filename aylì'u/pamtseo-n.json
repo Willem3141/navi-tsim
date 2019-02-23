@@ -1,0 +1,20 @@
+{
+    "na'vi": "pamtseo",
+    "translations": [
+        {
+            "de": "Musik",
+            "en": "music",
+            "et": "muusika",
+            "hu": "zene",
+            "nl": "muziek",
+            "pl": "muzyka",
+            "ru": "музыка",
+            "sv": "musik"
+        }
+    ],
+    "pronunciation": [
+        "pam-tse-o",
+        1
+    ],
+    "type": "n"
+}

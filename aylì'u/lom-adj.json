@@ -1,0 +1,20 @@
+{
+    "na'vi": "lom",
+    "translations": [
+        {
+            "de": "vermisst, fehlend (wie eine abwesende Person, nach der man sich sehnt)",
+            "en": "missing, missed (as an absent person who is longed for)",
+            "et": "igatsetud (kaua ära olnud inimese kohta)",
+            "hu": "hiányzó, hiányolt (mint egy távollévő ember, akinek vágynak a jelenlétére)",
+            "nl": "missend, vermist (als een nietaanwezig iemand waarnaar verlangd wordt)",
+            "pl": "utęskniony (osoba za którą się tęskni)",
+            "ru": "отсутствующий",
+            "sv": "saknad (för en frånvarande person)"
+        }
+    ],
+    "pronunciation": [
+        "lom",
+        1
+    ],
+    "type": "adj"
+}

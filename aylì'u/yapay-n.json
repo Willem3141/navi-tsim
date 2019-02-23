@@ -1,0 +1,20 @@
+{
+    "na'vi": "yapay",
+    "translations": [
+        {
+            "de": "Nebel, Dunst, (Wasser)Dampf",
+            "en": "mist, fog, steam",
+            "et": "udu, aur",
+            "hu": "pára, köd, gőz",
+            "nl": "mist, stoom",
+            "pl": "mgła, para",
+            "ru": "туман, пар",
+            "sv": "dimma, imma"
+        }
+    ],
+    "pronunciation": [
+        "ya-pay",
+        1
+    ],
+    "type": "n"
+}

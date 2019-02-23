@@ -1,0 +1,20 @@
+{
+    "na'vi": "kinä",
+    "translations": [
+        {
+            "de": "sieben",
+            "en": "seven",
+            "et": "seitse",
+            "hu": "hét, 7",
+            "nl": "zeven",
+            "pl": "siedem",
+            "ru": "семь",
+            "sv": "sju"
+        }
+    ],
+    "pronunciation": [
+        "ki-nä",
+        1
+    ],
+    "type": "num"
+}

@@ -1,0 +1,16 @@
+{
+    "na'vi": "aho",
+    "translations": [
+        {
+            "en": "pray",
+            "et": "palvetama",
+            "hu": "imádkozik",
+            "nl": "bidden"
+        }
+    ],
+    "pronunciation": [
+        "a-ho",
+        2
+    ],
+    "type": "v:in"
+}

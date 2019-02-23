@@ -1,0 +1,21 @@
+{
+    "na'vi": "sto",
+    "translations": [
+        {
+            "de": "weigern (etwas zu tun), verweigern, ablehnen",
+            "en": "refuse (to do something)",
+            "et": "keelduma (midagi tegema)",
+            "hu": "megtagad, visszautasít, nem hajlandó valamire",
+            "nl": "weigeren (iets te doen)",
+            "pl": "odmawiać (wykonania czegoś)",
+            "ru": "отказываться (делать чтолибо)",
+            "sv": "vägra (att göra något)"
+        }
+    ],
+    "pronunciation": [
+        "sto",
+        1
+    ],
+    "infixes": "st..o",
+    "type": "v:tr"
+}

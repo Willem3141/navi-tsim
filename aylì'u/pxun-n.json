@@ -1,0 +1,20 @@
+{
+    "na'vi": "pxun",
+    "translations": [
+        {
+            "de": "Arm",
+            "en": "arm",
+            "et": "käsi, käsivars",
+            "hu": "kar",
+            "nl": "arm",
+            "pl": "ramię",
+            "ru": "рука",
+            "sv": "arm"
+        }
+    ],
+    "pronunciation": [
+        "pxun",
+        1
+    ],
+    "type": "n"
+}

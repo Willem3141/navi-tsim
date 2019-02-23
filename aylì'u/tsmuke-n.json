@@ -1,0 +1,20 @@
+{
+    "na'vi": "tsmuke",
+    "translations": [
+        {
+            "de": "Schwester",
+            "en": "sister",
+            "et": "õde",
+            "hu": "lány testvér",
+            "nl": "zus",
+            "pl": "siostra",
+            "ru": "сестра",
+            "sv": "syster"
+        }
+    ],
+    "pronunciation": [
+        "tsmu-ke",
+        1
+    ],
+    "type": "n"
+}

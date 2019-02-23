@@ -1,0 +1,20 @@
+{
+    "na'vi": "toktor",
+    "translations": [
+        {
+            "de": "Doktor",
+            "en": "doctor",
+            "et": "arst",
+            "hu": "orvos",
+            "nl": "dokter",
+            "pl": "doktor",
+            "ru": "доктор",
+            "sv": "doktor"
+        }
+    ],
+    "pronunciation": [
+        "tok-tor",
+        1
+    ],
+    "type": "n"
+}

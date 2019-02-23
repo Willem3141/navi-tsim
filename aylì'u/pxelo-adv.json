@@ -1,0 +1,20 @@
+{
+    "na'vi": "pxelo",
+    "translations": [
+        {
+            "de": "dreimal",
+            "en": "thrice, three times",
+            "et": "kolm korda",
+            "hu": "háromszor",
+            "nl": "drie keer",
+            "pl": "trzykrotnie",
+            "ru": "трижды",
+            "sv": "tredje, tre gånger"
+        }
+    ],
+    "pronunciation": [
+        "pxe-lo",
+        1
+    ],
+    "type": "adv"
+}

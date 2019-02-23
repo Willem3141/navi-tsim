@@ -1,0 +1,20 @@
+{
+    "na'vi": "smar",
+    "translations": [
+        {
+            "de": "Beute, gejagte Sache",
+            "en": "prey, hunted thing",
+            "et": "saak, jahitud asi",
+            "hu": "préda, zsákmány",
+            "nl": "prooi, waarop gejaagd wordt",
+            "pl": "ofiara, istota upolowana",
+            "ru": "жертва, объект охоты",
+            "sv": "byte, jagad sak"
+        }
+    ],
+    "pronunciation": [
+        "smar",
+        1
+    ],
+    "type": "n"
+}

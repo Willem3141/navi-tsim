@@ -1,0 +1,16 @@
+{
+    "na'vi": "rem",
+    "translations": [
+        {
+            "en": "fuel",
+            "et": "kütus",
+            "hu": "tüzelőanyag",
+            "nl": "brandstof"
+        }
+    ],
+    "pronunciation": [
+        "rem",
+        1
+    ],
+    "type": "n"
+}

@@ -1,0 +1,21 @@
+{
+    "na'vi": "fmal",
+    "translations": [
+        {
+            "de": "aufrechterhalten, stützen, standhalten",
+            "en": "sustain",
+            "et": "ülal hoidma, ülal pidama",
+            "hu": "fenntart",
+            "nl": "volhouden",
+            "pl": "podtrzymywać",
+            "ru": "поддерживать, сохранять в прежнем состоянии",
+            "sv": "upprätthålla, klara av"
+        }
+    ],
+    "pronunciation": [
+        "fmal",
+        1
+    ],
+    "infixes": "fm..al",
+    "type": "v:tr"
+}

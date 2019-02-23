@@ -1,0 +1,21 @@
+{
+    "na'vi": "sngä'i",
+    "translations": [
+        {
+            "de": "anfangen, beginnen, starten",
+            "en": "begin, start",
+            "et": "algama",
+            "hu": "(el)kezdődik",
+            "nl": "beginnen, starten",
+            "pl": "zaczynać",
+            "ru": "начинаться",
+            "sv": "börja, starta"
+        }
+    ],
+    "pronunciation": [
+        "sngä-'i",
+        1
+    ],
+    "infixes": "sng.ä'.i",
+    "type": "v:m"
+}

@@ -1,0 +1,21 @@
+{
+    "na'vi": "wìntxu",
+    "translations": [
+        {
+            "de": "zeigen, anzeigen",
+            "en": "show",
+            "et": "näitama",
+            "hu": "mutat",
+            "nl": "laten zien",
+            "pl": "pokazywać",
+            "ru": "показывать (чтолибо)",
+            "sv": "visa"
+        }
+    ],
+    "pronunciation": [
+        "wìn-txu",
+        2
+    ],
+    "infixes": "w.ìntx.u",
+    "type": "v:tr"
+}

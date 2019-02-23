@@ -1,0 +1,20 @@
+{
+    "na'vi": "syuve",
+    "translations": [
+        {
+            "de": "Nahrung, Essen (Sammelbegriff, kein Plural möglich)",
+            "en": "food (collective noun, cannot be pluralised)",
+            "et": "toit, söök (mitmus puudub)",
+            "hu": "étel, ennivaló (gyűjtőnév, nincs többesszáma)",
+            "nl": "voedsel (collectief zn., kan niet in meervoud worden gebruikt)",
+            "pl": "żywność (rz. zbiorowy, nie posiada liczby mnogiej)",
+            "ru": "еда",
+            "sv": "mat (kollektivt substantiv, kan inte pluraliseras)"
+        }
+    ],
+    "pronunciation": [
+        "syu-ve",
+        1
+    ],
+    "type": "n"
+}

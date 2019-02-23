@@ -1,0 +1,19 @@
+{
+    "na'vi": "tìterkup",
+    "translations": [
+        {
+            "de": "Sterben, Tod (abstrakt)",
+            "en": "death (in abstract sense)",
+            "et": "surm (abstraktne) (surm on paratamatu)",
+            "hu": "halál (elvont értelemben)",
+            "nl": "dood (abstracte vorm)",
+            "pl": "śmierć (pojęcie abstrakcyjne)",
+            "ru": "смерть (абстрактно)"
+        }
+    ],
+    "pronunciation": [
+        "tì-ter-kup",
+        2
+    ],
+    "type": "n"
+}

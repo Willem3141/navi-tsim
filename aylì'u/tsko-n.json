@@ -1,0 +1,20 @@
+{
+    "na'vi": "tsko",
+    "translations": [
+        {
+            "de": "Bogen (Waffe)",
+            "en": "bow (weapon)",
+            "et": "vibu",
+            "hu": "íj (fegyver)",
+            "nl": "boog (wapen)",
+            "pl": "łuk (oręż)",
+            "ru": "лук (оружие)",
+            "sv": "båge (vapen)"
+        }
+    ],
+    "pronunciation": [
+        "tsko",
+        1
+    ],
+    "type": "n"
+}

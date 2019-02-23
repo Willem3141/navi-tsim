@@ -1,0 +1,21 @@
+{
+    "na'vi": "txìng",
+    "translations": [
+        {
+            "de": "verlassen, zurücklassen, aussetzen, aufgeben",
+            "en": "leave, abandon",
+            "et": "jätma, hülgama",
+            "hu": "elhagy",
+            "nl": "achterlaten",
+            "pl": "opuszczać, porzucać",
+            "ru": "покидать, оставлять, бросать",
+            "sv": "lämna, överge"
+        }
+    ],
+    "pronunciation": [
+        "txìng",
+        1
+    ],
+    "infixes": "tx..ìng",
+    "type": "v:tr"
+}

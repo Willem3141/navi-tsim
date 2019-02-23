@@ -1,0 +1,18 @@
+{
+    "na'vi": "lang",
+    "translations": [
+        {
+            "de": "untersuchen, erforschen, forschen, erkunden, auskundschaften“",
+            "en": "investigate, explore",
+            "et": "uurima, tundma õppima",
+            "hu": "(meg)vizsgál, felfedez",
+            "nl": "onderzoeken, verkennen"
+        }
+    ],
+    "pronunciation": [
+        "lang",
+        1
+    ],
+    "infixes": "l..ang",
+    "type": "v:tr"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "snaytu",
+    "translations": [
+        {
+            "de": "Verlierer",
+            "en": "loser",
+            "et": "kaotaja",
+            "hu": "vesztes",
+            "nl": "verliezer",
+            "pl": "przegrany",
+            "ru": "неудачник",
+            "sv": "förlorare"
+        }
+    ],
+    "pronunciation": [
+        "snay-tu",
+        1
+    ],
+    "type": "n"
+}

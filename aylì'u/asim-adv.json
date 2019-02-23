@@ -1,0 +1,20 @@
+{
+    "na'vi": "asim",
+    "translations": [
+        {
+            "de": "nahe, in kurzer Entfernung",
+            "en": "nearby, at close range",
+            "et": "läheduses",
+            "hu": "közelben, karnyújtásnyira",
+            "nl": "nabij",
+            "pl": "pobliski",
+            "ru": "близко, рядом",
+            "sv": "i närheten"
+        }
+    ],
+    "pronunciation": [
+        "a-sim",
+        2
+    ],
+    "type": "adv"
+}

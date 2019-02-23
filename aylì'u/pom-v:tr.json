@@ -1,0 +1,21 @@
+{
+    "na'vi": "pom",
+    "translations": [
+        {
+            "de": "küssen",
+            "en": "kiss",
+            "et": "suudlema, musitama",
+            "hu": "(meg)puszil, (meg)csókol",
+            "nl": "kussen, zoenen",
+            "pl": "całować",
+            "ru": "целовать",
+            "sv": "kyssa"
+        }
+    ],
+    "pronunciation": [
+        "pom",
+        1
+    ],
+    "infixes": "p..om",
+    "type": "v:tr"
+}

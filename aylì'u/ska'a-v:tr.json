@@ -1,0 +1,21 @@
+{
+    "na'vi": "ska'a",
+    "translations": [
+        {
+            "de": "zerstören, vernichten",
+            "en": "destroy",
+            "et": "hävitama",
+            "hu": "(el)pusztít, megsemmisít, lerombol",
+            "nl": "vernietigen",
+            "pl": "niszczyć, burzyć",
+            "ru": "уничтожать, разрушать",
+            "sv": "förstöra"
+        }
+    ],
+    "pronunciation": [
+        "ska-'a",
+        2
+    ],
+    "infixes": "sk.a'.a",
+    "type": "v:tr"
+}

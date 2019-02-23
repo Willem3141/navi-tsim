@@ -1,0 +1,20 @@
+{
+    "na'vi": "txele",
+    "translations": [
+        {
+            "de": "Thema, Angelegenheit, Bewandtnis, Sache",
+            "en": "matter (subject)",
+            "et": "teema",
+            "hu": "lényeg",
+            "nl": "zaak",
+            "pl": "problem (zagadnienie)",
+            "ru": "предмет (обсуждения или разговора)",
+            "sv": "ärende, sak"
+        }
+    ],
+    "pronunciation": [
+        "txe-le",
+        1
+    ],
+    "type": "n"
+}

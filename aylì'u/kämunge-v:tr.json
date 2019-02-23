@@ -1,0 +1,17 @@
+{
+    "na'vi": "kämunge",
+    "translations": [
+        {
+            "en": "take",
+            "et": "viima",
+            "hu": "visz",
+            "nl": "nemen"
+        }
+    ],
+    "pronunciation": [
+        "kä-mu-nge",
+        2
+    ],
+    "infixes": "käm.ung.e",
+    "type": "v:tr"
+}

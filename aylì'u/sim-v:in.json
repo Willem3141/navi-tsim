@@ -1,0 +1,21 @@
+{
+    "na'vi": "sim",
+    "translations": [
+        {
+            "de": "nah/näher sein",
+            "en": "be near",
+            "et": "lähedal olema",
+            "hu": "közel van",
+            "nl": "dichtbij zijn",
+            "pl": "być blisko",
+            "ru": "находиться поблизости",
+            "sv": "nära, vara nära"
+        }
+    ],
+    "pronunciation": [
+        "sim",
+        1
+    ],
+    "infixes": "s..im",
+    "type": "v:in"
+}

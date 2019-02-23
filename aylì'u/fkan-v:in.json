@@ -1,0 +1,20 @@
+{
+    "na'vi": "fkan",
+    "translations": [
+        {
+            "de": "einer sinnlichen Weise ähneln, den Sinnen erscheinen als ob",
+            "en": "resemble in a sensory modality, come to the senses as",
+            "et": "tunduma, välja paistma",
+            "hu": "olyan érzés/szagú/ízű/ mint... , úgy néz ki/hangzik mint...",
+            "nl": "zich voelen als",
+            "pl": "zdawać się, być odczuwanym przez zmysły",
+            "ru": "прийти в чувство"
+        }
+    ],
+    "pronunciation": [
+        "fkan",
+        1
+    ],
+    "infixes": "fk..an",
+    "type": "v:in"
+}

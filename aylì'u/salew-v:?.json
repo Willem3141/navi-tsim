@@ -1,0 +1,21 @@
+{
+    "na'vi": "salew",
+    "translations": [
+        {
+            "de": "weiterlaufen, fortfahren, fortsetzen",
+            "en": "proceed, go",
+            "et": "edasi minema",
+            "hu": "folytat",
+            "nl": "doorgaan",
+            "pl": "postępować, posuwać się",
+            "ru": "проходить, уходить",
+            "sv": "avancera, röra framåt"
+        }
+    ],
+    "pronunciation": [
+        "sa-lew",
+        2
+    ],
+    "infixes": "s.al.ew",
+    "type": "v:?"
+}

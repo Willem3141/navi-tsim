@@ -1,0 +1,21 @@
+{
+    "na'vi": "zamunge",
+    "translations": [
+        {
+            "de": "bringen, herbringen",
+            "en": "bring",
+            "et": "tooma",
+            "hu": "hoz",
+            "nl": "brengen",
+            "pl": "przynosić (coś)",
+            "ru": "приносить",
+            "sv": "ta med"
+        }
+    ],
+    "pronunciation": [
+        "za-mu-nge",
+        2
+    ],
+    "infixes": "zam.ung.e",
+    "type": "v:tr"
+}

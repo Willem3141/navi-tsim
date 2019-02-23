@@ -1,0 +1,20 @@
+{
+    "na'vi": "kerusey",
+    "translations": [
+        {
+            "de": "tot",
+            "en": "dead",
+            "et": "surnud",
+            "hu": "halott",
+            "nl": "dood",
+            "pl": "martwy",
+            "ru": "мертвый",
+            "sv": "död"
+        }
+    ],
+    "pronunciation": [
+        "ke-ru-sey",
+        1
+    ],
+    "type": "adj"
+}

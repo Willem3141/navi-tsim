@@ -1,0 +1,21 @@
+{
+    "na'vi": "srew",
+    "translations": [
+        {
+            "de": "tanzen",
+            "en": "dance",
+            "et": "tantsima",
+            "hu": "táncol",
+            "nl": "dansen",
+            "pl": "tańczyć",
+            "ru": "танцевать",
+            "sv": "dansa"
+        }
+    ],
+    "pronunciation": [
+        "srew",
+        1
+    ],
+    "infixes": "sr..ew",
+    "type": "v:in"
+}

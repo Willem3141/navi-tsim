@@ -1,0 +1,20 @@
+{
+    "na'vi": "eltungawng",
+    "translations": [
+        {
+            "de": "Gehirnwurm",
+            "en": "brainworm",
+            "et": "Uneuss (brainworm)",
+            "hu": "agyféreg (pandorai állatfaj)",
+            "nl": "breinworm",
+            "pl": "robak mózgu",
+            "ru": "мозговой червь",
+            "sv": "hjärnmask"
+        }
+    ],
+    "pronunciation": [
+        "el-tu-ngawng",
+        1
+    ],
+    "type": "n"
+}

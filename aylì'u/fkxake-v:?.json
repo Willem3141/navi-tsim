@@ -1,0 +1,21 @@
+{
+    "na'vi": "fkxake",
+    "translations": [
+        {
+            "de": "jucken",
+            "en": "itch",
+            "et": "sügelema",
+            "hu": "viszket",
+            "nl": "jeuken",
+            "pl": "swędzieć",
+            "ru": "зудеть, чесаться",
+            "sv": "klia"
+        }
+    ],
+    "pronunciation": [
+        "fkxa-ke",
+        1
+    ],
+    "infixes": "fkx.ak.e",
+    "type": "v:?"
+}

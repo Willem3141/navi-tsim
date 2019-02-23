@@ -1,0 +1,21 @@
+{
+    "na'vi": "kämakto",
+    "translations": [
+        {
+            "de": "ausreiten",
+            "en": "ride out",
+            "et": "välja lendama/ratsutama/sõitma",
+            "hu": "kilovagol",
+            "nl": "uitrijden",
+            "pl": "wyruszać",
+            "ru": "выезжать, выдвигаться",
+            "sv": "rid ut"
+        }
+    ],
+    "pronunciation": [
+        "kä-mak-to",
+        2
+    ],
+    "infixes": "käm.akt.o",
+    "type": "v:?"
+}

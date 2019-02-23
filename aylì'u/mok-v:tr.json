@@ -1,0 +1,21 @@
+{
+    "na'vi": "mok",
+    "translations": [
+        {
+            "de": "vorschlagen",
+            "en": "suggest",
+            "et": "soovitama",
+            "hu": "javasol",
+            "nl": "voorstellen, suggereren",
+            "pl": "sugerować",
+            "ru": "предлагать",
+            "sv": "föreslå"
+        }
+    ],
+    "pronunciation": [
+        "mok",
+        1
+    ],
+    "infixes": "m..ok",
+    "type": "v:tr"
+}

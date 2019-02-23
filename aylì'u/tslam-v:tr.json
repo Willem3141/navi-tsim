@@ -1,0 +1,21 @@
+{
+    "na'vi": "tslam",
+    "translations": [
+        {
+            "de": "verstehen, begreifen",
+            "en": "understand",
+            "et": "aru saama, mõistma",
+            "hu": "(meg)ért",
+            "nl": "begrijpen",
+            "pl": "rozumieć",
+            "ru": "понимать",
+            "sv": "förstå"
+        }
+    ],
+    "pronunciation": [
+        "tslam",
+        1
+    ],
+    "infixes": "tsl..am",
+    "type": "v:tr"
+}

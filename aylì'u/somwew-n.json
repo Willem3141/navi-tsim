@@ -1,0 +1,20 @@
+{
+    "na'vi": "somwew",
+    "translations": [
+        {
+            "de": "Temperatur",
+            "en": "temperature",
+            "et": "temperatuur",
+            "hu": "hőmérséklet",
+            "nl": "temperatuur",
+            "pl": "temperatura",
+            "ru": "температура",
+            "sv": "temperatur"
+        }
+    ],
+    "pronunciation": [
+        "som-wew",
+        2
+    ],
+    "type": "n"
+}

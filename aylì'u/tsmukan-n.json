@@ -1,0 +1,20 @@
+{
+    "na'vi": "tsmukan",
+    "translations": [
+        {
+            "de": "Bruder",
+            "en": "brother",
+            "et": "vend",
+            "hu": "fiú testvér",
+            "nl": "broer",
+            "pl": "brat",
+            "ru": "брат",
+            "sv": "broder, bror"
+        }
+    ],
+    "pronunciation": [
+        "tsmu-kan",
+        1
+    ],
+    "type": "n"
+}

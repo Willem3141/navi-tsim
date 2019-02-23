@@ -1,0 +1,20 @@
+{
+    "na'vi": "muntrr",
+    "translations": [
+        {
+            "de": "Wochenende",
+            "en": "weekend",
+            "et": "nädalavahetus",
+            "hu": "hétvége",
+            "nl": "weekeinde",
+            "pl": "weekend",
+            "ru": "выходные дни",
+            "sv": "helg"
+        }
+    ],
+    "pronunciation": [
+        "mun-trr",
+        1
+    ],
+    "type": "n"
+}

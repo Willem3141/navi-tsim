@@ -1,0 +1,20 @@
+{
+    "na'vi": "pewn",
+    "translations": [
+        {
+            "de": "Hals",
+            "en": "neck",
+            "et": "kael",
+            "hu": "nyak",
+            "nl": "nek",
+            "pl": "szyja",
+            "ru": "шея",
+            "sv": "nacke"
+        }
+    ],
+    "pronunciation": [
+        "pewn",
+        1
+    ],
+    "type": "n"
+}

@@ -1,0 +1,21 @@
+{
+    "na'vi": "rol",
+    "translations": [
+        {
+            "de": "singen",
+            "en": "sing",
+            "et": "laulma (r«eyk»ol muusikat tegema, laulma panema (lüüriline))",
+            "hu": "énekel",
+            "nl": "zingen",
+            "pl": "śpiewać",
+            "ru": "петь",
+            "sv": "sjunga"
+        }
+    ],
+    "pronunciation": [
+        "rol",
+        1
+    ],
+    "infixes": "r..ol",
+    "type": "v:?"
+}

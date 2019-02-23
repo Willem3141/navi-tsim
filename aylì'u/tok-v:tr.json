@@ -1,0 +1,21 @@
+{
+    "na'vi": "tok",
+    "translations": [
+        {
+            "de": "sein (räumlich), zugegen sein, Platz belegen",
+            "en": "be at, occupy a space",
+            "et": "olema, kohta hõivama",
+            "hu": "elfoglal",
+            "nl": "zijn (plaats)",
+            "pl": "być (gdzieś), zajmować miejsce",
+            "ru": "пребывать гделибо, занимать место",
+            "sv": "vara, ockupera en plats"
+        }
+    ],
+    "pronunciation": [
+        "tok",
+        1
+    ],
+    "infixes": "t..ok",
+    "type": "v:tr"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "pa'o",
+    "translations": [
+        {
+            "de": "Seite (Position)",
+            "en": "side",
+            "et": "pool, külg",
+            "hu": "oldal(a)",
+            "nl": "kant",
+            "pl": "strona",
+            "ru": "сторона, половина",
+            "sv": "sida"
+        }
+    ],
+    "pronunciation": [
+        "pa-'o",
+        1
+    ],
+    "type": "n"
+}

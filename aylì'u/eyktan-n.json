@@ -1,0 +1,20 @@
+{
+    "na'vi": "eyktan",
+    "translations": [
+        {
+            "de": "Anführer",
+            "en": "leader",
+            "et": "valitseja",
+            "hu": "vezető, főnök",
+            "nl": "leider",
+            "pl": "przywódca",
+            "ru": "вождь, предводитель",
+            "sv": "ledare"
+        }
+    ],
+    "pronunciation": [
+        "eyk-tan",
+        1
+    ],
+    "type": "n"
+}

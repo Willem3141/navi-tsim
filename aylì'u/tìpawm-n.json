@@ -1,0 +1,20 @@
+{
+    "na'vi": "tìpawm",
+    "translations": [
+        {
+            "de": "Frage",
+            "en": "question",
+            "et": "küsimus",
+            "hu": "kérdés",
+            "nl": "vraag",
+            "pl": "pytanie",
+            "ru": "вопрос",
+            "sv": "fråga"
+        }
+    ],
+    "pronunciation": [
+        "tì-pawm",
+        2
+    ],
+    "type": "n"
+}

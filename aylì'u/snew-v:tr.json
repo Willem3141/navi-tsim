@@ -1,0 +1,20 @@
+{
+    "na'vi": "snew",
+    "translations": [
+        {
+            "de": "einengen, einschnüren, verengen, straffen, zuziehen, zusammenziehen",
+            "en": "constrict, tighten",
+            "et": "pigistama, pitsitama",
+            "hu": "szorít, feszesít",
+            "nl": "beperken, vast(er) maken",
+            "pl": "zacieśniać, zaciskać",
+            "ru": "сжимать"
+        }
+    ],
+    "pronunciation": [
+        "snew",
+        1
+    ],
+    "infixes": "sn..ew",
+    "type": "v:tr"
+}

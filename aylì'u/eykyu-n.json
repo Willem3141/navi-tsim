@@ -1,0 +1,19 @@
+{
+    "na'vi": "eykyu",
+    "translations": [
+        {
+            "de": "Anführer (meist einer kleinen Gruppe oder Jägertrupp)",
+            "en": "leader (typically temporary, of a small group like a hunting party)",
+            "et": "juht (ajutine, näiteks jahi ajal)",
+            "hu": "vezető (ideiglenesen, kisebb csoporté pl. vadászoké)",
+            "nl": "leider (tijdelijk, b.v. van een kleine groep als een jachtgroep)",
+            "pl": "dowódca, kapitan (najczęściej chwilowy, małej ilości osób jak grupa mysliwych)",
+            "ru": "лидер (обычно временной или малой группы вроде охотничьей)"
+        }
+    ],
+    "pronunciation": [
+        "eyk-yu",
+        1
+    ],
+    "type": "n"
+}

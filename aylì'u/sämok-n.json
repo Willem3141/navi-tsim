@@ -1,0 +1,19 @@
+{
+    "na'vi": "sämok",
+    "translations": [
+        {
+            "de": "Vorschlag",
+            "en": "a suggestion",
+            "et": "soovitus, ettepanek",
+            "hu": "javaslat",
+            "nl": "suggestie, voorstel",
+            "pl": "sugestia",
+            "ru": "предложение"
+        }
+    ],
+    "pronunciation": [
+        "sä-mok",
+        2
+    ],
+    "type": "n"
+}

@@ -1,0 +1,21 @@
+{
+    "na'vi": "oeyktìng",
+    "translations": [
+        {
+            "de": "erklären (warum), erläutern, begründen (ii)",
+            "en": "explain (why) (ii)",
+            "et": "selgitama, seletama (e)",
+            "hu": "megmagyaráz (miért)",
+            "nl": "uitleggen (ii)",
+            "pl": "wyjaśniać (ii)",
+            "ru": "разъяснять (почему)",
+            "sv": "förklara (varför) (ii)"
+        }
+    ],
+    "pronunciation": [
+        "o-eyk-tìng",
+        2
+    ],
+    "infixes": "oeykt..ìng",
+    "type": "v:tr"
+}

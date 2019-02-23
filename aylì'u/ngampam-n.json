@@ -1,0 +1,19 @@
+{
+    "na'vi": "ngampam",
+    "translations": [
+        {
+            "de": "Reim",
+            "en": "rhyme",
+            "et": "riim",
+            "hu": "rím",
+            "nl": "rijm",
+            "pl": "rym",
+            "ru": "стих"
+        }
+    ],
+    "pronunciation": [
+        "ngam-pam",
+        1
+    ],
+    "type": "n"
+}

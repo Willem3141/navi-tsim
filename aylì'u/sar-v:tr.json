@@ -1,0 +1,21 @@
+{
+    "na'vi": "sar",
+    "translations": [
+        {
+            "de": "benutzen, verwenden",
+            "en": "use",
+            "et": "kasutama",
+            "hu": "használ",
+            "nl": "gebruiken",
+            "pl": "używać, stosować",
+            "ru": "использовать, применять, употреблять",
+            "sv": "använda"
+        }
+    ],
+    "pronunciation": [
+        "sar",
+        1
+    ],
+    "infixes": "s..ar",
+    "type": "v:tr"
+}

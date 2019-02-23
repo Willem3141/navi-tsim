@@ -1,0 +1,20 @@
+{
+    "na'vi": "kaym",
+    "translations": [
+        {
+            "de": "Abend, später Nachmittag (vor Dämmerung)",
+            "en": "evening (before twilight), late afternoon",
+            "et": "õhtu (enne videvikku), hiline pärastlõuna",
+            "hu": "este (alkonyat előtt), késő délután",
+            "nl": "avond (voor schemering, late middag)",
+            "pl": "późne popołudnie",
+            "ru": "вечер до сумерек, позднее пополудни",
+            "sv": "kväll (före skymning), sen eftermiddag"
+        }
+    ],
+    "pronunciation": [
+        "kaym",
+        1
+    ],
+    "type": "n"
+}

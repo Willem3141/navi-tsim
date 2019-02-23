@@ -1,0 +1,20 @@
+{
+    "na'vi": "tsyo",
+    "translations": [
+        {
+            "de": "Mehl, Pulver",
+            "en": "flour",
+            "et": "jahu",
+            "hu": "liszt",
+            "nl": "meel",
+            "pl": "mąka",
+            "ru": "мук\\\\'а",
+            "sv": "mjöl"
+        }
+    ],
+    "pronunciation": [
+        "tsyo",
+        1
+    ],
+    "type": "n"
+}

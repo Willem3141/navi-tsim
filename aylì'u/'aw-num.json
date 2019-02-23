@@ -1,0 +1,20 @@
+{
+    "na'vi": "'aw",
+    "translations": [
+        {
+            "de": "eins",
+            "en": "one",
+            "et": "üks",
+            "hu": "egy, 1",
+            "nl": "één",
+            "pl": "jeden",
+            "ru": "один",
+            "sv": "en, ett"
+        }
+    ],
+    "pronunciation": [
+        "'aw",
+        1
+    ],
+    "type": "num"
+}

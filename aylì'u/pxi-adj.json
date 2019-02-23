@@ -1,0 +1,20 @@
+{
+    "na'vi": "pxi",
+    "translations": [
+        {
+            "de": "spitz (z.B. Nadel)",
+            "en": "sharp (as a point)",
+            "et": "terav",
+            "hu": "éles, hegyes",
+            "nl": "scherp (punt)",
+            "pl": "dokładny",
+            "ru": "острый (форма)",
+            "sv": "vass, skarp"
+        }
+    ],
+    "pronunciation": [
+        "pxi",
+        1
+    ],
+    "type": "adj"
+}

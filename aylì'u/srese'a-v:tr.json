@@ -1,0 +1,21 @@
+{
+    "na'vi": "srese'a",
+    "translations": [
+        {
+            "de": "prophezeien, voraussagen",
+            "en": "prophetize, prophesize, prophesy, predict",
+            "et": "ennustama",
+            "hu": "megjósol, jövendöl, előre meglát",
+            "nl": "voorspellen",
+            "pl": "wieszczyć, przepowiadać, wróżyć",
+            "ru": "пророчествовать, предсказывать",
+            "sv": "förutspå"
+        }
+    ],
+    "pronunciation": [
+        "sre-se-'a",
+        3
+    ],
+    "infixes": "sres.e'.a",
+    "type": "v:tr"
+}

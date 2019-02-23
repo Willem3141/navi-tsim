@@ -1,0 +1,20 @@
+{
+    "na'vi": "käsrìn",
+    "translations": [
+        {
+            "de": "leihen, verleihen, verborgen",
+            "en": "lend",
+            "et": "laenuks andma, laenama",
+            "hu": "kölcsön ad",
+            "nl": "uitlenen (aan iemand)",
+            "pl": "pożyczać (komuś)",
+            "ru": "давать на время"
+        }
+    ],
+    "pronunciation": [
+        "kä-srìn",
+        2
+    ],
+    "infixes": "käsr..ìn",
+    "type": "v:tr"
+}

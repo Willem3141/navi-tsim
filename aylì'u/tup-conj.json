@@ -1,0 +1,20 @@
+{
+    "na'vi": "tup",
+    "translations": [
+        {
+            "de": "anstelle, statt, eher als",
+            "en": "instead of, rather than",
+            "et": "pigem, ennem",
+            "hu": "helyett, inkább mint...",
+            "nl": "in plaats van, liever dan",
+            "pl": "zamiast, raczej niż",
+            "ru": "вместо того, чтобы",
+            "sv": "istället för, snarare än"
+        }
+    ],
+    "pronunciation": [
+        "tup",
+        1
+    ],
+    "type": "conj"
+}

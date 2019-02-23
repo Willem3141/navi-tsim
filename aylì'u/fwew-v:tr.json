@@ -1,0 +1,21 @@
+{
+    "na'vi": "fwew",
+    "translations": [
+        {
+            "de": "suchen, streben (nach etwas), aufspüren",
+            "en": "look for, seek, search",
+            "et": "otsima, tuhnima",
+            "hu": "keres",
+            "nl": "zoeken",
+            "pl": "szukać",
+            "ru": "искать, пытаться найти",
+            "sv": "leta efter, söka"
+        }
+    ],
+    "pronunciation": [
+        "fwew",
+        1
+    ],
+    "infixes": "fw..ew",
+    "type": "v:tr"
+}

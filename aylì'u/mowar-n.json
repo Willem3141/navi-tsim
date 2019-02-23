@@ -1,0 +1,18 @@
+{
+    "na'vi": "mowar",
+    "translations": [
+        {
+            "de": "Rat, Ratschlag",
+            "en": "advice, bit or piece of advice",
+            "et": "nõuanne, soovitus",
+            "hu": "tanács",
+            "nl": "advies",
+            "ru": "совет, подсказка"
+        }
+    ],
+    "pronunciation": [
+        "mo-war",
+        2
+    ],
+    "type": "n"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "taweyka",
+    "translations": [
+        {
+            "de": "weil, aufgrund der Ursache",
+            "en": "because, based on the cause",
+            "et": "sellepärast (põhjendus)",
+            "hu": "mert, „azon oknál fogva”",
+            "nl": "omdat, vanwege de reden",
+            "pl": "ponieważ, dlatego że, gdyż, bowiem",
+            "ru": "поэтому, по причине",
+            "sv": "därför, baserad på orsaken"
+        }
+    ],
+    "pronunciation": [
+        "ta-wey-ka",
+        2
+    ],
+    "type": "conj"
+}

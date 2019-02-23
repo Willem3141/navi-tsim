@@ -1,0 +1,20 @@
+{
+    "na'vi": "fmawnta",
+    "translations": [
+        {
+            "de": "Neuigkeit, die XYZ (indirekte FrageKonstruktion)",
+            "en": "that news",
+            "et": "uudist, mida)",
+            "hu": "azok a hírek",
+            "nl": "dat nieuws",
+            "pl": "wiadomość, która",
+            "ru": "эти новости",
+            "sv": "nyheter som"
+        }
+    ],
+    "pronunciation": [
+        "fmawnta",
+        1
+    ],
+    "type": "n"
+}

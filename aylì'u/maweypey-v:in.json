@@ -1,0 +1,21 @@
+{
+    "na'vi": "maweypey",
+    "translations": [
+        {
+            "de": "geduldig sein, gedulden (ii)",
+            "en": "be patient (ii)",
+            "et": "kannatlik olema (e)",
+            "hu": "türelmes(nek lenni)(ii)",
+            "nl": "geduld hebben (ii)",
+            "pl": "być cierpliwym (ii)",
+            "ru": "терпеть, быть терпеливым",
+            "sv": "vara tålmodig"
+        }
+    ],
+    "pronunciation": [
+        "ma-wey-pey",
+        2
+    ],
+    "infixes": "maweyp..ey",
+    "type": "v:in"
+}

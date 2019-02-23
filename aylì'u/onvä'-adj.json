@@ -1,0 +1,19 @@
+{
+    "na'vi": "onvä'",
+    "translations": [
+        {
+            "de": "schlechtriechend",
+            "en": "badsmelling",
+            "et": "haisev",
+            "hu": "rossz szagú",
+            "nl": "slechtruikend",
+            "pl": "nieprzyjemnie pachnący",
+            "ru": "зловонный"
+        }
+    ],
+    "pronunciation": [
+        "on-vä'",
+        2
+    ],
+    "type": "adj"
+}

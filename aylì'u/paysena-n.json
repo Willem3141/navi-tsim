@@ -1,0 +1,18 @@
+{
+    "na'vi": "paysena",
+    "translations": [
+        {
+            "de": "Wasserbehälter",
+            "en": "water container",
+            "et": "anum vee hoidmiseks",
+            "hu": "víztartály",
+            "nl": "watervat",
+            "ru": "сосуд"
+        }
+    ],
+    "pronunciation": [
+        "pay-se-na",
+        1
+    ],
+    "type": "n"
+}

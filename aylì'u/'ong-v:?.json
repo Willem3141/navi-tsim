@@ -1,0 +1,21 @@
+{
+    "na'vi": "'ong",
+    "translations": [
+        {
+            "de": "erblühen, sich entfalten",
+            "en": "unfold, blossom",
+            "et": "õitsema",
+            "hu": "kinyílik, kivirágzik",
+            "nl": "bloeien",
+            "pl": "rozwijać, kwitnąć",
+            "ru": "раскрываться, распускаться, цвести, процветать",
+            "sv": "slå ut, blomstra"
+        }
+    ],
+    "pronunciation": [
+        "'ong",
+        1
+    ],
+    "infixes": "'..ong",
+    "type": "v:?"
+}

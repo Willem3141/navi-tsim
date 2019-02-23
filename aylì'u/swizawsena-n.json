@@ -1,0 +1,18 @@
+{
+    "na'vi": "swizawsena",
+    "translations": [
+        {
+            "de": "Köcher (am Ikransattel befestigt)",
+            "en": "quiver (attached to ikran's saddle)",
+            "et": "nooletupp (Ikrani sadula küljes)",
+            "hu": "tegez (az ikran nyergéhez erősített)",
+            "nl": "pijlkoker (bevestigd aan ikranzadel)",
+            "ru": "колчан (для седла икрана)"
+        }
+    ],
+    "pronunciation": [
+        "swi-zaw-se-na",
+        2
+    ],
+    "type": "n"
+}

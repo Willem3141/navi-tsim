@@ -1,0 +1,19 @@
+{
+    "na'vi": "säflä",
+    "translations": [
+        {
+            "de": "Erfolg",
+            "en": "success (an instance of succeeding)",
+            "et": "edu (mingi sündmusega)",
+            "hu": "siker (konkrét dologban)",
+            "nl": "succes (een moment van succes)",
+            "pl": "sukces, powodzenie (jednorazowe zakonczenie czegoś powodzeniem)",
+            "ru": "успех"
+        }
+    ],
+    "pronunciation": [
+        "sä-flä",
+        2
+    ],
+    "type": "n"
+}

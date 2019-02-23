@@ -1,0 +1,20 @@
+{
+    "na'vi": "tsaheyl",
+    "translations": [
+        {
+            "de": "verbinden mit, eine neurale Verbindung eingehen/herstellen",
+            "en": "bond with, establish a neural connection",
+            "et": "sidet looma (kellegagi), ühenduma",
+            "hu": "összekapcsolódni vmivel/vkivel, idegi összeköttetést létesíteni",
+            "nl": "verbinden met, een neurale verbinding maken met",
+            "pl": "wiązać się, ustanawiać więź",
+            "ru": "устанавливать связь посредством нейронных волокон",
+            "sv": "binda med, åstadkomma nervanslutning"
+        }
+    ],
+    "pronunciation": [
+        "tsa-heyl",
+        2
+    ],
+    "type": "n:si"
+}

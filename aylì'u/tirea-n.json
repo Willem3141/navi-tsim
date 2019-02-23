@@ -1,0 +1,20 @@
+{
+    "na'vi": "tirea",
+    "translations": [
+        {
+            "de": "Geist, Seele",
+            "en": "spirit",
+            "et": "vaim, hing",
+            "hu": "szellem, szellemiség",
+            "nl": "geest, ziel",
+            "pl": "duch, dusza",
+            "ru": "дух, душа",
+            "sv": "ande"
+        }
+    ],
+    "pronunciation": [
+        "ti-re-a",
+        2
+    ],
+    "type": "n"
+}

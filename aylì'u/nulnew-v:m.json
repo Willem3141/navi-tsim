@@ -1,0 +1,21 @@
+{
+    "na'vi": "nulnew",
+    "translations": [
+        {
+            "de": "vorziehen, bevorzugen, begünstigen (ii)",
+            "en": "prefer (ii)",
+            "et": "eelistama (e)",
+            "hu": "jobban szeret, preferál",
+            "nl": "verkiezen, de voorkeur geven aan (ii)",
+            "pl": "woleć, preferować (ii)",
+            "ru": "отдавать предпочтение, предпочитать",
+            "sv": "föredra (ii)"
+        }
+    ],
+    "pronunciation": [
+        "nul-new",
+        2
+    ],
+    "infixes": "nuln..ew",
+    "type": "v:m"
+}

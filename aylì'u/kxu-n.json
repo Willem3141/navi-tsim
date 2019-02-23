@@ -1,0 +1,20 @@
+{
+    "na'vi": "kxu",
+    "translations": [
+        {
+            "de": "Schaden (physisch), Unheil",
+            "en": "harm",
+            "et": "viga, paha, häda",
+            "hu": "baj, ártalom",
+            "nl": "onheil, schade",
+            "pl": "krzywda",
+            "ru": "вред, ущерб",
+            "sv": "skada"
+        }
+    ],
+    "pronunciation": [
+        "kxu",
+        1
+    ],
+    "type": "n"
+}

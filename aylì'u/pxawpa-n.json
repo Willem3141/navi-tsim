@@ -1,0 +1,20 @@
+{
+    "na'vi": "pxawpa",
+    "translations": [
+        {
+            "de": "Grenze, Umfang, Begrenzung, Eingrenzun",
+            "en": "perimeter, circumference, border",
+            "et": "piir, piirjoon",
+            "hu": "kerület, határ, perem",
+            "nl": "grens, afbakening, omtrek",
+            "pl": "obwód, otoczka, granica",
+            "ru": "периметр, окружность, граница",
+            "sv": "omkrets, gräns"
+        }
+    ],
+    "pronunciation": [
+        "pxaw-pa",
+        1
+    ],
+    "type": "n"
+}

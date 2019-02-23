@@ -1,0 +1,18 @@
+{
+    "na'vi": "ripx",
+    "translations": [
+        {
+            "de": "durchstechen, durchbohren, pierchen",
+            "en": "pierce",
+            "et": "läbistama, läbi torkama",
+            "hu": "átszúr, átdöf",
+            "nl": "doorsteken"
+        }
+    ],
+    "pronunciation": [
+        "ripx",
+        1
+    ],
+    "infixes": "r..ipx",
+    "type": "v:tr"
+}

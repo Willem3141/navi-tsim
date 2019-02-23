@@ -1,0 +1,20 @@
+{
+    "na'vi": "txen",
+    "translations": [
+        {
+            "de": "wach, munter",
+            "en": "awake",
+            "et": "ärkvel, virge",
+            "hu": "éber",
+            "nl": "wakker",
+            "pl": "przebudzony, czuwający",
+            "ru": "бодрствующий, не спящий, проснувшийся",
+            "sv": "vaken"
+        }
+    ],
+    "pronunciation": [
+        "txen",
+        1
+    ],
+    "type": "adj"
+}

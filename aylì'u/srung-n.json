@@ -1,0 +1,20 @@
+{
+    "na'vi": "srung",
+    "translations": [
+        {
+            "de": "Hilfe, Unterstützung",
+            "en": "help, assistance",
+            "et": "abi, toetus",
+            "hu": "segítség",
+            "nl": "hulp, assistentie",
+            "pl": "pomoc, wsparcie",
+            "ru": "поддержка, помощь, содействие",
+            "sv": "hjälp, assistans"
+        }
+    ],
+    "pronunciation": [
+        "srung",
+        1
+    ],
+    "type": "n"
+}

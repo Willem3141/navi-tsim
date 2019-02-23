@@ -1,0 +1,20 @@
+{
+    "na'vi": "flew",
+    "translations": [
+        {
+            "de": "Rachen, Kehle",
+            "en": "throat",
+            "et": "kõri, kurk",
+            "hu": "torok",
+            "nl": "keel",
+            "pl": "gardło",
+            "ru": "горло, глотка, гортань",
+            "sv": "hals"
+        }
+    ],
+    "pronunciation": [
+        "flew",
+        1
+    ],
+    "type": "n"
+}

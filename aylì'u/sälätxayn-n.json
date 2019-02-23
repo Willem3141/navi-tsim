@@ -1,0 +1,19 @@
+{
+    "na'vi": "sälätxayn",
+    "translations": [
+        {
+            "de": "Niederlage, Sieg (über jemanden)",
+            "en": "defeat, an instance of defeat",
+            "et": "kaotus, kui ollakse alistatud",
+            "hu": "vereség, legyőzöttség",
+            "nl": "verslaan, een verlies",
+            "pl": "pokonanie, podbój",
+            "ru": "победа"
+        }
+    ],
+    "pronunciation": [
+        "sä-lä-txayn",
+        3
+    ],
+    "type": "n"
+}

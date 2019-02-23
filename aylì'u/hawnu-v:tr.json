@@ -1,0 +1,21 @@
+{
+    "na'vi": "hawnu",
+    "translations": [
+        {
+            "de": "schützen, beschützen, wahren",
+            "en": "protect, shelter",
+            "et": "kaitsma, varjama",
+            "hu": "(meg)véd, (meg)óv",
+            "nl": "beschermen",
+            "pl": "chronić, osłaniać",
+            "ru": "охранять, защищать, укрывать",
+            "sv": "skydda, beskydda"
+        }
+    ],
+    "pronunciation": [
+        "haw-nu",
+        1
+    ],
+    "infixes": "h.awn.u",
+    "type": "v:tr"
+}

@@ -1,0 +1,21 @@
+{
+    "na'vi": "fwefwi",
+    "translations": [
+        {
+            "de": "pfeifen",
+            "en": "whistle",
+            "et": "vilistama",
+            "hu": "fütyül",
+            "nl": "fluiten",
+            "pl": "gwizdać",
+            "ru": "свист",
+            "sv": "vissla"
+        }
+    ],
+    "pronunciation": [
+        "fwe-fwi",
+        1
+    ],
+    "infixes": "fw.efw.i",
+    "type": "v:in"
+}

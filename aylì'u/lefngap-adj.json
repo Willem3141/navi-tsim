@@ -1,0 +1,20 @@
+{
+    "na'vi": "lefngap",
+    "translations": [
+        {
+            "de": "metallisch",
+            "en": "metallic",
+            "et": "metalne",
+            "hu": "fém(ből készült)",
+            "nl": "metalig, van metaal",
+            "pl": "metalowy",
+            "ru": "металлический",
+            "sv": "metallisk"
+        }
+    ],
+    "pronunciation": [
+        "le-fngap",
+        2
+    ],
+    "type": "adj"
+}

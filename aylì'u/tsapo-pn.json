@@ -1,0 +1,20 @@
+{
+    "na'vi": "tsapo",
+    "translations": [
+        {
+            "de": "jener (nur für Personen)",
+            "en": "that one (for people only)",
+            "et": "see (inimeste kohta)",
+            "hu": "az (csak személyekre)",
+            "nl": "die ene (alleen voor mensen)",
+            "pl": "tamten, tamta, tamto",
+            "ru": "тот",
+            "sv": "den där (endast om personer)"
+        }
+    ],
+    "pronunciation": [
+        "tsa-po",
+        1
+    ],
+    "type": "pn"
+}

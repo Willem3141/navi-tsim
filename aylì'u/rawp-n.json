@@ -1,0 +1,19 @@
+{
+    "na'vi": "rawp",
+    "translations": [
+        {
+            "de": "Blasenpolyp, polypiferus brevisimus",
+            "en": "bladder polyp",
+            "et": "Põiskaun (bladder)",
+            "hu": "hólyag polip (pandorai állatfaj)",
+            "nl": "blaaspoliep",
+            "ru": "полип",
+            "sv": "polypblåsa"
+        }
+    ],
+    "pronunciation": [
+        "rawp",
+        1
+    ],
+    "type": "n"
+}

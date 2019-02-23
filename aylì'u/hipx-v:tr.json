@@ -1,0 +1,16 @@
+{
+    "na'vi": "hipx",
+    "translations": [
+        {
+            "en": "control",
+            "et": "kontrollima, korda hoidma",
+            "hu": "irányít, szabályoz",
+            "nl": "controleren"
+        }
+    ],
+    "pronunciation": [
+        "hipx",
+        1
+    ],
+    "type": "v:tr"
+}

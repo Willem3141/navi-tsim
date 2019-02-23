@@ -1,0 +1,20 @@
+{
+    "na'vi": "tsngan",
+    "translations": [
+        {
+            "de": "Fleisch",
+            "en": "meat",
+            "et": "liha",
+            "hu": "hús",
+            "nl": "vlees",
+            "pl": "mięso",
+            "ru": "мясо",
+            "sv": "kött"
+        }
+    ],
+    "pronunciation": [
+        "tsngan",
+        1
+    ],
+    "type": "n"
+}

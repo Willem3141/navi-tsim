@@ -1,0 +1,20 @@
+{
+    "na'vi": "tì'awm",
+    "translations": [
+        {
+            "de": "Kampieren, Lagern",
+            "en": "camping",
+            "et": "telkimine",
+            "hu": "táborhely",
+            "nl": "kamp",
+            "pl": "obozowisko",
+            "ru": "разбивка лагеря",
+            "sv": "camping"
+        }
+    ],
+    "pronunciation": [
+        "tì-'awm",
+        2
+    ],
+    "type": "n"
+}

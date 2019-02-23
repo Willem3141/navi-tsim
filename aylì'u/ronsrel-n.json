@@ -1,0 +1,20 @@
+{
+    "na'vi": "ronsrel",
+    "translations": [
+        {
+            "de": "Vorgestelltes, Ausgemaltes, Imaginiertes",
+            "en": "something imagined",
+            "et": "kujuteldav asi",
+            "hu": "elképzelt dolog",
+            "nl": "iets verbeeld",
+            "pl": "wyobrażenie, urojenie",
+            "ru": "воображаемое",
+            "sv": "något påhittat, något fantiserat"
+        }
+    ],
+    "pronunciation": [
+        "ron-srel",
+        1
+    ],
+    "type": "n"
+}

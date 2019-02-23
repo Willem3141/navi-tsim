@@ -1,0 +1,20 @@
+{
+    "na'vi": "hìmtxan",
+    "translations": [
+        {
+            "de": "Menge, Anzahl",
+            "en": "amount",
+            "et": "hulk, kogus",
+            "hu": "összeg, mennyiség",
+            "nl": "aantal",
+            "pl": "ilość",
+            "ru": "количество",
+            "sv": "mängd"
+        }
+    ],
+    "pronunciation": [
+        "hìm-txan",
+        2
+    ],
+    "type": "n"
+}

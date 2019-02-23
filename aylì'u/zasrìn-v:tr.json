@@ -1,0 +1,20 @@
+{
+    "na'vi": "zasrìn",
+    "translations": [
+        {
+            "de": "borgen, ausborgen, ausleihen",
+            "en": "borrow",
+            "et": "laenuks võtma, laenama",
+            "hu": "kölcsön vesz",
+            "nl": "lenen (van iemand)",
+            "pl": "pożyczać (od kogoś)",
+            "ru": "занять"
+        }
+    ],
+    "pronunciation": [
+        "za-srìn",
+        2
+    ],
+    "infixes": "zasr..ìn",
+    "type": "v:tr"
+}

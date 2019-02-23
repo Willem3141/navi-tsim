@@ -1,0 +1,20 @@
+{
+    "na'vi": "pängkxoyu",
+    "translations": [
+        {
+            "de": "Gesprächspartner",
+            "en": "chatter, converser",
+            "et": "vestleja, suhtleja",
+            "hu": "beszélgetőtárs, társalkodó",
+            "nl": "gepraat",
+            "pl": "rozmówca, mowiący",
+            "ru": "собеседник",
+            "sv": "pratare, snackare"
+        }
+    ],
+    "pronunciation": [
+        "päng-kxo-yu",
+        2
+    ],
+    "type": "n"
+}

@@ -1,0 +1,21 @@
+{
+    "na'vi": "yìm",
+    "translations": [
+        {
+            "de": "binden, fesseln, verbinden",
+            "en": "bind",
+            "et": "siduma",
+            "hu": "(meg)köt",
+            "nl": "binden",
+            "pl": "wiązać",
+            "ru": "вязать, связывать, завязывать",
+            "sv": "binda, knyta fast"
+        }
+    ],
+    "pronunciation": [
+        "yìm",
+        1
+    ],
+    "infixes": "y..ìm",
+    "type": "v:tr"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "fmawn",
+    "translations": [
+        {
+            "de": "Neuigkeit, etwas zu berichten",
+            "en": "news, something to report",
+            "et": "uudis, miski millest teavitada",
+            "hu": "hír, újság",
+            "nl": "nieuws, iets om te melden",
+            "pl": "informacja, nowina, coś do ogłoszenia",
+            "ru": "новость, предмет сообщения",
+            "sv": "nyheter, något att rapportera"
+        }
+    ],
+    "pronunciation": [
+        "fmawn",
+        1
+    ],
+    "type": "n"
+}

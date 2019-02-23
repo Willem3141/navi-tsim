@@ -1,0 +1,18 @@
+{
+    "na'vi": "mowar",
+    "translations": [
+        {
+            "de": "beraten, Ratschlag geben",
+            "en": "advise",
+            "et": "nõu andma, soovitama",
+            "hu": "tanácsol",
+            "nl": "adviseren",
+            "ru": "советовать"
+        }
+    ],
+    "pronunciation": [
+        "mo-war",
+        2
+    ],
+    "type": "n:si"
+}

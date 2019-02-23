@@ -1,0 +1,20 @@
+{
+    "na'vi": "tsap'alute",
+    "translations": [
+        {
+            "de": "Entschuldigung",
+            "en": "apology",
+            "et": "vabandus",
+            "hu": "bocsánatkérés",
+            "nl": "verontschuldiging, excuus",
+            "pl": "przeprosiny",
+            "ru": "извинение, прощение",
+            "sv": "ursäkt"
+        }
+    ],
+    "pronunciation": [
+        "tsap-'a-lu-te",
+        2
+    ],
+    "type": "n"
+}

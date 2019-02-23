@@ -1,0 +1,21 @@
+{
+    "na'vi": "fpìl",
+    "translations": [
+        {
+            "de": "denken",
+            "en": "think",
+            "et": "mõtlema, arvama",
+            "hu": "gondol(kodik)",
+            "nl": "denken",
+            "pl": "myśleć",
+            "ru": "думать",
+            "sv": "tänka"
+        }
+    ],
+    "pronunciation": [
+        "fpìl",
+        1
+    ],
+    "infixes": "fp..ìl",
+    "type": "v:tr"
+}

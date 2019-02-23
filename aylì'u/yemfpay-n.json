@@ -1,0 +1,20 @@
+{
+    "na'vi": "yemfpay",
+    "translations": [
+        {
+            "de": "Eintauchen, Eintunken (in Flüssigkeit)",
+            "en": "dipping, immersion (into liquid)",
+            "et": "sissekastmine (vedelikku)",
+            "hu": "bemártás, merítés (folyadékba)",
+            "nl": "onderdompelen (in vloeistof)",
+            "pl": "zanużenie, zatopienie",
+            "ru": "окунание, погружение в жидкость",
+            "sv": "doppande, nedsänkning (i vätska)"
+        }
+    ],
+    "pronunciation": [
+        "yem-fpay",
+        2
+    ],
+    "type": "n"
+}

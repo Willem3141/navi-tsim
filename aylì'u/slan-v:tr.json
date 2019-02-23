@@ -1,0 +1,20 @@
+{
+    "na'vi": "slan",
+    "translations": [
+        {
+            "de": "unterstützen (emotional, sozial oder persönlich)",
+            "en": "support (emotional, social or personal support)",
+            "et": "toetama, abistama (emotsionaalselt, sotsiaalselt)",
+            "hu": "támogat (érzelmileg, szociálisan vagy személyesen)",
+            "nl": "steunen (emotioneel, sociaal of persoonlijk)",
+            "pl": "wspierać (emocjoalnie, społecznie lub osobiście)",
+            "ru": "поддержать (эмоционально, социально или персонально)"
+        }
+    ],
+    "pronunciation": [
+        "slan",
+        1
+    ],
+    "infixes": "sl..an",
+    "type": "v:tr"
+}

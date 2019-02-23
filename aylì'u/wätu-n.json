@@ -1,0 +1,20 @@
+{
+    "na'vi": "wätu",
+    "translations": [
+        {
+            "de": "Gegner",
+            "en": "opponent",
+            "et": "vastane",
+            "hu": "ellenfél",
+            "nl": "opponent, tegenstander",
+            "pl": "przeciwnik",
+            "ru": "оппонент",
+            "sv": "motståndare"
+        }
+    ],
+    "pronunciation": [
+        "wä-tu",
+        1
+    ],
+    "type": "n"
+}

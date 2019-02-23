@@ -1,0 +1,20 @@
+{
+    "na'vi": "tìsnaytx",
+    "translations": [
+        {
+            "de": "Niederlage",
+            "en": "loss",
+            "et": "kaotus",
+            "hu": "vereség, veszteség",
+            "nl": "verlies",
+            "pl": "strata",
+            "ru": "потеря",
+            "sv": "förlust"
+        }
+    ],
+    "pronunciation": [
+        "tì-snaytx",
+        2
+    ],
+    "type": "n"
+}

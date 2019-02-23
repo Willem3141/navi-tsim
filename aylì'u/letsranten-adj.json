@@ -1,0 +1,20 @@
+{
+    "na'vi": "letsranten",
+    "translations": [
+        {
+            "de": "wichtig",
+            "en": "important",
+            "et": "tähtis",
+            "hu": "fontos",
+            "nl": "belangrijk",
+            "pl": "istotny",
+            "ru": "важный, значимый",
+            "sv": "viktig"
+        }
+    ],
+    "pronunciation": [
+        "le-tsran-ten",
+        2
+    ],
+    "type": "adj"
+}

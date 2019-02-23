@@ -1,0 +1,21 @@
+{
+    "na'vi": "yomtìng",
+    "translations": [
+        {
+            "de": "füttern, Futter geben (ii)",
+            "en": "feed (with dative object) (ii)",
+            "et": "toitma (sihittis datiivsena) (e)",
+            "hu": "etet",
+            "nl": "voeren",
+            "pl": "karmić (z dopełnieniem w formie celownika) (ii)",
+            "ru": "кормить (с объектом в дативе)",
+            "sv": "mata (med dativsobjekt) (ii)"
+        }
+    ],
+    "pronunciation": [
+        "yom-tìng",
+        1
+    ],
+    "infixes": "yomt..ìng",
+    "type": "v:in"
+}

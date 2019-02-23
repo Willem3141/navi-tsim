@@ -1,0 +1,20 @@
+{
+    "na'vi": "irayo",
+    "translations": [
+        {
+            "de": "Danke, Dank",
+            "en": "thank you, thanks",
+            "et": "aitäh, tänud",
+            "hu": "köszönet, köszönöm!",
+            "nl": "bedankt, dank je",
+            "pl": "podziękowanie, dzięki",
+            "ru": "спасибо",
+            "sv": "tack"
+        }
+    ],
+    "pronunciation": [
+        "i-ra-yo",
+        2
+    ],
+    "type": "n"
+}

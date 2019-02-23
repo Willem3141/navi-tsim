@@ -1,0 +1,20 @@
+{
+    "na'vi": "puk",
+    "translations": [
+        {
+            "de": "Buch",
+            "en": "book",
+            "et": "raamat",
+            "hu": "könyv",
+            "nl": "boek",
+            "pl": "książka",
+            "ru": "книга",
+            "sv": "bok"
+        }
+    ],
+    "pronunciation": [
+        "puk",
+        1
+    ],
+    "type": "n"
+}

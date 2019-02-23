@@ -1,0 +1,17 @@
+{
+    "na'vi": "tsyul",
+    "translations": [
+        {
+            "en": "begin, start",
+            "et": "alustama",
+            "hu": "elkezd",
+            "nl": "beginnen, starten"
+        }
+    ],
+    "pronunciation": [
+        "tsyul",
+        1
+    ],
+    "infixes": "tsy..ul",
+    "type": "v:tr"
+}

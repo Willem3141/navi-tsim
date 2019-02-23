@@ -1,0 +1,18 @@
+{
+    "na'vi": "wokau",
+    "translations": [
+        {
+            "de": "Pendeltrommel",
+            "en": "pendulum drum",
+            "et": "pendeltrumm",
+            "hu": "ingadob",
+            "nl": "penduletrom",
+            "ru": "качающийся барабан"
+        }
+    ],
+    "pronunciation": [
+        "wok-a-u",
+        2
+    ],
+    "type": "n"
+}

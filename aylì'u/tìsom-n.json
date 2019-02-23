@@ -1,0 +1,20 @@
+{
+    "na'vi": "tìsom",
+    "translations": [
+        {
+            "de": "Hitze",
+            "en": "heat",
+            "et": "kuumus",
+            "hu": "hő",
+            "nl": "hitte",
+            "pl": "ciepło",
+            "ru": "теплота, жара",
+            "sv": "hetta, värme"
+        }
+    ],
+    "pronunciation": [
+        "tì-som",
+        2
+    ],
+    "type": "n"
+}

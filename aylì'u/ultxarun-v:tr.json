@@ -1,0 +1,21 @@
+{
+    "na'vi": "ultxarun",
+    "translations": [
+        {
+            "de": "begegnen, treffen (zufällig) (ii)",
+            "en": "encounter, meet by chance (ii)",
+            "et": "kohtama, kokku saama (tahtmatult) (e)",
+            "hu": "összefutni, véletlenül találkozni",
+            "nl": "ontmoeten",
+            "pl": "natknąć się, spotkać przypadkiem (ii)",
+            "ru": "случано встретить коголибо",
+            "sv": "träffa, mötas av slump"
+        }
+    ],
+    "pronunciation": [
+        "ul-txa-run",
+        2
+    ],
+    "infixes": "ultxar..un",
+    "type": "v:tr"
+}

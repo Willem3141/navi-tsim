@@ -1,0 +1,20 @@
+{
+    "na'vi": "numeyu",
+    "translations": [
+        {
+            "de": "Schüler, Student",
+            "en": "student",
+            "et": "õpilane",
+            "hu": "tanuló, diák",
+            "nl": "student, leerling",
+            "pl": "uczeń, student",
+            "ru": "учащийся, обучающийся",
+            "sv": "student, elev"
+        }
+    ],
+    "pronunciation": [
+        "nu-me-yu",
+        1
+    ],
+    "type": "n"
+}

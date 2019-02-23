@@ -1,0 +1,20 @@
+{
+    "na'vi": "vurvi",
+    "translations": [
+        {
+            "de": "Zusammenfassung",
+            "en": "summary, synopsis",
+            "et": "kokkuvõte",
+            "hu": "összegzés, áttekintés",
+            "nl": "samenvatting",
+            "pl": "zarys, streszczenie",
+            "ru": "краткое изложение, пересказ",
+            "sv": "summering, sammanfattning"
+        }
+    ],
+    "pronunciation": [
+        "vur-vi",
+        1
+    ],
+    "type": "n"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "wawe",
+    "translations": [
+        {
+            "de": "Bedeutung, Wichtigkeit, Signifikanz",
+            "en": "meaning, importance, significance",
+            "et": "tähendus, tähtsus",
+            "hu": "jelentés, fontosság, jelentősség",
+            "nl": "betekenis, belang",
+            "pl": "znaczenie, istotność, waga",
+            "ru": "значительность, важность",
+            "sv": "betydelse, mening"
+        }
+    ],
+    "pronunciation": [
+        "wa-we",
+        2
+    ],
+    "type": "n"
+}

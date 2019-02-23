@@ -1,0 +1,19 @@
+{
+    "na'vi": "mesrray",
+    "translations": [
+        {
+            "de": "Tag nach morgen, übermorgen",
+            "en": "the day after tomorrow, two days from now",
+            "et": "ülehomme",
+            "hu": "holnapután, két nap múlva",
+            "nl": "overmorgen, over twee dagen",
+            "pl": "pojutrze",
+            "ru": "послепослезавтра"
+        }
+    ],
+    "pronunciation": [
+        "me-srr-ay",
+        3
+    ],
+    "type": "adv"
+}

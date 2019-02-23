@@ -1,0 +1,20 @@
+{
+    "na'vi": "kllza'u",
+    "translations": [
+        {
+            "de": "hinunterkommen, herunterkommen",
+            "en": "come down, descend",
+            "et": "alla tulema, laskuma",
+            "hu": "lejön, leereszkedik",
+            "nl": "omlaag komen",
+            "pl": "zejść",
+            "ru": "спуститься"
+        }
+    ],
+    "pronunciation": [
+        "kll-za-'u",
+        2
+    ],
+    "infixes": "kllz.a'.u",
+    "type": "v:in"
+}

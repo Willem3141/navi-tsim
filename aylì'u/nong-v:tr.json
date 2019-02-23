@@ -1,0 +1,21 @@
+{
+    "na'vi": "nong",
+    "translations": [
+        {
+            "de": "folgen, nachfolgen",
+            "en": "follow, proceed after",
+            "et": "järgnema, järel käima",
+            "hu": "követ",
+            "nl": "volgen",
+            "pl": "podążać (za)",
+            "ru": "следовать за чемлибо, происходить вслед за чемлибо",
+            "sv": "följa, härma"
+        }
+    ],
+    "pronunciation": [
+        "nong",
+        1
+    ],
+    "infixes": "n..ong",
+    "type": "v:tr"
+}

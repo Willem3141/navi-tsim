@@ -1,0 +1,20 @@
+{
+    "na'vi": "ätxäle",
+    "translations": [
+        {
+            "de": "Bitte, Anfrage",
+            "en": "request",
+            "et": "palve, nõue",
+            "hu": "kérés",
+            "nl": "verzoek",
+            "pl": "prośba, żądanie",
+            "ru": "просьба, мягкое требование",
+            "sv": "begäran, förfrågan"
+        }
+    ],
+    "pronunciation": [
+        "ä-txä-le",
+        2
+    ],
+    "type": "n"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "hrrap",
+    "translations": [
+        {
+            "de": "Gefahr",
+            "en": "danger",
+            "et": "oht",
+            "hu": "veszély",
+            "nl": "gevaar",
+            "pl": "niebezpieczeństwo, zagrożenie",
+            "ru": "опасность",
+            "sv": "fara"
+        }
+    ],
+    "pronunciation": [
+        "hrr-ap",
+        1
+    ],
+    "type": "n"
+}

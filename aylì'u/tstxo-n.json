@@ -1,0 +1,20 @@
+{
+    "na'vi": "tstxo",
+    "translations": [
+        {
+            "de": "Name",
+            "en": "name",
+            "et": "nimi",
+            "hu": "név",
+            "nl": "naam",
+            "pl": "imię, nazwisko, nazwa",
+            "ru": "имя",
+            "sv": "namn"
+        }
+    ],
+    "pronunciation": [
+        "tstxo",
+        1
+    ],
+    "type": "n"
+}

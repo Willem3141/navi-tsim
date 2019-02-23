@@ -1,0 +1,18 @@
+{
+    "na'vi": "fpomron",
+    "translations": [
+        {
+            "de": "(mentalle) Gesundheit oder Wohlsein",
+            "en": "health or wellbeing (mental)",
+            "et": "tervis, heaolu (vaimne; inimeste kohta)",
+            "hu": "egészség vagy jólét (szellemi)",
+            "nl": "gezondheid of welzijn (mentaal)",
+            "ru": "здоровье (душевное)"
+        }
+    ],
+    "pronunciation": [
+        "fpom-ron",
+        2
+    ],
+    "type": "n"
+}

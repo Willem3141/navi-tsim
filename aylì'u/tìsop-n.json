@@ -1,0 +1,20 @@
+{
+    "na'vi": "tìsop",
+    "translations": [
+        {
+            "de": "Reise",
+            "en": "journey",
+            "et": "teekond, rännak",
+            "hu": "utazás",
+            "nl": "reis",
+            "pl": "podróż",
+            "ru": "путешествие",
+            "sv": "resa"
+        }
+    ],
+    "pronunciation": [
+        "tì-sop",
+        2
+    ],
+    "type": "n"
+}

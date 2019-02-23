@@ -1,0 +1,20 @@
+{
+    "na'vi": "muntrray",
+    "translations": [
+        {
+            "de": "nächstes Wochenende",
+            "en": "next weekend",
+            "et": "järgmine nädalavahetus",
+            "hu": "jövő hétvége",
+            "nl": "volgend weekeinde",
+            "pl": "nastepny weekend",
+            "ru": "следующие выходные",
+            "sv": "nästa helg"
+        }
+    ],
+    "pronunciation": [
+        "mun-trr-ay",
+        1
+    ],
+    "type": "n"
+}

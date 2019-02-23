@@ -1,0 +1,19 @@
+{
+    "na'vi": "mo",
+    "translations": [
+        {
+            "de": "Raum, Hohlraum, begrenzter Bereich",
+            "en": "space, hollow, enclosed open area",
+            "et": "koht, piiratud ala, ruum",
+            "hu": "terület, völgy, bekerített nyílt terület",
+            "nl": "ruimte, ommuurd open gebied",
+            "pl": "otawrta przestrzeń",
+            "ru": "пространство"
+        }
+    ],
+    "pronunciation": [
+        "mo",
+        1
+    ],
+    "type": "n"
+}

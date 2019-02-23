@@ -1,0 +1,20 @@
+{
+    "na'vi": "masat",
+    "translations": [
+        {
+            "de": "Brustpanzer, Harnisch",
+            "en": "breastplate (armor)",
+            "et": "rinnarüü (sõjas)",
+            "hu": "mellvért (páncél)",
+            "nl": "borstplaat (bewapening)",
+            "pl": "napierśnik (pancerz)",
+            "ru": "нагрудник (вооружение)",
+            "sv": "bröstplåt (rustning)"
+        }
+    ],
+    "pronunciation": [
+        "ma-sat",
+        1
+    ],
+    "type": "n"
+}

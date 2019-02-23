@@ -1,0 +1,21 @@
+{
+    "na'vi": "kulat",
+    "translations": [
+        {
+            "de": "hervorbringen, offenbaren, enthüllen, aufdecken (wörtlich und übertragen)",
+            "en": "reveal, bring forth, uncover (literally and metaphorically)",
+            "et": "avaldama, paljastama, ilmvalgele tooma (nii otseselt kui ka metafooriliselt)",
+            "hu": "felfed, kimutat, leleplez (szó szerint és átvitt értelemben is)",
+            "nl": "openbaren, voortbrengen (letterlijk, en als metafoor)",
+            "pl": "odsłaniać, ujawniać, odkrywać (dosłownie i w przenośni)",
+            "ru": "обнаруживать, раскрывать (метафорически)",
+            "sv": "avslöja, lägga fram, avtäcka (bokstavligt och metaforiskt)"
+        }
+    ],
+    "pronunciation": [
+        "ku-lat",
+        1
+    ],
+    "infixes": "k.ul.at",
+    "type": "v:tr"
+}

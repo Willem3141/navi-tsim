@@ -1,0 +1,20 @@
+{
+    "na'vi": "yawnetu",
+    "translations": [
+        {
+            "de": "geliebte Person",
+            "en": "loved one",
+            "et": "armastatu",
+            "hu": "szeretett személy",
+            "nl": "geliefde",
+            "pl": "ukochany (osoba kochana)",
+            "ru": "любимый, возлюбленный",
+            "sv": "en älskad, älskling"
+        }
+    ],
+    "pronunciation": [
+        "yaw-ne-tu",
+        1
+    ],
+    "type": "n"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "tsawa",
+    "translations": [
+        {
+            "de": "das (Relativpronomen)",
+            "en": "that",
+            "et": "see, mis",
+            "hu": "hogy (alárendelő tagmondat jelző)",
+            "nl": "dat",
+            "pl": "który",
+            "ru": "что",
+            "sv": "den, det, som (bisatsmarkör)"
+        }
+    ],
+    "pronunciation": [
+        "tsa-wa",
+        1
+    ],
+    "type": "ctr"
+}

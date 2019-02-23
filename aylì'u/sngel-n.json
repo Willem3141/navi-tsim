@@ -1,0 +1,20 @@
+{
+    "na'vi": "sngel",
+    "translations": [
+        {
+            "de": "Abfall, Müll, Unrat",
+            "en": "garbage, trash, rubbish",
+            "et": "prügi, saast",
+            "hu": "szemét",
+            "nl": "afval, vuilnis, troep",
+            "pl": "śmieć, odpadek",
+            "ru": "мусор, отходы",
+            "sv": "skräp"
+        }
+    ],
+    "pronunciation": [
+        "sngel",
+        1
+    ],
+    "type": "n"
+}

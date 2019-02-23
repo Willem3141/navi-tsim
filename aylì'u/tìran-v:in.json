@@ -1,0 +1,21 @@
+{
+    "na'vi": "tìran",
+    "translations": [
+        {
+            "de": "laufen, wandern, gehen",
+            "en": "walk",
+            "et": "käima, jalutama",
+            "hu": "sétál",
+            "nl": "lopen",
+            "pl": "iść",
+            "ru": "идти, ходить пешком",
+            "sv": "gå"
+        }
+    ],
+    "pronunciation": [
+        "tì-ran",
+        2
+    ],
+    "infixes": "t.ìr.an",
+    "type": "v:in"
+}

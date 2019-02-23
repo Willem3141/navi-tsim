@@ -1,0 +1,21 @@
+{
+    "na'vi": "virä",
+    "translations": [
+        {
+            "de": "ausbreiten, vermehren, wuchern",
+            "en": "spread, proliferate",
+            "et": "levima, vohama",
+            "hu": "terjed, szaporodik, sokasodik",
+            "nl": "verspreiden",
+            "pl": "rozprzestrzeniać się, mnożyć",
+            "ru": "распространятся",
+            "sv": "sprida, föröka"
+        }
+    ],
+    "pronunciation": [
+        "vi-rä",
+        2
+    ],
+    "infixes": "v.ir.ä",
+    "type": "v:?"
+}

@@ -1,0 +1,21 @@
+{
+    "na'vi": "sunu",
+    "translations": [
+        {
+            "de": "gefallen, gern mögen, Freude bringen",
+            "en": "be pleasing or likeable, bring enjoyment",
+            "et": "olema meeldiv, rahuldust pakkuv",
+            "hu": "megnyerő(nek) vagy szeretetre méltó(nak lenni)",
+            "nl": "prettig of leuk zijn, plezier brengen",
+            "pl": "być przyjemnym, dawać przyjemność",
+            "ru": "быть приятным, желательным, радующим",
+            "sv": "vara tilltalande eller sympatisk, något som ger njutning"
+        }
+    ],
+    "pronunciation": [
+        "su-nu",
+        1
+    ],
+    "infixes": "s.un.u",
+    "type": "v:in"
+}

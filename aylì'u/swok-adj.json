@@ -1,0 +1,20 @@
+{
+    "na'vi": "swok",
+    "translations": [
+        {
+            "de": "heilig",
+            "en": "sacred",
+            "et": "püha",
+            "hu": "szent",
+            "nl": "heilig",
+            "pl": "święty",
+            "ru": "священный",
+            "sv": "helig"
+        }
+    ],
+    "pronunciation": [
+        "swok",
+        1
+    ],
+    "type": "adj"
+}

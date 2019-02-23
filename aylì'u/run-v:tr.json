@@ -1,0 +1,21 @@
+{
+    "na'vi": "run",
+    "translations": [
+        {
+            "de": "finden, entdecken",
+            "en": "find, discover",
+            "et": "leidma, avastama",
+            "hu": "(meg)talál, felfedez",
+            "nl": "vinden, uitvinden",
+            "pl": "odkryć, wynaleźć",
+            "ru": "обнаруживать, раскрывать, находить",
+            "sv": "hitta, upptäcka"
+        }
+    ],
+    "pronunciation": [
+        "run",
+        1
+    ],
+    "infixes": "r..un",
+    "type": "v:tr"
+}

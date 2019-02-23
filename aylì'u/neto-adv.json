@@ -1,0 +1,19 @@
+{
+    "na'vi": "neto",
+    "translations": [
+        {
+            "de": "weg (Richtung)",
+            "en": "away (direction)",
+            "et": "eemale (suund)",
+            "hu": "el(felé)",
+            "nl": "weg (richting)",
+            "ru": "от (по направлению)",
+            "sv": "bort (riktning)"
+        }
+    ],
+    "pronunciation": [
+        "ne-to",
+        2
+    ],
+    "type": "adv"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "skxir",
+    "translations": [
+        {
+            "de": "verwunden",
+            "en": "wound",
+            "et": "haavama, vigastama",
+            "hu": "megsebesít",
+            "nl": "verwonden",
+            "pl": "ranić",
+            "ru": "ранить",
+            "sv": "skada, såra"
+        }
+    ],
+    "pronunciation": [
+        "skxir",
+        1
+    ],
+    "type": "n:si"
+}

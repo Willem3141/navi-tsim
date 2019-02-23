@@ -1,0 +1,19 @@
+{
+    "na'vi": "syeha",
+    "translations": [
+        {
+            "de": "Atem",
+            "en": "breath",
+            "et": "hingus, hingetõmme",
+            "hu": "lélegzet",
+            "nl": "adem",
+            "pl": "oddech",
+            "ru": "дыхание"
+        }
+    ],
+    "pronunciation": [
+        "sye-ha",
+        1
+    ],
+    "type": "n"
+}

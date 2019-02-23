@@ -1,0 +1,21 @@
+{
+    "na'vi": "nokx",
+    "translations": [
+        {
+            "de": "gebären",
+            "en": "give birth to",
+            "et": "sünnitama",
+            "hu": "szül (valakit)",
+            "nl": "baren",
+            "pl": "urodzić",
+            "ru": "породить",
+            "sv": "föda"
+        }
+    ],
+    "pronunciation": [
+        "nokx",
+        1
+    ],
+    "infixes": "n..okx",
+    "type": "v:tr"
+}

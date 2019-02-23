@@ -1,0 +1,19 @@
+{
+    "na'vi": "karyunay",
+    "translations": [
+        {
+            "de": "Lehrling (zum Lehrer), Referendar",
+            "en": "apprentice teacher",
+            "et": "õpetajaks õppija",
+            "hu": "leendő tanár",
+            "nl": "leraar in opleiding",
+            "pl": "początkujący nauczyciel",
+            "ru": "помощник учителя"
+        }
+    ],
+    "pronunciation": [
+        "kar-yu-nay",
+        3
+    ],
+    "type": "n"
+}

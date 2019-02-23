@@ -1,0 +1,21 @@
+{
+    "na'vi": "lok",
+    "translations": [
+        {
+            "de": "nahe bei, nahe an",
+            "en": "close to",
+            "et": "lähedal (millelegi)",
+            "hu": "közel(ében)",
+            "nl": "dicht bij",
+            "pl": "blisko",
+            "ru": "рядом (с чемлибо), близко (к чемулибо)",
+            "sv": "nära, tätt intill"
+        }
+    ],
+    "pronunciation": [
+        "lok",
+        1
+    ],
+    "infixes": "l..ok",
+    "type": "adp"
+}

@@ -1,0 +1,21 @@
+{
+    "na'vi": "za'u",
+    "translations": [
+        {
+            "de": "kommen",
+            "en": "come",
+            "et": "tulema",
+            "hu": "jön",
+            "nl": "komen",
+            "pl": "przychodzić",
+            "ru": "идти, приходить",
+            "sv": "komma"
+        }
+    ],
+    "pronunciation": [
+        "za-'u",
+        1
+    ],
+    "infixes": "z.a'.u",
+    "type": "v:in"
+}

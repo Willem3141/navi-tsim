@@ -1,0 +1,21 @@
+{
+    "na'vi": "yur",
+    "translations": [
+        {
+            "de": "waschen; reinigen, säubern (z.B. Wunde)",
+            "en": "wash",
+            "et": "pesema",
+            "hu": "mos",
+            "nl": "wassen",
+            "pl": "myć",
+            "ru": "мыть, стирать",
+            "sv": "tvätta"
+        }
+    ],
+    "pronunciation": [
+        "yur",
+        1
+    ],
+    "infixes": "y..ur",
+    "type": "v:tr"
+}

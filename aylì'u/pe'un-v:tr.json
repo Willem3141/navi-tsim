@@ -1,0 +1,21 @@
+{
+    "na'vi": "pe'un",
+    "translations": [
+        {
+            "de": "entscheiden, beschließen",
+            "en": "decide",
+            "et": "otsustama",
+            "hu": "(el)dönt",
+            "nl": "beslissen",
+            "pl": "decydować",
+            "ru": "решать",
+            "sv": "bestämma sig, besluta, avgöra"
+        }
+    ],
+    "pronunciation": [
+        "pe-'un",
+        1
+    ],
+    "infixes": "p.e'.un",
+    "type": "v:tr"
+}

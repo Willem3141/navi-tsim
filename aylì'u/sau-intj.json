@@ -1,0 +1,19 @@
+{
+    "na'vi": "sau",
+    "translations": [
+        {
+            "de": "Ausruf der Anstrengung, \"Uff!\"",
+            "en": "exclamation upon exertion, urgh",
+            "et": "pingutuse väljendamiseks ('mmh', 'pff', 'uhh')",
+            "hu": "felkiáltás erőlködés közben, uff! hórukk!",
+            "nl": "uitroep van uitputting",
+            "ru": "кряхтение, сопровождающее напряженное усилие междометие",
+            "sv": "uttryck av ansträngning, uff, urgh"
+        }
+    ],
+    "pronunciation": [
+        "sa-u",
+        2
+    ],
+    "type": "intj"
+}

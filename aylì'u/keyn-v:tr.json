@@ -1,0 +1,17 @@
+{
+    "na'vi": "keyn",
+    "translations": [
+        {
+            "en": "put down",
+            "et": "langetama, maha panema",
+            "hu": "letesz",
+            "nl": "neerzetten"
+        }
+    ],
+    "pronunciation": [
+        "keyn",
+        1
+    ],
+    "infixes": "k..eyn",
+    "type": "v:tr"
+}

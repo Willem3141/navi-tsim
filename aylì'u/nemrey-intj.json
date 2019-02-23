@@ -1,0 +1,20 @@
+{
+    "na'vi": "nemrey",
+    "translations": [
+        {
+            "de": "in einer Weise, als wäre das Leben in Gefahr",
+            "en": "in a fashion as if one's life were at stake",
+            "et": "elu eest (midagi tegema)",
+            "hu": "Úgy, mintha kockán forogna az élete.",
+            "nl": "op een manier alsof iemand's leven op het spel staat",
+            "pl": "jak walcząc o życie",
+            "ru": "как будто жизнь была поставлена на карту",
+            "sv": "på ett sätt som om ens liv står på spel"
+        }
+    ],
+    "pronunciation": [
+        "nem-rey",
+        2
+    ],
+    "type": "intj"
+}

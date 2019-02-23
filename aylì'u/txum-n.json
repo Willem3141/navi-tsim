@@ -1,0 +1,20 @@
+{
+    "na'vi": "txum",
+    "translations": [
+        {
+            "de": "Gift",
+            "en": "poison",
+            "et": "mürk",
+            "hu": "méreg",
+            "nl": "vergif",
+            "pl": "trucizna",
+            "ru": "яд, отрава",
+            "sv": "gift"
+        }
+    ],
+    "pronunciation": [
+        "txum",
+        1
+    ],
+    "type": "n"
+}

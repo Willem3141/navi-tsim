@@ -1,0 +1,20 @@
+{
+    "na'vi": "kay",
+    "translations": [
+        {
+            "de": "in (zeitlich)",
+            "en": "from now (in the future)",
+            "et": "tulevikus (aastat, kuud, vms.)",
+            "hu": "mostantól (a jövőben)",
+            "nl": "van nu af aan (in de toekomst)",
+            "pl": "za, od teraz (o przyszłości)",
+            "ru": "через (о времени)",
+            "sv": "från och med nu (i framtiden)"
+        }
+    ],
+    "pronunciation": [
+        "kay",
+        1
+    ],
+    "type": "adp"
+}

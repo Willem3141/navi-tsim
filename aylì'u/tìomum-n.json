@@ -1,0 +1,20 @@
+{
+    "na'vi": "tìomum",
+    "translations": [
+        {
+            "de": "Wissen",
+            "en": "knowledge",
+            "et": "teadmised (ainsus)",
+            "hu": "tudás",
+            "nl": "kennis",
+            "pl": "wiedza",
+            "ru": "знание",
+            "sv": "kunskap"
+        }
+    ],
+    "pronunciation": [
+        "tì-o-mum",
+        2
+    ],
+    "type": "n"
+}

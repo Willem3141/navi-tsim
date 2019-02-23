@@ -1,0 +1,19 @@
+{
+    "na'vi": "kangay",
+    "translations": [
+        {
+            "de": "bestätigen, bestärken, für gültig erklären",
+            "en": "validate, confirm",
+            "et": "kindlaks tegema, kinnitama, valideerima",
+            "hu": "érvényesít, megerősít",
+            "nl": "valideren, bevestigen",
+            "pl": "zatwierdzić, potwierdzić",
+            "ru": "подтвердить"
+        }
+    ],
+    "pronunciation": [
+        "ka-ngay",
+        2
+    ],
+    "type": "n:si"
+}

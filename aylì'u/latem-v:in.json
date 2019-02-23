@@ -1,0 +1,21 @@
+{
+    "na'vi": "latem",
+    "translations": [
+        {
+            "de": "ändern (sich), verändern (sich)",
+            "en": "change",
+            "et": "muutma",
+            "hu": "változik",
+            "nl": "veranderen",
+            "pl": "zmieniać",
+            "ru": "меняться, менять",
+            "sv": "ändra"
+        }
+    ],
+    "pronunciation": [
+        "la-tem",
+        1
+    ],
+    "infixes": "l.at.em",
+    "type": "v:in"
+}

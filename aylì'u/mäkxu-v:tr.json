@@ -1,0 +1,21 @@
+{
+    "na'vi": "mäkxu",
+    "translations": [
+        {
+            "de": "unterbrechen, aus der harmonischen Balance bringen (für Aktivitäten, Umstände)",
+            "en": "interrupt, throw out of harmonious balance",
+            "et": "segama, rikkuma, häirima",
+            "hu": "megszakít, félbeszakít, kizökkent",
+            "nl": "onderbreken, uit harmonische balans gooien",
+            "pl": "przerywać, wyprowadzać z równowagi",
+            "ru": "нарушение гармонии",
+            "sv": "avbryta, störa, kasta ut ur en harmonisk balans "
+        }
+    ],
+    "pronunciation": [
+        "mä-kxu",
+        2
+    ],
+    "infixes": "m..äkxu",
+    "type": "v:tr"
+}

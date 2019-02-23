@@ -1,0 +1,20 @@
+{
+    "na'vi": "to",
+    "translations": [
+        {
+            "de": "Komparativ Marker als (verhält sich wie eine adp.)",
+            "en": "comparative marker than (behaves like an adp.)",
+            "et": "võrdlemise märkija kui ",
+            "hu": "középfokot jelez mint",
+            "nl": "vergelijkingsmarkeerder dan (gedraagt zich als adp.)",
+            "pl": "znacznik stopniowania niż (zachowuje się jak przyim.)",
+            "ru": "маркер сравнения чем (действует как предлог)",
+            "sv": "comparative marker than (behaves like an adp.)"
+        }
+    ],
+    "pronunciation": [
+        "to",
+        1
+    ],
+    "type": "part"
+}

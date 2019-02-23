@@ -1,0 +1,20 @@
+{
+    "na'vi": "tsukyom",
+    "translations": [
+        {
+            "de": "essbar",
+            "en": "edible",
+            "et": "söödav",
+            "hu": "ehető",
+            "nl": "eetbaar",
+            "pl": "jadalny",
+            "ru": "съедобное",
+            "sv": "ätbar"
+        }
+    ],
+    "pronunciation": [
+        "tsuk-yom",
+        2
+    ],
+    "type": "adj"
+}

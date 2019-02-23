@@ -1,0 +1,19 @@
+{
+    "na'vi": "srungsiyu",
+    "translations": [
+        {
+            "de": "Helfer, Gehilfe, Assistent",
+            "en": "assistant, helper",
+            "et": "abistaja, assistent",
+            "hu": "segéd, segítő",
+            "nl": "assistent, helper",
+            "pl": "pomocnik, asystent",
+            "ru": "помощник"
+        }
+    ],
+    "pronunciation": [
+        "srung-si-yu",
+        1
+    ],
+    "type": "n"
+}

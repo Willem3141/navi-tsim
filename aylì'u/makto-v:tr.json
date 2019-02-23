@@ -1,0 +1,21 @@
+{
+    "na'vi": "makto",
+    "translations": [
+        {
+            "de": "reiten",
+            "en": "ride",
+            "et": "ratsutama, lendama (loomaga), sõitma",
+            "hu": "lovagol, megül",
+            "nl": "rijden",
+            "pl": "jechać (wierzchem)",
+            "ru": "ехать (верхом)",
+            "sv": "rida"
+        }
+    ],
+    "pronunciation": [
+        "mak-to",
+        1
+    ],
+    "infixes": "m.akt.o",
+    "type": "v:tr"
+}

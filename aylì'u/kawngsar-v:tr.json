@@ -1,0 +1,21 @@
+{
+    "na'vi": "kawngsar",
+    "translations": [
+        {
+            "de": "ausbeuten",
+            "en": "exploit",
+            "et": "ära kasutama, halvasti kohtlema",
+            "hu": "kihasznál",
+            "nl": "uitbuiten",
+            "pl": "wyzyskiwać, nadużywać",
+            "ru": "использовать",
+            "sv": "utnyttja"
+        }
+    ],
+    "pronunciation": [
+        "kawng-sar",
+        1
+    ],
+    "infixes": "kawngs..ar",
+    "type": "v:tr"
+}

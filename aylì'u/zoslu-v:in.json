@@ -1,0 +1,21 @@
+{
+    "na'vi": "zoslu",
+    "translations": [
+        {
+            "de": "gut werden, geheilt sein (ii)",
+            "en": "heal, become well, get fixed (ii)",
+            "et": "paranema, korda saama (e)",
+            "hu": "(meg)gyógyul, javul",
+            "nl": "heel, word gezond (ii)",
+            "pl": "goić się, dochodzić do siebie, ulegać poprawie",
+            "ru": "выздоравливать",
+            "sv": "hela, bli bra, fixas"
+        }
+    ],
+    "pronunciation": [
+        "zo-slu",
+        1
+    ],
+    "infixes": "zosl..u",
+    "type": "v:in"
+}

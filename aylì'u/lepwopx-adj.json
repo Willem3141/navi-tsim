@@ -1,0 +1,20 @@
+{
+    "na'vi": "lepwopx",
+    "translations": [
+        {
+            "de": "wolkig, bewölkt",
+            "en": "cloudy",
+            "et": "pilvine",
+            "hu": "felhős",
+            "nl": "bewolkt",
+            "pl": "pochmurny",
+            "ru": "облачно",
+            "sv": "molnig"
+        }
+    ],
+    "pronunciation": [
+        "lep-wopx",
+        2
+    ],
+    "type": "adj"
+}

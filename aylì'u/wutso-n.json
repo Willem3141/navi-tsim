@@ -1,0 +1,20 @@
+{
+    "na'vi": "wutso",
+    "translations": [
+        {
+            "de": "Abendessen, Mahlzeit",
+            "en": "dinner, served meal",
+            "et": "õhtusöök, serveeritud söök",
+            "hu": "vacsora",
+            "nl": "maaltijd",
+            "pl": "kolacja, obiad, serwowany posiłek",
+            "ru": "прием пищи, еда",
+            "sv": "middag, serverad måltid"
+        }
+    ],
+    "pronunciation": [
+        "wu-tso",
+        1
+    ],
+    "type": "n"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "ha",
+    "translations": [
+        {
+            "de": "so, also, daher, in diesem Fall",
+            "en": "so, in that case",
+            "et": "sel juhul, siis",
+            "hu": "úgy, akkor, abban az esetben",
+            "nl": "dus, in dat geval",
+            "pl": "więc, w takim razie",
+            "ru": "так что, в таком случае",
+            "sv": "så, i så fall"
+        }
+    ],
+    "pronunciation": [
+        "ha",
+        1
+    ],
+    "type": "adv"
+}

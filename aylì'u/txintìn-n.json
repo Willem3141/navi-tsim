@@ -1,0 +1,20 @@
+{
+    "na'vi": "txintìn",
+    "translations": [
+        {
+            "de": "Beruf, Hauptbeschäftigung in der Gesellschaft",
+            "en": "occupation, primary role in society",
+            "et": "amet, peamine roll ühiskonnas",
+            "hu": "foglalkozás, elsődleges szerep a társadalomban",
+            "nl": "bezigheid, primaire rol in de gemeenschap",
+            "pl": "zawód, rola w społeczeństwie",
+            "ru": "деятельность, основная роль в обществе",
+            "sv": "yrke, roll i samhället"
+        }
+    ],
+    "pronunciation": [
+        "txin-tìn",
+        1
+    ],
+    "type": "n"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "talioang",
+    "translations": [
+        {
+            "de": "Sturmbestie (sturmbeest), bovindicum monocerii",
+            "en": "sturmbeest",
+            "et": "Sarvpiison",
+            "hu": "viharbölény (pandorai állatfaj)",
+            "nl": "stormbeest",
+            "pl": "sturmbeest",
+            "ru": "штормбык",
+            "sv": "sturmbeest (varelse som lever på Pandora)"
+        }
+    ],
+    "pronunciation": [
+        "tal-i-o-ang",
+        1
+    ],
+    "type": "n"
+}

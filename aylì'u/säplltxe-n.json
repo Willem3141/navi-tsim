@@ -1,0 +1,20 @@
+{
+    "na'vi": "säplltxe",
+    "translations": [
+        {
+            "de": "Aussage, Stellungnahme, Bericht, Statement",
+            "en": "statement",
+            "et": "teadaanne, väide",
+            "hu": "állítás",
+            "nl": "verklaring, uitdrukking",
+            "pl": "stwierdzenie, oświadczenie",
+            "ru": "утверждение",
+            "sv": "uttalande"
+        }
+    ],
+    "pronunciation": [
+        "sä-pll-txe",
+        3
+    ],
+    "type": "n"
+}

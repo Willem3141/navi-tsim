@@ -1,0 +1,21 @@
+{
+    "na'vi": "zo",
+    "translations": [
+        {
+            "de": "gutgehen, intakt sein; sein, wie es die Natur vorgesehen hat",
+            "en": "be well, be intact, be as it should be, work correctly or as nature intended",
+            "et": "hästi olema., olema nii, nagu peab., töötama nii, nagu ette nähtud.",
+            "hu": "jól lenni, rendben lenni, rendben működni",
+            "nl": "gezond zijn, goed functioneren, zijn zoals het hoort",
+            "pl": "być w dobrym stanie, być nienaruszonym, działać poprawnie lub w naturalny sposób",
+            "ru": "быть в хорошем состоянии, быть «как следует» или в соответствии с природой",
+            "sv": "vara hälsosam, vara intakt, vara som det ska vara eller som naturen menat"
+        }
+    ],
+    "pronunciation": [
+        "zo",
+        1
+    ],
+    "infixes": "z..o",
+    "type": "v:in"
+}

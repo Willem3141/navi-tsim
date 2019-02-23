@@ -1,0 +1,20 @@
+{
+    "na'vi": "venu",
+    "translations": [
+        {
+            "de": "Fuß",
+            "en": "foot",
+            "et": "jalg",
+            "hu": "lábfej",
+            "nl": "voet",
+            "pl": "stopa",
+            "ru": "нога (ступня)",
+            "sv": "fot"
+        }
+    ],
+    "pronunciation": [
+        "ve-nu",
+        1
+    ],
+    "type": "n"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "syo",
+    "translations": [
+        {
+            "de": "leicht (Gewicht)",
+            "en": "light (physical weight), lightweight",
+            "et": "kerge (füüsiline mass)",
+            "hu": "könnyű (fizikai értelemben)",
+            "nl": "licht (fysiek gewicht, lichtgewicht)",
+            "pl": "lekki",
+            "ru": "легкий (физический вес)",
+            "sv": "lätt (fysisk vikt)"
+        }
+    ],
+    "pronunciation": [
+        "syo",
+        1
+    ],
+    "type": "adj"
+}

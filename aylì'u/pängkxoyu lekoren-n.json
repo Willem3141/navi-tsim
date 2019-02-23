@@ -1,0 +1,16 @@
+{
+    "na'vi": "pängkxoyu lekoren",
+    "translations": [
+        {
+            "de": "Anwalt, Rechtsanwalt",
+            "en": "lawyer",
+            "et": "advokaat",
+            "hu": "ügyvéd, jogász",
+            "nl": "advocaat",
+            "pl": "prawnik",
+            "ru": "юрист",
+            "sv": "advokat"
+        }
+    ],
+    "type": "n"
+}

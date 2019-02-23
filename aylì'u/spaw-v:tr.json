@@ -1,0 +1,21 @@
+{
+    "na'vi": "spaw",
+    "translations": [
+        {
+            "de": "glauben",
+            "en": "believe",
+            "et": "uskuma, tõeks pidama",
+            "hu": "hisz",
+            "nl": "geloven",
+            "pl": "wierzyć",
+            "ru": "верить",
+            "sv": "tro"
+        }
+    ],
+    "pronunciation": [
+        "spaw",
+        1
+    ],
+    "infixes": "sp..aw",
+    "type": "v:tr"
+}

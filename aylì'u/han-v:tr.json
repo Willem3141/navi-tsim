@@ -1,0 +1,17 @@
+{
+    "na'vi": "han",
+    "translations": [
+        {
+            "en": "lose",
+            "et": "ära kaotama",
+            "hu": "elveszít",
+            "nl": "verliezen"
+        }
+    ],
+    "pronunciation": [
+        "han",
+        1
+    ],
+    "infixes": "h..an",
+    "type": "v:tr"
+}

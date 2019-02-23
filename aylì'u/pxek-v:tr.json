@@ -1,0 +1,19 @@
+{
+    "na'vi": "pxek",
+    "translations": [
+        {
+            "de": "treten, schubsen",
+            "en": "kick, shove",
+            "et": "lööma, laksama",
+            "hu": "rúg, lök",
+            "nl": "trappen, duwen",
+            "ru": "толчок, пинок"
+        }
+    ],
+    "pronunciation": [
+        "pxek",
+        1
+    ],
+    "infixes": "px..ek",
+    "type": "v:tr"
+}

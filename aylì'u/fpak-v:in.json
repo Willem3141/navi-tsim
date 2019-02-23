@@ -1,0 +1,21 @@
+{
+    "na'vi": "fpak",
+    "translations": [
+        {
+            "de": "zögern, sich zurückhalten, Tätigkeit unterbrechen/einstellen",
+            "en": "hold off, suspend action",
+            "et": "tagasi hoidma, peatama tegevust",
+            "hu": "abbahagy, felfüggeszt (a cselekvés folytatódni fog)",
+            "nl": "actie uitstellen, wachten",
+            "pl": "wstrzymywać, opóźniać",
+            "ru": "приостанавливать, откладывать (какоелибо дело)",
+            "sv": "avvakta, avbryta åtgärder"
+        }
+    ],
+    "pronunciation": [
+        "fpak",
+        1
+    ],
+    "infixes": "fp..ak",
+    "type": "v:in"
+}

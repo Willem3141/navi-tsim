@@ -1,0 +1,20 @@
+{
+    "na'vi": "txur",
+    "translations": [
+        {
+            "de": "stark, kräftig (physisch)",
+            "en": "strong (physically)",
+            "et": "tugev (füüsiliselt)",
+            "hu": "erős (fizikailag/testileg)",
+            "nl": "sterk (fysiek)",
+            "pl": "silny (fizycznie)",
+            "ru": "сильный, крепкий, здоровый",
+            "sv": "stark (fysiskt)"
+        }
+    ],
+    "pronunciation": [
+        "txur",
+        1
+    ],
+    "type": "adj"
+}

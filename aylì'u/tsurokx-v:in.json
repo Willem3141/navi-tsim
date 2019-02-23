@@ -1,0 +1,21 @@
+{
+    "na'vi": "tsurokx",
+    "translations": [
+        {
+            "de": "ausruhen (sich), ruhen, Pause machen, erholen",
+            "en": "rest",
+            "et": "puhkama",
+            "hu": "pihenni",
+            "nl": "rusten",
+            "pl": "odpoczywać",
+            "ru": "отдыхать",
+            "sv": "vila"
+        }
+    ],
+    "pronunciation": [
+        "tsu-rokx",
+        2
+    ],
+    "infixes": "ts.ur.okx",
+    "type": "v:in"
+}

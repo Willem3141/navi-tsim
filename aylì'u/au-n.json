@@ -1,0 +1,20 @@
+{
+    "na'vi": "au",
+    "translations": [
+        {
+            "de": "Trommel (aus Haut/Fell)",
+            "en": "drum (made of skin)",
+            "et": "trumm (valmistatud nahast)",
+            "hu": "dob (bőrből készült)",
+            "nl": "trommel (gemaakt van huiden)",
+            "pl": "bęben (zrobiony ze skóry)",
+            "ru": "барабан из кожи",
+            "sv": "trumma (gjord av skinn)"
+        }
+    ],
+    "pronunciation": [
+        "a-u",
+        1
+    ],
+    "type": "n"
+}

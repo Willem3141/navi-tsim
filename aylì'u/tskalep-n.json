@@ -1,0 +1,20 @@
+{
+    "na'vi": "tskalep",
+    "translations": [
+        {
+            "de": "Armbrust (engl. crossbow)",
+            "en": "crossbow",
+            "et": "amb",
+            "hu": "számszeríj, nyílpuska",
+            "nl": "kruisboog",
+            "pl": "kusza",
+            "ru": "арбалет",
+            "sv": "armborst"
+        }
+    ],
+    "pronunciation": [
+        "tska-lep",
+        1
+    ],
+    "type": "n"
+}

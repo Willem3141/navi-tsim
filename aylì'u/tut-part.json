@@ -1,0 +1,20 @@
+{
+    "na'vi": "tut",
+    "translations": [
+        {
+            "de": "Partikel der Weiterführung (z.B. nga tut und du? )",
+            "en": "continuation marker",
+            "et": "vestluse jätkamise märkija",
+            "hu": "folytatás jelző (korábban elhangzott mondat megismétlésére szolgál)",
+            "nl": "voortgangsmarkeerder",
+            "pl": "oznaczenie kontynuacji",
+            "ru": "побуждение собеседника к высказыванию",
+            "sv": "kontinuerlig markör"
+        }
+    ],
+    "pronunciation": [
+        "tut",
+        1
+    ],
+    "type": "part"
+}

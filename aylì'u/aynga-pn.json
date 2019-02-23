@@ -1,0 +1,20 @@
+{
+    "na'vi": "aynga",
+    "translations": [
+        {
+            "de": "ihr (alle)",
+            "en": "you all, you (pl.)",
+            "et": "teie",
+            "hu": "ti sokan",
+            "nl": "jullie allen, jullie",
+            "pl": "wy wszyscy, wy (l.mn.)",
+            "ru": "вы (инклюзив)",
+            "sv": "ni alla, ni"
+        }
+    ],
+    "pronunciation": [
+        "ay-nga",
+        2
+    ],
+    "type": "pn"
+}

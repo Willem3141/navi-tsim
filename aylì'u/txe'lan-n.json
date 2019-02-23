@@ -1,0 +1,20 @@
+{
+    "na'vi": "txe'lan",
+    "translations": [
+        {
+            "de": "Herz",
+            "en": "heart",
+            "et": "süda",
+            "hu": "szív",
+            "nl": "hart",
+            "pl": "serce",
+            "ru": "сердце",
+            "sv": "hjärta"
+        }
+    ],
+    "pronunciation": [
+        "txe'-lan",
+        2
+    ],
+    "type": "n"
+}

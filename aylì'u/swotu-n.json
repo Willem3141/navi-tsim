@@ -1,0 +1,20 @@
+{
+    "na'vi": "swotu",
+    "translations": [
+        {
+            "de": "heiliger Ort",
+            "en": "sacred place",
+            "et": "püha koht",
+            "hu": "szent hely",
+            "nl": "heilige plaats",
+            "pl": "święte miejsce",
+            "ru": "священное место",
+            "sv": "helig plats"
+        }
+    ],
+    "pronunciation": [
+        "swo-tu",
+        1
+    ],
+    "type": "n"
+}

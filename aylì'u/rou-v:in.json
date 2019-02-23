@@ -1,0 +1,20 @@
+{
+    "na'vi": "rou",
+    "translations": [
+        {
+            "de": "betrunken sein, sich betrinken",
+            "en": "be, or get drunk",
+            "et": "purjus olema, purju jääma (Näiteks: Rou fa pxir.",
+            "hu": "részegnek lenni, vagy berúgni",
+            "nl": "dronken zijn of worden",
+            "pl": "być pijanym, spić się",
+            "ru": "напиться"
+        }
+    ],
+    "pronunciation": [
+        "ro-u",
+        1
+    ],
+    "infixes": "r.o.u",
+    "type": "v:in"
+}

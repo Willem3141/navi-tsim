@@ -1,0 +1,20 @@
+{
+    "na'vi": "tìlam",
+    "translations": [
+        {
+            "de": "Aussehen, Erscheinungsbild",
+            "en": "appearance",
+            "et": "välimus, esinemine, nähtumine",
+            "hu": "megjelenés, kinézet",
+            "nl": "voorkomen",
+            "pl": "wygląd",
+            "ru": "внешность, внешний вид",
+            "sv": "utseende, uppträdande"
+        }
+    ],
+    "pronunciation": [
+        "tì-lam",
+        2
+    ],
+    "type": "n"
+}

@@ -1,0 +1,20 @@
+{
+    "na'vi": "tse",
+    "translations": [
+        {
+            "de": "nun, also, tja (Konversationsbeginn)",
+            "en": "well (conversation starter)",
+            "et": "noh (vestluse alustamiseks)",
+            "hu": "nos (bevezető szó társalgásnál)",
+            "nl": "nou (conversatie starter)",
+            "pl": "cóż (rozpoczęcie rozmowy)",
+            "ru": "ну (вводное междометие)",
+            "sv": "ja, tja, hursomhelst (ord som startar konversation)"
+        }
+    ],
+    "pronunciation": [
+        "tse",
+        1
+    ],
+    "type": "part"
+}

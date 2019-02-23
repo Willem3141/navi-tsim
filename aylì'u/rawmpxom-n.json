@@ -1,0 +1,19 @@
+{
+    "na'vi": "rawmpxom",
+    "translations": [
+        {
+            "de": "Blitz und Donner",
+            "en": "thunder and lightning",
+            "et": "äike ja müristamine",
+            "hu": "villámlásmennydörgés",
+            "nl": "donder en bliksem",
+            "pl": "piorun (grom i błyskawica)",
+            "ru": "гром и молния"
+        }
+    ],
+    "pronunciation": [
+        "rawm-pxom",
+        1
+    ],
+    "type": "n"
+}

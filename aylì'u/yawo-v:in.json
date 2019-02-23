@@ -1,0 +1,21 @@
+{
+    "na'vi": "yawo",
+    "translations": [
+        {
+            "de": "abheben, starten",
+            "en": "take off, launch",
+            "et": "startima, õhku tõusma",
+            "hu": "felszáll, kilő",
+            "nl": "opstijgen, lanceren",
+            "pl": "wystartować, wystrzelić",
+            "ru": "взлететь",
+            "sv": "starta, sätta igång"
+        }
+    ],
+    "pronunciation": [
+        "ya-wo",
+        2
+    ],
+    "infixes": "yaw..o",
+    "type": "v:in"
+}

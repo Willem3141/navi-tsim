@@ -1,0 +1,20 @@
+{
+    "na'vi": "mekre",
+    "translations": [
+        {
+            "de": "Nachschub, Versorgungsgüter",
+            "en": "supplies",
+            "et": "varud",
+            "hu": "ellátmány, utánpótlás",
+            "nl": "voorraad",
+            "pl": "zaopatrzenie",
+            "ru": "припасы",
+            "sv": "förnödenheter"
+        }
+    ],
+    "pronunciation": [
+        "mek-re",
+        1
+    ],
+    "type": "n"
+}

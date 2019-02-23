@@ -1,0 +1,21 @@
+{
+    "na'vi": "tsyär",
+    "translations": [
+        {
+            "de": "ablehnen, abweisen, zurückweisen",
+            "en": "reject",
+            "et": "tagasi lükkama, ära põlgama",
+            "hu": "elutasít",
+            "nl": "afwijzen, verwerpen",
+            "pl": "odrzucać",
+            "ru": "освободить",
+            "sv": "neka, avvisa"
+        }
+    ],
+    "pronunciation": [
+        "tsyär",
+        1
+    ],
+    "infixes": "tsy..är",
+    "type": "v:tr"
+}

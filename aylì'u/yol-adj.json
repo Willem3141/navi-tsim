@@ -1,0 +1,20 @@
+{
+    "na'vi": "yol",
+    "translations": [
+        {
+            "de": "kurz (kurze Zeit)",
+            "en": "short (of time)",
+            "et": "lühike (aeg)",
+            "hu": "hosszú (idő)",
+            "nl": "lang (tijd)",
+            "pl": "krótki (o czaise)",
+            "ru": "долгий, длительный, продолжительный по времени",
+            "sv": "kort (om tid)"
+        }
+    ],
+    "pronunciation": [
+        "yol",
+        1
+    ],
+    "type": "adj"
+}

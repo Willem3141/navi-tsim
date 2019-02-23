@@ -1,0 +1,20 @@
+{
+    "na'vi": "pizayu",
+    "translations": [
+        {
+            "de": "Vorfahre, Ahne",
+            "en": "ancestor",
+            "et": "esivanem",
+            "hu": "ős",
+            "nl": "voorouder",
+            "pl": "przodek",
+            "ru": "прародитель, предок",
+            "sv": "förfader"
+        }
+    ],
+    "pronunciation": [
+        "pi-za-yu",
+        1
+    ],
+    "type": "n"
+}

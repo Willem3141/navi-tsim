@@ -1,0 +1,21 @@
+{
+    "na'vi": "'eyng",
+    "translations": [
+        {
+            "de": "antworten, beantworten, erwidern",
+            "en": "answer, respond",
+            "et": "vastama",
+            "hu": "felel, válaszol",
+            "nl": "antwoorden",
+            "pl": "odpowiadać",
+            "ru": "отвечать, отзываться",
+            "sv": "svara, ge respons"
+        }
+    ],
+    "pronunciation": [
+        "'eyng",
+        1
+    ],
+    "infixes": "'..eyng",
+    "type": "v:?"
+}

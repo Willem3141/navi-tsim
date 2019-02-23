@@ -1,0 +1,20 @@
+{
+    "na'vi": "raspu'",
+    "translations": [
+        {
+            "de": "Leggins (Kriegskleidung)",
+            "en": "leggings (used in war)",
+            "et": "jalakaitsmd (kasutatakse sõjas)",
+            "hu": "lábszárvédő (harcban használatos)",
+            "nl": "beenbeschermers (gebruikt in oorlog/strijd)",
+            "pl": "nogawice (używane w walce)",
+            "ru": "краги (защитные накладки на руки и ноги для войны или стрельбы из лука)",
+            "sv": "leggings (används i krig)"
+        }
+    ],
+    "pronunciation": [
+        "ra-spu'",
+        2
+    ],
+    "type": "n"
+}

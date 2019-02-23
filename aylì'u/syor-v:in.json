@@ -1,0 +1,21 @@
+{
+    "na'vi": "syor",
+    "translations": [
+        {
+            "de": "entspannen, relaxen, chillen",
+            "en": "relax, chill out",
+            "et": "rahunema, puhakama",
+            "hu": "relaxál, kikapcsol",
+            "nl": "ontspannen",
+            "pl": "odpoczywać, rozluźniać się, uspokajać się, wyciszać się",
+            "ru": "отдыхать",
+            "sv": "slappna av, chilla"
+        }
+    ],
+    "pronunciation": [
+        "syor",
+        1
+    ],
+    "infixes": "sy..or",
+    "type": "v:in"
+}

@@ -1,0 +1,17 @@
+{
+    "na'vi": "säleymkem",
+    "translations": [
+        {
+            "de": "Protest, Einwand",
+            "en": "protest, instance of protesting",
+            "et": "protestiavaldus, meeleavaldus (konkreetne sündmus)",
+            "hu": "tiltakozás (konkrét)",
+            "nl": "protest, een moment van protesteren"
+        }
+    ],
+    "pronunciation": [
+        "sä-leym-kem",
+        3
+    ],
+    "type": "n"
+}

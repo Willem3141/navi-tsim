@@ -1,0 +1,20 @@
+{
+    "na'vi": "ngenga",
+    "translations": [
+        {
+            "de": "Sie (Höflichkeitsform von)",
+            "en": "you (honorific form)",
+            "et": "sina (austav vorm)",
+            "hu": "te (szertartásos forma)",
+            "nl": "jij, u (ceremonieel)",
+            "pl": "ty (forma grzecznościowa, zaszczytna)",
+            "ru": "ты (уважительная форма)",
+            "sv": "du (ärofull, högtidlig form)"
+        }
+    ],
+    "pronunciation": [
+        "nge-nga",
+        2
+    ],
+    "type": "pn"
+}

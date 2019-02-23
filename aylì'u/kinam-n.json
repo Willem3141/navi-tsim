@@ -1,0 +1,20 @@
+{
+    "na'vi": "kinam",
+    "translations": [
+        {
+            "de": "Bein",
+            "en": "leg",
+            "et": "jalg",
+            "hu": "láb",
+            "nl": "been",
+            "pl": "noga",
+            "ru": "нога",
+            "sv": "ben"
+        }
+    ],
+    "pronunciation": [
+        "ki-nam",
+        2
+    ],
+    "type": "n"
+}

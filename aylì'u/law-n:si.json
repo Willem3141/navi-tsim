@@ -1,0 +1,20 @@
+{
+    "na'vi": "law",
+    "translations": [
+        {
+            "de": "klar machen, verdeutlichen",
+            "en": "make clear",
+            "et": "selgitama, selgeks tegema",
+            "hu": "világossá tesz",
+            "nl": "duidelijk maken",
+            "pl": "wyjaśniać",
+            "ru": "объяснять",
+            "sv": "göra klart, förklara"
+        }
+    ],
+    "pronunciation": [
+        "law",
+        1
+    ],
+    "type": "n:si"
+}

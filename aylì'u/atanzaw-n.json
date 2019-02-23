@@ -1,0 +1,19 @@
+{
+    "na'vi": "atanzaw",
+    "translations": [
+        {
+            "de": "Blitz, gegabelter Blitz",
+            "en": "forked lightning",
+            "et": "ahelvälk",
+            "hu": "elágazó villám",
+            "nl": "gevorkte bliksem",
+            "pl": "błyskawica zygzakowata",
+            "ru": "зигзагообразная молния"
+        }
+    ],
+    "pronunciation": [
+        "a-tan-zaw",
+        2
+    ],
+    "type": "n"
+}

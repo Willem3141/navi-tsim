@@ -1,0 +1,20 @@
+{
+    "na'vi": "rewon",
+    "translations": [
+        {
+            "de": "Morgen",
+            "en": "morning",
+            "et": "hommik",
+            "hu": "reggel",
+            "nl": "ochtend",
+            "pl": "poranek",
+            "ru": "утро",
+            "sv": "morgon"
+        }
+    ],
+    "pronunciation": [
+        "re-won",
+        1
+    ],
+    "type": "n"
+}

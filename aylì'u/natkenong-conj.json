@@ -1,0 +1,20 @@
+{
+    "na'vi": "natkenong",
+    "translations": [
+        {
+            "de": "zum Beispiel, beispielsweise",
+            "en": "for example, as an example",
+            "et": "näiteks, näitena",
+            "hu": "például",
+            "nl": "bijvoorbeeld, als voorbeeld",
+            "pl": "przykładowo, na przykład",
+            "ru": "например",
+            "sv": "som exempel, till exempel,"
+        }
+    ],
+    "pronunciation": [
+        "nat-ke-nong",
+        2
+    ],
+    "type": "conj"
+}

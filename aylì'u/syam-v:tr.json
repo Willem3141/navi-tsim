@@ -1,0 +1,20 @@
+{
+    "na'vi": "syam",
+    "translations": [
+        {
+            "de": "riechen (gewollt)",
+            "en": "to smell (intentionally)",
+            "et": "nuusutama",
+            "hu": "szagol",
+            "nl": "ruiken (doelbewust)",
+            "pl": "wąchać",
+            "ru": "нюхать (намеренно)"
+        }
+    ],
+    "pronunciation": [
+        "syam",
+        1
+    ],
+    "infixes": "sy..am",
+    "type": "v:tr"
+}

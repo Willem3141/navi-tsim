@@ -1,0 +1,20 @@
+{
+    "na'vi": "sì",
+    "translations": [
+        {
+            "de": "und (connects two things, can be attached as --sÃ¬: for clauses use)",
+            "en": "and (connects two things, can be attached as sì: for clauses use)",
+            "et": "ja (connects two things, can be attached as --sÃ¬: for clauses use)",
+            "hu": "és (connects two things, can be attached as --sÃ¬: for clauses use)",
+            "nl": "en (connects two things, can be attached as --sÃ¬: for clauses use)",
+            "pl": "i (connects two things, can be attached as --sÃ¬: for clauses use)",
+            "ru": "и (connects two things, can be attached as --sÃ¬: for clauses use)",
+            "sv": "och (connects two things, can be attached as --sÃ¬: for clauses use)"
+        }
+    ],
+    "pronunciation": [
+        "sì",
+        1
+    ],
+    "type": "conj"
+}

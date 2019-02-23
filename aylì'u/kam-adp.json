@@ -1,0 +1,20 @@
+{
+    "na'vi": "kam",
+    "translations": [
+        {
+            "de": "vor (zeitlich, Zeitpunkt)",
+            "en": "ago",
+            "et": "(aastat, kuud vms,) tagasi",
+            "hu": "...előtt (időben)",
+            "nl": "geleden",
+            "pl": "od (o czasie)",
+            "ru": "назад (о времени)",
+            "sv": "sedan"
+        }
+    ],
+    "pronunciation": [
+        "kam",
+        1
+    ],
+    "type": "adp"
+}

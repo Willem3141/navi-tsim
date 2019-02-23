@@ -1,0 +1,20 @@
+{
+    "na'vi": "tìwan",
+    "translations": [
+        {
+            "de": "Geheimnis, Verschleierung, Geheimhaltung",
+            "en": "obfuscation, cover up",
+            "et": "segaseks tegemine, varjamine",
+            "hu": "összezavarrás, álcázás",
+            "nl": "verdoezelen, bedekken",
+            "pl": "zamroczenie, zaciemnienie",
+            "ru": "сокрытие",
+            "sv": "mörkläggning"
+        }
+    ],
+    "pronunciation": [
+        "tì-wan",
+        2
+    ],
+    "type": "n"
+}

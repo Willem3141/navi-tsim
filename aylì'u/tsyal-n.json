@@ -1,0 +1,20 @@
+{
+    "na'vi": "tsyal",
+    "translations": [
+        {
+            "de": "Flügel, Schwinge",
+            "en": "wing",
+            "et": "tiib",
+            "hu": "szárny",
+            "nl": "vleugel",
+            "pl": "skrzydło",
+            "ru": "крыло",
+            "sv": "vinge"
+        }
+    ],
+    "pronunciation": [
+        "tsyal",
+        1
+    ],
+    "type": "n"
+}

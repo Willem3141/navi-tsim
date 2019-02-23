@@ -1,0 +1,20 @@
+{
+    "na'vi": "kaltxì",
+    "translations": [
+        {
+            "de": "Hallo",
+            "en": "hello",
+            "et": "tere",
+            "hu": "szia!, üdvözöllek! (találkozáskor)",
+            "nl": "hallo",
+            "pl": "cześć",
+            "ru": "привет",
+            "sv": "Hej"
+        }
+    ],
+    "pronunciation": [
+        "kal-txì",
+        2
+    ],
+    "type": "intj"
+}

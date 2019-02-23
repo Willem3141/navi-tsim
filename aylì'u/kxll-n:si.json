@@ -1,0 +1,20 @@
+{
+    "na'vi": "kxll",
+    "translations": [
+        {
+            "de": "stürmen, angreifen",
+            "en": "charge",
+            "et": "ründama",
+            "hu": "lerohan, támad",
+            "nl": "(op)laden",
+            "pl": "szarżować",
+            "ru": "нападать",
+            "sv": "attack, anfall"
+        }
+    ],
+    "pronunciation": [
+        "kxll",
+        1
+    ],
+    "type": "n:si"
+}

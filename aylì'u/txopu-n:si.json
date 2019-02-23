@@ -1,0 +1,20 @@
+{
+    "na'vi": "txopu",
+    "translations": [
+        {
+            "de": "fürchten, befürchten, Angst haben",
+            "en": "be afraid",
+            "et": "kartma",
+            "hu": "félni",
+            "nl": "bang zijn",
+            "pl": "bać się",
+            "ru": "бояться",
+            "sv": "vara rädd"
+        }
+    ],
+    "pronunciation": [
+        "txo-pu",
+        1
+    ],
+    "type": "n:si"
+}

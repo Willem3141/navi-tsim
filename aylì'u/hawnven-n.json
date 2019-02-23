@@ -1,0 +1,20 @@
+{
+    "na'vi": "hawnven",
+    "translations": [
+        {
+            "de": "Schuh",
+            "en": "shoe",
+            "et": "jalats",
+            "hu": "cipő",
+            "nl": "schoen",
+            "pl": "but",
+            "ru": "обувь",
+            "sv": "sko"
+        }
+    ],
+    "pronunciation": [
+        "hawn-ven",
+        2
+    ],
+    "type": "n"
+}

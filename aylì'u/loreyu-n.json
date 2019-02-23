@@ -1,0 +1,20 @@
+{
+    "na'vi": "loreyu",
+    "translations": [
+        {
+            "de": "helicoradium spirale, schöne Spirale (Pflanze)",
+            "en": "helicoradian, beautiful spiral",
+            "et": "Iluspiraal (helicoradian)",
+            "hu": "helicoradium spirál, gyönyörű spiral (pandorai növényfaj)",
+            "nl": "helicoradium spiraal, mooie spiraal",
+            "pl": "helicoradian, piękna spirala",
+            "ru": "helicoradium spirale, прекрасная спираль",
+            "sv": "helicoradian, vacker spiral"
+        }
+    ],
+    "pronunciation": [
+        "lo-re-yu",
+        2
+    ],
+    "type": "n"
+}

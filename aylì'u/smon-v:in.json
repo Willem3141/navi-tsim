@@ -1,0 +1,21 @@
+{
+    "na'vi": "smon",
+    "translations": [
+        {
+            "de": "vertraut sein, jemanden kennen (mit Dativ)",
+            "en": "be familiar, be known (with dative)",
+            "et": "tundma, teadma ( datiivne kääne)",
+            "hu": "ismerni",
+            "nl": "familiair zijn",
+            "pl": "znać, być zaznajomionym (z formą celownika)",
+            "ru": "быть известным",
+            "sv": "känna till, känna"
+        }
+    ],
+    "pronunciation": [
+        "smon",
+        1
+    ],
+    "infixes": "sm..on",
+    "type": "v:in"
+}

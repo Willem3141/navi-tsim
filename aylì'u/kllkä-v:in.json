@@ -1,0 +1,21 @@
+{
+    "na'vi": "kllkä",
+    "translations": [
+        {
+            "de": "absteigen, hinabsteigen, heruntergehen",
+            "en": "go down, descend",
+            "et": "laskuma",
+            "hu": "leereszkedik, alászáll",
+            "nl": "afdalen, omlaag gaan",
+            "pl": "zejść",
+            "ru": "спускаться",
+            "sv": "sjunka, dala, gå ner för landning"
+        }
+    ],
+    "pronunciation": [
+        "kll-kä",
+        2
+    ],
+    "infixes": "kllk..ä",
+    "type": "v:in"
+}

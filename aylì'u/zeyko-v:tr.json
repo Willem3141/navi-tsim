@@ -1,0 +1,21 @@
+{
+    "na'vi": "zeyko",
+    "translations": [
+        {
+            "de": "heilen, reparieren",
+            "en": "heal, fix",
+            "et": "ravima, parandama",
+            "hu": "(meg)gyógyít, javít",
+            "nl": "helen, repareren",
+            "pl": "leczyć, naprawiać",
+            "ru": "излечивать",
+            "sv": "hela, fixa"
+        }
+    ],
+    "pronunciation": [
+        "zey-ko",
+        2
+    ],
+    "infixes": "zeyk..o",
+    "type": "v:tr"
+}

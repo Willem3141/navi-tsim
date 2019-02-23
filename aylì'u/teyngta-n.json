@@ -1,0 +1,20 @@
+{
+    "na'vi": "teyngta",
+    "translations": [
+        {
+            "de": "dass (indirekte FrageKonstruktion im Patiens)",
+            "en": "that answer (patientive)",
+            "et": "vastust, mida",
+            "hu": "az a válasz (tárgyeset)",
+            "nl": "dat antwoord (patientief)",
+            "pl": "odpowiedzi, która",
+            "ru": "этот ответ (винительный)",
+            "sv": "svar som (objekt)"
+        }
+    ],
+    "pronunciation": [
+        "teyng-ta",
+        1
+    ],
+    "type": "n"
+}

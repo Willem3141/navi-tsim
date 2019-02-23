@@ -1,0 +1,20 @@
+{
+    "na'vi": "eyawr",
+    "translations": [
+        {
+            "de": "korrekt, richtig, zutreffend, genau",
+            "en": "correct, right",
+            "et": "õige, veatu",
+            "hu": "helyes, jó (válasz)",
+            "nl": "juist, correct",
+            "pl": "poprawny, właściwy",
+            "ru": "верный, правильный",
+            "sv": "rätt, korrekt"
+        }
+    ],
+    "pronunciation": [
+        "e-yawr",
+        2
+    ],
+    "type": "adj"
+}

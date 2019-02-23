@@ -1,0 +1,20 @@
+{
+    "na'vi": "pxiswaway",
+    "translations": [
+        {
+            "de": "jetzt gleich",
+            "en": "in just a second from now",
+            "et": "kohe hetke pärast",
+            "hu": "egy pillanat múlva, azonnal",
+            "nl": "zo meteen, over een seconde",
+            "pl": "za chwilę",
+            "ru": "через мгновение",
+            "sv": "bara en sekund ifrån nu"
+        }
+    ],
+    "pronunciation": [
+        "pxi-swaw-ay",
+        3
+    ],
+    "type": "adv"
+}

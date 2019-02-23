@@ -1,0 +1,20 @@
+{
+    "na'vi": "atanvi",
+    "translations": [
+        {
+            "de": "Lichtstrahl",
+            "en": "ray",
+            "et": "valguskiir",
+            "hu": "fénysugár",
+            "nl": "lichtstraal",
+            "pl": "promień (światła)",
+            "ru": "луч",
+            "sv": "stråle"
+        }
+    ],
+    "pronunciation": [
+        "a-tan-vi",
+        2
+    ],
+    "type": "n"
+}

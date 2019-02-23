@@ -1,0 +1,21 @@
+{
+    "na'vi": "rey",
+    "translations": [
+        {
+            "de": "leben",
+            "en": "live",
+            "et": "elama",
+            "hu": "él",
+            "nl": "leven",
+            "pl": "żyć",
+            "ru": "жить, существовать",
+            "sv": "leva"
+        }
+    ],
+    "pronunciation": [
+        "rey",
+        1
+    ],
+    "infixes": "r..ey",
+    "type": "v:in"
+}

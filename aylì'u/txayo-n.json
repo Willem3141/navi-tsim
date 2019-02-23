@@ -1,0 +1,20 @@
+{
+    "na'vi": "txayo",
+    "translations": [
+        {
+            "de": "Feld, offenes Gelände, Ebene",
+            "en": "field, open terrain, plain",
+            "et": "väli, maaala",
+            "hu": "mező, nyílt terep, síkság",
+            "nl": "veld, open terrein",
+            "pl": "otwarty teren, równina, płaszczyzna",
+            "ru": "поле, открытое пространство",
+            "sv": "fält, öppen terräng, slätt"
+        }
+    ],
+    "pronunciation": [
+        "txa-yo",
+        1
+    ],
+    "type": "n"
+}

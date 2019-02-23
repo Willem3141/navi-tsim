@@ -1,0 +1,20 @@
+{
+    "na'vi": "tsat",
+    "translations": [
+        {
+            "de": "das, es (als Objekt)",
+            "en": "that, it (as object)",
+            "et": "seda (asja)",
+            "hu": "azt ( tárgyként)",
+            "nl": "dat, het (als lijdend voorwerp)",
+            "pl": "tamto",
+            "ru": "это (пациенс)",
+            "sv": "det, den (om ett föremål)"
+        }
+    ],
+    "pronunciation": [
+        "tsat",
+        1
+    ],
+    "type": "pn"
+}

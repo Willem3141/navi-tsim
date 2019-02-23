@@ -1,0 +1,20 @@
+{
+    "na'vi": "hasey",
+    "translations": [
+        {
+            "de": "fertig, erledigt, fertiggestellt",
+            "en": "done, finished",
+            "et": "tehtud, lõpetatud, valmis",
+            "hu": "kész, befejezett",
+            "nl": "klaar, gedaan",
+            "pl": "zrobiony, skończony",
+            "ru": "готовый, законченный, завершенный",
+            "sv": "färdig, klar"
+        }
+    ],
+    "pronunciation": [
+        "ha-sey",
+        2
+    ],
+    "type": "adj"
+}

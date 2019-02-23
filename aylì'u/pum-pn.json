@@ -1,0 +1,20 @@
+{
+    "na'vi": "pum",
+    "translations": [
+        {
+            "de": "derjenige, dasjenige (Platzhalterpronomen, das sich auf ein vorher erwähntes Nomen oder Pronomen bezieht)",
+            "en": "one (placeholder pronoun referring to a previously mentioned noun or pronoun)",
+            "et": "omand, omatav asi (kaassõna vastavate nimi ja asesõnade juures)",
+            "hu": "tulajdon, birtokolt dolog („ál”névmás birtokos esetű főnevekhez és névmásokhoz)",
+            "nl": "vervangwoord (plaatsvervangend voornaamwoord, verwijst naar eerder genoemd zn. of vn.)",
+            "pl": "\\\\ ten (zaimek odnoszący się do wcześniej wspomnianego rzeczownika albo zaimka)",
+            "ru": "тот (заменитель предыдущего существительного или местоимения)",
+            "sv": "en (pronomen för att modifiera substantiv eller pronomen)"
+        }
+    ],
+    "pronunciation": [
+        "pum",
+        1
+    ],
+    "type": "pn"
+}

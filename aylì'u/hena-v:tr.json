@@ -1,0 +1,19 @@
+{
+    "na'vi": "hena",
+    "translations": [
+        {
+            "de": "tragen",
+            "en": "carry",
+            "et": "kandma",
+            "hu": "hord, visz",
+            "nl": "dragen",
+            "ru": "нести"
+        }
+    ],
+    "pronunciation": [
+        "he-na",
+        1
+    ],
+    "infixes": "h.en.a",
+    "type": "v:tr"
+}

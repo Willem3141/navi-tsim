@@ -1,0 +1,19 @@
+{
+    "na'vi": "vefya",
+    "translations": [
+        {
+            "de": "Methode, Herangehensweise, System, Prozedere, Prozess",
+            "en": "system, process, procedure, approach",
+            "et": "süsteem, protsess, lähenemisviis",
+            "hu": "rendszer, eljárás, folyamat, módszer",
+            "nl": "systeem, proces, procedure, benadering",
+            "pl": "podejście, procedura, proces, algorytm",
+            "ru": "система, процесс, метод, подход"
+        }
+    ],
+    "pronunciation": [
+        "ve-fya",
+        1
+    ],
+    "type": "n"
+}

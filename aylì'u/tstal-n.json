@@ -1,0 +1,20 @@
+{
+    "na'vi": "tstal",
+    "translations": [
+        {
+            "de": "Messer",
+            "en": "knife",
+            "et": "nuga",
+            "hu": "kés",
+            "nl": "mes",
+            "pl": "nóż",
+            "ru": "нож",
+            "sv": "kniv"
+        }
+    ],
+    "pronunciation": [
+        "tstal",
+        1
+    ],
+    "type": "n"
+}

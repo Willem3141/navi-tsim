@@ -1,0 +1,21 @@
+{
+    "na'vi": "lam",
+    "translations": [
+        {
+            "de": "scheinen, erscheinen, wirken, aussehen",
+            "en": "seem, appear",
+            "et": "tunduma, paistma",
+            "hu": "látszik, (fel)tűnik",
+            "nl": "lijken",
+            "pl": "wydawać się, wyglądać",
+            "ru": "казаться, представляться",
+            "sv": "verka som, se ut"
+        }
+    ],
+    "pronunciation": [
+        "lam",
+        1
+    ],
+    "infixes": "l..am",
+    "type": "v:in"
+}

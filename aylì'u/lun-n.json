@@ -1,0 +1,20 @@
+{
+    "na'vi": "lun",
+    "translations": [
+        {
+            "de": "Grund, Begründung",
+            "en": "reason",
+            "et": "põhjus",
+            "hu": "ok, indok",
+            "nl": "reden",
+            "pl": "powód",
+            "ru": "причина",
+            "sv": "andledning"
+        }
+    ],
+    "pronunciation": [
+        "lun",
+        1
+    ],
+    "type": "n"
+}

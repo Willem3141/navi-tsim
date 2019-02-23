@@ -1,0 +1,19 @@
+{
+    "na'vi": "tseltsul",
+    "translations": [
+        {
+            "de": "Wildwasserstrom, Stromschnellen (zählbar, aber selten)",
+            "en": "whitewater rapids (countable, but only rarely)",
+            "et": "kärestik (loendatav, kuid harva)",
+            "hu": "vadvízi zuhatag (megszámlálható, de csak ritkán)",
+            "nl": "stroomversnelling (telbaar, komt zelden voor)",
+            "pl": "bystrze (rzadko traktowany jako policzalny)",
+            "ru": "стремнина"
+        }
+    ],
+    "pronunciation": [
+        "tsel-tsul",
+        1
+    ],
+    "type": "n"
+}
