@@ -3,12 +3,12 @@
     "translations": [
         {
             "de": "nicht dürfen (ii)",
-            "en": "must not (ii)",
+            "en": "must not",
             "et": "mitte tohtima (e)",
             "fr": "ne pas devoir (obligation)",
             "hu": "tilos, nem szabad",
-            "nl": "niet moeten (ii)",
-            "pl": "nie móc, nie wolno (ii)",
+            "nl": "niet moeten",
+            "pl": "nie móc, nie wolno",
             "ru": "модальный глагол долженствования с отрицанием (не должен)",
             "sv": "få inte"
         }
@@ -17,7 +17,8 @@
         "zen-ke",
         1
     ],
-    "infixes": "z..enke",
+    "infixes": "z.en.(e)ke",
     "source": "http://forum.learnnavi.org/language-updates/affective-obligation-%28zenke%29/ (05 September 2011)",
-    "type": "v:m"
+    "type": "v:m",
+    "conjugation_note": "Irregular conjugation pattern: the <b>-e-</b> in <b>zen(e)ke</b> is elided, except if the <b>‹uy›</b> or <b>‹ats›</b> infixes are used (<b>zen‹uy›eke</b>, <b>zen‹ats›eke</b>)."
 }
