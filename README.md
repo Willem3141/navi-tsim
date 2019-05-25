@@ -13,6 +13,9 @@ The words are stored in the directory `aylì'u`. Each word is stored in a separa
 | `infixes` | *(string)* (for verbs only) String indicating the infix positions. The infixes are indicated with two dots. As a special case, `zenke` is given as `z.en.(e)ke`. |
 | `etymology` | *(array of string)* (optional) List of words that this word is made up of (`tìkangkem` -> `["tìkan:n", "kem:n"]`). |
 | `seeAlso` | *(array of string)* (optional) List of words that are related in meaning to this word (`tìkangkem` -> `["txintìn:n"]`). |
+| `source` | *(string or array of two strings)* (optional) Source of the word. This can be either a string describing the source, or an array containing a description and an URL. |
+| `status` | *(string)* (optional) `"unconfirmed"` if the word is likely an actual Na'vi word, but it has not been officially confirmed, or `"incorrect"` if the word has been confirmed to not be an actual Na'vi word (like many words from the ASG). |
+| `note` | *(string)* (optional) Free-form additional information on the word, such as a clarification on the meaning. |
 
 ### Sources
 
