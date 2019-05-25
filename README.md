@@ -9,13 +9,14 @@ The words are stored in the directory `aylì'u`. Each word is stored in a separa
 | `na'vi` | *(string)* The Na'vi word itself. |
 | `type` | *(string)* The word type (see below). |
 | `translations` | *(object)* An object containing the translations of the word, with keys `"en"`, `"de"`, etc. for the various languages. Note that the English translation (`"en"`) is most likely to be up-to-date; the other translations were imported from Eana Eltu without being modified. |
+| `meaning_note` | *(string)* (optional) Free-form additional information on the meaning of the word, such as a clarification on the scope of the word. |
 | `pronunciation` | *(array of [string, number])* Pronunciations of the word, in which syllable breaks are indicated as dashes. Removing the dashes from the string does not always result in the original word: it differs if the spelling does not indicate the pronunciation. The number is the (1-based) index of the stressed syllable. Most words have only a single pronunciation, but some have several (`nìayoeng` -> `[["nì-ay-weng", 3], ["nay-weng", 2]]`). |
 | `infixes` | *(string)* (for verbs only) String indicating the infix positions. The infixes are indicated with two dots. As a special case, `zenke` is given as `z.en.(e)ke`. |
 | `etymology` | *(array of string)* (optional) List of words that this word is made up of (`tìkangkem` -> `["tìkan:n", "kem:n"]`). |
 | `seeAlso` | *(array of string)* (optional) List of words that are related in meaning to this word (`tìkangkem` -> `["txintìn:n"]`). |
 | `source` | *(string or array of two strings)* (optional) Source of the word. This can be either a string describing the source, or an array containing a description and an URL. |
 | `status` | *(string)* (optional) `"unconfirmed"` if the word is likely an actual Na'vi word, but it has not been officially confirmed, or `"incorrect"` if the word has been confirmed to not be an actual Na'vi word (like many words from the ASG). |
-| `note` | *(string)* (optional) Free-form additional information on the word, such as a clarification on the meaning. |
+| `status_note` | *(string)* (optional) Free-form additional information on the status of the word, for instance, reasons why the word has not been confirmed. |
 
 ### Sources
 

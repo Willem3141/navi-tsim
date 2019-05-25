@@ -2,12 +2,12 @@
     "na'vi": "zenke",
     "translations": [
         {
-            "de": "nicht dürfen (ii)",
-            "en": "must not (ii)",
-            "et": "mitte tohtima (e)",
+            "de": "nicht dürfen",
+            "en": "must not",
+            "et": "mitte tohtima",
             "hu": "tilos, nem szabad",
-            "nl": "niet moeten (ii)",
-            "pl": "nie móc, nie wolno (ii)",
+            "nl": "niet moeten",
+            "pl": "nie móc, nie wolno",
             "ru": "модальный глагол долженствования с отрицанием (не должен)",
             "sv": "få inte"
         }
@@ -16,6 +16,7 @@
         "zen-ke",
         1
     ],
-    "infixes": "z..enke",
-    "type": "v:m"
+    "infixes": "z.en.(e)ke",
+    "type": "v:m",
+    "conjugation_note": "Irregular conjugation pattern: the <b>-e-</b> in <b>zen(e)ke</b> is elided, except if the <b>‹uy›</b> or <b>‹ats›</b> infixes are used (<b>zen‹uy›eke</b>, <b>zen‹ats›eke</b>)."
 }

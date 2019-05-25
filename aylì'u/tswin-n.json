@@ -16,5 +16,6 @@
         "tswin",
         1
     ],
-    "type": "n"
+    "type": "n",
+    "seeAlso": ["kuru:n"]
 }
