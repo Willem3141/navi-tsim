@@ -3,7 +3,7 @@
     "translations": [
         {
             "de": "Traumwandler",
-            "en": "dreamwalker",
+            "en": "avatar driver",
             "et": "uneskäija",
             "hu": "álomjáró",
             "nl": "droomwandelaar, Avatarbestuurder",
@@ -16,5 +16,6 @@
         "u-nil-tì-ran-yu",
         4
     ],
-    "type": "n"
+    "type": "n",
+    "etymology": "From [unil:n] + [tìran:v:in] + <b>-yu</b> (‘dream walker’)."
 }

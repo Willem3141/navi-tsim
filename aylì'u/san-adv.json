@@ -3,7 +3,7 @@
     "translations": [
         {
             "de": "Zitat (siehe auch sìk)",
-            "en": "saying, quote",
+            "en": "(start-of-quote particle)",
             "et": "otsekõne algus",
             "hu": "idézet, függő beszéd kezdete",
             "nl": "gezegde, citaat",
@@ -12,9 +12,13 @@
             "sv": "säga, citera"
         }
     ],
+    "meaning_note": "Used together with [sìk:part] to mark a direct quote.",
     "pronunciation": [
         "san",
         1
     ],
-    "type": "adv"
+    "type": "part",
+    "seeAlso": [
+        "sìk:part"
+    ]
 }

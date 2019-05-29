@@ -3,7 +3,7 @@
     "translations": [
         {
             "de": "er (keine Pluralform: verwende (ay)fo)",
-            "en": "he (no plural form: use (ay)fo)",
+            "en": "he",
             "et": "tema (meessoost) (mitmus puudub: kasutada (ay)fo)",
             "hu": "ő (hímnem) (nincs többesszáma: helyette az (ay)fo)",
             "nl": "hij (geen meervoudsvorm: gebruik (ay)fo)",
@@ -12,9 +12,18 @@
             "sv": "han (inte pluralform: använd (ay)fo)"
         }
     ],
+    "meaning_note": "Gender-specific form of [po:pn], used only when it avoids ambiguity.",
+    "conjugation_note": "Has no plural form; use <b>(ay)fo</b> instead.",
     "pronunciation": [
         "po-an",
         2
     ],
-    "type": "pn"
+    "type": "pn",
+    "source": [
+        "Horen Lì'fyayä LeNa'vi (§3.2)",
+        "https://files.learnnavi.org/docs/horen-lenavi.pdf"
+    ],
+    "seeAlso": [
+        "poe:pn"
+    ]
 }

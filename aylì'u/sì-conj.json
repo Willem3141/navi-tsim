@@ -2,19 +2,23 @@
     "na'vi": "sì",
     "translations": [
         {
-            "de": "und (connects two things, can be attached as --sÃ¬: for clauses use)",
-            "en": "and (connects two things, can be attached as sì: for clauses use)",
-            "et": "ja (connects two things, can be attached as --sÃ¬: for clauses use)",
-            "hu": "és (connects two things, can be attached as --sÃ¬: for clauses use)",
-            "nl": "en (connects two things, can be attached as --sÃ¬: for clauses use)",
-            "pl": "i (connects two things, can be attached as --sÃ¬: for clauses use)",
-            "ru": "и (connects two things, can be attached as --sÃ¬: for clauses use)",
-            "sv": "och (connects two things, can be attached as --sÃ¬: for clauses use)"
+            "de": "und",
+            "en": "and (noun conjunction)",
+            "et": "ja",
+            "hu": "és",
+            "nl": "en",
+            "pl": "i",
+            "ru": "и",
+            "sv": "och"
         }
     ],
+    "meaning_note": "Connects noun groups or verbs, not entire clauses. Can be attached to the word after it (<b>A sì B</b> &rarr; <b>A Bsì</b>), like an adposition, but <b>A</b> can carry a case ending.",
     "pronunciation": [
         "sì",
         1
     ],
-    "type": "conj"
+    "type": "conj",
+    "seeAlso": [
+        "ulte:conj"
+    ]
 }

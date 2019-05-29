@@ -3,7 +3,7 @@
     "translations": [
         {
             "de": "werden (Prädikat mit ne in mehrdeutigen Konstruktionen)",
-            "en": "become (noun predicate with ne in ambiguous constructions)",
+            "en": "become",
             "et": "saama (kellekski, millekski) (kahemõttelistel juhtudel kasutatakse saavaks käändeks abisõna ne",
             "hu": "válik (valamivé)",
             "nl": "worden (zn. predicaat met ne in dubbelzinnige constructies)",
@@ -12,10 +12,11 @@
             "sv": "bli (substantivs predikat med ne i tvetydiga konstruktioner)"
         }
     ],
+    "meaning_note": "The predicate can be a noun or an adjective. Optionally [ne:adp] can be used to clarify what the predicate is.",
     "pronunciation": [
         "slu",
         1
     ],
     "infixes": "sl..u",
-    "type": "v:in"
+    "type": "v:cp"
 }

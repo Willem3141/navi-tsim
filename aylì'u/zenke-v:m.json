@@ -12,11 +12,16 @@
             "sv": "få inte"
         }
     ],
+    "meaning_note": "Used to say that it is necessary for something not to happen. To say that it is not necessary for something to happen, use <b>ke zene</b>.",
     "pronunciation": [
         "zen-ke",
         1
     ],
     "infixes": "z.en.(e)ke",
     "type": "v:m",
-    "conjugation_note": "Irregular conjugation pattern: the <b>-e-</b> in <b>zen(e)ke</b> is elided, except if the <b>‹uy›</b> or <b>‹ats›</b> infixes are used (<b>zen‹uy›eke</b>, <b>zen‹ats›eke</b>)."
+    "conjugation_note": "The <b>-e-</b> in <b>zen(e)ke</b> is elided, except if the <b>‹uy›</b> or <b>‹ats›</b> infixes are used (<b>zen‹uy›eke</b>, <b>zen‹ats›eke</b>).",
+    "etymology": [
+        "zene:v:m",
+        "ke:adv"
+    ]
 }

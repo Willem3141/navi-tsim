@@ -3,7 +3,7 @@
     "translations": [
         {
             "de": "derjenige, dasjenige (Platzhalterpronomen, das sich auf ein vorher erwähntes Nomen oder Pronomen bezieht)",
-            "en": "one (placeholder pronoun referring to a previously mentioned noun or pronoun)",
+            "en": "‘one’ (refers to another instance of a previously mentioned noun)",
             "et": "omand, omatav asi (kaassõna vastavate nimi ja asesõnade juures)",
             "hu": "tulajdon, birtokolt dolog („ál”névmás birtokos esetű főnevekhez és névmásokhoz)",
             "nl": "vervangwoord (plaatsvervangend voornaamwoord, verwijst naar eerder genoemd zn. of vn.)",
@@ -12,6 +12,7 @@
             "sv": "en (pronomen för att modifiera substantiv eller pronomen)"
         }
     ],
+    "meaning_note": "This points to any instance of the noun it refers back to (‘that food wrap looks delicious, I want <b>one</b>’), as opposed to <b>fì'u</b> / <b>tsa'u</b>, which points back to the specific instance given earlier (‘that food wrap looks delicious, I want <b>it</b>’).",
     "pronunciation": [
         "pum",
         1

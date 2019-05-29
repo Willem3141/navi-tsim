@@ -12,9 +12,14 @@
             "sv": "om"
         }
     ],
+    "meaning_note": "Generally requires a verb in the subjunctive (<b>‹iv›</b> infix).",
     "pronunciation": [
         "txo",
         1
     ],
-    "type": "conj"
+    "type": "conj",
+    "source": [
+        "Horen Lì'fyayä LeNa'vi (§6.19)",
+        "https://files.learnnavi.org/docs/horen-lenavi.pdf"
+    ]
 }

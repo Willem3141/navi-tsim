@@ -13,8 +13,12 @@
         }
     ],
     "pronunciation": [
-        "E-u-ro-pa",
+        "e-u-ro-pa",
         3
     ],
-    "type": "n:pr"
+    "type": "n:pr",
+    "status": "loan",
+    "seeAlso": [
+        "ewro:n"
+    ]
 }

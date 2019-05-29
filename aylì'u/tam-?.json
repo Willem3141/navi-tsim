@@ -3,7 +3,7 @@
     "translations": [
         {
             "de": "ausreichen, genügen, reichen; Okay, in Ordnung",
-            "en": "that will suffice, that will do, OK",
+            "en": "to be sufficient, to be okay",
             "et": "piisama, olgu, okei",
             "hu": "megteszi; rendben; jó lesz",
             "nl": "voldoen, dat is voldoende, oké",
@@ -16,5 +16,6 @@
         "tam",
         1
     ],
-    "infixes": "t..am"
+    "infixes": "t..am",
+    "type": "v:in"
 }

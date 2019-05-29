@@ -14,5 +14,9 @@
         "ew-ro",
         1
     ],
-    "type": "n"
+    "type": "n",
+    "status": "loan",
+    "seeAlso": [
+        "Europa:n:pr"
+    ]
 }

@@ -3,7 +3,7 @@
     "translations": [
         {
             "de": "sein, bin, bist, ist, sind (Kopula, Verb der Existenz)",
-            "en": "be, am, is, are",
+            "en": "to be",
             "et": "olema (öeldistäide)",
             "hu": "van, lenni",
             "nl": "zijn (existentieel)",
@@ -12,9 +12,11 @@
             "sv": "vara"
         }
     ],
+    "meaning_note": "Used in three ways:<ol><li>to indicate something has a property (‘A is B’); in this case the predicate can be a noun or an adjective</li><li>to indicate existence (‘there is, there exists’)</li><li>to indicate possession, with the possessor in the dative (‘to A is B’ &rarr; ‘A has B’)</li></ol>",
     "pronunciation": [
         "lu",
         1
     ],
-    "infixes": "l..u"
+    "infixes": "l..u",
+    "type": "v:cp"
 }

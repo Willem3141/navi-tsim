@@ -3,7 +3,7 @@
     "translations": [
         {
             "de": "Avatar, TraumwandlerKörper",
-            "en": "avatar, dreamwalker body",
+            "en": "avatar",
             "et": "Avatar, uneskäiv keha",
             "hu": "avatártest (álomjáró test)",
             "nl": "Avatar, droomwandellichaam",
@@ -16,5 +16,6 @@
         "u-nil-tì-ran-tokx",
         4
     ],
-    "type": "n"
+    "type": "n",
+    "etymology": "From [unil:n] + [tìran:v:in] + [tokx:n] (‘dream walk body’)."
 }

@@ -16,5 +16,8 @@
         "swok",
         1
     ],
-    "type": "adj"
+    "type": "adj",
+    "seeAlso": [
+        "swotu:n"
+    ]
 }

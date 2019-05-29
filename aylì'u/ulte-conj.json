@@ -12,9 +12,13 @@
             "sv": "och (klausulkonjunktion)"
         }
     ],
+    "meaning_note": "Connects clauses, not nouns.",
     "pronunciation": [
         "ul-te",
         1
     ],
-    "type": "conj"
+    "type": "conj",
+    "seeAlso": [
+        "sì:conj"
+    ]
 }

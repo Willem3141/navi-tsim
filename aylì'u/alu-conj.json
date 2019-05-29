@@ -12,9 +12,11 @@
             "sv": "som är, med andra ord"
         }
     ],
+    "meaning_note": "Used to describe a noun with another noun.",
     "pronunciation": [
         "a-lu",
         1
     ],
-    "type": "conj"
+    "type": "conj",
+    "etymology": "From [a:part] + [lu:v:cp]."
 }

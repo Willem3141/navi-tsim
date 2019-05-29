@@ -17,5 +17,6 @@
         2
     ],
     "infixes": "ft.i.a",
-    "type": "v:tr"
+    "type": "v:tr",
+    "seeAlso": ["nume:v:in"]
 }
