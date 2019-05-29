@@ -13,10 +13,15 @@
             "sv": "om"
         }
     ],
+    "meaning_note": "Generally requires a verb in the subjunctive (<b>‹iv›</b> infix).",
     "pronunciation": [
         "txo",
         1
     ],
     "source": "http://forum.learnnavi.org/language-updates/prrwll-moss-the-comparative-to-construct/ (24 Feb 2010)",
-    "type": "conj"
+    "type": "conj",
+    "source": [
+        "Horen Lì'fyayä LeNa'vi (§6.19)",
+        "https://files.learnnavi.org/docs/horen-lenavi.pdf"
+    ]
 }

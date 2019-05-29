@@ -3,7 +3,7 @@
     "translations": [
         {
             "de": "ausreichen, genügen, reichen; Okay, in Ordnung",
-            "en": "that will suffice, that will do, OK",
+            "en": "to be sufficient, to be okay",
             "et": "piisama, olgu, okei",
             "fr": "suffire | aller",
             "hu": "megteszi; rendben; jó lesz",
@@ -18,5 +18,6 @@
         1
     ],
     "infixes": "t..am",
-    "source": "Frommer (18. Feb 2010) http://forum.learnnavi.org/language-updates/ok!-we-got-ok/"
+    "source": "Frommer (18. Feb 2010) http://forum.learnnavi.org/language-updates/ok!-we-got-ok/",
+    "type": "v:in"
 }

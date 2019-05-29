@@ -3,7 +3,7 @@
     "translations": [
         {
             "de": "Frau, weibliche Person",
-            "en": "female (person)",
+            "en": "woman, female (person)",
             "et": "naine (isik)",
             "fr": "femme",
             "hu": "nő",
@@ -13,10 +13,12 @@
             "sv": "kvinna (person)"
         }
     ],
+    "meaning_note": "Spelled with <b>é</b> to avoid confusion with [tute:n] (which is pronounced <u>tu</u>-te).",
     "pronunciation": [
-        "tu-té",
+        "tu-te",
         2
     ],
     "source": "http://en.wiktionary.org/wiki/Appendix:Na'vi",
-    "type": "n"
+    "type": "n",
+    "seeAlso": ["tutan:n"]
 }

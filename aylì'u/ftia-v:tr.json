@@ -19,5 +19,6 @@
     ],
     "infixes": "ft.i.a",
     "source": "ASG",
-    "type": "v:tr"
+    "type": "v:tr",
+    "seeAlso": ["nume:v:in"]
 }

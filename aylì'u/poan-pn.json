@@ -2,21 +2,30 @@
     "na'vi": "poan",
     "translations": [
         {
-            "de": "er (keine Pluralform: verwende (ay)fo)",
-            "en": "he (no plural form: use (ay)fo)",
-            "et": "tema (meessoost) (mitmus puudub: kasutada (ay)fo)",
+            "de": "er",
+            "en": "he",
+            "et": "tema (meessoost)",
             "fr": "Il (an part. Masculine)",
-            "hu": "ő (hímnem) (nincs többesszáma: helyette az (ay)fo)",
-            "nl": "hij (geen meervoudsvorm: gebruik (ay)fo)",
+            "hu": "ő (hímnem)",
+            "nl": "hij",
             "pl": "on",
             "ru": "он",
-            "sv": "han (inte pluralform: använd (ay)fo)"
+            "sv": "han"
         }
     ],
+    "meaning_note": "Gender-specific form of [po:pn], used only when it avoids ambiguity.",
+    "conjugation_note": "Has no plural form; use <b>(ay)fo</b> instead.",
     "pronunciation": [
         "po-an",
         2
     ],
     "source": "Taronyu's Dictionary -> Survival Guide",
-    "type": "pn"
+    "type": "pn",
+    "source": [
+        "Horen Lì'fyayä LeNa'vi (§3.2)",
+        "https://files.learnnavi.org/docs/horen-lenavi.pdf"
+    ],
+    "seeAlso": [
+        "poe:pn"
+    ]
 }

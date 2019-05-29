@@ -2,21 +2,30 @@
     "na'vi": "poe",
     "translations": [
         {
-            "de": "sie (sg.) (keine Pluralform: verwende (ay)fo)",
-            "en": "she (no plural form: use (ay)fo)",
-            "et": "tema (naissoost) (mitmus puudub: kasutada (ay)fo)",
+            "de": "sie (sg.)",
+            "en": "she",
+            "et": "tema (naissoost)",
             "fr": "elle (e part. féminine)",
-            "hu": "ő (nőnem) (nincs többesszáma: helyette az (ay)fo)",
-            "nl": "zij (geen meervoudsvorm: gebruik (ay)fo)",
+            "hu": "ő (nőnem)",
+            "nl": "zij",
             "pl": "ona",
             "ru": "она",
-            "sv": "hon (det finns ingen pluralform: använd (ay)fo)"
+            "sv": "hon"
         }
     ],
+    "meaning_note": "Gender-specific form of [po:pn], used only when it avoids ambiguity.",
+    "conjugation_note": "Has no plural form; use <b>(ay)fo</b> instead.",
     "pronunciation": [
         "po-e",
         2
     ],
     "source": "Frommer http://wiki.learnnavi.org/index.php?title=Canon#Trials_.26_transitivity",
-    "type": "pn"
+    "type": "pn",
+    "source": [
+        "Horen Lì'fyayä LeNa'vi (§3.2)",
+        "https://files.learnnavi.org/docs/horen-lenavi.pdf"
+    ],
+    "seeAlso": [
+        "poan:pn"
+    ]
 }

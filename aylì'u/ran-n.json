@@ -3,7 +3,7 @@
     "translations": [
         {
             "de": "wesentliche Charakteristik, innewohnende Charakteristik, Essenz, Konstitution; für Personen \"Persönlichkeit, Individualität\"",
-            "en": "intrinsic character or nature, essence, constititution; basic nature of something resulting from the totality of its properties; often best translated as personality",
+            "en": "intrinsic character or nature, essence, constitution",
             "et": "üldine olek või seisund looduses, olemus, inimeste puhul iseloom.",
             "fr": "constitution | essence | nature | personnalité",
             "hu": "belső tulajdonság, lényeg, valaminek az alapvető természete, személyiség",
@@ -12,10 +12,14 @@
             "ru": "внутренняя сущность"
         }
     ],
+    "meaning_note": "This denotes the basic nature of something resulting from the totality of its properties. For people often best translated as ‘personality’.",
     "pronunciation": [
         "ran",
         1
     ],
     "source": "Frommer (02 Oct 2012) http://naviteri.org/2012/10/mipa-vospxi-mipa-ayliu-new-words-for-the-new-month/",
-    "type": "n"
+    "type": "n",
+    "seeAlso": [
+        "syon:n"
+    ]
 }

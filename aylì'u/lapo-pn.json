@@ -3,7 +3,7 @@
     "translations": [
         {
             "de": "der/die/das andere",
-            "en": "other one person or thing",
+            "en": "other person or thing",
             "et": "teine (isik või asi)",
             "fr": "l'autre ([personne ou chose])",
             "hu": "más, másik ember vagy dolog",
@@ -13,6 +13,7 @@
             "sv": "en annan (person eller sak)"
         }
     ],
+    "conjugation_note": "Shortened plural dative form <b>aylaru</b>.",
     "pronunciation": [
         "la-po",
         1

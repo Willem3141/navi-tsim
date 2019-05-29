@@ -2,21 +2,25 @@
     "na'vi": "sì",
     "translations": [
         {
-            "de": "und (connects two things, can be attached as --sì: for clauses use)",
-            "en": "and (connects two things, can be attached as sì: for clauses use)",
-            "et": "ja (connects two things, can be attached as --sì: for clauses use)",
-            "fr": "et (pour lier deux choses)",
-            "hu": "és (connects two things, can be attached as --sì: for clauses use)",
-            "nl": "en (connects two things, can be attached as --sì: for clauses use)",
-            "pl": "i (connects two things, can be attached as --sì: for clauses use)",
-            "ru": "и (connects two things, can be attached as --sì: for clauses use)",
-            "sv": "och (connects two things, can be attached as --sì: for clauses use)"
+            "de": "und",
+            "en": "and (noun conjunction)",
+            "et": "ja",
+            "fr": "et",
+            "hu": "és",
+            "nl": "en",
+            "pl": "i",
+            "ru": "и",
+            "sv": "och"
         }
     ],
+    "meaning_note": "Connects noun groups or verbs, not entire clauses. Can be attached to the word after it (<b>A sì B</b> &rarr; <b>A Bsì</b>), like an adposition, except that <b>A</b> can still carry a case ending.",
     "pronunciation": [
         "sì",
         1
     ],
     "source": "http://en.wiktionary.org/wiki/Appendix:Na'vi",
-    "type": "conj"
+    "type": "conj",
+    "seeAlso": [
+        "ulte:conj"
+    ]
 }

@@ -16,5 +16,9 @@
         1
     ],
     "source": "http://naviteri.org/2014/02/barter-and-exchange/ (28 Feb 2014)",
-    "type": "n"
+    "type": "n",
+    "status": "loan",
+    "seeAlso": [
+        "Europa:n:pr"
+    ]
 }

@@ -14,9 +14,13 @@
         }
     ],
     "pronunciation": [
-        "E-u-ro-pa",
+        "e-u-ro-pa",
         3
     ],
     "source": "Frommer (02.-03. October 2010) http://forum.learnnavi.org/navi-lernen/frommersche-neuigkeiten-%28neue-worter-reflexiv-meine-name-ist-%29/msg325879/#msg325879",
-    "type": "n:pr"
+    "type": "n:pr",
+    "status": "loan",
+    "seeAlso": [
+        "ewro:n"
+    ]
 }
