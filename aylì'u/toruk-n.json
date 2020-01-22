@@ -3,7 +3,7 @@
     "translations": [
         {
             "de": "Großer Leonopteryx, Letzter Schatten",
-            "en": "toruk, great leonopteryx",
+            "en": "great leonopteryx, last shadow",
             "et": "Suur lendlõvi, Viimane vari (great leonopteryx)",
             "hu": "leonopteryx, végső árny (pandorai állatfaj)",
             "nl": "reuzenleonopteryx, Laatste Schaduw",
@@ -16,6 +16,5 @@
         "to-ruk",
         1
     ],
-    "type": "n",
-    "etymology": "From [tor:a] + [uk:n] (‘last shadow’). So named because a toruk is a fearsome predator: if you see the toruk's shadow, it will be the last shadow you will ever see."
+    "type": "n"
 }

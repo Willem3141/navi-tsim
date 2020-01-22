@@ -4,7 +4,7 @@
         {
             "de": "Queue, geflochtener Zopf (für tsaheylu)",
             "en": "queue, braid",
-            "et": "juuksepats, Na'videl olev närvipats (sideme loomiseks)",
+            "et": "juuksepats, Na'videl olev närvipats (sideme loomiseks), närvipats",
             "hu": "copf, idegköteg",
             "nl": "vlecht, staart",
             "pl": "warkocz",
@@ -16,6 +16,5 @@
         "tswin",
         1
     ],
-    "type": "n",
-    "seeAlso": ["kuru:n"]
+    "type": "n"
 }

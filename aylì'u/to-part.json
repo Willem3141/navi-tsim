@@ -2,16 +2,16 @@
     "na'vi": "to",
     "translations": [
         {
-            "de": "‘als’ (Komparativ Marker)",
-            "en": "‘than’ (comparative marker)",
-            "et": "võrdlemise märkija kui",
+            "de": "Komparativ Marker als (verhält sich wie eine adp.)",
+            "en": "comparative marker than (behaves like an adp.)",
+            "et": "võrdlemise märkija kui ",
             "hu": "középfokot jelez mint",
-            "nl": "‘dan’ (vergelijkingsmarkeerder)",
-            "pl": "znacznik stopniowania niż",
-            "ru": "маркер сравнения чем"
+            "nl": "vergelijkingsmarkeerder dan (gedraagt zich als adp.)",
+            "pl": "znacznik stopniowania niż (zachowuje się jak przyim.)",
+            "ru": "маркер сравнения чем (действует как предлог)",
+            "sv": "comparative marker than (behaves like an adp.)"
         }
     ],
-    "meaning_note": "Provides the point of comparison, usually corresponds to English ‘than’. Can be attached to the word after it (<b>to A</b> &rarr; <b>Ato</b>), like an adposition, but <b>A</b> can carry a case ending.",
     "pronunciation": [
         "to",
         1

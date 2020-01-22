@@ -1,0 +1,20 @@
+{
+    "na'vi": "sre+",
+    "translations": [
+        {
+            "de": "vor (Zeit)",
+            "en": "before (time)",
+            "et": "enne (aeg)",
+            "hu": "korábban, megelőzőleg",
+            "nl": "voor (tijd)",
+            "pl": "przed (o czasie)",
+            "ru": "до, раньше",
+            "sv": "före (tidsmässigt)"
+        }
+    ],
+    "pronunciation": [
+        "sre",
+        1
+    ],
+    "type": "adp"
+}

@@ -12,19 +12,9 @@
             "sv": "han/hon"
         }
     ],
-    "meaning_note": "Used for people and animate objects (for example animals, but not bugs).",
-    "conjugation_note": "Has no plural form; use [po:pn] instead.",
     "pronunciation": [
         "po",
         1
     ],
-    "type": "pn",
-    "source": [
-        "Horen Lì'fyayä LeNa'vi (§3.2)",
-        "https://files.learnnavi.org/docs/horen-lenavi.pdf"
-    ],
-    "seeAlso": [
-        "poan:pn",
-        "poe:pn"
-    ]
+    "type": "pn"
 }

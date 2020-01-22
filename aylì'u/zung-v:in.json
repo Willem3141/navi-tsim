@@ -1,0 +1,16 @@
+{
+    "na'vi": "zung",
+    "translations": [
+        {
+            "de": "hocken, kauern, sich ducken",
+            "en": "crouch",
+            "nl": "hurken"
+        }
+    ],
+    "pronunciation": [
+        "zung",
+        1
+    ],
+    "infixes": "z..ung",
+    "type": "v:in"
+}

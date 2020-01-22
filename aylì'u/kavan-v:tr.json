@@ -1,0 +1,16 @@
+{
+    "na'vi": "kavan",
+    "translations": [
+        {
+            "de": "(jemanden/etwas) stützen",
+            "en": "support (physically)",
+            "nl": "ondersteunen (fysiek)"
+        }
+    ],
+    "pronunciation": [
+        "ka-van",
+        1
+    ],
+    "infixes": "k.av.an",
+    "type": "v:tr"
+}

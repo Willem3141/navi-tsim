@@ -1,0 +1,20 @@
+{
+    "na'vi": "ro+",
+    "translations": [
+        {
+            "de": "an, bei (Ortsangabe)",
+            "en": "at (locative)",
+            "et": "kohakääne",
+            "hu": "nál/nél",
+            "nl": "op (locatief)",
+            "pl": "w, na",
+            "ru": "приставка местоположения",
+            "sv": "på, vid (plats)"
+        }
+    ],
+    "pronunciation": [
+        "ro",
+        1
+    ],
+    "type": "adp"
+}

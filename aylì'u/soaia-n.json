@@ -2,14 +2,14 @@
     "na'vi": "soaia",
     "translations": [
         {
-            "de": "Familie",
-            "en": "family",
-            "et": "perekond",
-            "hu": "család",
-            "nl": "familie",
-            "pl": "rodzina",
+            "de": "Familie (unregelmäßiger Genitiv soaiä)",
+            "en": "family (irregular genitive form soaiä)",
+            "et": "perekond (erp omastava vorm soaiä",
+            "hu": "család (rendhagyó birtokos esete: soaiä)",
+            "nl": "familie (onregelmatige genitieve vorm soaiä)",
+            "pl": "rodzina (nieregularna forma dopełniacza soaiä)",
             "ru": "семья",
-            "sv": "familj"
+            "sv": "familj (oregelbunded genitivform soaiä)"
         }
     ],
     "pronunciation": [

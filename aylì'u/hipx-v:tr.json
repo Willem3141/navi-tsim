@@ -2,6 +2,7 @@
     "na'vi": "hipx",
     "translations": [
         {
+            "de": "kontrollieren, steuern, Kontrolle haben, Kontrolle ausüben",
             "en": "control",
             "et": "kontrollima, korda hoidma",
             "hu": "irányít, szabályoz",
@@ -12,5 +13,6 @@
         "hipx",
         1
     ],
+    "infixes": "h..ipx",
     "type": "v:tr"
 }

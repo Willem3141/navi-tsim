@@ -2,19 +2,16 @@
     "na'vi": "zìskrrsom",
     "translations": [
         {
+            "de": "Sommer",
             "en": "summer",
             "et": "suvi",
             "hu": "nyár",
             "nl": "zomer"
         }
     ],
-    "type": "n",
-    "source": [
-        "Na'viteri (2018-10-30)",
-        "http://naviteri.org/2018/10/aysrr-ayvospxi-ayzisikrr-days-months-seasons/"
+    "pronunciation": [
+        "zì-skrr-som",
+        3
     ],
-    "etymology": [
-        "zìsìkrr:n",
-        "som:adj"
-    ]
+    "type": "n"
 }

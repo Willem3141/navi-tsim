@@ -3,7 +3,7 @@
     "translations": [
         {
             "de": "Frau, weibliche Person",
-            "en": "woman, female (person)",
+            "en": "female (person)",
             "et": "naine (isik)",
             "hu": "nő",
             "nl": "vrouw (persoon)",
@@ -12,11 +12,9 @@
             "sv": "kvinna (person)"
         }
     ],
-    "meaning_note": "Spelled with <b>é</b> to avoid confusion with [tute:n] (which is pronounced <u>tu</u>-te).",
     "pronunciation": [
-        "tu-te",
+        "tu-té",
         2
     ],
-    "type": "n",
-    "seeAlso": ["tutan:n"]
+    "type": "n"
 }

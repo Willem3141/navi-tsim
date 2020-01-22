@@ -2,6 +2,7 @@
     "na'vi": "vospxey",
     "translations": [
         {
+            "de": "März",
             "en": "March",
             "et": "Märts",
             "hu": "március",
@@ -12,9 +13,5 @@
         "vo-spxey",
         2
     ],
-    "type": "n",
-    "source": [
-        "Na'viteri (2018-10-30)",
-        "http://naviteri.org/2018/10/aysrr-ayvospxi-ayzisikrr-days-months-seasons/"
-    ]
+    "type": "n"
 }

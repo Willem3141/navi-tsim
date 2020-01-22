@@ -2,19 +2,16 @@
     "na'vi": "zìskrrwew",
     "translations": [
         {
+            "de": "Winter",
             "en": "winter",
             "et": "talv",
             "hu": "tél",
             "nl": "winter"
         }
     ],
-    "type": "n",
-    "source": [
-        "Na'viteri (2018-10-30)",
-        "http://naviteri.org/2018/10/aysrr-ayvospxi-ayzisikrr-days-months-seasons/"
+    "pronunciation": [
+        "zì-skrr-wew",
+        3
     ],
-    "etymology": [
-        "zìsìkrr:n",
-        "wew:adj"
-    ]
+    "type": "n"
 }

@@ -1,0 +1,16 @@
+{
+    "na'vi": "mam",
+    "translations": [
+        {
+            "de": "wickeln, einwickeln, umwickeln",
+            "en": "wrap",
+            "nl": "eromheen doen"
+        }
+    ],
+    "pronunciation": [
+        "mam",
+        1
+    ],
+    "infixes": "m..am",
+    "type": "v:tr"
+}

@@ -3,7 +3,7 @@
     "translations": [
         {
             "de": "Zitat Ende (siehe auch san)",
-            "en": "(end-of-quote particle)",
+            "en": "unquote",
             "et": "otsekõne lõpp",
             "hu": "idézet, függő beszéd bezárása idézet vége",
             "nl": "einde citaat",
@@ -12,13 +12,9 @@
             "sv": "sluta citera"
         }
     ],
-    "meaning_note": "Used together with [san:part] to mark a direct quote. Can be elided if the end of the quote coincides with the end of the sentence.",
     "pronunciation": [
         "sìk",
         1
     ],
-    "type": "part",
-    "seeAlso": [
-        "san:part"
-    ]
+    "type": "adv"
 }

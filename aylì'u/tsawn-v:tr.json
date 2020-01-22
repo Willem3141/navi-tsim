@@ -2,6 +2,7 @@
     "na'vi": "tsawn",
     "translations": [
         {
+            "de": "sammeln von Essen aus dem Wald, pflücken, (in der Landwirtschaft) ernten",
             "en": "gather growing food from the forest; pick; harvest (in agriculture)",
             "et": "korjama, lõikama (metsaande, viljasaaki vms)",
             "hu": "arat, összeszed",
@@ -13,9 +14,5 @@
         1
     ],
     "infixes": "ts..awn",
-    "type": "v:tr",
-    "source": [
-        "Na'viteri (2018-10-30)",
-        "http://naviteri.org/2018/10/aysrr-ayvospxi-ayzisikrr-days-months-seasons/"
-    ]
+    "type": "v:tr"
 }

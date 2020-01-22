@@ -2,6 +2,7 @@
     "na'vi": "vospxì'aw",
     "translations": [
         {
+            "de": "Januar",
             "en": "January",
             "et": "Jaanuar",
             "hu": "január",
@@ -12,9 +13,5 @@
         "vo-spxì-'aw",
         3
     ],
-    "type": "n",
-    "source": [
-        "Na'viteri (2018-10-30)",
-        "http://naviteri.org/2018/10/aysrr-ayvospxi-ayzisikrr-days-months-seasons/"
-    ]
+    "type": "n"
 }

@@ -12,12 +12,10 @@
             "sv": "lära"
         }
     ],
-    "meaning_note": "Note that this verb is intransitive, so it cannot carry a patientive (<b>-t</b>). The subject learned can instead be indicated by a topical (<b>-ri</b>).",
     "pronunciation": [
         "nu-me",
         1
     ],
     "infixes": "n.um.e",
-    "type": "v:in",
-    "seeAlso": ["ftia:v:tr"]
+    "type": "v:in"
 }

@@ -1,0 +1,16 @@
+{
+    "na'vi": "txap",
+    "translations": [
+        {
+            "de": "drücken, aufdrücken, Druck ausüben auf",
+            "en": "press, press on, apply (physical) pressure to",
+            "nl": "duwen, druk uitoefenen op"
+        }
+    ],
+    "pronunciation": [
+        "txap",
+        1
+    ],
+    "infixes": "tx..ap",
+    "type": "v:tr"
+}

@@ -3,7 +3,7 @@
     "translations": [
         {
             "de": "(Hilfsverb, nachgestelltes nichtgebundenes Verb) tun, machen",
-            "en": "(auxiliary verb)",
+            "en": "auxiliary verb, postpositional nonbound verb do, make",
             "et": "tegema (midagi) (saab olla vaid koos teise sõnaga)",
             "hu": "ntesz, csinál, összetett igékben szerepel",
             "nl": "(postpositioneel ongebonden hulpwerkwoord) doen, maken ",
@@ -12,7 +12,6 @@
             "sv": "hjälpverb, ickebindande verb göra"
         }
     ],
-    "meaning_note": "Auxiliary verb that cannot be used on its own, but can be combined with some nouns to make a <b>si</b>-verb. Permissible <b>si</b>-verbs are included separately in this dictionary.",
     "pronunciation": [
         "si",
         1

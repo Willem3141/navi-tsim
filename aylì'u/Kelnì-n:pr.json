@@ -3,16 +3,15 @@
     "translations": [
         {
             "de": "Köln",
-            "en": "Cologne",
+            "en": "Köln, Cologne",
             "et": "Köln",
             "hu": "Köln",
             "nl": "Keulen"
         }
     ],
     "pronunciation": [
-        "kel-nì",
+        "Kel-nì",
         1
     ],
-    "type": "n:pr",
-    "status": "loan"
+    "type": "n:pr"
 }

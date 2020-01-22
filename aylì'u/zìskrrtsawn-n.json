@@ -2,20 +2,16 @@
     "na'vi": "zìskrrtsawn",
     "translations": [
         {
+            "de": "Herbst",
             "en": "autumn, fall",
             "et": "sügis",
             "hu": "ősz (évszak)",
             "nl": "herfst"
         }
     ],
-    "type": "n",
-    "source": [
-        "Na'viteri (2018-10-30)",
-        "http://naviteri.org/2018/10/aysrr-ayvospxi-ayzisikrr-days-months-seasons/"
+    "pronunciation": [
+        "zì-skrr-tsawn",
+        3
     ],
-    "etymology": [
-        "zìsìkrr:n",
-        "a:part",
-        "tsawn:v:tr"
-    ]
+    "type": "n"
 }

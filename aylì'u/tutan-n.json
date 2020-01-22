@@ -3,7 +3,7 @@
     "translations": [
         {
             "de": "Mann, männliche Person",
-            "en": "man, male (person)",
+            "en": "male (person)",
             "et": "mees",
             "hu": "férfi",
             "nl": "man (persoon)",
@@ -16,6 +16,5 @@
         "tu-tan",
         2
     ],
-    "type": "n",
-    "seeAlso": ["tuté:n"]
+    "type": "n"
 }

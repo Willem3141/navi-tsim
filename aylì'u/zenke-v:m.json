@@ -2,26 +2,20 @@
     "na'vi": "zenke",
     "translations": [
         {
-            "de": "nicht dürfen",
-            "en": "must not",
-            "et": "mitte tohtima",
+            "de": "nicht dürfen (ii)",
+            "en": "must not (ii)",
+            "et": "mitte tohtima (e)",
             "hu": "tilos, nem szabad",
-            "nl": "niet moeten",
-            "pl": "nie móc, nie wolno",
+            "nl": "niet moeten (ii)",
+            "pl": "nie móc, nie wolno (ii)",
             "ru": "модальный глагол долженствования с отрицанием (не должен)",
             "sv": "få inte"
         }
     ],
-    "meaning_note": "Used to say that it is necessary for something not to happen. To say that it is not necessary for something to happen, use <b>ke zene</b>.",
     "pronunciation": [
         "zen-ke",
         1
     ],
-    "infixes": "z.en.(e)ke",
-    "type": "v:m",
-    "conjugation_note": "The <b>-e-</b> in <b>zen(e)ke</b> is elided, except if the <b>‹uy›</b> or <b>‹ats›</b> infixes are used (<b>zen‹uy›eke</b>, <b>zen‹ats›eke</b>).",
-    "etymology": [
-        "zene:v:m",
-        "ke:adv"
-    ]
+    "infixes": "z..enke",
+    "type": "v:m"
 }

@@ -1,0 +1,19 @@
+{
+    "na'vi": "--pe+",
+    "translations": [
+        {
+            "de": "Interrogativ Marker",
+            "en": "inter. marker",
+            "et": "küsimuse märkija",
+            "hu": "kérdőszóképző",
+            "nl": "vvn. markeerder",
+            "pl": "pytajnik",
+            "ru": "вопросительный маркер",
+            "sv": "interr. frågemarkör"
+        }
+    ],
+    "pronunciation": [
+        "--",
+        1
+    ]
+}
