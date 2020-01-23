@@ -16,5 +16,6 @@
         "lu",
         1
     ],
-    "infixes": "l..u"
+    "infixes": "l..u",
+    "source": "ASG"
 }

@@ -4,6 +4,7 @@ import csv
 import json
 
 words = {}
+sources = {}
 
 with open('metaWords.tsv') as f:
     reader = csv.reader(f, delimiter='\t')
@@ -214,6 +215,14 @@ def getPronunciation(word, ipa):
         infixes = infixes.replace('.', '..')
     return (wordDashed, stressed, infixes)
 
+with open('sources.tsv') as f:
+    reader = csv.reader(f, delimiter='\t')
+    next(reader)
+    for row in reader:
+        if len(row) == 2:
+            word_id = int(row[0])
+            sources[word_id] = row[1]
+
 typeErrors = 0
 ipaErrors = 0
 
@@ -238,7 +247,7 @@ for w in words:
         print("IPA of {} ({}) confuses our parser: {}".format(word, ipa, str(e)))
         ipaErrors += 1
     
-    try: 
+    try:
         word_type = getWordType(word, word_type)
     except ValueError as e:
         print(str(e))
@@ -252,6 +261,10 @@ for w in words:
         word = word[:-3]
         
     word_output["na'vi"] = word
+    try:
+        word_output["source"] = sources[w]
+    except KeyError as e:
+        print('no source for ' + word)
     
     for t in word_type:
         filename = "output/{}-{}.json".format(word, t)
