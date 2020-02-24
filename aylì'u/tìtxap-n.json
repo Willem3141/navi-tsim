@@ -4,6 +4,9 @@
         {
             "de": "Druck",
             "en": "pressure (physical)",
+            "et": "surve, rõhk",
+            "fr": "pression ([physique seulement])",
+            "hu": "nyomás (fizikai)",
             "nl": "druk (fysiek)"
         }
     ],

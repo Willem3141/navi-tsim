@@ -3,6 +3,9 @@
     "translations": [
         {
             "en": "to record",
+            "et": "salvestama, lindistama ",
+            "fr": "enregistrer | faire un enregistrement ([audio])",
+            "hu": "felvesz, rögzít (hangot)",
             "nl": "opnemen (van geluid)"
         }
     ],

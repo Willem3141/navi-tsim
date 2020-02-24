@@ -5,6 +5,7 @@
             "de": "sein, bin, bist, ist, sind (Kopula, Verb der Existenz)",
             "en": "be, am, is, are",
             "et": "olema (öeldistäide)",
+            "fr": "être | ([utilisé avec un mot au datif pour former le v.] avoir)",
             "hu": "van, lenni",
             "nl": "zijn (existentieel)",
             "pl": "być",
@@ -17,5 +18,6 @@
         1
     ],
     "infixes": "l..u",
-    "source": "ASG"
+    "source": "ASG",
+    "type": "v:cp"
 }

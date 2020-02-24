@@ -1,10 +1,11 @@
 {
-    "na'vi": "sko+",
+    "na'vi": "sko",
     "translations": [
         {
             "de": "(etwas, jemand) als (etwas, jemand anderes), in der Rolle als, in der Eigenschaft als",
             "en": "something as, in the capacity of, or in the role of, something else",
             "et": "olev kääne (kellegina, millegina)",
+            "fr": "en tant que",
             "hu": "mint..., ... szerepében",
             "nl": "iets als, met de capaciteit van/in de rol van iets anders",
             "pl": "jako, w roli",
@@ -16,5 +17,5 @@
         1
     ],
     "source": "http://naviteri.org/2012/03/spring-vocabulary-part-2/ (31 Mar 2012)",
-    "type": "adp"
+    "type": "adp:len"
 }

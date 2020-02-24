@@ -1,10 +1,11 @@
 {
-    "na'vi": "wä+",
+    "na'vi": "wä",
     "translations": [
         {
             "de": "gegen (wie bei: kämpfen gegen)",
             "en": "against (as in: fight against)",
             "et": "vastu (kellegi vastu võitlema)",
+            "fr": "contre (dans le sens 'se battre contre quelque chose')",
             "hu": "ellen (pl: harcolni vki ellen)",
             "nl": "tegen (als in: vechten tegen)",
             "pl": "przeciw (np.: walczyć przeciw)",
@@ -17,5 +18,5 @@
         1
     ],
     "source": "Taronyu's Dictionary 9.58 < Frommer",
-    "type": "adp"
+    "type": "adp:len"
 }

@@ -2,12 +2,13 @@
     "na'vi": "Ateyitan",
     "translations": [
         {
-            "en": "son of Ateyo"
+            "en": "son of Ateyo",
+            "fr": "fils d'Ateyo"
         }
     ],
     "pronunciation": [
         "A-tey-i-tan",
-        1
+        2
     ],
     "source": "NULL",
     "type": "n:pr"

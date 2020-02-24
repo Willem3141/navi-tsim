@@ -1,10 +1,11 @@
 {
-    "na'vi": "--pe+",
+    "na'vi": "--pe",
     "translations": [
         {
             "de": "Interrogativ Marker",
             "en": "inter. marker",
             "et": "küsimuse märkija",
+            "fr": "que quoi (particule utilisée pour générer une question)",
             "hu": "kérdőszóképző",
             "nl": "vvn. markeerder",
             "pl": "pytajnik",
@@ -16,5 +17,6 @@
         "--",
         1
     ],
-    "source": "Frommer"
+    "source": "Frommer",
+    "type": "adp:len"
 }

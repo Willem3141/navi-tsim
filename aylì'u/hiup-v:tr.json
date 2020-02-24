@@ -5,15 +5,16 @@
             "de": "spucken, (etwas) ausspucken",
             "en": "spit, spit out",
             "et": "sülitama",
+            "fr": "cracher",
             "hu": "köp",
             "nl": "spugen, uitspugen"
         }
     ],
     "pronunciation": [
-        "hiup",
+        "hi-up",
         1
     ],
-    "infixes": "hi..up",
+    "infixes": "h.i.up",
     "source": "http://naviteri.org/2016/06/mrrvola-lifyavi-amip-forty-new-expressions/ (30 Jun 2016)",
     "type": "v:tr"
 }

@@ -4,6 +4,9 @@
         {
             "de": "Ziel",
             "en": "destination",
+            "et": "sihtkoht, lõpp-punkt",
+            "fr": "destination",
+            "hu": "célállomás, rendeltetési hely",
             "nl": "bestemming"
         }
     ],

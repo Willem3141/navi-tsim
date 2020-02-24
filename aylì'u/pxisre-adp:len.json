@@ -1,10 +1,11 @@
 {
-    "na'vi": "pxisre+",
+    "na'vi": "pxisre",
     "translations": [
         {
             "de": "direkt vor (zeitl.)",
             "en": "right before",
             "et": "just enne",
+            "fr": "juste avant",
             "hu": "éppen előtte",
             "nl": "vlak voor",
             "pl": "tuż przed (o czasie)",
@@ -17,5 +18,5 @@
         2
     ],
     "source": "Frommer (22. April 2010) http://forum.learnnavi.org/language-updates/trr-rrtaya/",
-    "type": "adp"
+    "type": "adp:len"
 }

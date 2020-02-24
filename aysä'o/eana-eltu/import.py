@@ -40,6 +40,9 @@ def getWordType(word, t):
     
     if word.endswith(" si"):
         return "n:si"
+
+    if word == "lu" or word == "slu":
+        return "v:cp"
     
     if t == "n.":
         return "n"
@@ -59,6 +62,8 @@ def getWordType(word, t):
         return ["n", "adv"]
     if t == "adp.":
         return "adp"
+    if t == "adp:len":
+        return "adp:len"
     if t == "intj.":
         return "intj"
     if t == "n., intj.":
@@ -73,7 +78,7 @@ def getWordType(word, t):
         return "ctr"
     elif t == "v.":
         return "v:?"
-    elif t == "vin." or t == "svin.":
+    elif t == "vin." or t == "svin." or t == "vin., svin.":
         return "v:in"
     elif t == "vtr." or t == "vtr., vin." or t == "vin., vtr.":
         return "v:tr"
@@ -232,6 +237,10 @@ for w in words:
     infixes = words[w]["infixes"]
     word_type = words[w]["type"]
     translations = words[w]["translations"]
+
+    if word.endswith('+'):
+        word = word[0:-1]
+        word_type = 'adp:len'
     
     word_output = {
         "na'vi": word,

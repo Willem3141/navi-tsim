@@ -1,10 +1,11 @@
 {
-    "na'vi": "mì+",
+    "na'vi": "mì",
     "translations": [
         {
             "de": "in, im, an, auf",
             "en": "in, on",
             "et": "sees, peal",
+            "fr": "en dedans sur",
             "hu": "bent, benne, rajta, ban/ben, on/en/ön",
             "nl": "in, op",
             "pl": "w, na",
@@ -17,5 +18,5 @@
         1
     ],
     "source": "Frommer http://wiki.learnnavi.org/index.php?title=Canon#Midsummer_Night.27s_Dream_Vocabulary",
-    "type": "adp"
+    "type": "adp:len"
 }

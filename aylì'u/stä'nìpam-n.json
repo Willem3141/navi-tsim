@@ -3,6 +3,9 @@
     "translations": [
         {
             "en": "recording",
+            "et": "salvestis",
+            "fr": "enregistrement ([audio])",
+            "hu": "felvétel, felvevés",
             "nl": "opname (van geluid)"
         }
     ],

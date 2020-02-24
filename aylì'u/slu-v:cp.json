@@ -5,6 +5,7 @@
             "de": "werden (Prädikat mit ne in mehrdeutigen Konstruktionen)",
             "en": "become (noun predicate with ne in ambiguous constructions)",
             "et": "saama (kellekski, millekski) (kahemõttelistel juhtudel kasutatakse saavaks käändeks abisõna ne",
+            "fr": "devenir",
             "hu": "válik (valamivé)",
             "nl": "worden (zn. predicaat met ne in dubbelzinnige constructies)",
             "pl": "stawać się (w sytuacjach niejednoznacznych rzeczownik poprzedzony partykułą ne) ",
@@ -18,5 +19,5 @@
     ],
     "infixes": "sl..u",
     "source": "http://en.wiktionary.org/wiki/Appendix:Na'vi",
-    "type": "v:in"
+    "type": "v:cp"
 }

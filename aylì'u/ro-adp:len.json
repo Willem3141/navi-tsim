@@ -1,10 +1,11 @@
 {
-    "na'vi": "ro+",
+    "na'vi": "ro",
     "translations": [
         {
             "de": "an, bei (Ortsangabe)",
             "en": "at (locative)",
             "et": "kohakääne",
+            "fr": "au | à (dans le sens 'Au kelutral' 'À Hell's Gate')",
             "hu": "nál/nél",
             "nl": "op (locatief)",
             "pl": "w, na",
@@ -17,5 +18,5 @@
         1
     ],
     "source": "Taronyu's Dictionary 9.58 < Frommer",
-    "type": "adp"
+    "type": "adp:len"
 }

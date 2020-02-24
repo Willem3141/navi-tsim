@@ -1,10 +1,11 @@
 {
-    "na'vi": "ìlä+",
+    "na'vi": "ìlä",
     "translations": [
         {
             "de": "folgend, entlang, via; laut",
             "en": "by, via, following, according to",
             "et": "(millegi, kellegi) kaudu, läbi",
+            "fr": "suivant | via | par | selon (quelqu'un)",
             "hu": "által(a), révén, keresztül, mentén",
             "nl": "via, volgens",
             "pl": "przez, podążając za, zgodnie z",
@@ -13,5 +14,5 @@
         }
     ],
     "source": "Taronyu's dictionary 9.661 < Frommer",
-    "type": "adp"
+    "type": "adp:len"
 }

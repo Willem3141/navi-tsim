@@ -1,10 +1,11 @@
 {
-    "na'vi": "sre+",
+    "na'vi": "sre",
     "translations": [
         {
             "de": "vor (Zeit)",
             "en": "before (time)",
             "et": "enne (aeg)",
+            "fr": "avant (au sens temporel)",
             "hu": "korábban, megelőzőleg",
             "nl": "voor (tijd)",
             "pl": "przed (o czasie)",
@@ -17,5 +18,5 @@
         1
     ],
     "source": "Taronyu's Dictionary 9.58 < Frommer",
-    "type": "adp"
+    "type": "adp:len"
 }

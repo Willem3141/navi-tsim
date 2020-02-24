@@ -4,6 +4,9 @@
         {
             "de": "sehr mögen, enorm genießen",
             "en": "love greatly, enjoy tremendously",
+            "et": "tugevalt meeldima, tugevalt rahuldust pakkuv",
+            "fr": "aimer beaucoup | profiter énormément",
+            "hu": "nagyon szeret",
             "nl": "erg houden van"
         }
     ],
@@ -11,6 +14,7 @@
         "txa-su-nu",
         2
     ],
+    "infixes": "txas.un.u",
     "source": "http://naviteri.org/2019/06/50a-liu-amip-40-new-words%EF%BB%BF/",
     "type": "v:in"
 }

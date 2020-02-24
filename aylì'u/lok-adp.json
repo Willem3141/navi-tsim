@@ -5,6 +5,7 @@
             "de": "nahe bei, nahe an",
             "en": "close to",
             "et": "lähedal (millelegi)",
+            "fr": "près de | proche de",
             "hu": "közel(ében)",
             "nl": "dicht bij",
             "pl": "blisko",
@@ -16,7 +17,6 @@
         "lok",
         1
     ],
-    "infixes": "l..ok",
     "source": "Taronyu's dictionary 9.53 < Frommer",
     "type": "adp"
 }

@@ -1,10 +1,11 @@
 {
-    "na'vi": "nuä+",
+    "na'vi": "nuä",
     "translations": [
         {
             "de": "jenseits, (weit) hinter",
             "en": "beyond",
             "et": "taga, kaugemal (nt. Awnga kelku si nuä ayram alusìng  me elame hõljuvate mägede taga/mägedest edasi)",
+            "fr": "au-delà",
             "hu": "túl (valamin)",
             "nl": "voorbij",
             "pl": "poza, w dużej odległości od",
@@ -17,5 +18,5 @@
         1
     ],
     "source": "Frommer (30.10.2011) http://naviteri.org/2011/10/more-vocabulary-a-bit-of-grammar/",
-    "type": "adp"
+    "type": "adp:len"
 }

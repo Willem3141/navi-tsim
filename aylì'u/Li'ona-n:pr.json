@@ -2,12 +2,13 @@
     "na'vi": "Li'ona",
     "translations": [
         {
-            "en": "Na'vi Clan name"
+            "en": "Na'vi Clan name",
+            "fr": "nom de clan Na'vi"
         }
     ],
     "pronunciation": [
         "Li-'o-na",
-        1
+        2
     ],
     "source": "Avatar Game http://forum.learnnavi.org/language-updates/ltasygt-with-ke-and-nga/msg163181/#msg163181 (29 Mar 2010)",
     "type": "n:pr"

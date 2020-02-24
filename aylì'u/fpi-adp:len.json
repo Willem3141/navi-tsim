@@ -1,10 +1,11 @@
 {
-    "na'vi": "fpi+",
+    "na'vi": "fpi",
     "translations": [
         {
             "de": "wegen, zuliebe, um ... willen",
             "en": "for the sake of, for the benefit of",
             "et": "(millegi) pärast, tõttu  (Ma tapan jumala pärast. Eesti keeles eraldi väljend tegelikult puudub.)",
+            "fr": "pour l'amour de au bénéfice de",
             "hu": "(azért), hogy; valaminek az érdekében",
             "nl": "in het belang van, voor het nut van",
             "pl": "dla, na korzyść (czegoś)",
@@ -17,5 +18,5 @@
         1
     ],
     "source": "ASG",
-    "type": "adp"
+    "type": "adp:len"
 }

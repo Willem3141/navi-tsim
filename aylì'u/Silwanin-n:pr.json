@@ -2,12 +2,13 @@
     "na'vi": "Silwanin",
     "translations": [
         {
-            "en": "Neytiri's sister"
+            "en": "Neytiri's sister",
+            "fr": "sœur de Neytiri"
         }
     ],
     "pronunciation": [
         "Sil-wa-nin",
-        1
+        2
     ],
     "source": "NULL",
     "type": "n:pr"

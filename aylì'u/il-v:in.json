@@ -5,6 +5,7 @@
             "de": "biegen, beugen, neigen",
             "en": "bend",
             "et": "painduma",
+            "fr": "courber",
             "hu": "hajlik",
             "nl": "buigen",
             "pl": "zginać",
@@ -15,7 +16,7 @@
         "il",
         1
     ],
-    "infixes": "i..l",
+    "infixes": "..il",
     "source": "http://naviteri.org/2013/04/wheres-the-bathroom-and-other-useful-things/ (25 Apr 2013)",
     "type": "v:in"
 }

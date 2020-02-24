@@ -2,10 +2,11 @@
     "na'vi": "swoa",
     "translations": [
         {
-            "de": "berauschendes Getränk, ``Spirituosen''",
-            "en": "intoxicating beverage, or ``spirits''",
+            "de": "berauschendes Getränk, \"Spirituosen\"",
+            "en": "intoxicating beverage, or \"spirits\"",
             "et": "vägijooks, narkootiline jook, mõnujook",
-            "hu": "részegítő ital, vagy ``szesz''",
+            "fr": "brevage enivrant | grisant (spiritueux)",
+            "hu": "részegítő ital, vagy \"szesz\"",
             "nl": "bedwelmende drank, geestrijk vocht",
             "pl": "napój wyskokowy",
             "ru": "опьяняющие напитки, «спиртное»"

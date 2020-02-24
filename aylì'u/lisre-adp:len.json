@@ -1,10 +1,11 @@
 {
-    "na'vi": "lisre+",
+    "na'vi": "lisre",
     "translations": [
         {
             "de": "bis (spätestens)",
             "en": "by, before, up to but not after",
             "et": "(mingiks ajaks) teostama",
+            "fr": "avant, jusqu'à",
             "hu": "mire, amíg, addigra",
             "nl": "tot, voor, tot aan maar niet na",
             "pl": "do, przed, aż do, ale nie później",
@@ -17,5 +18,5 @@
         1
     ],
     "source": "Frommer (20.2.2011) http://naviteri.org/2011/02/new-vocabulary-part-2/",
-    "type": "adp"
+    "type": "adp:len"
 }
