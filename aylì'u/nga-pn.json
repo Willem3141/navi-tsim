@@ -17,6 +17,14 @@
         "nga",
         1
     ],
+    "conjugation": {
+        "forms": [
+            ["-nga-", "-nga-l", "-nga-t(i)", "-nga-r(u)", "-nge-y(ä)", "-nga-ri"],
+            ["me-nga-", "me-nga-l", "me-nga-t(i)", "me-nga-r(u)", "me-nge-y(ä)", "me-nga-ri"],
+            ["pxe-nga-", "pxe-nga-l", "pxe-nga-t(i)", "pxe-nga-r(u)", "pxe-nge-y(ä)", "pxe-nga-ri"],
+            ["ay-nga-", "ay-nga-l", "ay-nga-t(i)", "ay-nga-r(u)", "ay-nge-y(ä)", "ay-nga-ri"]
+        ]
+    },
     "source": "Avatar Movie",
     "type": "pn"
 }

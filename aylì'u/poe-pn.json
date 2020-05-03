@@ -14,11 +14,19 @@
         }
     ],
     "meaning_note": "Gender-specific form of [po:pn], used only when it avoids ambiguity.",
-    "conjugation_note": "Has no plural form; use <b>(ay)fo</b> instead.",
+    "conjugation_note": "Has no plural forms; use <b>(ay)fo</b> instead.",
     "pronunciation": [
         "po-e",
         2
     ],
+    "conjugation": {
+        "forms": [
+            ["-poe-", "-poe-l", "-poe-t(i)", "-poe-r(u)", "-poe-y(ä)", "-poe-ri"],
+            [],
+            [],
+            []
+        ]
+    },
     "source": "Frommer http://wiki.learnnavi.org/index.php?title=Canon#Trials_.26_transitivity",
     "type": "pn",
     "source": [

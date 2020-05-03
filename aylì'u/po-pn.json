@@ -14,11 +14,18 @@
         }
     ],
     "meaning_note": "Used for people and animate objects (for example animals, but not bugs).",
-    "conjugation_note": "Has no plural form; use [po:pn] instead.",
     "pronunciation": [
         "po",
         1
     ],
+    "conjugation": {
+        "forms": [
+            ["-po-", "-po-l", "-po-t(i)", "-po-r(u)", "-pe-y(ä)", "-po-ri"],
+            ["me-fo-", "me-fo-l", "me-fo-t(i)", "me-fo-r(u)", "me-fe-y(ä)", "me-fo-ri"],
+            ["pxe-fo-", "pxe-fo-l", "pxe-fo-t(i)", "pxe-fo-r(u)", "pxe-fe-y(ä)", "pxe-fo-ri"],
+            ["(ay-)fo-", "(ay-)fo-l", "(ay-)fo-t(i)", "(ay-)fo-r(u)", "(ay-)fe-y(ä)", "(ay-)fo-ri"]
+        ]
+    },
     "source": "Taronyu's Dictionary -> Survival Guide",
     "type": "pn",
     "source": [

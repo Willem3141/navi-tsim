@@ -17,6 +17,16 @@
         "o-e",
         1
     ],
+    "conjugation": {
+        "forms": [
+            ["-oe-", "-oe-l", "-oe-t(i)", "-oe-r(u)", "-oe-y(ä)", "-oe-ri"],
+            ["m-oe-", "m-oe-l", "m-oe-t(i)", "m-oe-r(u)", "m-oe-y(ä)", "m-oe-ri"],
+            ["px-oe-", "px-oe-l", "px-oe-t(i)", "px-oe-r(u)", "px-oe-y(ä)", "px-oe-ri"],
+            ["ay-oe-", "ay-oe-l", "ay-oe-t(i)", "ay-oe-r(u)", "ay-oe-y(ä)", "ay-oe-ri"]
+        ]
+    },
+    "meaning_note": "The plural forms are exclusive (that is, they do not include the person addressed). For the inclusive forms, use [oeng:pn].",
     "source": "Frommer / Taronyu's Dictionary",
-    "type": "pn"
+    "type": "pn",
+    "seeAlso": ["oeng:pn"]
 }

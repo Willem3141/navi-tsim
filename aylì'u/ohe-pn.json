@@ -17,6 +17,14 @@
         "o-he",
         1
     ],
+    "conjugation": {
+        "forms": [
+            ["-ohe-", "-ohe-l", "-ohe-t(i)", "-ohe-r(u)", "-ohe-y(ä)", "-ohe-ri"],
+            ["m-ohe-", "m-ohe-l", "m-ohe-t(i)", "m-ohe-r(u)", "m-ohe-y(ä)", "m-ohe-ri"],
+            ["px-ohe-", "px-ohe-l", "px-ohe-t(i)", "px-ohe-r(u)", "px-ohe-y(ä)", "px-ohe-ri"],
+            ["ay-ohe-", "ay-ohe-l", "ay-ohe-t(i)", "ay-ohe-r(u)", "ay-ohe-y(ä)", "ay-ohe-ri"]
+        ]
+    },
     "source": "Taronyu's Dictionary => Frommer",
     "type": "pn"
 }

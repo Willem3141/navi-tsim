@@ -2,21 +2,29 @@
     "na'vi": "sno",
     "translations": [
         {
-            "de": "er, sie, es selbst (reflexive Gentivform sneyä)",
-            "en": "his self, her self, its self (reflexive, genitive form sneyä)",
-            "et": "tema/nende enda oma (enesekohane genitiivne vorm: sneyä)",
+            "de": "er, sie, es selbst",
+            "en": "his self, her self, its self",
+            "et": "tema/nende enda oma",
             "fr": "[pronom réfléchi à la 3ième personne] | se | soi-même | lui-même | elle-même | eux-mêmes",
             "hu": "a sajátja  (visszaható)",
-            "nl": "hemzelf, haarzelf, hetzelf (reflexief, genitieve vorm sneyä)",
-            "pl": "swój własny (strona zwrotna, forma dopełniacza sneyä)",
-            "ru": "его, её (генитив  sneyä)",
-            "sv": "hans eget, hennes eget, dens eget (reflextiv, genitivform sneyä)"
+            "nl": "hemzelf, haarzelf, hetzelf",
+            "pl": "swój własny",
+            "ru": "его, её",
+            "sv": "hans eget, hennes eget, dens eget"
         }
     ],
     "pronunciation": [
         "sno",
         1
     ],
+    "conjugation": {
+        "forms": [
+            ["-sno-", "-sno-l", "-sno-t(i)", "-sno-r(u)", "-sne-y(ä)", "-sno-ri"],
+            [],
+            [],
+            []
+        ]
+    },
     "source": "Frommer (07. October 2010) http://forum.learnnavi.org/language-updates/sieyng-a-ftu-naring-1-updates-from-the-language-workshop/",
     "type": "pn"
 }

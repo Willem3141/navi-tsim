@@ -2,21 +2,32 @@
     "na'vi": "oeng",
     "translations": [
         {
-            "de": "wir beide (dual inklusive), Du und Ich",
-            "en": "we two, us two (dual inclusive), you and I",
-            "et": "meie kaks (välistav), sina ja mina",
-            "fr": "toi et moi | nous deux",
-            "hu": "mi ketten (beleértő) (te és én)",
-            "nl": "wij twee (tweevoudig inclusief)",
-            "pl": "my dwaj, nas dwoje (inclusivus), ty i ja",
-            "ru": "мы с тобой (двойственный инклюзив)",
-            "sv": "vi två, du och jag"
+            "de": "wir (inklusiv)",
+            "en": "we, us (inclusive)",
+            "et": "meie (kaasav) (ayoeng nimetavas, (meie ja sina))",
+            "fr": "nous (tous) (inclusif, incluant toi)",
+            "hu": "mi (beleértő)",
+            "nl": "wij, ons (inclusief)",
+            "pl": "my, nas (włączające)",
+            "ru": "мы (инклюзив)",
+            "sv": "vi, oss (du med)"
         }
     ],
     "pronunciation": [
-        "oeng",
-        1
+        "o-eng",
+        2
     ],
+    "conjugation": {
+        "forms": [
+            [],
+            ["-oeng-", "-oenga-l", "-oenga-t(i)", "-oenga-r(u)", "-oenge-y(ä)", "-oenga-ri"],
+            ["px-oeng-", "px-oenga-l", "px-oenga-t(i)", "px-oenga-r(u)", "px-oenge-y(ä)", "px-oenga-ri"],
+            ["ay-oeng-;-awnga-", "ay-oenga-l;-awnga-l", "ay-oenga-t(i);-awnga-t(i)", "ay-oenga-r(u);-awnga-r(u)", "ay-oenge-y(ä);-awnge-y(ä)", "ay-oenga-ri;-awnga-ri"]
+        ]
+    },
+    "meaning_note": "These are the inclusive plural forms of the first-person pronoun (that is, they include the person addressed). For the exclusive forms, see [oe:pn].",
+    "conjugation_note": "The plural form <b>ayoeng</b> has the short form <b>awnga</b>. These are interchangeable.",
     "source": "http://forum.learnnavi.org/language-updates/confirmation-on-pronunciation-of-oe-words",
-    "type": "pn"
+    "type": "pn",
+    "seeAlso": ["oe:pn"]
 }

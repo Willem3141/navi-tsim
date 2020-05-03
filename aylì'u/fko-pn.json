@@ -3,7 +3,7 @@
     "translations": [
         {
             "de": "eine/r, man (nichtspezifizierter Handelnder)",
-            "en": "one, they (singular usage) (unspecified agent)",
+            "en": "one, they (unspecified agent)",
             "et": "üks, nemad, see, umbisikuline tegija",
             "fr": "un (dans le sens 'un truc' indéfini)",
             "hu": "valaki, ő(k) (határozatlan alany, egyesszámban értendő)",
@@ -16,6 +16,14 @@
         "fko",
         1
     ],
+    "conjugation": {
+        "forms": [
+            ["-fko-", "-fko-l", "-fko-t(i)", "-fko-r(u)", "-fke-y(ä)", "-fko-ri"],
+            [],
+            [],
+            []
+        ]
+    },
     "source": "ASG",
     "type": "pn"
 }

@@ -14,11 +14,19 @@
         }
     ],
     "meaning_note": "Gender-specific form of [po:pn], used only when it avoids ambiguity.",
-    "conjugation_note": "Has no plural form; use <b>(ay)fo</b> instead.",
+    "conjugation_note": "Has no plural forms; use <b>(ay)fo</b> instead.",
     "pronunciation": [
         "po-an",
         2
     ],
+    "conjugation": {
+        "forms": [
+            ["-poan-", "-poan-ìl", "-poan-it/ti", "-poan-ur", "-poan-ä", "-poan-ìri"],
+            [],
+            [],
+            []
+        ]
+    },
     "source": "Taronyu's Dictionary -> Survival Guide",
     "type": "pn",
     "source": [

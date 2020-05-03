@@ -13,9 +13,19 @@
             "sv": "den där, det där (saken)"
         }
     ],
+    "meaning_note": "This is the inanimate counterpart of [po:pn].",
     "pronunciation": [
         "tsa-'u",
         1
     ],
+    "conjugation": {
+        "forms": [
+            ["-tsa'u-;-tsaw-", "-tsa'u-l;-tsa-l", "-tsa'u-t(i);-tsa-t(i)", "-tsa'u-r(u);-tsa-r(u)", "-tsa'u-ä;-tse-y(ä)", "-tsa'u-ri;-tsa-ri"],
+            ["me-sa'u-;me-saw-", "me-sa'u-l;me-sa-l", "me-sa'u-t(i);me-sa-t(i)", "me-sa'u-r(u);me-sa-r(u)", "me-sa'u-ä;me-se-y(ä)", "me-sa'u-ri;me-sa-ri"],
+            ["pxe-sa'u-;pxe-saw-", "pxe-sa'u-l;pxe-sa-l", "pxe-sa'u-t(i);pxe-sa-t(i)", "pxe-sa'u-r(u);pxe-sa-r(u)", "pxe-sa'u-ä;pxe-se-y(ä)", "pxe-sa'u-ri;pxe-sa-ri"],
+            ["(ay-)sa'u-;(ay-)saw-", "(ay-)sa'u-l;(ay-)sa-l", "(ay-)sa'u-t(i);(ay-)sa-t(i)", "(ay-)sa'u-r(u);(ay-)sa-r(u)", "(ay-)sa'u-ä;(ay-)se-y(ä)", "(ay-)sa'u-ri;(ay-)sa-ri"]
+        ]
+    },
+    "type": "pn",
     "source": "http://en.wiktionary.org/wiki/Appendix:Na'vi"
 }

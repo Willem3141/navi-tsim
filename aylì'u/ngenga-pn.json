@@ -17,6 +17,14 @@
         "nge-nga",
         2
     ],
+    "conjugation": {
+        "forms": [
+            ["-ngenga-", "-ngenga-l", "-ngenga-t(i)", "-ngenga-r(u)", "-ngenge-y(ä)", "-ngenga-ri"],
+            ["me-ngenga-", "me-ngenga-l", "me-ngenga-t(i)", "me-ngenga-r(u)", "me-ngenge-y(ä)", "me-ngenga-ri"],
+            ["pxe-ngenga-", "pxe-ngenga-l", "pxe-ngenga-t(i)", "pxe-ngenga-r(u)", "pxe-ngenge-y(ä)", "pxe-ngenga-ri"],
+            ["ay-ngenga-", "ay-ngenga-l", "ay-ngenga-t(i)", "ay-ngenga-r(u)", "ay-ngenge-y(ä)", "ay-ngenga-ri"]
+        ]
+    },
     "source": "Taronyu's Dictionary => Frommer",
     "type": "pn"
 }
