@@ -3,11 +3,13 @@
     "translations": [
         {
             "en": "what three people",
-            "fr": "quelles trois personnes?"
+            "fr": "quelles trois personnes?",
+            "nl": "welke drie personen"
         }
     ],
     "pronunciation": [
         "pep-su",
         2
-    ]
+    ],
+    "source": "http://naviteri.org/2011/07/number-in-na%e2%80%99vi/ (30 JUL 2011)"
 }

@@ -3,12 +3,14 @@
     "translations": [
         {
             "en": "Tree of Souls",
-            "fr": "arbre des âmes"
+            "fr": "arbre des âmes",
+            "nl": "Zielenboom"
         }
     ],
     "pronunciation": [
         "Vit-ra-ut-ral",
         2
     ],
+    "source": "Frommer",
     "type": "n:pr"
 }
