@@ -3,6 +3,7 @@
     "translations": [
         {
             "en": "shield",
+            "fr": "bouclier, protection",
             "nl": "schild"
         }
     ],
@@ -10,6 +11,6 @@
         "yokx",
         1
     ],
-    "source": "https://forum.learnnavi.org/language-updates/vocabulary-from-disney%27s-na%27vi-translator/msg669593/#msg669593",
+    "source": "https://forum.learnnavi.org/language-updates/vocabulary-from-disney's-na'vi-translator",
     "type": "n"
 }

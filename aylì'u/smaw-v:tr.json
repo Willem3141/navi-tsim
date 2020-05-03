@@ -1,0 +1,17 @@
+{
+    "na'vi": "smaw",
+    "translations": [
+        {
+            "en": "approve of",
+            "fr": "approuver",
+            "nl": "goedkeuren"
+        }
+    ],
+    "pronunciation": [
+        "smaw",
+        1
+    ],
+    "infixes": "sm..aw",
+    "source": "http://naviteri.org/2020/02/some-words-for-leap-year-day/",
+    "type": "v:tr"
+}
