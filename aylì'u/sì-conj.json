@@ -13,13 +13,13 @@
             "sv": "och"
         }
     ],
-    "meaning_note": "Connects noun groups or verbs, not entire clauses. Can be attached to the word after it (<b>A sì B</b> &rarr; <b>A Bsì</b>), like an adposition, except that <b>A</b> can still carry a case ending.",
+    "meaning_note": "Connects noun groups or verbs, not entire clauses. Can be attached to the word after it (<b>A sì B</b> &rarr; <b>A Bsì</b>), like an adposition, except that <b>B</b> can still carry a case ending.",
     "pronunciation": [
         "sì",
         1
     ],
     "source": "http://en.wiktionary.org/wiki/Appendix:Na'vi",
-    "type": "conj",
+    "type": "part",
     "seeAlso": [
         "ulte:conj"
     ]
