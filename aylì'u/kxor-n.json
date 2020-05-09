@@ -3,7 +3,7 @@
     "translations": [
         {
             "de": "eine Wand oder Ufer von mächtigen Fällen, auffallend durch ihr ohrenbetäubendes Tosen und ihre tödliche Kraft (zählbar, aber selten)",
-            "en": "a wall or bank of powerful waterfalls noted for its deafening roar and deadly force (countable, but only rarely)",
+            "en": "a wall or bank of powerful waterfalls noted for its deafening roar and deadly force",
             "et": "Suured kosed, mis on väga tugeva vooluga (loendatav, kuid harva)",
             "fr": "mur d'eau",
             "hu": "erős vízesés, jellemzői: fültépő hangja és halálos ereje (megszámlálható, de csak ritkán)",
@@ -12,6 +12,7 @@
             "ru": "стена мощных водопадов "
         }
     ],
+    "meaning_note": "Countable, but only rarely.",
     "pronunciation": [
         "kxor",
         1

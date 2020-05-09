@@ -3,7 +3,7 @@
     "translations": [
         {
             "de": "Wildwasserstrom, Stromschnellen (zählbar, aber selten)",
-            "en": "whitewater rapids (countable, but only rarely)",
+            "en": "whitewater rapids",
             "et": "kärestik (loendatav, kuid harva)",
             "fr": "rapides (comptable mais en de rares occasions)",
             "hu": "vadvízi zuhatag (megszámlálható, de csak ritkán)",
@@ -12,6 +12,7 @@
             "ru": "стремнина"
         }
     ],
+    "meaning_note": "Countable, but only rarely.",
     "pronunciation": [
         "tsel-tsul",
         1
