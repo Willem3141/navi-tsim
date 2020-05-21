@@ -3,7 +3,7 @@
     "translations": [
         {
             "de": "diese Wörter, dass (indirekte FrageKonstruktion im Patiens)",
-            "en": "these words",
+            "en": "these words (reported speech marker)",
             "et": "neid sõnu, mida",
             "fr": "que | [sbd. rapportant le discours du v.] plltxe ou peng | [forme abrégée de]: faylì'ut a",
             "hu": "ezek a szavak",
@@ -17,6 +17,14 @@
         "fay-lu-ta",
         2
     ],
+    "conjugation": {
+        "forms": [
+            [null, null, "fayluta", null, null, null],
+            [],
+            [],
+            []
+        ]
+    },
     "source": "(31 Aug 2011) http://naviteri.org/2011/08/reported-speech-reported-questions/",
-    "type": "n"
+    "type": "ctr"
 }

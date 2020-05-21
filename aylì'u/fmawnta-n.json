@@ -3,7 +3,7 @@
     "translations": [
         {
             "de": "Neuigkeit, die XYZ (indirekte FrageKonstruktion)",
-            "en": "that news",
+            "en": "that news (reported observations marker)",
             "et": "uudist, mida)",
             "fr": "que | [sbd. au discours rapporté des v.s] stawm [ou] peng | [forme abrégée de:] fmawnit a",
             "hu": "azok a hírek",
@@ -14,9 +14,17 @@
         }
     ],
     "pronunciation": [
-        "fmawnta",
+        "fmawn-ta",
         1
     ],
+    "conjugation": {
+        "forms": [
+            [null, null, "fmawnta", null, null, null],
+            [],
+            [],
+            []
+        ]
+    },
     "source": "(31 Aug 2011) http://naviteri.org/2011/08/reported-speech-reported-questions/",
-    "type": "n"
+    "type": "ctr"
 }

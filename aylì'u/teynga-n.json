@@ -3,7 +3,7 @@
     "translations": [
         {
             "de": "dass (indirekte FrageKonstruktion)",
-            "en": "that answer",
+            "en": "that answer (indirect question marker)",
             "et": "vastus, mis ",
             "fr": "cette réponse",
             "hu": "az a válasz",
@@ -17,6 +17,14 @@
         "teyng-a",
         1
     ],
+    "conjugation": {
+        "forms": [
+            ["teynga", "teyngla", "teyngta", null, null, null],
+            [],
+            [],
+            []
+        ]
+    },
     "source": "(31 Aug 2011) http://naviteri.org/2011/08/reported-speech-reported-questions/",
-    "type": "n"
+    "type": "ctr"
 }
