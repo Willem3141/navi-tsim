@@ -74,13 +74,13 @@ def getWordType(word, t):
         return "part"
     if t == "conj.":
         return "conj"
-    if t == "pn., sbd.":
+    if t == "sbd.":
         return "ctr"
     elif t == "v.":
         return "v:?"
-    elif t == "vin." or t == "svin." or t == "vin., svin.":
+    elif t == "vin.":
         return "v:in"
-    elif t == "vtr." or t == "vtr., vin." or t == "vin., vtr.":
+    elif t == "vtr.":
         return "v:tr"
     elif t == "vim.":
         return "v:m"
