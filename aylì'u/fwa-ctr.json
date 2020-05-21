@@ -3,11 +3,11 @@
     "translations": [
         {
             "de": "dass (NebensatzMarker)",
-            "en": "that (subordinate clause marker)",
+            "en": "that (subclause marker)",
             "et": "see, mis (kõrvallause märkija)",
             "fr": "ce qui...",
             "hu": "az, hogy (alárendelő mellékmondat kötőszava)",
-            "nl": "dat (gesubordineerd zinsdeel markeerder)",
+            "nl": "dat (markeert een bijzin)",
             "pl": "który",
             "ru": "тот (который или что) (маркер относительного выражения)",
             "sv": "att,  (klausul bisatsmarkör)"
@@ -17,6 +17,14 @@
         "fwa",
         1
     ],
+    "conjugation": {
+        "forms": [
+            ["fwa", "fula", "futa", "fura", null, "furia"],
+            [],
+            [],
+            []
+        ]
+    },
     "source": "Taronyu's Dictionary 10.015 => Frommer",
     "type": "ctr"
 }

@@ -3,7 +3,7 @@
     "translations": [
         {
             "de": "kennzeichnet Ja oder Nein Fragen",
-            "en": "inter. marker for yes or no questions",
+            "en": "yes/no (question marker for yes-or-no questions)",
             "et": "märgib kas...? küsimusi",
             "fr": "[marqueur de question fermée placée en début de phrase]",
             "hu": "eldöntendő kérdés jele",
@@ -13,6 +13,7 @@
             "sv": "interj. markör för ja och nejfrågor"
         }
     ],
+    "meaning_note": "The form <b>srake</b> is used at the beginning of the sentence, while <b>srak</b> is used at the end.",
     "pronunciation": [
         "sra-ke",
         1

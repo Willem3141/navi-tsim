@@ -3,11 +3,11 @@
     "translations": [
         {
             "de": "das (Relativpronomen)",
-            "en": "that",
+            "en": "that (subclause marker)",
             "et": "see, mis",
             "fr": "ce",
             "hu": "hogy (alárendelő tagmondat jelző)",
-            "nl": "dat",
+            "nl": "dat (markeert een bijzin)",
             "pl": "który",
             "ru": "что",
             "sv": "den, det, som (bisatsmarkör)"
@@ -17,6 +17,14 @@
         "tsa-wa",
         1
     ],
+    "conjugation": {
+        "forms": [
+            ["tsawa", "tsala", "tsata", "tsara", null, "tsaria"],
+            [],
+            [],
+            []
+        ]
+    },
     "source": "(18 Jun 2010) http://forum.learnnavi.org/language-updates/txelanit-hivawl/",
     "type": "ctr"
 }
