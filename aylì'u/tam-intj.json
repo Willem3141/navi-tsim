@@ -2,12 +2,12 @@
     "na'vi": "tam",
     "translations": [
         {
-            "de": "ausreichen, genügen, reichen; Okay, in Ordnung",
-            "en": "to be sufficient, to be okay",
+            "de": "Okay, in Ordnung",
+            "en": "okay, that will suffice, that will do",
             "et": "piisama, olgu, okei",
             "fr": "suffire | aller",
             "hu": "megteszi; rendben; jó lesz",
-            "nl": "voldoen, dat is voldoende, oké",
+            "nl": "oké, in orde",
             "pl": "wystarczać, wystarczy",
             "ru": "довольно, достаточно, хватит",
             "sv": "tillräckligt, okej, OK, det blir bra"
@@ -17,7 +17,6 @@
         "tam",
         1
     ],
-    "infixes": "t..am",
     "source": "Frommer (18. Feb 2010) http://forum.learnnavi.org/language-updates/ok!-we-got-ok/",
-    "type": "v:in"
+    "type": "intj"
 }
