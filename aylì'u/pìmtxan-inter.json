@@ -1,0 +1,22 @@
+{
+    "na'vi": "pìmtxan",
+    "translations": [
+        {
+            "de": "Wieviel? (welche Menge?)",
+            "en": "how much",
+            "et": "kui palju, (kui suur kogus/hulk)",
+            "fr": "combien",
+            "hu": "mennyi?",
+            "nl": "hoeveel",
+            "pl": "jak dużo",
+            "ru": "сколько? (с неисчисляемыми существительными)",
+            "sv": "hur mycket"
+        }
+    ],
+    "pronunciation": [
+        "pìm-txan",
+        2
+    ],
+    "source": "Frommer (14. March 2010) http://forum.learnnavi.org/language-updates/more-grammatical-tidbits/",
+    "type": "inter"
+}

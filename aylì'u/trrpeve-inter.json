@@ -1,0 +1,22 @@
+{
+    "na'vi": "trrpeve",
+    "translations": [
+        {
+            "de": "welcher Tag? (abgeleitet von trr Tag und pe Fragepartikel und ve Ordnungszahlmarker)",
+            "en": "which day (derived from trr day and pe interrogative marker and ve ordinal number marker)",
+            "et": "mis päeval? (tuletatud sõnast päev ja liidetest pe küsisõna märkija ja ve järgarvsõna märkija)",
+            "fr": "quel jour ?",
+            "hu": "Milyen nap?",
+            "nl": "welke dag (afgeleid van trr dag en pe vvn. markeerder en ve telwoordmarkeerder)",
+            "pl": "którego dnia (utworzone od trr dzień, pe przyrostek tworzący pytajnik oraz ve przyrostek tworzący liczebniki porządkowe)",
+            "ru": "какой день недели",
+            "sv": "vilken dag (härstammar ifrån trr dag och pe frågemarkör och ve ordningsnummersmarkör)"
+        }
+    ],
+    "pronunciation": [
+        "trr-pe-ve",
+        2
+    ],
+    "source": "Frommer (22. April 2010) http://forum.learnnavi.org/language-updates/trr-rrtaya/",
+    "type": "inter"
+}

@@ -1,0 +1,22 @@
+{
+    "na'vi": "pelun",
+    "translations": [
+        {
+            "de": "Warum? (welcher Grund?)",
+            "en": "why",
+            "et": "miks",
+            "fr": "pourquoi",
+            "hu": "miért?",
+            "nl": "waarom",
+            "pl": "dlaczego",
+            "ru": "зачем, почему, отчего",
+            "sv": "varför"
+        }
+    ],
+    "pronunciation": [
+        "pe-lun",
+        2
+    ],
+    "source": "Taronyu's Dictionary -> Survival Guide",
+    "type": "inter"
+}
