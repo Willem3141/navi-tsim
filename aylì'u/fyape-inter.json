@@ -1,0 +1,22 @@
+{
+    "na'vi": "fyape",
+    "translations": [
+        {
+            "de": "wie?",
+            "en": "how",
+            "et": "kuidas",
+            "fr": "comment",
+            "hu": "hogy(an)?",
+            "nl": "hoe",
+            "pl": "jak",
+            "ru": "как",
+            "sv": "hur"
+        }
+    ],
+    "pronunciation": [
+        "fya-pe",
+        1
+    ],
+    "source": "ASG",
+    "type": "inter"
+}

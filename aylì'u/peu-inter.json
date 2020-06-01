@@ -1,0 +1,22 @@
+{
+    "na'vi": "peu",
+    "translations": [
+        {
+            "de": "Was? (welches Ding?)",
+            "en": "what (thing)",
+            "et": "mis (asi)",
+            "fr": "quoi? | quel? | quelle? | quelle chose? | ([quoi pour une chose])",
+            "hu": "mi? mit? micsoda? micsodát?",
+            "nl": "wat, welk (ding)",
+            "pl": "co (o rzecz)",
+            "ru": "кто (вопрос к неодушевленному предмету)",
+            "sv": "vad (för sak)"
+        }
+    ],
+    "pronunciation": [
+        "pe-u",
+        2
+    ],
+    "source": "Taronyu's Dictionary -> Survival Guide",
+    "type": "inter"
+}

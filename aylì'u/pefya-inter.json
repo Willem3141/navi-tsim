@@ -1,0 +1,22 @@
+{
+    "na'vi": "pefya",
+    "translations": [
+        {
+            "de": "Wie?",
+            "en": "how",
+            "et": "kuidas",
+            "fr": "comment",
+            "hu": "hogy(an)?",
+            "nl": "hoe",
+            "pl": "jak",
+            "ru": "как",
+            "sv": "hur"
+        }
+    ],
+    "pronunciation": [
+        "pe-fya",
+        2
+    ],
+    "source": "Taronyu's Dictionary -> Survival Guide",
+    "type": "inter"
+}

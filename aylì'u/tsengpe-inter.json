@@ -1,0 +1,22 @@
+{
+    "na'vi": "tsengpe",
+    "translations": [
+        {
+            "de": "Wo? (welcher Ort?)",
+            "en": "where",
+            "et": "kus",
+            "fr": "où?",
+            "hu": "hol?",
+            "nl": "waar",
+            "pl": "gdzie",
+            "ru": "где",
+            "sv": "var, vart"
+        }
+    ],
+    "pronunciation": [
+        "tseng-pe",
+        1
+    ],
+    "source": "http://en.wiktionary.org/wiki/Appendix:Na'vi",
+    "type": "inter"
+}

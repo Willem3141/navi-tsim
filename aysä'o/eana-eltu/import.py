@@ -88,6 +88,8 @@ def getWordType(word, t):
         return ["v:tr", "v:m"]
     elif t == "ph.":
         return "phr"
+    elif t == "inter.":
+        return "inter"
     
     raise ValueError("word type {} of {} unknown".format(t, word))
 

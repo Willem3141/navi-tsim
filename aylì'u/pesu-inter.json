@@ -1,0 +1,22 @@
+{
+    "na'vi": "pesu",
+    "translations": [
+        {
+            "de": "Wer? (welcher Person?)",
+            "en": "who",
+            "et": "kes",
+            "fr": "qui",
+            "hu": "ki(csoda)?",
+            "nl": "wie",
+            "pl": "kto",
+            "ru": "кто",
+            "sv": "vem"
+        }
+    ],
+    "pronunciation": [
+        "pe-su",
+        2
+    ],
+    "source": "Taronyu's Dictionary -> Survival Guide",
+    "type": "inter"
+}

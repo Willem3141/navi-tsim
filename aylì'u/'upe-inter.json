@@ -1,0 +1,22 @@
+{
+    "na'vi": "'upe",
+    "translations": [
+        {
+            "de": "Was, Welches (Ding)",
+            "en": "what (thing)",
+            "et": "mis (asi)",
+            "fr": "quoi? | quel? | quelle? | quelle chose?",
+            "hu": "mi? mit? micsoda? micsodát?",
+            "nl": "welk (ding)",
+            "pl": "co (o rzecz)",
+            "ru": "что за, какой, который",
+            "sv": "vad (för sak)"
+        }
+    ],
+    "pronunciation": [
+        "'u-pe",
+        1
+    ],
+    "source": "ASG",
+    "type": "inter"
+}
