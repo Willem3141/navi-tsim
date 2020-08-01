@@ -1,0 +1,24 @@
+{
+    "na'vi": "kärìp",
+    "translations": [
+        {
+            "de": "drücken, schieben, stoßen",
+            "en": "push",
+            "et": "lükkama",
+            "fr": "pousser",
+            "hu": "tol, lök, taszít",
+            "nl": "duwen",
+            "pl": "pchać",
+            "ru": "толкать",
+            "sv": "trycka"
+        }
+    ],
+    "pronunciation": [
+        "kä-rìp",
+        1
+    ],
+    "infixes": "k.är.ìp",
+    "source": "http://naviteri.org/2020/07/vospxivol-lefpom-happy-august/",
+    "type": "v:tr",
+    "etymology": "Shortened form of [kä'ärìp:v:tr]."
+}

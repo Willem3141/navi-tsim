@@ -1,19 +1,19 @@
 {
-    "na'vi": "txeptsyìp",
+    "na'vi": "sähe'a",
     "translations": [
         {
-            "en": "flame",
-            "nl": "vlam"
+            "en": "cough, instance of coughing",
+            "nl": "hoest"
         }
     ],
     "pronunciation": [
-        "txep-tsyìp",
-        1
+        "sä-he-'a",
+        2
     ],
     "source": "http://naviteri.org/2020/07/vospxivol-lefpom-happy-august/",
     "type": "n",
     "etymology": [
-        "txep:n",
-        "-tsyìp"
+        "sä-",
+        "he'a:v:in"
     ]
 }

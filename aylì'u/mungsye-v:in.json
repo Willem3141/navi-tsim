@@ -1,19 +1,20 @@
 {
-    "na'vi": "txeptsyìp",
+    "na'vi": "mungsye",
     "translations": [
         {
-            "en": "flame",
-            "nl": "vlam"
+            "en": "inhale",
+            "nl": "inademen"
         }
     ],
     "pronunciation": [
-        "txep-tsyìp",
+        "mung-sye",
         1
     ],
+    "infixes": "m..ungsye",
     "source": "http://naviteri.org/2020/07/vospxivol-lefpom-happy-august/",
-    "type": "n",
+    "type": "v:in",
     "etymology": [
-        "txep:n",
-        "-tsyìp"
+        "munge:v:tr",
+        "syeha:n"
     ]
 }

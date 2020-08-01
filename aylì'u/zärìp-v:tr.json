@@ -1,0 +1,24 @@
+{
+    "na'vi": "zärìp",
+    "translations": [
+        {
+            "de": "ziehen",
+            "en": "pull",
+            "et": "tõmbama",
+            "fr": "tirer ([contraire de] pousser)",
+            "hu": "húz",
+            "nl": "trekken",
+            "pl": "ciągnąć",
+            "ru": "тянуть",
+            "sv": "dra, rycka"
+        }
+    ],
+    "pronunciation": [
+        "zä-rìp",
+        1
+    ],
+    "infixes": "z.är.ìp",
+    "source": "http://naviteri.org/2020/07/vospxivol-lefpom-happy-august/",
+    "type": "v:tr",
+    "etymology": "Shortened form of [za'ärìp:v:tr]."
+}
