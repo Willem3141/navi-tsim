@@ -3,6 +3,7 @@
     "translations": [
         {
             "en": "ow, ouch",
+            "de": "aua, autsch",
             "nl": "au"
         }
     ],
@@ -11,7 +12,5 @@
         "'ak",
         1
     ],
-    "status": "unconfirmed",
-    "status_note": "Mentioned in an email sent by Paul Frommer to Txawey, but the email itself has not been posted yet.",
     "type": "intj"
 }
