@@ -1,0 +1,17 @@
+{
+    "na'vi": "tsam",
+    "translations": [
+        {
+            "en": "make war, engage in warfare",
+            "nl": "oorlog voeren"
+        }
+    ],
+    "pronunciation": [
+        "tsam",
+        1
+    ],
+    "source": "https://forum.learnnavi.org/language-updates/yu-is-officially-productive-on-si-verbs/msg673396/#msg673396",
+    "type": "n:si",
+    "status": "unconfirmed",
+    "status_note": "Frommer indicated he still needs to think about the exact meaning."
+}
