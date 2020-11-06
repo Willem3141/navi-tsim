@@ -2,21 +2,15 @@
     "na'vi": "vey",
     "translations": [
         {
-            "de": "Essen, Nahrung (von tierischem Ursprung), Fleisch",
-            "en": "food made from animal origin, flesh",
-            "et": "liha, loomalihast toit",
-            "fr": "aliments à base de chair",
-            "hu": "állati eredetű táplálék (étel), hús",
-            "nl": "dierlijk voedsel, vlees",
-            "pl": "mięso, produkty mięsne",
-            "ru": "приготовленная из животного материала еда, мясо",
-            "sv": "mat ifrån djuriskt ursprung, kött"
+            "en": "meat, any food of animal origin (including fowl, fish, insects, eggs, milk)",
+            "nl": "vlees, ieder voedsel van dierlijke oorsprong (inclusief gevogelte, vis, insecten, eieren, melk)"
         }
     ],
     "pronunciation": [
         "vey",
         1
     ],
-    "source": "Frommer (22. April 2010) http://forum.learnnavi.org/language-updates/trr-rrtaya/",
+    "source": "https://forum.learnnavi.org/language-updates/navi-details-from-avatarmeet-2013/msg590245/#msg590245",
+    "seeAlso": ["tsngan:n"],
     "type": "n"
 }

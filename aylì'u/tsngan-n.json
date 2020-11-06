@@ -3,11 +3,11 @@
     "translations": [
         {
             "de": "Fleisch",
-            "en": "meat",
+            "en": "meat, obtained from terrestial animals",
             "et": "liha",
             "fr": "viande",
             "hu": "hús",
-            "nl": "vlees",
+            "nl": "vlees, van landdieren",
             "pl": "mięso",
             "ru": "мясо",
             "sv": "kött"
@@ -17,6 +17,7 @@
         "tsngan",
         1
     ],
-    "source": "http://forum.learnnavi.org/language-updates/yom-ko!/ (02 Apr 2010)",
+    "source": "https://forum.learnnavi.org/language-updates/navi-details-from-avatarmeet-2013/msg590245/#msg590245",
+    "seeAlso": ["vey:n"],
     "type": "n"
 }
