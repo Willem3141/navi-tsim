@@ -2,12 +2,12 @@
     "na'vi": "taweyka",
     "translations": [
         {
-            "de": "weil, aufgrund der Ursache",
-            "en": "because, based on the cause",
+            "de": "weil",
+            "en": "because",
             "et": "sellepärast (põhjendus)",
-            "fr": "parce que | à cause de",
-            "hu": "mert, „azon oknál fogva”",
-            "nl": "omdat, vanwege de reden",
+            "fr": "parce que",
+            "hu": "mert",
+            "nl": "omdat",
             "pl": "ponieważ, dlatego że, gdyż, bowiem",
             "ru": "поэтому, по причине",
             "sv": "därför, baserad på orsaken"

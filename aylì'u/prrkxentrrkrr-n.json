@@ -3,7 +3,7 @@
     "translations": [
         {
             "de": "Tageszeitraucherspaß, vibrierende Zunge (Na'viIdiom)",
-            "en": "day time smoking pleasure, vibrating tongue (Na'vi idiom)",
+            "en": "day time smoking pleasure, vibrating tongue (slang for romantic activities)",
             "et": "suitsetamise nautimine päevasel ajal (Na'vi idioom)",
             "fr": "plaisir diurne de fumer, vibration de la langue",
             "hu": "„nappali örömteli füstölgés”, dohányzás (na'vi idióma)",
@@ -17,5 +17,7 @@
         1
     ],
     "source": "Skxawng (08 Jan 2010) https://forum.learnnavi.org/vocab-phrases/daytime-smoking-pleasure/msg306222/#msg306222 https://forum.learnnavi.org/spam/prrkxentrrkrr",
-    "type": "n"
+    "type": "n",
+    "status": "unofficial",
+    "status_note": "Originally invented by LN forum member Skxawng, was added to the dictionary as a joke word."
 }
