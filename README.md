@@ -16,6 +16,7 @@ The words are stored in the directory `aylì'u`. Each word is stored in a separa
 | `seeAlso` | *(array of string)* (optional) List of words that are related in meaning to this word (`tìkangkem` -> `["txintìn:n"]`). |
 | `source` | *(string or array of two strings)* (optional) Source of the word. This can be either a string describing the source, or an array containing a description and an URL. |
 | `status` | *(string)* (optional) `"unconfirmed"` if the word is likely an actual Na'vi word, but it has not been officially confirmed, or `"incorrect"` if the word has been confirmed to not be an actual Na'vi word (like many words from the ASG). |
+| `image` | *(string)* (optional) For certain animals, the filename of a drawing in `ayrel`. These were drawn by Eana Unil. |
 | `status_note` | *(string)* (optional) Free-form additional information on the status of the word, for instance, reasons why the word has not been confirmed. |
 
 ### Sources
@@ -54,5 +55,7 @@ The words were imported from Eana Eltu (the existing main word database) on 2018
 
 ## License
 
-All the data here is licensed under the CC-BY-SA-NC 3.0 (like [Eana Eltu](https://eanaeltu.learnnavi.org/dicts/NaviData.sql) itself).
+The dictionary data here is licensed under the CC-BY-SA-NC 3.0 (like [Eana Eltu](https://eanaeltu.learnnavi.org/dicts/NaviData.sql) itself).
+
+The animal drawings in `ayrel` are copyright Eana Unil and should not be distributed further without permission.
 
